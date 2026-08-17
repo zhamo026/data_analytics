@@ -1,0 +1,1666 @@
+visa_record_id,employee_id,visa_status,effective_date,end_date,work_authorization_status,verification_status
+VISA000001,DUD000001,Permanent Resident,2019-11-15,,Eligible,Verified
+VISA000002,DUD000002,Work Visa,2021-08-12,,Eligible,Verified
+VISA000003,DUD000003,Permanent Resident,2021-10-06,,Eligible,Verified
+VISA000004,DUD000004,Work Visa,2019-10-07,,Eligible,Verified
+VISA000005,DUD000005,Spouse of Japanese National,2022-05-05,,Eligible,Verified
+VISA000006,DUD000006,Work Visa,2021-05-18,,Eligible,Verified
+VISA000007,DUD000007,Spouse of Japanese National,2022-10-22,,Eligible,Verified
+VISA000008,DUD000008,Work Visa,2021-01-24,,Eligible,Verified
+VISA000009,DUD000009,Long-Term Resident,2024-02-28,,Eligible,Verified
+VISA000010,DUD000010,Permanent Resident,2022-05-24,,Eligible,Verified
+VISA000011,DUD000011,Spouse of Japanese National,2024-01-28,,Eligible,Verified
+VISA000012,DUD000012,Work Visa,2022-05-08,,Eligible,Verified
+VISA000013,DUD000013,Spouse of Japanese National,2023-04-18,,Eligible,Verified
+VISA000014,DUD000014,Work Visa,2021-05-05,,Eligible,Verified
+VISA000015,DUD000015,Long-Term Resident,2019-07-28,,Eligible,Verified
+VISA000016,DUD000016,Long-Term Resident,2020-03-04,,Eligible,Verified
+VISA000017,DUD000017,Permanent Resident,2021-10-11,,Eligible,Verified
+VISA000018,DUD000018,Spouse of Japanese National,2019-08-24,,Eligible,Verified
+VISA000019,DUD000019,Work Visa,2022-12-31,,Eligible,Verified
+VISA000020,DUD000020,Permanent Resident,2021-08-30,,Eligible,Verified
+VISA000021,DUD000021,Permanent Resident,2020-04-27,,Eligible,Verified
+VISA000022,DUD000022,Work Visa,2023-10-11,,Eligible,Verified
+VISA000023,DUD000023,Long-Term Resident,2020-06-11,,Eligible,Verified
+VISA000024,DUD000024,Long-Term Resident,2023-02-25,,Eligible,Verified
+VISA000025,DUD000025,Permanent Resident,2023-06-10,,Eligible,Verified
+VISA000026,DUD000026,Spouse of Japanese National,2019-08-18,,Eligible,Verified
+VISA000027,DUD000027,Permanent Resident,2022-07-09,,Eligible,Verified
+VISA000028,DUD000028,Permanent Resident,2022-11-12,,Eligible,Verified
+VISA000029,DUD000029,Spouse of Japanese National,2020-06-10,,Eligible,Verified
+VISA000030,DUD000030,Long-Term Resident,2023-03-11,,Eligible,Verified
+VISA000031,DUD000031,Work Visa,2022-05-08,,Eligible,Verified
+VISA000032,DUD000032,Spouse of Japanese National,2019-10-07,,Eligible,Verified
+VISA000033,DUD000033,Long-Term Resident,2021-09-21,,Eligible,Verified
+VISA000034,DUD000034,Long-Term Resident,2022-05-06,,Eligible,Verified
+VISA000035,DUD000035,Permanent Resident,2019-10-28,,Eligible,Verified
+VISA000036,DUD000036,Long-Term Resident,2021-02-09,,Eligible,Verified
+VISA000037,DUD000037,Spouse of Japanese National,2020-05-13,,Eligible,Verified
+VISA000038,DUD000038,Permanent Resident,2020-10-22,,Eligible,Verified
+VISA000039,DUD000039,Permanent Resident,2020-09-25,,Eligible,Verified
+VISA000040,DUD000040,Work Visa,2020-04-24,,Eligible,Verified
+VISA000041,DUD000041,Permanent Resident,2022-12-19,,Eligible,Verified
+VISA000042,DUD000042,Spouse of Japanese National,2020-04-27,,Eligible,Verified
+VISA000043,DUD000043,Spouse of Japanese National,2021-08-28,,Eligible,Verified
+VISA000044,DUD000044,Work Visa,2020-03-13,,Eligible,Verified
+VISA000045,DUD000045,Permanent Resident,2019-07-04,,Eligible,Verified
+VISA000046,DUD000046,Permanent Resident,2021-06-27,,Eligible,Verified
+VISA000047,DUD000047,Long-Term Resident,2022-05-16,,Eligible,Verified
+VISA000048,DUD000048,Work Visa,2023-06-25,,Eligible,Verified
+VISA000049,DUD000049,Long-Term Resident,2020-10-19,,Eligible,Verified
+VISA000050,DUD000050,Permanent Resident,2021-02-16,,Eligible,Verified
+VISA000051,DUD000051,Spouse of Japanese National,2021-07-28,,Eligible,Verified
+VISA000052,DUD000052,Work Visa,2021-05-19,,Eligible,Verified
+VISA000053,DUD000053,Work Visa,2021-12-25,2025-04-27,Eligible,Verified
+VISA000054,DUD000053,Spouse of Japanese National,2025-04-28,,Eligible,Verified
+VISA000055,DUD000054,Spouse of Japanese National,2019-12-18,,Eligible,Verified
+VISA000056,DUD000055,Spouse of Japanese National,2021-05-16,,Eligible,Verified
+VISA000057,DUD000056,Spouse of Japanese National,2019-05-10,,Eligible,Verified
+VISA000058,DUD000057,Permanent Resident,2022-09-24,,Eligible,Verified
+VISA000059,DUD000058,Permanent Resident,2022-08-23,,Eligible,Verified
+VISA000060,DUD000059,Spouse of Japanese National,2023-04-04,,Eligible,Verified
+VISA000061,DUD000060,Work Visa,2021-04-28,,Eligible,Verified
+VISA000062,DUD000061,Permanent Resident,2020-02-08,,Eligible,Verified
+VISA000063,DUD000062,Permanent Resident,2024-01-09,,Eligible,Verified
+VISA000064,DUD000063,Spouse of Japanese National,2019-05-29,,Eligible,Verified
+VISA000065,DUD000064,Spouse of Japanese National,2023-03-07,,Pending,Verified
+VISA000066,DUD000065,Permanent Resident,2021-12-01,,Eligible,Verified
+VISA000067,DUD000066,Work Visa,2022-12-20,,Eligible,Verified
+VISA000068,DUD000067,Long-Term Resident,2020-08-27,,Eligible,Verified
+VISA000069,DUD000068,Spouse of Japanese National,2022-07-21,,Eligible,Verified
+VISA000070,DUD000069,Permanent Resident,2023-03-21,,Eligible,Verified
+VISA000071,DUD000070,Work Visa,2022-06-19,,Eligible,Verified
+VISA000072,DUD000071,Work Visa,2021-06-29,2025-11-29,Eligible,Verified
+VISA000073,DUD000071,Long-Term Resident,2025-11-30,,Eligible,Verified
+VISA000074,DUD000072,Permanent Resident,2022-08-24,,Eligible,Verified
+VISA000075,DUD000073,Long-Term Resident,2022-09-23,,Eligible,Verified
+VISA000076,DUD000074,Permanent Resident,2022-05-05,,Eligible,Verified
+VISA000077,DUD000075,Permanent Resident,2020-10-31,,Pending,Verified
+VISA000078,DUD000076,Spouse of Japanese National,2022-04-20,,Eligible,Verified
+VISA000079,DUD000077,Permanent Resident,2023-11-14,,Eligible,Verified
+VISA000080,DUD000078,Permanent Resident,2022-04-10,,Eligible,Verified
+VISA000081,DUD000079,Long-Term Resident,2023-01-10,,Eligible,Verified
+VISA000082,DUD000080,Work Visa,2022-07-12,,Eligible,Verified
+VISA000083,DUD000081,Spouse of Japanese National,2021-02-04,,Eligible,Verified
+VISA000084,DUD000082,Long-Term Resident,2019-11-24,,Eligible,Verified
+VISA000085,DUD000083,Work Visa,2023-06-28,,Eligible,Verified
+VISA000086,DUD000084,Spouse of Japanese National,2021-12-18,,Eligible,Verified
+VISA000087,DUD000085,Long-Term Resident,2021-11-01,,Eligible,Verified
+VISA000088,DUD000086,Permanent Resident,2022-05-03,,Eligible,Verified
+VISA000089,DUD000087,Work Visa,2020-10-31,,Eligible,Verified
+VISA000090,DUD000088,Work Visa,2021-10-19,,Eligible,Verified
+VISA000091,DUD000089,Permanent Resident,2022-12-20,,Eligible,Verified
+VISA000092,DUD000090,Long-Term Resident,2021-10-22,,Eligible,Verified
+VISA000093,DUD000091,Spouse of Japanese National,2021-06-23,,Eligible,Verified
+VISA000094,DUD000092,Work Visa,2022-10-14,,Eligible,Verified
+VISA000095,DUD000093,Spouse of Japanese National,2023-02-20,,Eligible,Verified
+VISA000096,DUD000094,Work Visa,2020-08-13,,Eligible,Verified
+VISA000097,DUD000095,Work Visa,2020-01-19,,Eligible,Verified
+VISA000098,DUD000096,Work Visa,2021-09-21,,Eligible,Verified
+VISA000099,DUD000097,Work Visa,2020-07-29,2023-11-04,Eligible,Verified
+VISA000100,DUD000097,Spouse of Japanese National,2023-11-05,,Eligible,Verified
+VISA000101,DUD000098,Work Visa,2023-08-11,,Eligible,Verified
+VISA000102,DUD000099,Long-Term Resident,2023-01-18,,Eligible,Verified
+VISA000103,DUD000100,Long-Term Resident,2019-12-26,,Eligible,Verified
+VISA000104,DUD100001,Permanent Resident,2023-02-11,,Eligible,Verified
+VISA000105,DUD100002,Work Visa,2020-09-02,2025-02-11,Eligible,Verified
+VISA000106,DUD100002,Spouse of Japanese National,2025-02-12,,Eligible,Verified
+VISA000107,DUD100003,Permanent Resident,2021-10-13,,Eligible,Verified
+VISA000108,DUD100004,Long-Term Resident,2021-12-15,,Eligible,Verified
+VISA000109,DUD100005,Work Visa,2024-10-14,,Eligible,Verified
+VISA000110,DUD100006,Work Visa,2023-05-31,,Eligible,Verified
+VISA000111,DUD100007,Work Visa,2023-01-03,2026-02-11,Eligible,Verified
+VISA000112,DUD100007,Spouse of Japanese National,2026-02-12,,Eligible,Verified
+VISA000113,DUD100008,Work Visa,2020-10-01,,Eligible,Verified
+VISA000114,DUD100009,Work Visa,2024-01-05,,Eligible,Verified
+VISA000115,DUD100010,Permanent Resident,2025-02-12,,Eligible,Verified
+VISA000116,DUD100011,Work Visa,2020-03-06,,Eligible,Verified
+VISA000117,DUD100012,Other Work-Eligible Status,2020-08-08,,Eligible,Verified
+VISA000118,DUD100013,Permanent Resident,2024-01-23,,Eligible,Verified
+VISA000119,DUD100014,Work Visa,2025-11-27,,Eligible,Verified
+VISA000120,DUD100015,Spouse of Japanese National,2024-12-14,,Eligible,Verified
+VISA000121,DUD100016,Work Visa,2025-06-28,,Eligible,Verified
+VISA000122,DUD100017,Long-Term Resident,2020-11-25,,Eligible,Verified
+VISA000123,DUD100018,Work Visa,2022-12-13,,Eligible,Verified
+VISA000124,DUD100019,Work Visa,2024-12-31,,Eligible,Verified
+VISA000125,DUD100020,Permanent Resident,2021-07-25,,Eligible,Verified
+VISA000126,DUD100021,Work Visa,2023-03-23,,Eligible,Verified
+VISA000127,DUD100022,Long-Term Resident,2023-10-16,,Eligible,Verified
+VISA000128,DUD100023,Permanent Resident,2022-10-15,,Eligible,Verified
+VISA000129,DUD100024,Spouse of Japanese National,2021-11-26,,Eligible,Verified
+VISA000130,DUD100025,Work Visa,2024-05-03,,Eligible,Verified
+VISA000131,DUD100026,Work Visa,2020-02-07,,Eligible,Verified
+VISA000132,DUD100027,Long-Term Resident,2019-09-30,,Eligible,Verified
+VISA000133,DUD100028,Work Visa,2021-03-08,,Eligible,Verified
+VISA000134,DUD100029,Permanent Resident,2019-11-26,,Eligible,Verified
+VISA000135,DUD100030,Other Work-Eligible Status,2025-11-02,,Eligible,Verified
+VISA000136,DUD100031,Work Visa,2023-01-01,,Eligible,Verified
+VISA000137,DUD100032,Permanent Resident,2021-05-08,,Eligible,Verified
+VISA000138,DUD100033,Work Visa,2025-02-25,,Eligible,Verified
+VISA000139,DUD100034,Permanent Resident,2024-02-27,,Eligible,Verified
+VISA000140,DUD100035,Other Work-Eligible Status,2021-06-14,,Eligible,Verified
+VISA000141,DUD100036,Long-Term Resident,2024-09-16,,Eligible,Verified
+VISA000142,DUD100037,Permanent Resident,2024-02-27,,Eligible,Verified
+VISA000143,DUD100038,Work Visa,2020-06-05,,Eligible,Verified
+VISA000144,DUD100039,Work Visa,2021-09-26,,Eligible,Verified
+VISA000145,DUD100040,Work Visa,2024-11-26,,Eligible,Verified
+VISA000146,DUD100041,Long-Term Resident,2021-05-28,,Eligible,Verified
+VISA000147,DUD100042,Work Visa,2022-02-25,,Eligible,Verified
+VISA000148,DUD100043,Work Visa,2021-04-13,2023-09-23,Eligible,Verified
+VISA000149,DUD100043,Spouse of Japanese National,2023-09-24,,Eligible,Verified
+VISA000150,DUD100044,Work Visa,2022-11-12,,Eligible,Verified
+VISA000151,DUD100045,Work Visa,2020-09-16,2022-01-15,Eligible,Verified
+VISA000152,DUD100045,Permanent Resident,2022-01-16,,Eligible,Verified
+VISA000153,DUD100046,Spouse of Japanese National,2024-01-05,,Eligible,Verified
+VISA000154,DUD100047,Work Visa,2024-04-03,,Eligible,Verified
+VISA000155,DUD100048,Work Visa,2023-05-14,,Eligible,Verified
+VISA000156,DUD100049,Long-Term Resident,2019-08-30,,Eligible,Verified
+VISA000157,DUD100050,Permanent Resident,2020-07-08,,Eligible,Verified
+VISA000158,DUD100051,Spouse of Japanese National,2024-10-08,,Eligible,Verified
+VISA000159,DUD100052,Work Visa,2020-01-08,,Eligible,Verified
+VISA000160,DUD100053,Long-Term Resident,2024-10-14,,Eligible,Verified
+VISA000161,DUD100054,Work Visa,2024-08-28,,Pending,Verified
+VISA000162,DUD100055,Work Visa,2025-06-26,,Eligible,Verified
+VISA000163,DUD100056,Permanent Resident,2021-10-21,,Pending,Verified
+VISA000164,DUD100057,Permanent Resident,2021-03-09,,Eligible,Verified
+VISA000165,DUD100058,Work Visa,2025-09-12,,Eligible,Verified
+VISA000166,DUD100059,Other Work-Eligible Status,2019-12-07,,Pending,Verified
+VISA000167,DUD100060,Work Visa,2021-12-30,,Eligible,Verified
+VISA000168,DUD100061,Work Visa,2022-10-08,,Eligible,Verified
+VISA000169,DUD100062,Spouse of Japanese National,2019-11-03,,Eligible,Verified
+VISA000170,DUD100063,Work Visa,2023-10-19,,Pending,Verified
+VISA000171,DUD100064,Work Visa,2020-08-03,,Eligible,Verified
+VISA000172,DUD100065,Spouse of Japanese National,2020-11-04,,Eligible,Verified
+VISA000173,DUD100066,Work Visa,2022-08-26,,Eligible,Verified
+VISA000174,DUD100067,Work Visa,2019-08-07,,Eligible,Verified
+VISA000175,DUD100068,Other Work-Eligible Status,2019-08-26,,Eligible,Verified
+VISA000176,DUD100069,Work Visa,2020-01-03,2024-05-11,Eligible,Verified
+VISA000177,DUD100069,Spouse of Japanese National,2024-05-12,,Eligible,Verified
+VISA000178,DUD100070,Permanent Resident,2022-04-06,,Pending,Verified
+VISA000179,DUD100071,Work Visa,2025-08-11,,Eligible,Verified
+VISA000180,DUD100072,Work Visa,2022-07-22,2024-02-08,Eligible,Verified
+VISA000181,DUD100072,Permanent Resident,2024-02-09,,Eligible,Verified
+VISA000182,DUD100073,Permanent Resident,2020-10-17,,Eligible,Verified
+VISA000183,DUD100074,Permanent Resident,2020-10-15,,Eligible,Verified
+VISA000184,DUD100075,Work Visa,2019-09-29,,Eligible,Verified
+VISA000185,DUD100076,Work Visa,2025-09-01,,Eligible,Verified
+VISA000186,DUD100077,Work Visa,2022-12-20,,Eligible,Verified
+VISA000187,DUD100078,Spouse of Japanese National,2025-01-19,,Eligible,Verified
+VISA000188,DUD100079,Work Visa,2022-04-28,,Eligible,Verified
+VISA000189,DUD100080,Work Visa,2024-12-17,,Eligible,Verified
+VISA000190,DUD100081,Permanent Resident,2026-01-26,,Eligible,Verified
+VISA000191,DUD100082,Permanent Resident,2025-03-25,,Eligible,Verified
+VISA000192,DUD100083,Long-Term Resident,2021-08-11,,Eligible,Verified
+VISA000193,DUD100084,Permanent Resident,2019-07-11,,Eligible,Verified
+VISA000194,DUD100085,Work Visa,2024-07-17,2025-08-05,Eligible,Verified
+VISA000195,DUD100085,Spouse of Japanese National,2025-08-06,,Eligible,Verified
+VISA000196,DUD100086,Work Visa,2025-04-21,,Eligible,Verified
+VISA000197,DUD100087,Permanent Resident,2022-08-19,,Eligible,Verified
+VISA000198,DUD100088,Long-Term Resident,2019-06-11,,Eligible,Verified
+VISA000199,DUD100089,Work Visa,2019-11-22,,Eligible,Verified
+VISA000200,DUD100090,Work Visa,2019-12-23,,Eligible,Verified
+VISA000201,DUD100091,Long-Term Resident,2021-05-17,,Eligible,Verified
+VISA000202,DUD100092,Dependent Visa with Work Permission,2022-02-14,,Eligible,Verified
+VISA000203,DUD100093,Work Visa,2021-06-04,,Eligible,Verified
+VISA000204,DUD100094,Spouse of Japanese National,2024-09-11,,Eligible,Verified
+VISA000205,DUD100095,Work Visa,2023-04-29,,Pending,Verified
+VISA000206,DUD100096,Permanent Resident,2019-06-14,,Eligible,Verified
+VISA000207,DUD100097,Permanent Resident,2023-01-20,,Eligible,Verified
+VISA000208,DUD100098,Work Visa,2025-05-19,,Eligible,Verified
+VISA000209,DUD100099,Work Visa,2021-09-28,,Eligible,Verified
+VISA000210,DUD100100,Spouse of Japanese National,2025-04-12,,Eligible,Verified
+VISA000211,DUD100101,Permanent Resident,2023-09-14,,Eligible,Verified
+VISA000212,DUD100102,Long-Term Resident,2023-07-14,,Eligible,Verified
+VISA000213,DUD100103,Permanent Resident,2019-09-29,,Eligible,Verified
+VISA000214,DUD100104,Work Visa,2021-05-03,,Eligible,Verified
+VISA000215,DUD100105,Permanent Resident,2023-08-14,,Eligible,Verified
+VISA000216,DUD100106,Work Visa,2025-12-16,,Eligible,Verified
+VISA000217,DUD100107,Work Visa,2023-07-07,,Eligible,Verified
+VISA000218,DUD100108,Work Visa,2020-06-12,,Eligible,Verified
+VISA000219,DUD100109,Work Visa,2020-04-13,,Pending,Verified
+VISA000220,DUD100110,Work Visa,2025-09-14,,Eligible,Verified
+VISA000221,DUD100111,Long-Term Resident,2024-09-29,,Eligible,Verified
+VISA000222,DUD100112,Work Visa,2023-09-17,,Eligible,Verified
+VISA000223,DUD100113,Student Visa with Work Permission,2021-04-27,,Eligible,Verified
+VISA000224,DUD100114,Work Visa,2021-07-15,,Eligible,Verified
+VISA000225,DUD100115,Permanent Resident,2023-11-22,,Eligible,Verified
+VISA000226,DUD100116,Spouse of Japanese National,2023-12-26,,Eligible,Verified
+VISA000227,DUD100117,Spouse of Japanese National,2025-08-13,,Eligible,Verified
+VISA000228,DUD100118,Spouse of Japanese National,2021-10-06,,Eligible,Verified
+VISA000229,DUD100119,Permanent Resident,2020-11-12,,Eligible,Verified
+VISA000230,DUD100120,Work Visa,2020-07-15,2023-05-06,Eligible,Verified
+VISA000231,DUD100120,Permanent Resident,2023-05-07,,Eligible,Verified
+VISA000232,DUD100121,Work Visa,2023-11-05,,Eligible,Verified
+VISA000233,DUD100122,Work Visa,2019-12-31,2024-08-24,Eligible,Verified
+VISA000234,DUD100122,Permanent Resident,2024-08-25,,Eligible,Verified
+VISA000235,DUD100123,Student Visa with Work Permission,2023-09-12,,Eligible,Verified
+VISA000236,DUD100124,Spouse of Japanese National,2022-09-05,,Eligible,Verified
+VISA000237,DUD100125,Other Work-Eligible Status,2024-10-05,,Eligible,Verified
+VISA000238,DUD100126,Permanent Resident,2024-12-20,,Eligible,Verified
+VISA000239,DUD100127,Work Visa,2022-05-07,,Eligible,Verified
+VISA000240,DUD100128,Work Visa,2024-03-29,,Eligible,Verified
+VISA000241,DUD100129,Permanent Resident,2021-12-02,,Eligible,Verified
+VISA000242,DUD100130,Work Visa,2025-03-28,,Eligible,Verified
+VISA000243,DUD100131,Work Visa,2020-11-06,,Eligible,Verified
+VISA000244,DUD100132,Work Visa,2024-09-29,,Eligible,Verified
+VISA000245,DUD100133,Work Visa,2022-06-05,,Eligible,Verified
+VISA000246,DUD100134,Spouse of Japanese National,2023-09-22,,Eligible,Verified
+VISA000247,DUD100135,Dependent Visa with Work Permission,2019-10-09,,Eligible,Verified
+VISA000248,DUD100136,Work Visa,2022-08-24,,Eligible,Verified
+VISA000249,DUD100137,Work Visa,2020-04-30,2022-12-13,Eligible,Verified
+VISA000250,DUD100137,Spouse of Japanese National,2022-12-14,,Eligible,Verified
+VISA000251,DUD100138,Work Visa,2024-01-16,,Eligible,Verified
+VISA000252,DUD100139,Work Visa,2020-10-17,,Eligible,Verified
+VISA000253,DUD100140,Other Work-Eligible Status,2024-04-13,,Eligible,Verified
+VISA000254,DUD100141,Permanent Resident,2020-03-18,,Eligible,Verified
+VISA000255,DUD100142,Permanent Resident,2019-12-05,,Eligible,Verified
+VISA000256,DUD100143,Work Visa,2020-10-04,,Eligible,Verified
+VISA000257,DUD100144,Work Visa,2020-01-03,2021-02-07,Eligible,Verified
+VISA000258,DUD100144,Long-Term Resident,2021-02-08,,Eligible,Verified
+VISA000259,DUD100145,Long-Term Resident,2025-01-22,,Eligible,Verified
+VISA000260,DUD100146,Work Visa,2020-04-17,,Eligible,Verified
+VISA000261,DUD100147,Work Visa,2023-03-07,,Eligible,Verified
+VISA000262,DUD100148,Other Work-Eligible Status,2019-12-26,,Eligible,Verified
+VISA000263,DUD100149,Spouse of Japanese National,2020-06-23,,Eligible,Verified
+VISA000264,DUD100150,Work Visa,2019-09-09,,Eligible,Verified
+VISA000265,DUD100151,Spouse of Japanese National,2019-11-05,,Eligible,Verified
+VISA000266,DUD100152,Work Visa,2022-01-02,,Eligible,Verified
+VISA000267,DUD100153,Work Visa,2019-06-09,,Eligible,Verified
+VISA000268,DUD100154,Work Visa,2020-11-26,,Eligible,Verified
+VISA000269,DUD100155,Other Work-Eligible Status,2023-09-04,,Eligible,Verified
+VISA000270,DUD100156,Work Visa,2022-04-25,,Eligible,Verified
+VISA000271,DUD100157,Work Visa,2021-08-12,,Eligible,Verified
+VISA000272,DUD100158,Work Visa,2022-02-10,,Eligible,Verified
+VISA000273,DUD100159,Spouse of Japanese National,2020-06-16,,Eligible,Verified
+VISA000274,DUD100160,Permanent Resident,2022-03-25,,Eligible,Verified
+VISA000275,DUD100161,Work Visa,2023-09-19,,Eligible,Verified
+VISA000276,DUD100162,Dependent Visa with Work Permission,2024-11-16,,Eligible,Verified
+VISA000277,DUD100163,Work Visa,2025-05-30,,Eligible,Verified
+VISA000278,DUD100164,Work Visa,2025-12-17,,Eligible,Verified
+VISA000279,DUD100165,Work Visa,2021-12-21,,Eligible,Verified
+VISA000280,DUD100166,Work Visa,2023-05-08,,Eligible,Verified
+VISA000281,DUD100167,Work Visa,2021-11-27,,Eligible,Verified
+VISA000282,DUD100168,Student Visa with Work Permission,2020-11-25,,Eligible,Verified
+VISA000283,DUD100169,Spouse of Japanese National,2024-03-19,,Eligible,Verified
+VISA000284,DUD100170,Work Visa,2020-09-08,,Eligible,Verified
+VISA000285,DUD100171,Work Visa,2025-08-06,,Eligible,Verified
+VISA000286,DUD100172,Work Visa,2023-01-19,,Eligible,Verified
+VISA000287,DUD100173,Work Visa,2024-11-07,,Eligible,Verified
+VISA000288,DUD100174,Spouse of Japanese National,2022-11-04,,Eligible,Verified
+VISA000289,DUD100175,Work Visa,2024-03-01,,Eligible,Verified
+VISA000290,DUD100176,Work Visa,2022-08-08,,Eligible,Verified
+VISA000291,DUD100177,Work Visa,2019-07-21,,Eligible,Verified
+VISA000292,DUD100178,Work Visa,2023-06-26,,Eligible,Verified
+VISA000293,DUD100179,Spouse of Japanese National,2023-03-04,,Eligible,Verified
+VISA000294,DUD100180,Student Visa with Work Permission,2024-08-11,,Eligible,Verified
+VISA000295,DUD100181,Spouse of Japanese National,2020-08-30,,Eligible,Verified
+VISA000296,DUD100182,Work Visa,2025-07-08,,Eligible,Verified
+VISA000297,DUD100183,Student Visa with Work Permission,2025-08-15,,Eligible,Verified
+VISA000298,DUD100184,Permanent Resident,2022-05-15,,Eligible,Verified
+VISA000299,DUD100185,Permanent Resident,2022-09-02,,Eligible,Verified
+VISA000300,DUD100186,Permanent Resident,2023-12-22,,Eligible,Verified
+VISA000301,DUD100187,Other Work-Eligible Status,2024-12-17,,Eligible,Verified
+VISA000302,DUD100188,Work Visa,2023-05-08,2024-07-15,Eligible,Verified
+VISA000303,DUD100188,Long-Term Resident,2024-07-16,,Eligible,Verified
+VISA000304,DUD100189,Work Visa,2024-08-13,,Eligible,Verified
+VISA000305,DUD100190,Work Visa,2021-08-02,,Eligible,Verified
+VISA000306,DUD100191,Work Visa,2026-02-19,,Eligible,Verified
+VISA000307,DUD100192,Permanent Resident,2023-10-01,,Eligible,Verified
+VISA000308,DUD100193,Dependent Visa with Work Permission,2022-05-17,,Eligible,Verified
+VISA000309,DUD100194,Other Work-Eligible Status,2022-11-21,,Eligible,Verified
+VISA000310,DUD100195,Other Work-Eligible Status,2021-10-18,,Eligible,Verified
+VISA000311,DUD100196,Permanent Resident,2022-03-18,,Pending,Verified
+VISA000312,DUD100197,Work Visa,2024-07-09,,Eligible,Verified
+VISA000313,DUD100198,Long-Term Resident,2020-12-12,,Eligible,Verified
+VISA000314,DUD100199,Work Visa,2021-04-04,,Eligible,Verified
+VISA000315,DUD100200,Work Visa,2023-10-22,,Eligible,Verified
+VISA000316,DUD100201,Work Visa,2022-10-04,,Eligible,Verified
+VISA000317,DUD100202,Work Visa,2020-10-10,,Eligible,Verified
+VISA000318,DUD100203,Work Visa,2025-11-26,,Eligible,Verified
+VISA000319,DUD100204,Work Visa,2020-07-06,,Eligible,Verified
+VISA000320,DUD100205,Work Visa,2020-06-08,,Eligible,Verified
+VISA000321,DUD100206,Dependent Visa with Work Permission,2022-04-08,,Eligible,Verified
+VISA000322,DUD100207,Work Visa,2020-04-28,2024-02-23,Eligible,Verified
+VISA000323,DUD100207,Spouse of Japanese National,2024-02-24,,Eligible,Verified
+VISA000324,DUD100208,Dependent Visa with Work Permission,2022-08-03,,Eligible,Verified
+VISA000325,DUD100209,Work Visa,2019-10-05,,Eligible,Verified
+VISA000326,DUD100210,Work Visa,2024-05-21,,Pending,Verified
+VISA000327,DUD100211,Work Visa,2024-09-23,,Eligible,Verified
+VISA000328,DUD100212,Permanent Resident,2023-11-24,,Eligible,Verified
+VISA000329,DUD100213,Work Visa,2024-09-05,,Eligible,Verified
+VISA000330,DUD100214,Spouse of Japanese National,2021-02-08,,Eligible,Verified
+VISA000331,DUD100215,Spouse of Japanese National,2024-04-11,,Eligible,Verified
+VISA000332,DUD100216,Permanent Resident,2020-05-02,,Eligible,Verified
+VISA000333,DUD100217,Permanent Resident,2023-01-06,,Eligible,Verified
+VISA000334,DUD100218,Spouse of Japanese National,2020-06-10,,Eligible,Verified
+VISA000335,DUD100219,Work Visa,2021-06-11,,Eligible,Verified
+VISA000336,DUD100220,Spouse of Japanese National,2019-11-02,,Eligible,Verified
+VISA000337,DUD100221,Work Visa,2026-02-26,,Eligible,Verified
+VISA000338,DUD100222,Long-Term Resident,2025-06-18,,Eligible,Verified
+VISA000339,DUD100223,Permanent Resident,2020-10-17,,Eligible,Verified
+VISA000340,DUD100224,Work Visa,2025-04-04,,Eligible,Verified
+VISA000341,DUD100225,Student Visa with Work Permission,2021-01-28,,Eligible,Verified
+VISA000342,DUD100226,Permanent Resident,2025-07-28,,Eligible,Verified
+VISA000343,DUD100227,Long-Term Resident,2019-06-16,,Eligible,Verified
+VISA000344,DUD100228,Spouse of Japanese National,2020-02-05,,Eligible,Verified
+VISA000345,DUD100229,Other Work-Eligible Status,2020-12-26,,Eligible,Verified
+VISA000346,DUD100230,Work Visa,2021-10-17,,Eligible,Verified
+VISA000347,DUD100231,Spouse of Japanese National,2023-04-26,,Eligible,Verified
+VISA000348,DUD100232,Work Visa,2022-11-17,,Eligible,Verified
+VISA000349,DUD100233,Work Visa,2021-06-07,,Eligible,Verified
+VISA000350,DUD100234,Long-Term Resident,2024-01-28,,Eligible,Verified
+VISA000351,DUD100235,Work Visa,2020-01-27,2023-06-01,Eligible,Verified
+VISA000352,DUD100235,Permanent Resident,2023-06-02,,Eligible,Verified
+VISA000353,DUD100236,Work Visa,2025-03-30,,Eligible,Verified
+VISA000354,DUD100237,Long-Term Resident,2022-09-05,,Eligible,Verified
+VISA000355,DUD100238,Spouse of Japanese National,2025-05-23,,Eligible,Verified
+VISA000356,DUD100239,Work Visa,2023-09-18,,Eligible,Verified
+VISA000357,DUD100240,Permanent Resident,2022-02-05,,Eligible,Verified
+VISA000358,DUD100241,Other Work-Eligible Status,2021-07-10,,Eligible,Verified
+VISA000359,DUD100242,Work Visa,2022-09-26,,Eligible,Verified
+VISA000360,DUD100243,Work Visa,2024-02-28,,Eligible,Verified
+VISA000361,DUD100244,Work Visa,2020-11-22,,Eligible,Verified
+VISA000362,DUD100245,Work Visa,2025-11-17,,Eligible,Verified
+VISA000363,DUD100246,Permanent Resident,2025-12-03,,Eligible,Verified
+VISA000364,DUD100247,Permanent Resident,2020-11-09,,Eligible,Verified
+VISA000365,DUD100248,Work Visa,2019-10-14,,Eligible,Verified
+VISA000366,DUD100249,Long-Term Resident,2022-05-21,,Eligible,Verified
+VISA000367,DUD100250,Work Visa,2021-10-15,,Eligible,Verified
+VISA000368,DUD100251,Spouse of Japanese National,2021-08-18,,Eligible,Verified
+VISA000369,DUD100252,Long-Term Resident,2025-11-19,,Eligible,Verified
+VISA000370,DUD100253,Work Visa,2022-03-22,,Pending,Verified
+VISA000371,DUD100254,Dependent Visa with Work Permission,2021-03-06,,Eligible,Verified
+VISA000372,DUD100255,Permanent Resident,2023-07-10,,Eligible,Verified
+VISA000373,DUD100256,Work Visa,2020-07-27,,Eligible,Verified
+VISA000374,DUD100257,Spouse of Japanese National,2024-09-20,,Eligible,Verified
+VISA000375,DUD100258,Spouse of Japanese National,2026-01-12,,Eligible,Verified
+VISA000376,DUD100259,Permanent Resident,2022-10-28,,Eligible,Verified
+VISA000377,DUD100260,Work Visa,2023-12-05,,Eligible,Verified
+VISA000378,DUD100261,Work Visa,2024-04-28,,Eligible,Verified
+VISA000379,DUD100262,Work Visa,2019-05-17,,Eligible,Verified
+VISA000380,DUD100263,Long-Term Resident,2023-10-17,,Eligible,Verified
+VISA000381,DUD100264,Permanent Resident,2019-09-10,,Eligible,Verified
+VISA000382,DUD100265,Other Work-Eligible Status,2023-10-04,,Eligible,Verified
+VISA000383,DUD100266,Permanent Resident,2023-03-07,,Eligible,Verified
+VISA000384,DUD100267,Work Visa,2023-02-21,,Eligible,Verified
+VISA000385,DUD100268,Work Visa,2023-02-20,2025-06-02,Eligible,Verified
+VISA000386,DUD100268,Long-Term Resident,2025-06-03,,Eligible,Verified
+VISA000387,DUD100269,Work Visa,2021-11-22,,Eligible,Verified
+VISA000388,DUD100270,Other Work-Eligible Status,2021-04-16,,Eligible,Verified
+VISA000389,DUD100271,Work Visa,2021-08-01,,Eligible,Verified
+VISA000390,DUD100272,Work Visa,2025-05-26,,Eligible,Verified
+VISA000391,DUD100273,Spouse of Japanese National,2025-09-22,,Eligible,Verified
+VISA000392,DUD100274,Work Visa,2020-08-28,,Eligible,Verified
+VISA000393,DUD100275,Work Visa,2024-08-12,,Eligible,Verified
+VISA000394,DUD100276,Permanent Resident,2021-04-24,,Eligible,Verified
+VISA000395,DUD100277,Work Visa,2020-12-18,,Pending,Verified
+VISA000396,DUD100278,Spouse of Japanese National,2019-12-08,,Eligible,Verified
+VISA000397,DUD100279,Work Visa,2023-04-05,,Eligible,Verified
+VISA000398,DUD100280,Long-Term Resident,2020-02-28,,Eligible,Verified
+VISA000399,DUD100281,Permanent Resident,2022-10-16,,Eligible,Verified
+VISA000400,DUD100282,Spouse of Japanese National,2019-07-08,,Eligible,Verified
+VISA000401,DUD100283,Work Visa,2023-09-29,,Eligible,Verified
+VISA000402,DUD100284,Permanent Resident,2021-02-27,,Eligible,Verified
+VISA000403,DUD100285,Long-Term Resident,2024-06-03,,Eligible,Verified
+VISA000404,DUD100286,Dependent Visa with Work Permission,2023-05-21,,Eligible,Verified
+VISA000405,DUD100287,Work Visa,2019-06-01,,Eligible,Verified
+VISA000406,DUD100288,Work Visa,2023-09-09,,Eligible,Verified
+VISA000407,DUD100289,Work Visa,2020-01-11,,Eligible,Verified
+VISA000408,DUD100290,Work Visa,2020-06-01,,Eligible,Verified
+VISA000409,DUD100291,Permanent Resident,2024-07-04,,Eligible,Verified
+VISA000410,DUD100292,Work Visa,2022-02-14,,Eligible,Verified
+VISA000411,DUD100293,Work Visa,2021-08-16,2023-07-29,Eligible,Verified
+VISA000412,DUD100293,Spouse of Japanese National,2023-07-30,,Eligible,Verified
+VISA000413,DUD100294,Work Visa,2019-11-27,,Eligible,Verified
+VISA000414,DUD100295,Work Visa,2019-10-08,2023-07-27,Eligible,Verified
+VISA000415,DUD100295,Permanent Resident,2023-07-28,,Eligible,Verified
+VISA000416,DUD100296,Work Visa,2025-04-30,,Eligible,Verified
+VISA000417,DUD100297,Long-Term Resident,2020-10-11,,Eligible,Verified
+VISA000418,DUD100298,Work Visa,2026-01-15,,Eligible,Verified
+VISA000419,DUD100299,Work Visa,2021-05-27,,Eligible,Verified
+VISA000420,DUD100300,Work Visa,2024-11-21,,Eligible,Verified
+VISA000421,DUD100301,Work Visa,2020-09-18,,Eligible,Verified
+VISA000422,DUD100302,Long-Term Resident,2021-10-10,,Eligible,Verified
+VISA000423,DUD100303,Work Visa,2019-12-21,,Eligible,Verified
+VISA000424,DUD100304,Work Visa,2022-01-31,,Eligible,Verified
+VISA000425,DUD100305,Student Visa with Work Permission,2021-04-25,,Eligible,Verified
+VISA000426,DUD100306,Work Visa,2024-02-23,,Eligible,Verified
+VISA000427,DUD100307,Permanent Resident,2019-08-29,,Eligible,Verified
+VISA000428,DUD100308,Spouse of Japanese National,2025-01-10,,Eligible,Verified
+VISA000429,DUD100309,Permanent Resident,2022-08-15,,Eligible,Verified
+VISA000430,DUD100310,Work Visa,2020-05-14,2023-10-17,Eligible,Verified
+VISA000431,DUD100310,Permanent Resident,2023-10-18,,Eligible,Verified
+VISA000432,DUD100311,Permanent Resident,2021-11-07,,Pending,Verified
+VISA000433,DUD100312,Work Visa,2020-12-19,,Eligible,Verified
+VISA000434,DUD100313,Spouse of Japanese National,2025-09-19,,Eligible,Verified
+VISA000435,DUD100314,Work Visa,2023-09-26,,Eligible,Verified
+VISA000436,DUD100315,Work Visa,2023-12-03,,Eligible,Verified
+VISA000437,DUD100316,Student Visa with Work Permission,2021-11-18,,Eligible,Verified
+VISA000438,DUD100317,Work Visa,2020-07-08,,Eligible,Verified
+VISA000439,DUD100318,Work Visa,2019-06-27,,Eligible,Verified
+VISA000440,DUD100319,Work Visa,2022-05-07,,Eligible,Verified
+VISA000441,DUD100320,Work Visa,2025-12-27,,Eligible,Verified
+VISA000442,DUD100321,Spouse of Japanese National,2021-01-03,,Eligible,Verified
+VISA000443,DUD100322,Work Visa,2022-05-29,,Eligible,Verified
+VISA000444,DUD100323,Permanent Resident,2022-12-23,,Eligible,Verified
+VISA000445,DUD100324,Spouse of Japanese National,2020-12-05,,Eligible,Verified
+VISA000446,DUD100325,Spouse of Japanese National,2023-12-21,,Eligible,Verified
+VISA000447,DUD100326,Spouse of Japanese National,2022-04-17,,Eligible,Verified
+VISA000448,DUD100327,Long-Term Resident,2023-08-20,,Eligible,Verified
+VISA000449,DUD100328,Student Visa with Work Permission,2020-01-01,,Eligible,Verified
+VISA000450,DUD100329,Work Visa,2023-09-20,,Eligible,Verified
+VISA000451,DUD100330,Work Visa,2019-09-25,,Eligible,Verified
+VISA000452,DUD100331,Work Visa,2019-12-02,,Eligible,Verified
+VISA000453,DUD100332,Work Visa,2023-09-10,,Eligible,Verified
+VISA000454,DUD100333,Permanent Resident,2020-08-02,,Eligible,Verified
+VISA000455,DUD100334,Other Work-Eligible Status,2025-08-30,,Eligible,Verified
+VISA000456,DUD100335,Permanent Resident,2020-10-20,,Eligible,Verified
+VISA000457,DUD100336,Work Visa,2024-03-16,,Eligible,Verified
+VISA000458,DUD100337,Permanent Resident,2019-09-01,,Eligible,Verified
+VISA000459,DUD100338,Work Visa,2024-06-01,2025-12-01,Eligible,Verified
+VISA000460,DUD100338,Permanent Resident,2025-12-02,,Eligible,Verified
+VISA000461,DUD100339,Permanent Resident,2019-12-31,,Eligible,Verified
+VISA000462,DUD100340,Long-Term Resident,2024-09-25,,Eligible,Verified
+VISA000463,DUD100341,Permanent Resident,2025-08-06,,Eligible,Verified
+VISA000464,DUD100342,Work Visa,2020-08-19,,Eligible,Verified
+VISA000465,DUD100343,Work Visa,2022-09-21,,Eligible,Verified
+VISA000466,DUD100344,Work Visa,2024-09-12,,Eligible,Verified
+VISA000467,DUD100345,Work Visa,2019-12-12,,Eligible,Verified
+VISA000468,DUD100346,Permanent Resident,2020-12-10,,Eligible,Verified
+VISA000469,DUD100347,Spouse of Japanese National,2019-08-16,,Eligible,Verified
+VISA000470,DUD100348,Work Visa,2020-04-28,,Eligible,Verified
+VISA000471,DUD100349,Spouse of Japanese National,2025-02-03,,Eligible,Verified
+VISA000472,DUD100350,Spouse of Japanese National,2019-10-09,,Eligible,Verified
+VISA000473,DUD100351,Work Visa,2024-04-01,,Eligible,Verified
+VISA000474,DUD100352,Spouse of Japanese National,2022-06-22,,Eligible,Verified
+VISA000475,DUD100353,Permanent Resident,2019-11-09,,Eligible,Verified
+VISA000476,DUD100354,Long-Term Resident,2025-03-27,,Eligible,Verified
+VISA000477,DUD100355,Permanent Resident,2021-10-07,,Eligible,Verified
+VISA000478,DUD100356,Spouse of Japanese National,2024-08-26,,Eligible,Verified
+VISA000479,DUD100357,Work Visa,2022-09-06,2024-11-18,Eligible,Verified
+VISA000480,DUD100357,Long-Term Resident,2024-11-19,,Eligible,Verified
+VISA000481,DUD100358,Other Work-Eligible Status,2024-03-06,,Eligible,Verified
+VISA000482,DUD100359,Spouse of Japanese National,2022-10-13,,Eligible,Verified
+VISA000483,DUD100360,Work Visa,2025-11-01,,Eligible,Verified
+VISA000484,DUD100361,Work Visa,2022-10-27,,Eligible,Verified
+VISA000485,DUD100362,Work Visa,2022-07-19,,Eligible,Verified
+VISA000486,DUD100363,Work Visa,2023-11-01,,Eligible,Verified
+VISA000487,DUD100364,Long-Term Resident,2020-02-08,,Eligible,Verified
+VISA000488,DUD100365,Long-Term Resident,2026-02-07,,Eligible,Verified
+VISA000489,DUD100366,Work Visa,2021-12-17,,Eligible,Verified
+VISA000490,DUD100367,Permanent Resident,2025-03-23,,Eligible,Verified
+VISA000491,DUD100368,Work Visa,2025-05-12,,Eligible,Verified
+VISA000492,DUD100369,Permanent Resident,2022-07-29,,Eligible,Verified
+VISA000493,DUD100370,Permanent Resident,2022-08-03,,Eligible,Verified
+VISA000494,DUD100371,Spouse of Japanese National,2020-07-19,,Eligible,Verified
+VISA000495,DUD100372,Spouse of Japanese National,2023-02-05,,Eligible,Verified
+VISA000496,DUD100373,Permanent Resident,2023-02-13,,Eligible,Verified
+VISA000497,DUD100374,Long-Term Resident,2023-08-30,,Eligible,Verified
+VISA000498,DUD100375,Student Visa with Work Permission,2025-04-05,,Eligible,Verified
+VISA000499,DUD100376,Permanent Resident,2022-01-08,,Eligible,Verified
+VISA000500,DUD100377,Work Visa,2020-06-20,,Eligible,Verified
+VISA000501,DUD100378,Work Visa,2020-09-02,,Eligible,Verified
+VISA000502,DUD100379,Long-Term Resident,2024-05-30,,Eligible,Verified
+VISA000503,DUD100380,Permanent Resident,2019-12-11,,Pending,Verified
+VISA000504,DUD100381,Spouse of Japanese National,2021-09-30,,Eligible,Verified
+VISA000505,DUD100382,Work Visa,2020-12-20,2022-08-08,Eligible,Verified
+VISA000506,DUD100382,Permanent Resident,2022-08-09,,Eligible,Verified
+VISA000507,DUD100383,Work Visa,2023-11-07,,Eligible,Verified
+VISA000508,DUD100384,Work Visa,2022-09-04,,Eligible,Verified
+VISA000509,DUD100385,Work Visa,2019-10-09,,Eligible,Verified
+VISA000510,DUD100386,Work Visa,2025-11-30,,Eligible,Verified
+VISA000511,DUD100387,Permanent Resident,2019-11-26,,Eligible,Verified
+VISA000512,DUD100388,Work Visa,2020-11-15,,Eligible,Verified
+VISA000513,DUD100389,Work Visa,2020-05-17,,Eligible,Verified
+VISA000514,DUD100390,Work Visa,2023-10-13,,Eligible,Verified
+VISA000515,DUD100391,Work Visa,2023-12-01,,Eligible,Verified
+VISA000516,DUD100392,Spouse of Japanese National,2024-09-17,,Eligible,Verified
+VISA000517,DUD100393,Work Visa,2021-07-27,,Eligible,Verified
+VISA000518,DUD100394,Work Visa,2023-03-08,,Eligible,Verified
+VISA000519,DUD100395,Dependent Visa with Work Permission,2021-06-05,,Eligible,Verified
+VISA000520,DUD100396,Work Visa,2024-05-01,,Eligible,Verified
+VISA000521,DUD100397,Work Visa,2025-12-10,,Eligible,Verified
+VISA000522,DUD100398,Other Work-Eligible Status,2021-09-22,,Eligible,Verified
+VISA000523,DUD100399,Spouse of Japanese National,2022-04-15,,Eligible,Verified
+VISA000524,DUD100400,Work Visa,2026-01-11,,Eligible,Verified
+VISA000525,DUD100401,Work Visa,2022-05-18,,Eligible,Verified
+VISA000526,DUD100402,Spouse of Japanese National,2019-09-30,,Eligible,Verified
+VISA000527,DUD100403,Work Visa,2023-11-21,,Eligible,Verified
+VISA000528,DUD100404,Work Visa,2019-07-23,,Eligible,Verified
+VISA000529,DUD100405,Student Visa with Work Permission,2023-01-09,,Eligible,Verified
+VISA000530,DUD100406,Work Visa,2025-02-06,,Eligible,Verified
+VISA000531,DUD100407,Work Visa,2025-08-05,,Eligible,Verified
+VISA000532,DUD100408,Work Visa,2022-11-14,,Eligible,Verified
+VISA000533,DUD100409,Work Visa,2025-04-19,,Eligible,Verified
+VISA000534,DUD100410,Student Visa with Work Permission,2020-02-13,,Eligible,Verified
+VISA000535,DUD100411,Other Work-Eligible Status,2023-12-30,,Eligible,Verified
+VISA000536,DUD100412,Work Visa,2025-04-06,,Eligible,Verified
+VISA000537,DUD100413,Work Visa,2019-10-15,,Eligible,Verified
+VISA000538,DUD100414,Work Visa,2021-01-27,,Eligible,Verified
+VISA000539,DUD100415,Long-Term Resident,2020-12-07,,Eligible,Verified
+VISA000540,DUD100416,Spouse of Japanese National,2025-06-01,,Eligible,Verified
+VISA000541,DUD100417,Spouse of Japanese National,2024-09-10,,Eligible,Verified
+VISA000542,DUD100418,Spouse of Japanese National,2026-02-13,,Eligible,Verified
+VISA000543,DUD100419,Student Visa with Work Permission,2025-01-07,,Eligible,Verified
+VISA000544,DUD100420,Student Visa with Work Permission,2023-02-22,,Eligible,Verified
+VISA000545,DUD100421,Long-Term Resident,2023-11-26,,Eligible,Verified
+VISA000546,DUD100422,Other Work-Eligible Status,2023-11-23,,Eligible,Verified
+VISA000547,DUD100423,Permanent Resident,2022-09-14,,Eligible,Verified
+VISA000548,DUD100424,Spouse of Japanese National,2022-07-05,,Eligible,Verified
+VISA000549,DUD100425,Permanent Resident,2022-03-12,,Eligible,Verified
+VISA000550,DUD100426,Permanent Resident,2020-10-17,,Eligible,Verified
+VISA000551,DUD100427,Long-Term Resident,2021-05-14,,Eligible,Verified
+VISA000552,DUD100428,Work Visa,2020-11-09,,Eligible,Verified
+VISA000553,DUD100429,Work Visa,2025-07-25,,Eligible,Verified
+VISA000554,DUD100430,Work Visa,2022-10-20,,Eligible,Verified
+VISA000555,DUD100431,Work Visa,2020-11-26,,Eligible,Verified
+VISA000556,DUD100432,Spouse of Japanese National,2020-06-16,,Eligible,Verified
+VISA000557,DUD100433,Work Visa,2021-07-03,,Eligible,Verified
+VISA000558,DUD100434,Work Visa,2025-10-18,,Eligible,Verified
+VISA000559,DUD100435,Long-Term Resident,2024-08-07,,Eligible,Verified
+VISA000560,DUD100436,Work Visa,2022-10-12,,Eligible,Verified
+VISA000561,DUD100437,Permanent Resident,2022-10-20,,Eligible,Verified
+VISA000562,DUD100438,Other Work-Eligible Status,2019-06-13,,Eligible,Verified
+VISA000563,DUD100439,Permanent Resident,2021-02-22,,Eligible,Verified
+VISA000564,DUD100440,Spouse of Japanese National,2025-12-04,,Eligible,Verified
+VISA000565,DUD100441,Work Visa,2020-12-18,2025-01-20,Eligible,Verified
+VISA000566,DUD100441,Spouse of Japanese National,2025-01-21,,Eligible,Verified
+VISA000567,DUD100442,Work Visa,2021-04-15,2024-01-09,Eligible,Verified
+VISA000568,DUD100442,Spouse of Japanese National,2024-01-10,,Eligible,Verified
+VISA000569,DUD100443,Work Visa,2025-05-10,,Eligible,Verified
+VISA000570,DUD100444,Work Visa,2021-04-11,,Eligible,Verified
+VISA000571,DUD100445,Work Visa,2024-10-21,,Eligible,Verified
+VISA000572,DUD100446,Work Visa,2023-04-08,,Eligible,Verified
+VISA000573,DUD100447,Work Visa,2024-01-29,,Eligible,Verified
+VISA000574,DUD100448,Work Visa,2021-02-24,,Eligible,Verified
+VISA000575,DUD100449,Permanent Resident,2023-07-14,,Eligible,Verified
+VISA000576,DUD100450,Spouse of Japanese National,2022-08-20,,Eligible,Verified
+VISA000577,DUD100451,Work Visa,2020-05-03,,Eligible,Verified
+VISA000578,DUD100452,Spouse of Japanese National,2024-12-22,,Eligible,Verified
+VISA000579,DUD100453,Work Visa,2019-07-06,2024-01-10,Eligible,Verified
+VISA000580,DUD100453,Long-Term Resident,2024-01-11,,Eligible,Verified
+VISA000581,DUD100454,Work Visa,2019-12-18,2021-09-07,Eligible,Verified
+VISA000582,DUD100454,Spouse of Japanese National,2021-09-08,,Eligible,Verified
+VISA000583,DUD100455,Work Visa,2022-04-24,,Eligible,Verified
+VISA000584,DUD100456,Other Work-Eligible Status,2025-07-24,,Eligible,Verified
+VISA000585,DUD100457,Work Visa,2019-10-20,,Eligible,Verified
+VISA000586,DUD100458,Other Work-Eligible Status,2023-10-12,,Eligible,Verified
+VISA000587,DUD100459,Other Work-Eligible Status,2022-10-15,,Eligible,Verified
+VISA000588,DUD100460,Work Visa,2019-12-01,,Eligible,Verified
+VISA000589,DUD100461,Permanent Resident,2023-06-11,,Eligible,Verified
+VISA000590,DUD100462,Permanent Resident,2022-10-08,,Eligible,Verified
+VISA000591,DUD100463,Work Visa,2021-11-29,,Pending,Verified
+VISA000592,DUD100464,Spouse of Japanese National,2023-01-14,,Eligible,Verified
+VISA000593,DUD100465,Permanent Resident,2024-05-22,,Eligible,Verified
+VISA000594,DUD100466,Work Visa,2021-01-13,,Eligible,Verified
+VISA000595,DUD100467,Long-Term Resident,2022-12-27,,Eligible,Verified
+VISA000596,DUD100468,Dependent Visa with Work Permission,2021-11-21,,Pending,Verified
+VISA000597,DUD100469,Work Visa,2025-08-13,,Eligible,Verified
+VISA000598,DUD100470,Work Visa,2020-09-28,,Eligible,Verified
+VISA000599,DUD100471,Spouse of Japanese National,2024-05-20,,Eligible,Verified
+VISA000600,DUD100472,Work Visa,2024-01-21,,Eligible,Verified
+VISA000601,DUD100473,Spouse of Japanese National,2019-10-04,,Eligible,Verified
+VISA000602,DUD100474,Work Visa,2023-02-16,2024-04-21,Eligible,Verified
+VISA000603,DUD100474,Permanent Resident,2024-04-22,,Eligible,Verified
+VISA000604,DUD100475,Permanent Resident,2024-02-04,,Eligible,Verified
+VISA000605,DUD100476,Work Visa,2024-03-08,,Pending,Verified
+VISA000606,DUD100477,Work Visa,2023-04-22,,Eligible,Verified
+VISA000607,DUD100478,Permanent Resident,2022-05-10,,Eligible,Verified
+VISA000608,DUD100479,Work Visa,2022-12-07,,Eligible,Verified
+VISA000609,DUD100480,Permanent Resident,2022-04-27,,Eligible,Verified
+VISA000610,DUD100481,Work Visa,2020-02-01,2024-01-08,Eligible,Verified
+VISA000611,DUD100481,Spouse of Japanese National,2024-01-09,,Eligible,Verified
+VISA000612,DUD100482,Work Visa,2020-12-25,,Pending,Verified
+VISA000613,DUD100483,Work Visa,2023-08-22,,Eligible,Verified
+VISA000614,DUD100484,Other Work-Eligible Status,2024-07-02,,Eligible,Verified
+VISA000615,DUD100485,Work Visa,2020-09-26,,Eligible,Verified
+VISA000616,DUD100486,Work Visa,2025-09-10,,Eligible,Verified
+VISA000617,DUD100487,Work Visa,2019-10-05,,Eligible,Verified
+VISA000618,DUD100488,Dependent Visa with Work Permission,2026-01-16,,Eligible,Verified
+VISA000619,DUD100489,Permanent Resident,2026-01-22,,Eligible,Verified
+VISA000620,DUD100490,Other Work-Eligible Status,2019-06-27,,Eligible,Verified
+VISA000621,DUD100491,Long-Term Resident,2021-01-07,,Eligible,Verified
+VISA000622,DUD100492,Spouse of Japanese National,2024-02-15,,Eligible,Verified
+VISA000623,DUD100493,Work Visa,2024-09-26,,Eligible,Verified
+VISA000624,DUD100494,Permanent Resident,2023-03-05,,Eligible,Verified
+VISA000625,DUD100495,Spouse of Japanese National,2024-07-05,,Eligible,Verified
+VISA000626,DUD100496,Work Visa,2020-04-09,,Eligible,Verified
+VISA000627,DUD100497,Work Visa,2022-03-15,,Eligible,Verified
+VISA000628,DUD100498,Work Visa,2022-03-02,,Eligible,Verified
+VISA000629,DUD100499,Work Visa,2020-07-02,,Eligible,Verified
+VISA000630,DUD100500,Work Visa,2024-04-06,,Eligible,Verified
+VISA000631,DUD100501,Work Visa,2023-12-22,,Eligible,Verified
+VISA000632,DUD100502,Long-Term Resident,2022-01-04,,Eligible,Verified
+VISA000633,DUD100503,Spouse of Japanese National,2019-06-02,,Eligible,Verified
+VISA000634,DUD100504,Work Visa,2019-12-13,,Eligible,Verified
+VISA000635,DUD100505,Work Visa,2023-10-25,,Eligible,Verified
+VISA000636,DUD100506,Other Work-Eligible Status,2023-09-07,,Eligible,Verified
+VISA000637,DUD100507,Spouse of Japanese National,2025-05-08,,Eligible,Verified
+VISA000638,DUD100508,Work Visa,2019-11-06,,Eligible,Verified
+VISA000639,DUD100509,Work Visa,2025-04-20,,Eligible,Verified
+VISA000640,DUD100510,Permanent Resident,2021-06-23,,Eligible,Verified
+VISA000641,DUD100511,Work Visa,2025-03-07,,Eligible,Verified
+VISA000642,DUD100512,Spouse of Japanese National,2023-12-29,,Eligible,Verified
+VISA000643,DUD100513,Work Visa,2023-06-20,,Eligible,Verified
+VISA000644,DUD100514,Work Visa,2024-09-11,,Eligible,Verified
+VISA000645,DUD100515,Permanent Resident,2023-03-01,,Eligible,Verified
+VISA000646,DUD100516,Work Visa,2024-12-17,,Eligible,Verified
+VISA000647,DUD100517,Permanent Resident,2023-09-16,,Eligible,Verified
+VISA000648,DUD100518,Work Visa,2025-07-11,,Pending,Verified
+VISA000649,DUD100519,Other Work-Eligible Status,2019-06-25,,Eligible,Verified
+VISA000650,DUD100520,Work Visa,2021-04-22,,Eligible,Verified
+VISA000651,DUD100521,Work Visa,2023-11-15,,Eligible,Verified
+VISA000652,DUD100522,Work Visa,2020-08-09,2023-12-13,Eligible,Verified
+VISA000653,DUD100522,Spouse of Japanese National,2023-12-14,,Eligible,Verified
+VISA000654,DUD100523,Other Work-Eligible Status,2024-09-04,,Eligible,Verified
+VISA000655,DUD100524,Permanent Resident,2020-04-05,,Eligible,Verified
+VISA000656,DUD100525,Dependent Visa with Work Permission,2019-05-01,,Eligible,Verified
+VISA000657,DUD100526,Work Visa,2021-09-06,,Pending,Verified
+VISA000658,DUD100527,Work Visa,2022-06-16,,Eligible,Verified
+VISA000659,DUD100528,Work Visa,2022-11-18,,Eligible,Verified
+VISA000660,DUD100529,Long-Term Resident,2024-10-17,,Eligible,Verified
+VISA000661,DUD100530,Permanent Resident,2023-07-16,,Eligible,Verified
+VISA000662,DUD100531,Work Visa,2022-06-16,,Eligible,Verified
+VISA000663,DUD100532,Long-Term Resident,2026-01-22,,Eligible,Verified
+VISA000664,DUD100533,Work Visa,2026-01-21,,Eligible,Verified
+VISA000665,DUD100534,Work Visa,2019-07-26,,Eligible,Verified
+VISA000666,DUD100535,Spouse of Japanese National,2022-04-30,,Eligible,Verified
+VISA000667,DUD100536,Spouse of Japanese National,2023-01-02,,Eligible,Verified
+VISA000668,DUD100537,Work Visa,2020-05-01,,Eligible,Verified
+VISA000669,DUD100538,Long-Term Resident,2025-02-21,,Eligible,Verified
+VISA000670,DUD100539,Spouse of Japanese National,2023-07-04,,Eligible,Verified
+VISA000671,DUD100540,Work Visa,2022-08-17,,Eligible,Verified
+VISA000672,DUD100541,Work Visa,2023-02-10,,Eligible,Verified
+VISA000673,DUD100542,Work Visa,2020-09-18,,Eligible,Verified
+VISA000674,DUD100543,Work Visa,2023-04-14,,Eligible,Verified
+VISA000675,DUD100544,Work Visa,2025-01-02,,Eligible,Verified
+VISA000676,DUD100545,Other Work-Eligible Status,2023-01-13,,Eligible,Verified
+VISA000677,DUD100546,Student Visa with Work Permission,2019-05-06,,Eligible,Verified
+VISA000678,DUD100547,Spouse of Japanese National,2020-02-08,,Eligible,Verified
+VISA000679,DUD100548,Permanent Resident,2022-04-01,,Eligible,Verified
+VISA000680,DUD100549,Other Work-Eligible Status,2020-07-08,,Eligible,Verified
+VISA000681,DUD100550,Work Visa,2021-06-11,,Eligible,Verified
+VISA000682,DUD100551,Permanent Resident,2022-12-10,,Eligible,Verified
+VISA000683,DUD100552,Spouse of Japanese National,2023-08-31,,Eligible,Verified
+VISA000684,DUD100553,Long-Term Resident,2025-10-18,,Eligible,Verified
+VISA000685,DUD100554,Long-Term Resident,2025-09-01,,Eligible,Verified
+VISA000686,DUD100555,Work Visa,2023-01-20,,Eligible,Verified
+VISA000687,DUD100556,Other Work-Eligible Status,2020-03-12,,Eligible,Verified
+VISA000688,DUD100557,Permanent Resident,2022-12-17,,Eligible,Verified
+VISA000689,DUD100558,Long-Term Resident,2023-03-15,,Eligible,Verified
+VISA000690,DUD100559,Permanent Resident,2025-01-29,,Eligible,Verified
+VISA000691,DUD100560,Long-Term Resident,2025-07-05,,Eligible,Verified
+VISA000692,DUD100561,Permanent Resident,2024-01-29,,Eligible,Verified
+VISA000693,DUD100562,Other Work-Eligible Status,2026-02-01,,Eligible,Verified
+VISA000694,DUD100563,Permanent Resident,2024-05-13,,Eligible,Verified
+VISA000695,DUD100564,Other Work-Eligible Status,2022-06-12,,Eligible,Verified
+VISA000696,DUD100565,Work Visa,2020-07-01,,Eligible,Verified
+VISA000697,DUD100566,Permanent Resident,2026-01-24,,Eligible,Verified
+VISA000698,DUD100567,Work Visa,2023-10-11,,Eligible,Verified
+VISA000699,DUD100568,Work Visa,2022-08-13,,Eligible,Verified
+VISA000700,DUD100569,Long-Term Resident,2019-10-03,,Eligible,Verified
+VISA000701,DUD100570,Long-Term Resident,2020-03-03,,Eligible,Verified
+VISA000702,DUD100571,Work Visa,2023-10-19,2024-12-12,Eligible,Verified
+VISA000703,DUD100571,Permanent Resident,2024-12-13,,Eligible,Verified
+VISA000704,DUD100572,Spouse of Japanese National,2024-03-01,,Eligible,Verified
+VISA000705,DUD100573,Long-Term Resident,2019-06-06,,Eligible,Verified
+VISA000706,DUD100574,Permanent Resident,2020-06-07,,Eligible,Verified
+VISA000707,DUD100575,Dependent Visa with Work Permission,2019-07-24,,Eligible,Verified
+VISA000708,DUD100576,Student Visa with Work Permission,2021-06-04,,Eligible,Verified
+VISA000709,DUD100577,Other Work-Eligible Status,2021-09-02,,Eligible,Verified
+VISA000710,DUD100578,Permanent Resident,2025-04-30,,Eligible,Verified
+VISA000711,DUD100579,Work Visa,2022-11-20,,Eligible,Verified
+VISA000712,DUD100580,Other Work-Eligible Status,2020-08-30,,Eligible,Verified
+VISA000713,DUD100581,Spouse of Japanese National,2021-12-30,,Eligible,Verified
+VISA000714,DUD100582,Spouse of Japanese National,2022-07-19,,Eligible,Verified
+VISA000715,DUD100583,Permanent Resident,2026-02-20,,Eligible,Verified
+VISA000716,DUD100584,Work Visa,2020-08-29,,Eligible,Verified
+VISA000717,DUD100585,Work Visa,2021-04-11,,Eligible,Verified
+VISA000718,DUD100586,Permanent Resident,2024-12-18,,Eligible,Verified
+VISA000719,DUD100587,Work Visa,2021-03-28,,Eligible,Verified
+VISA000720,DUD100588,Work Visa,2019-04-18,2020-10-11,Eligible,Verified
+VISA000721,DUD100588,Spouse of Japanese National,2020-10-12,,Eligible,Verified
+VISA000722,DUD100589,Work Visa,2019-10-06,2022-09-04,Eligible,Verified
+VISA000723,DUD100589,Permanent Resident,2022-09-05,,Eligible,Verified
+VISA000724,DUD100590,Work Visa,2024-01-24,,Eligible,Verified
+VISA000725,DUD100591,Permanent Resident,2020-12-02,,Eligible,Verified
+VISA000726,DUD100592,Work Visa,2021-06-10,,Eligible,Verified
+VISA000727,DUD100593,Permanent Resident,2025-09-25,,Eligible,Verified
+VISA000728,DUD100594,Work Visa,2020-02-05,,Eligible,Verified
+VISA000729,DUD100595,Dependent Visa with Work Permission,2024-05-07,,Eligible,Verified
+VISA000730,DUD100596,Work Visa,2022-07-16,,Eligible,Verified
+VISA000731,DUD100597,Student Visa with Work Permission,2019-05-21,,Eligible,Verified
+VISA000732,DUD100598,Permanent Resident,2024-08-14,,Eligible,Verified
+VISA000733,DUD100599,Work Visa,2023-04-25,,Eligible,Verified
+VISA000734,DUD100600,Student Visa with Work Permission,2022-01-24,,Eligible,Verified
+VISA000735,DUD100601,Work Visa,2023-05-12,,Eligible,Verified
+VISA000736,DUD100602,Permanent Resident,2024-08-23,,Eligible,Verified
+VISA000737,DUD100603,Permanent Resident,2020-09-20,,Eligible,Verified
+VISA000738,DUD100604,Dependent Visa with Work Permission,2021-08-19,,Eligible,Verified
+VISA000739,DUD100605,Spouse of Japanese National,2024-09-01,,Eligible,Verified
+VISA000740,DUD100606,Work Visa,2025-12-27,,Eligible,Verified
+VISA000741,DUD100607,Other Work-Eligible Status,2020-07-26,,Eligible,Verified
+VISA000742,DUD100608,Spouse of Japanese National,2019-12-28,,Eligible,Verified
+VISA000743,DUD100609,Long-Term Resident,2025-05-10,,Eligible,Verified
+VISA000744,DUD100610,Long-Term Resident,2019-09-07,,Eligible,Verified
+VISA000745,DUD100611,Other Work-Eligible Status,2022-12-29,,Eligible,Verified
+VISA000746,DUD100612,Work Visa,2021-01-12,,Eligible,Verified
+VISA000747,DUD100613,Permanent Resident,2025-06-04,,Eligible,Verified
+VISA000748,DUD100614,Work Visa,2020-11-20,,Eligible,Verified
+VISA000749,DUD100615,Work Visa,2024-02-04,,Eligible,Verified
+VISA000750,DUD100616,Permanent Resident,2023-10-18,,Eligible,Verified
+VISA000751,DUD100617,Work Visa,2023-07-22,,Eligible,Verified
+VISA000752,DUD100618,Dependent Visa with Work Permission,2025-09-16,,Eligible,Verified
+VISA000753,DUD100619,Work Visa,2020-01-08,,Eligible,Verified
+VISA000754,DUD100620,Work Visa,2021-08-27,,Eligible,Verified
+VISA000755,DUD100621,Work Visa,2022-03-14,,Eligible,Verified
+VISA000756,DUD100622,Permanent Resident,2025-02-23,,Eligible,Verified
+VISA000757,DUD100623,Permanent Resident,2021-08-29,,Eligible,Verified
+VISA000758,DUD100624,Permanent Resident,2023-12-26,,Pending,Verified
+VISA000759,DUD100625,Dependent Visa with Work Permission,2020-02-04,,Eligible,Verified
+VISA000760,DUD100626,Spouse of Japanese National,2026-01-13,,Eligible,Verified
+VISA000761,DUD100627,Work Visa,2020-12-17,,Eligible,Verified
+VISA000762,DUD100628,Work Visa,2024-09-29,,Eligible,Verified
+VISA000763,DUD100629,Permanent Resident,2023-03-09,,Eligible,Verified
+VISA000764,DUD100630,Long-Term Resident,2020-09-03,,Eligible,Verified
+VISA000765,DUD100631,Long-Term Resident,2024-07-18,,Eligible,Verified
+VISA000766,DUD100632,Student Visa with Work Permission,2022-10-29,,Eligible,Verified
+VISA000767,DUD100633,Long-Term Resident,2019-06-13,,Eligible,Verified
+VISA000768,DUD100634,Permanent Resident,2025-04-20,,Eligible,Verified
+VISA000769,DUD100635,Work Visa,2023-06-08,2025-04-07,Eligible,Verified
+VISA000770,DUD100635,Spouse of Japanese National,2025-04-08,,Eligible,Verified
+VISA000771,DUD100636,Permanent Resident,2024-09-08,,Eligible,Verified
+VISA000772,DUD100637,Work Visa,2024-07-07,,Eligible,Verified
+VISA000773,DUD100638,Work Visa,2021-05-14,2023-01-13,Eligible,Verified
+VISA000774,DUD100638,Permanent Resident,2023-01-14,,Eligible,Verified
+VISA000775,DUD100639,Long-Term Resident,2022-01-26,,Eligible,Verified
+VISA000776,DUD100640,Permanent Resident,2024-02-11,,Eligible,Verified
+VISA000777,DUD100641,Permanent Resident,2021-07-24,,Eligible,Verified
+VISA000778,DUD100642,Work Visa,2023-08-14,,Eligible,Verified
+VISA000779,DUD100643,Spouse of Japanese National,2026-01-02,,Eligible,Verified
+VISA000780,DUD100644,Long-Term Resident,2020-08-11,,Eligible,Verified
+VISA000781,DUD100645,Permanent Resident,2025-12-06,,Eligible,Verified
+VISA000782,DUD100646,Other Work-Eligible Status,2019-11-07,,Eligible,Verified
+VISA000783,DUD100647,Spouse of Japanese National,2022-04-18,,Eligible,Verified
+VISA000784,DUD100648,Permanent Resident,2024-07-24,,Eligible,Verified
+VISA000785,DUD100649,Permanent Resident,2020-09-25,,Eligible,Verified
+VISA000786,DUD100650,Work Visa,2020-06-13,,Eligible,Verified
+VISA000787,DUD100651,Permanent Resident,2023-02-12,,Eligible,Verified
+VISA000788,DUD100652,Work Visa,2024-04-30,,Eligible,Verified
+VISA000789,DUD100653,Permanent Resident,2025-08-07,,Eligible,Verified
+VISA000790,DUD100654,Permanent Resident,2021-04-23,,Eligible,Verified
+VISA000791,DUD100655,Work Visa,2022-04-21,,Eligible,Verified
+VISA000792,DUD100656,Work Visa,2022-02-09,,Eligible,Verified
+VISA000793,DUD100657,Other Work-Eligible Status,2022-07-31,,Eligible,Verified
+VISA000794,DUD100658,Work Visa,2023-08-12,,Eligible,Verified
+VISA000795,DUD100659,Permanent Resident,2021-11-28,,Eligible,Verified
+VISA000796,DUD100660,Permanent Resident,2021-04-28,,Eligible,Verified
+VISA000797,DUD100661,Spouse of Japanese National,2020-06-07,,Eligible,Verified
+VISA000798,DUD100662,Spouse of Japanese National,2022-04-05,,Eligible,Verified
+VISA000799,DUD100663,Work Visa,2022-09-21,,Eligible,Verified
+VISA000800,DUD100664,Work Visa,2023-12-01,,Eligible,Verified
+VISA000801,DUD100665,Permanent Resident,2020-07-02,,Eligible,Verified
+VISA000802,DUD100666,Work Visa,2021-05-03,,Eligible,Verified
+VISA000803,DUD100667,Permanent Resident,2020-03-03,,Eligible,Verified
+VISA000804,DUD100668,Other Work-Eligible Status,2024-02-14,,Eligible,Verified
+VISA000805,DUD100669,Work Visa,2022-12-30,,Eligible,Verified
+VISA000806,DUD100670,Work Visa,2024-01-08,,Eligible,Verified
+VISA000807,DUD100671,Work Visa,2020-06-26,,Eligible,Verified
+VISA000808,DUD100672,Student Visa with Work Permission,2019-12-08,,Eligible,Verified
+VISA000809,DUD100673,Work Visa,2025-12-24,,Eligible,Verified
+VISA000810,DUD100674,Work Visa,2024-07-30,,Pending,Verified
+VISA000811,DUD100675,Work Visa,2020-12-30,,Eligible,Verified
+VISA000812,DUD100676,Long-Term Resident,2024-11-24,,Eligible,Verified
+VISA000813,DUD100677,Work Visa,2021-05-18,,Eligible,Verified
+VISA000814,DUD100678,Spouse of Japanese National,2024-01-08,,Eligible,Verified
+VISA000815,DUD100679,Other Work-Eligible Status,2022-09-24,,Eligible,Verified
+VISA000816,DUD100680,Permanent Resident,2022-09-16,,Eligible,Verified
+VISA000817,DUD100681,Work Visa,2024-11-25,,Eligible,Verified
+VISA000818,DUD100682,Long-Term Resident,2024-06-11,,Eligible,Verified
+VISA000819,DUD100683,Work Visa,2020-09-29,,Eligible,Verified
+VISA000820,DUD100684,Work Visa,2025-08-29,,Pending,Verified
+VISA000821,DUD100685,Work Visa,2022-06-09,,Eligible,Verified
+VISA000822,DUD100686,Work Visa,2024-09-21,,Eligible,Verified
+VISA000823,DUD100687,Permanent Resident,2023-12-04,,Eligible,Verified
+VISA000824,DUD100688,Work Visa,2022-07-16,,Eligible,Verified
+VISA000825,DUD100689,Dependent Visa with Work Permission,2021-05-01,,Eligible,Verified
+VISA000826,DUD100690,Permanent Resident,2024-08-05,,Eligible,Verified
+VISA000827,DUD100691,Work Visa,2023-05-15,,Eligible,Verified
+VISA000828,DUD100692,Work Visa,2022-08-31,,Eligible,Verified
+VISA000829,DUD100693,Long-Term Resident,2021-07-03,,Eligible,Verified
+VISA000830,DUD100694,Work Visa,2025-12-16,,Eligible,Verified
+VISA000831,DUD100695,Work Visa,2023-10-29,,Eligible,Verified
+VISA000832,DUD100696,Work Visa,2025-06-08,,Eligible,Verified
+VISA000833,DUD100697,Permanent Resident,2020-09-14,,Eligible,Verified
+VISA000834,DUD100698,Permanent Resident,2023-06-12,,Eligible,Verified
+VISA000835,DUD100699,Work Visa,2020-06-01,,Eligible,Verified
+VISA000836,DUD100700,Work Visa,2023-12-24,,Eligible,Verified
+VISA000837,DUD100701,Work Visa,2023-09-08,2025-09-28,Eligible,Verified
+VISA000838,DUD100701,Permanent Resident,2025-09-29,,Eligible,Verified
+VISA000839,DUD100702,Work Visa,2023-07-08,,Eligible,Verified
+VISA000840,DUD100703,Long-Term Resident,2025-10-05,,Eligible,Verified
+VISA000841,DUD100704,Work Visa,2020-09-15,2024-03-06,Eligible,Verified
+VISA000842,DUD100704,Long-Term Resident,2024-03-07,,Eligible,Verified
+VISA000843,DUD100705,Permanent Resident,2020-12-17,,Eligible,Verified
+VISA000844,DUD100706,Work Visa,2021-10-04,2023-05-05,Eligible,Verified
+VISA000845,DUD100706,Permanent Resident,2023-05-06,,Eligible,Verified
+VISA000846,DUD100707,Permanent Resident,2025-10-26,,Eligible,Verified
+VISA000847,DUD100708,Permanent Resident,2023-05-19,,Eligible,Verified
+VISA000848,DUD100709,Work Visa,2024-05-15,,Eligible,Verified
+VISA000849,DUD100710,Other Work-Eligible Status,2019-04-26,,Eligible,Verified
+VISA000850,DUD100711,Permanent Resident,2022-12-06,,Eligible,Verified
+VISA000851,DUD100712,Work Visa,2024-11-03,,Eligible,Verified
+VISA000852,DUD100713,Work Visa,2025-11-10,,Eligible,Verified
+VISA000853,DUD100714,Spouse of Japanese National,2024-01-29,,Eligible,Verified
+VISA000854,DUD100715,Spouse of Japanese National,2019-08-04,,Eligible,Verified
+VISA000855,DUD100716,Spouse of Japanese National,2022-11-17,,Pending,Verified
+VISA000856,DUD100717,Long-Term Resident,2026-02-22,,Eligible,Verified
+VISA000857,DUD100718,Work Visa,2019-11-15,2023-05-04,Eligible,Verified
+VISA000858,DUD100718,Long-Term Resident,2023-05-05,,Eligible,Verified
+VISA000859,DUD100719,Long-Term Resident,2025-09-14,,Eligible,Verified
+VISA000860,DUD100720,Long-Term Resident,2023-12-19,,Eligible,Verified
+VISA000861,DUD100721,Work Visa,2020-09-05,,Eligible,Verified
+VISA000862,DUD100722,Work Visa,2021-02-28,,Eligible,Verified
+VISA000863,DUD100723,Other Work-Eligible Status,2022-12-31,,Eligible,Verified
+VISA000864,DUD100724,Permanent Resident,2023-12-08,,Eligible,Verified
+VISA000865,DUD100725,Permanent Resident,2022-08-18,,Eligible,Verified
+VISA000866,DUD100726,Work Visa,2024-07-26,,Eligible,Verified
+VISA000867,DUD100727,Work Visa,2021-10-12,,Eligible,Verified
+VISA000868,DUD100728,Other Work-Eligible Status,2025-10-10,,Eligible,Verified
+VISA000869,DUD100729,Long-Term Resident,2025-03-28,,Eligible,Verified
+VISA000870,DUD100730,Spouse of Japanese National,2022-05-02,,Eligible,Verified
+VISA000871,DUD100731,Work Visa,2020-07-12,,Eligible,Verified
+VISA000872,DUD100732,Work Visa,2023-10-26,,Eligible,Verified
+VISA000873,DUD100733,Long-Term Resident,2019-04-16,,Eligible,Verified
+VISA000874,DUD100734,Work Visa,2019-06-13,,Eligible,Verified
+VISA000875,DUD100735,Work Visa,2025-10-14,,Eligible,Verified
+VISA000876,DUD100736,Permanent Resident,2020-05-23,,Eligible,Verified
+VISA000877,DUD100737,Work Visa,2023-01-24,,Eligible,Verified
+VISA000878,DUD100738,Work Visa,2021-10-10,,Eligible,Verified
+VISA000879,DUD100739,Work Visa,2025-06-07,,Eligible,Verified
+VISA000880,DUD100740,Long-Term Resident,2019-10-04,,Eligible,Verified
+VISA000881,DUD100741,Spouse of Japanese National,2020-12-22,,Eligible,Verified
+VISA000882,DUD100742,Work Visa,2022-09-04,,Eligible,Verified
+VISA000883,DUD100743,Permanent Resident,2022-04-17,,Eligible,Verified
+VISA000884,DUD100744,Permanent Resident,2020-06-03,,Eligible,Verified
+VISA000885,DUD100745,Work Visa,2025-06-24,,Eligible,Verified
+VISA000886,DUD100746,Student Visa with Work Permission,2025-03-10,,Eligible,Verified
+VISA000887,DUD100747,Work Visa,2019-08-17,,Eligible,Verified
+VISA000888,DUD100748,Work Visa,2023-08-30,,Eligible,Verified
+VISA000889,DUD100749,Permanent Resident,2022-07-22,,Eligible,Verified
+VISA000890,DUD100750,Student Visa with Work Permission,2021-01-02,,Eligible,Verified
+VISA000891,DUD100751,Student Visa with Work Permission,2020-06-13,,Eligible,Verified
+VISA000892,DUD100752,Work Visa,2024-03-30,,Eligible,Verified
+VISA000893,DUD100753,Work Visa,2022-07-10,,Eligible,Verified
+VISA000894,DUD100754,Work Visa,2020-08-23,,Eligible,Verified
+VISA000895,DUD100755,Work Visa,2022-05-09,,Eligible,Verified
+VISA000896,DUD100756,Work Visa,2025-08-03,,Eligible,Verified
+VISA000897,DUD100757,Dependent Visa with Work Permission,2024-08-03,,Eligible,Verified
+VISA000898,DUD100758,Long-Term Resident,2020-01-03,,Eligible,Verified
+VISA000899,DUD100759,Long-Term Resident,2021-04-05,,Eligible,Verified
+VISA000900,DUD100760,Work Visa,2019-08-28,,Eligible,Verified
+VISA000901,DUD100761,Permanent Resident,2021-02-05,,Eligible,Verified
+VISA000902,DUD100762,Work Visa,2023-11-15,,Eligible,Verified
+VISA000903,DUD100763,Other Work-Eligible Status,2025-08-02,,Eligible,Verified
+VISA000904,DUD100764,Work Visa,2024-11-09,,Eligible,Verified
+VISA000905,DUD100765,Dependent Visa with Work Permission,2020-02-18,,Eligible,Verified
+VISA000906,DUD100766,Work Visa,2022-04-02,,Eligible,Verified
+VISA000907,DUD100767,Permanent Resident,2019-12-19,,Eligible,Verified
+VISA000908,DUD100768,Work Visa,2020-09-20,,Eligible,Verified
+VISA000909,DUD100769,Work Visa,2019-11-13,,Eligible,Verified
+VISA000910,DUD100770,Long-Term Resident,2024-01-30,,Eligible,Verified
+VISA000911,DUD100771,Dependent Visa with Work Permission,2025-11-05,,Eligible,Verified
+VISA000912,DUD100772,Student Visa with Work Permission,2021-04-18,,Eligible,Verified
+VISA000913,DUD100773,Work Visa,2025-05-11,,Eligible,Verified
+VISA000914,DUD100774,Other Work-Eligible Status,2022-01-11,,Eligible,Verified
+VISA000915,DUD100775,Student Visa with Work Permission,2025-06-18,,Eligible,Verified
+VISA000916,DUD100776,Spouse of Japanese National,2022-04-20,,Eligible,Verified
+VISA000917,DUD100777,Work Visa,2021-08-02,,Eligible,Verified
+VISA000918,DUD100778,Permanent Resident,2022-04-05,,Eligible,Verified
+VISA000919,DUD100779,Work Visa,2024-06-24,,Eligible,Verified
+VISA000920,DUD100780,Work Visa,2022-06-18,,Eligible,Verified
+VISA000921,DUD100781,Spouse of Japanese National,2026-01-24,,Eligible,Verified
+VISA000922,DUD100782,Permanent Resident,2023-04-24,,Eligible,Verified
+VISA000923,DUD100783,Permanent Resident,2022-05-14,,Eligible,Verified
+VISA000924,DUD100784,Permanent Resident,2019-10-06,,Eligible,Verified
+VISA000925,DUD100785,Work Visa,2025-12-31,,Eligible,Verified
+VISA000926,DUD100786,Permanent Resident,2024-02-08,,Eligible,Verified
+VISA000927,DUD100787,Permanent Resident,2019-10-09,,Eligible,Verified
+VISA000928,DUD100788,Student Visa with Work Permission,2020-03-17,,Eligible,Verified
+VISA000929,DUD100789,Student Visa with Work Permission,2026-02-04,,Eligible,Verified
+VISA000930,DUD100790,Work Visa,2022-11-03,,Eligible,Verified
+VISA000931,DUD100791,Spouse of Japanese National,2021-11-13,,Eligible,Verified
+VISA000932,DUD100792,Spouse of Japanese National,2023-02-08,,Eligible,Verified
+VISA000933,DUD100793,Work Visa,2025-07-11,,Eligible,Verified
+VISA000934,DUD100794,Work Visa,2023-09-04,,Eligible,Verified
+VISA000935,DUD100795,Permanent Resident,2020-07-08,,Eligible,Verified
+VISA000936,DUD100796,Spouse of Japanese National,2025-12-08,,Eligible,Verified
+VISA000937,DUD100797,Permanent Resident,2025-11-11,,Eligible,Verified
+VISA000938,DUD100798,Work Visa,2023-08-01,,Eligible,Verified
+VISA000939,DUD100799,Permanent Resident,2020-08-07,,Eligible,Verified
+VISA000940,DUD100800,Work Visa,2025-01-06,,Eligible,Verified
+VISA000941,DUD100801,Other Work-Eligible Status,2025-09-08,,Eligible,Verified
+VISA000942,DUD100802,Work Visa,2020-10-20,,Eligible,Verified
+VISA000943,DUD100803,Work Visa,2025-01-20,,Eligible,Verified
+VISA000944,DUD100804,Permanent Resident,2019-05-10,,Eligible,Verified
+VISA000945,DUD100805,Work Visa,2020-04-28,,Eligible,Verified
+VISA000946,DUD100806,Spouse of Japanese National,2025-10-24,,Eligible,Verified
+VISA000947,DUD100807,Permanent Resident,2023-04-19,,Eligible,Verified
+VISA000948,DUD100808,Work Visa,2020-07-20,,Eligible,Verified
+VISA000949,DUD100809,Permanent Resident,2023-11-02,,Eligible,Verified
+VISA000950,DUD100810,Other Work-Eligible Status,2023-02-10,,Eligible,Verified
+VISA000951,DUD100811,Work Visa,2019-07-21,2021-08-09,Eligible,Verified
+VISA000952,DUD100811,Permanent Resident,2021-08-10,,Eligible,Verified
+VISA000953,DUD100812,Work Visa,2025-04-15,,Eligible,Verified
+VISA000954,DUD100813,Long-Term Resident,2019-07-16,,Eligible,Verified
+VISA000955,DUD100814,Permanent Resident,2020-09-14,,Eligible,Verified
+VISA000956,DUD100815,Work Visa,2025-05-16,,Eligible,Verified
+VISA000957,DUD100816,Long-Term Resident,2022-04-07,,Eligible,Verified
+VISA000958,DUD100817,Work Visa,2019-06-25,,Eligible,Verified
+VISA000959,DUD100818,Work Visa,2020-07-10,,Eligible,Verified
+VISA000960,DUD100819,Work Visa,2023-10-27,,Eligible,Verified
+VISA000961,DUD100820,Permanent Resident,2025-08-21,,Eligible,Verified
+VISA000962,DUD100821,Long-Term Resident,2025-01-23,,Eligible,Verified
+VISA000963,DUD100822,Work Visa,2021-02-15,,Eligible,Verified
+VISA000964,DUD100823,Spouse of Japanese National,2020-08-07,,Eligible,Verified
+VISA000965,DUD100824,Spouse of Japanese National,2023-06-15,,Eligible,Verified
+VISA000966,DUD100825,Long-Term Resident,2021-04-08,,Eligible,Verified
+VISA000967,DUD100826,Work Visa,2025-08-05,,Pending,Verified
+VISA000968,DUD100827,Other Work-Eligible Status,2021-07-10,,Eligible,Verified
+VISA000969,DUD100828,Work Visa,2025-12-09,,Eligible,Verified
+VISA000970,DUD100829,Spouse of Japanese National,2020-11-25,,Eligible,Verified
+VISA000971,DUD100830,Work Visa,2020-07-31,,Eligible,Verified
+VISA000972,DUD100831,Other Work-Eligible Status,2022-06-03,,Eligible,Verified
+VISA000973,DUD100832,Spouse of Japanese National,2024-07-16,,Eligible,Verified
+VISA000974,DUD100833,Work Visa,2023-05-04,,Eligible,Verified
+VISA000975,DUD100834,Permanent Resident,2022-02-08,,Eligible,Verified
+VISA000976,DUD100835,Other Work-Eligible Status,2019-09-15,,Eligible,Verified
+VISA000977,DUD100836,Permanent Resident,2020-05-31,,Pending,Verified
+VISA000978,DUD100837,Spouse of Japanese National,2023-05-26,,Eligible,Verified
+VISA000979,DUD100838,Work Visa,2022-05-22,,Eligible,Verified
+VISA000980,DUD100839,Work Visa,2025-09-04,,Eligible,Verified
+VISA000981,DUD100840,Work Visa,2019-05-19,,Eligible,Verified
+VISA000982,DUD100841,Spouse of Japanese National,2020-11-14,,Eligible,Verified
+VISA000983,DUD100842,Other Work-Eligible Status,2025-02-24,,Eligible,Verified
+VISA000984,DUD100843,Work Visa,2022-07-02,,Eligible,Verified
+VISA000985,DUD100844,Other Work-Eligible Status,2025-02-06,,Eligible,Verified
+VISA000986,DUD100845,Work Visa,2020-06-22,,Eligible,Verified
+VISA000987,DUD100846,Spouse of Japanese National,2019-07-13,,Eligible,Verified
+VISA000988,DUD100847,Work Visa,2021-12-09,2023-12-20,Eligible,Verified
+VISA000989,DUD100847,Spouse of Japanese National,2023-12-21,,Eligible,Verified
+VISA000990,DUD100848,Long-Term Resident,2025-02-20,,Eligible,Verified
+VISA000991,DUD100849,Long-Term Resident,2021-02-20,,Eligible,Verified
+VISA000992,DUD100850,Work Visa,2025-07-19,,Eligible,Verified
+VISA000993,DUD100851,Permanent Resident,2022-01-13,,Eligible,Verified
+VISA000994,DUD100852,Work Visa,2023-03-06,,Eligible,Verified
+VISA000995,DUD100853,Permanent Resident,2020-03-02,,Eligible,Verified
+VISA000996,DUD100854,Work Visa,2024-08-21,,Eligible,Verified
+VISA000997,DUD100855,Long-Term Resident,2023-11-07,,Eligible,Verified
+VISA000998,DUD100856,Work Visa,2022-09-05,,Eligible,Verified
+VISA000999,DUD100857,Spouse of Japanese National,2024-01-18,,Eligible,Verified
+VISA001000,DUD100858,Work Visa,2019-09-14,,Eligible,Verified
+VISA001001,DUD100859,Work Visa,2023-04-14,,Eligible,Verified
+VISA001002,DUD100860,Permanent Resident,2020-09-21,,Eligible,Verified
+VISA001003,DUD100861,Work Visa,2020-12-11,,Eligible,Verified
+VISA001004,DUD100862,Work Visa,2021-05-23,,Eligible,Verified
+VISA001005,DUD100863,Spouse of Japanese National,2022-01-15,,Eligible,Verified
+VISA001006,DUD100864,Permanent Resident,2022-04-21,,Eligible,Verified
+VISA001007,DUD100865,Work Visa,2019-07-06,,Eligible,Verified
+VISA001008,DUD100866,Student Visa with Work Permission,2023-02-04,,Eligible,Verified
+VISA001009,DUD100867,Permanent Resident,2023-02-15,,Eligible,Verified
+VISA001010,DUD100868,Work Visa,2025-08-13,,Eligible,Verified
+VISA001011,DUD100869,Permanent Resident,2020-05-14,,Pending,Verified
+VISA001012,DUD100870,Spouse of Japanese National,2022-05-27,,Eligible,Verified
+VISA001013,DUD100871,Work Visa,2024-04-19,,Eligible,Verified
+VISA001014,DUD100872,Work Visa,2023-12-21,,Eligible,Verified
+VISA001015,DUD100873,Permanent Resident,2022-01-23,,Eligible,Verified
+VISA001016,DUD100874,Work Visa,2021-12-11,2024-08-25,Eligible,Verified
+VISA001017,DUD100874,Long-Term Resident,2024-08-26,,Eligible,Verified
+VISA001018,DUD100875,Work Visa,2021-04-08,,Eligible,Verified
+VISA001019,DUD100876,Spouse of Japanese National,2023-11-17,,Eligible,Verified
+VISA001020,DUD100877,Permanent Resident,2019-12-10,,Eligible,Verified
+VISA001021,DUD100878,Spouse of Japanese National,2025-10-24,,Eligible,Verified
+VISA001022,DUD100879,Work Visa,2023-01-01,,Eligible,Verified
+VISA001023,DUD100880,Other Work-Eligible Status,2025-11-30,,Eligible,Verified
+VISA001024,DUD100881,Work Visa,2022-09-15,,Eligible,Verified
+VISA001025,DUD100882,Other Work-Eligible Status,2022-08-27,,Eligible,Verified
+VISA001026,DUD100883,Long-Term Resident,2024-11-22,,Eligible,Verified
+VISA001027,DUD100884,Work Visa,2023-02-08,,Eligible,Verified
+VISA001028,DUD100885,Work Visa,2025-03-14,,Eligible,Verified
+VISA001029,DUD100886,Work Visa,2020-03-16,,Eligible,Verified
+VISA001030,DUD100887,Spouse of Japanese National,2024-05-17,,Eligible,Verified
+VISA001031,DUD100888,Work Visa,2021-10-26,,Eligible,Verified
+VISA001032,DUD100889,Work Visa,2021-06-20,,Eligible,Verified
+VISA001033,DUD100890,Work Visa,2024-05-12,,Eligible,Verified
+VISA001034,DUD100891,Spouse of Japanese National,2025-03-26,,Eligible,Verified
+VISA001035,DUD100892,Long-Term Resident,2025-01-01,,Eligible,Verified
+VISA001036,DUD100893,Spouse of Japanese National,2020-07-13,,Eligible,Verified
+VISA001037,DUD100894,Other Work-Eligible Status,2023-10-04,,Eligible,Verified
+VISA001038,DUD100895,Permanent Resident,2022-03-27,,Eligible,Verified
+VISA001039,DUD100896,Work Visa,2019-12-13,,Eligible,Verified
+VISA001040,DUD100897,Spouse of Japanese National,2023-06-08,,Eligible,Verified
+VISA001041,DUD100898,Student Visa with Work Permission,2021-01-27,,Eligible,Verified
+VISA001042,DUD100899,Long-Term Resident,2026-02-06,,Pending,Verified
+VISA001043,DUD100900,Long-Term Resident,2023-12-16,,Eligible,Verified
+VISA001044,DUD100901,Long-Term Resident,2022-07-29,,Eligible,Verified
+VISA001045,DUD100902,Permanent Resident,2024-06-11,,Eligible,Verified
+VISA001046,DUD100903,Long-Term Resident,2025-03-05,,Eligible,Verified
+VISA001047,DUD100904,Work Visa,2025-08-04,,Eligible,Verified
+VISA001048,DUD100905,Permanent Resident,2024-02-25,,Eligible,Verified
+VISA001049,DUD100906,Work Visa,2024-03-04,,Eligible,Verified
+VISA001050,DUD100907,Work Visa,2025-04-03,,Eligible,Verified
+VISA001051,DUD100908,Permanent Resident,2019-10-03,,Eligible,Verified
+VISA001052,DUD100909,Permanent Resident,2023-03-26,,Eligible,Verified
+VISA001053,DUD100910,Permanent Resident,2023-09-28,,Eligible,Verified
+VISA001054,DUD100911,Other Work-Eligible Status,2023-04-30,,Eligible,Verified
+VISA001055,DUD100912,Work Visa,2023-10-26,,Eligible,Verified
+VISA001056,DUD100913,Work Visa,2019-07-04,2022-05-04,Eligible,Verified
+VISA001057,DUD100913,Long-Term Resident,2022-05-05,,Eligible,Verified
+VISA001058,DUD100914,Work Visa,2021-09-03,,Eligible,Verified
+VISA001059,DUD100915,Student Visa with Work Permission,2023-06-02,,Eligible,Verified
+VISA001060,DUD100916,Permanent Resident,2024-07-11,,Eligible,Verified
+VISA001061,DUD100917,Permanent Resident,2021-10-01,,Eligible,Verified
+VISA001062,DUD100918,Student Visa with Work Permission,2024-08-03,,Eligible,Verified
+VISA001063,DUD100919,Work Visa,2021-10-01,,Pending,Verified
+VISA001064,DUD100920,Work Visa,2022-08-26,,Eligible,Verified
+VISA001065,DUD100921,Student Visa with Work Permission,2023-08-15,,Eligible,Verified
+VISA001066,DUD100922,Work Visa,2023-02-13,,Eligible,Verified
+VISA001067,DUD100923,Work Visa,2025-02-04,,Eligible,Verified
+VISA001068,DUD100924,Work Visa,2022-03-14,,Eligible,Verified
+VISA001069,DUD100925,Work Visa,2022-09-23,,Eligible,Verified
+VISA001070,DUD100926,Student Visa with Work Permission,2021-10-19,,Eligible,Verified
+VISA001071,DUD100927,Long-Term Resident,2021-02-27,,Eligible,Verified
+VISA001072,DUD100928,Work Visa,2024-01-18,,Eligible,Verified
+VISA001073,DUD100929,Work Visa,2023-11-10,,Eligible,Verified
+VISA001074,DUD100930,Permanent Resident,2021-11-12,,Eligible,Verified
+VISA001075,DUD100931,Permanent Resident,2022-10-12,,Eligible,Verified
+VISA001076,DUD100932,Work Visa,2023-02-25,2025-09-06,Eligible,Verified
+VISA001077,DUD100932,Spouse of Japanese National,2025-09-07,,Eligible,Verified
+VISA001078,DUD100933,Dependent Visa with Work Permission,2022-07-13,,Eligible,Verified
+VISA001079,DUD100934,Work Visa,2020-07-01,,Eligible,Verified
+VISA001080,DUD100935,Work Visa,2020-06-10,,Eligible,Verified
+VISA001081,DUD100936,Permanent Resident,2023-07-17,,Pending,Verified
+VISA001082,DUD100937,Other Work-Eligible Status,2019-09-22,,Eligible,Verified
+VISA001083,DUD100938,Other Work-Eligible Status,2022-12-11,,Eligible,Verified
+VISA001084,DUD100939,Work Visa,2019-10-23,,Eligible,Verified
+VISA001085,DUD100940,Student Visa with Work Permission,2023-01-08,,Eligible,Verified
+VISA001086,DUD100941,Spouse of Japanese National,2023-07-22,,Eligible,Verified
+VISA001087,DUD100942,Work Visa,2025-07-22,,Eligible,Verified
+VISA001088,DUD100943,Spouse of Japanese National,2023-02-09,,Eligible,Verified
+VISA001089,DUD100944,Work Visa,2025-05-27,,Eligible,Verified
+VISA001090,DUD100945,Work Visa,2022-08-05,,Eligible,Verified
+VISA001091,DUD100946,Spouse of Japanese National,2023-08-26,,Eligible,Verified
+VISA001092,DUD100947,Other Work-Eligible Status,2020-10-12,,Eligible,Verified
+VISA001093,DUD100948,Work Visa,2023-03-19,,Eligible,Verified
+VISA001094,DUD100949,Spouse of Japanese National,2021-03-02,,Eligible,Verified
+VISA001095,DUD100950,Permanent Resident,2019-08-13,,Eligible,Verified
+VISA001096,DUD100951,Work Visa,2025-09-15,,Eligible,Verified
+VISA001097,DUD100952,Permanent Resident,2020-02-04,,Eligible,Verified
+VISA001098,DUD100953,Permanent Resident,2020-04-02,,Eligible,Verified
+VISA001099,DUD100954,Student Visa with Work Permission,2022-02-11,,Eligible,Verified
+VISA001100,DUD100955,Work Visa,2026-01-17,,Eligible,Verified
+VISA001101,DUD100956,Work Visa,2025-08-31,,Eligible,Verified
+VISA001102,DUD100957,Work Visa,2021-01-12,,Eligible,Verified
+VISA001103,DUD100958,Spouse of Japanese National,2020-08-30,,Eligible,Verified
+VISA001104,DUD100959,Work Visa,2025-06-18,,Eligible,Verified
+VISA001105,DUD100960,Spouse of Japanese National,2023-10-13,,Eligible,Verified
+VISA001106,DUD100961,Permanent Resident,2022-06-11,,Eligible,Verified
+VISA001107,DUD100962,Permanent Resident,2023-08-19,,Eligible,Verified
+VISA001108,DUD100963,Long-Term Resident,2019-10-31,,Eligible,Verified
+VISA001109,DUD100964,Work Visa,2024-12-24,,Eligible,Verified
+VISA001110,DUD100965,Spouse of Japanese National,2025-09-15,,Eligible,Verified
+VISA001111,DUD100966,Dependent Visa with Work Permission,2023-09-10,,Eligible,Verified
+VISA001112,DUD100967,Permanent Resident,2022-09-26,,Eligible,Verified
+VISA001113,DUD100968,Spouse of Japanese National,2024-04-17,,Eligible,Verified
+VISA001114,DUD100969,Work Visa,2023-09-27,,Eligible,Verified
+VISA001115,DUD100970,Dependent Visa with Work Permission,2025-01-22,,Eligible,Verified
+VISA001116,DUD100971,Permanent Resident,2023-06-12,,Eligible,Verified
+VISA001117,DUD100972,Work Visa,2022-02-20,,Eligible,Verified
+VISA001118,DUD100973,Work Visa,2024-03-02,,Eligible,Verified
+VISA001119,DUD100974,Work Visa,2025-03-28,,Eligible,Verified
+VISA001120,DUD100975,Work Visa,2023-08-29,,Eligible,Verified
+VISA001121,DUD100976,Spouse of Japanese National,2022-06-21,,Eligible,Verified
+VISA001122,DUD100977,Permanent Resident,2025-05-04,,Eligible,Verified
+VISA001123,DUD100978,Work Visa,2019-10-06,,Eligible,Verified
+VISA001124,DUD100979,Work Visa,2024-05-10,,Eligible,Verified
+VISA001125,DUD100980,Permanent Resident,2023-05-26,,Eligible,Verified
+VISA001126,DUD100981,Student Visa with Work Permission,2023-11-15,,Eligible,Verified
+VISA001127,DUD100982,Student Visa with Work Permission,2022-05-17,,Eligible,Verified
+VISA001128,DUD100983,Work Visa,2024-09-24,,Eligible,Verified
+VISA001129,DUD100984,Spouse of Japanese National,2019-11-13,,Eligible,Verified
+VISA001130,DUD100985,Work Visa,2023-02-07,,Eligible,Verified
+VISA001131,DUD100986,Spouse of Japanese National,2025-06-30,,Eligible,Verified
+VISA001132,DUD100987,Spouse of Japanese National,2023-07-24,,Eligible,Verified
+VISA001133,DUD100988,Work Visa,2025-08-19,,Eligible,Verified
+VISA001134,DUD100989,Permanent Resident,2022-11-13,,Eligible,Verified
+VISA001135,DUD100990,Work Visa,2025-01-09,,Eligible,Verified
+VISA001136,DUD100991,Work Visa,2024-06-10,,Eligible,Verified
+VISA001137,DUD100992,Work Visa,2019-09-17,,Eligible,Verified
+VISA001138,DUD100993,Work Visa,2022-06-05,,Eligible,Verified
+VISA001139,DUD100994,Long-Term Resident,2019-12-27,,Eligible,Verified
+VISA001140,DUD100995,Work Visa,2024-06-20,,Eligible,Verified
+VISA001141,DUD100996,Permanent Resident,2019-04-29,,Eligible,Verified
+VISA001142,DUD100997,Work Visa,2021-05-17,,Eligible,Verified
+VISA001143,DUD100998,Work Visa,2025-09-18,,Eligible,Verified
+VISA001144,DUD100999,Permanent Resident,2024-12-25,,Eligible,Verified
+VISA001145,DUD101000,Long-Term Resident,2019-12-22,,Eligible,Verified
+VISA001146,DUD101001,Work Visa,2022-11-13,,Eligible,Verified
+VISA001147,DUD101002,Permanent Resident,2022-09-05,,Eligible,Verified
+VISA001148,DUD101003,Work Visa,2023-10-22,,Eligible,Verified
+VISA001149,DUD101004,Other Work-Eligible Status,2021-03-12,,Eligible,Verified
+VISA001150,DUD101005,Work Visa,2025-06-06,,Eligible,Verified
+VISA001151,DUD101006,Work Visa,2022-12-07,,Eligible,Verified
+VISA001152,DUD101007,Student Visa with Work Permission,2022-10-15,,Eligible,Verified
+VISA001153,DUD101008,Dependent Visa with Work Permission,2024-04-16,,Eligible,Verified
+VISA001154,DUD101009,Work Visa,2025-10-15,,Eligible,Verified
+VISA001155,DUD101010,Work Visa,2024-08-04,,Eligible,Verified
+VISA001156,DUD101011,Spouse of Japanese National,2023-09-06,,Eligible,Verified
+VISA001157,DUD101012,Work Visa,2024-09-14,,Eligible,Verified
+VISA001158,DUD101013,Work Visa,2019-12-28,,Eligible,Verified
+VISA001159,DUD101014,Work Visa,2023-12-24,,Eligible,Verified
+VISA001160,DUD101015,Work Visa,2021-07-11,,Eligible,Verified
+VISA001161,DUD101016,Spouse of Japanese National,2023-07-02,,Eligible,Verified
+VISA001162,DUD101017,Work Visa,2019-12-08,,Eligible,Verified
+VISA001163,DUD101018,Work Visa,2023-04-12,,Eligible,Verified
+VISA001164,DUD101019,Work Visa,2024-04-16,,Eligible,Verified
+VISA001165,DUD101020,Permanent Resident,2019-09-27,,Eligible,Verified
+VISA001166,DUD101021,Student Visa with Work Permission,2023-12-12,,Eligible,Verified
+VISA001167,DUD101022,Work Visa,2021-02-13,,Eligible,Verified
+VISA001168,DUD101023,Work Visa,2021-06-20,,Eligible,Verified
+VISA001169,DUD101024,Other Work-Eligible Status,2021-07-27,,Eligible,Verified
+VISA001170,DUD101025,Work Visa,2022-02-03,,Eligible,Verified
+VISA001171,DUD101026,Work Visa,2023-09-06,,Eligible,Verified
+VISA001172,DUD101027,Spouse of Japanese National,2022-05-27,,Eligible,Verified
+VISA001173,DUD101028,Long-Term Resident,2023-06-08,,Eligible,Verified
+VISA001174,DUD101029,Spouse of Japanese National,2019-08-31,,Eligible,Verified
+VISA001175,DUD101030,Work Visa,2020-01-04,,Eligible,Verified
+VISA001176,DUD101031,Student Visa with Work Permission,2022-06-20,,Eligible,Verified
+VISA001177,DUD101032,Work Visa,2024-03-05,,Eligible,Verified
+VISA001178,DUD101033,Work Visa,2023-06-22,,Eligible,Verified
+VISA001179,DUD101034,Permanent Resident,2024-11-06,,Eligible,Verified
+VISA001180,DUD101035,Permanent Resident,2025-05-14,,Eligible,Verified
+VISA001181,DUD101036,Permanent Resident,2025-09-09,,Eligible,Verified
+VISA001182,DUD101037,Long-Term Resident,2025-06-23,,Eligible,Verified
+VISA001183,DUD101038,Work Visa,2023-09-02,,Eligible,Verified
+VISA001184,DUD101039,Work Visa,2024-12-21,,Eligible,Verified
+VISA001185,DUD101040,Permanent Resident,2021-05-22,,Eligible,Verified
+VISA001186,DUD101041,Dependent Visa with Work Permission,2019-06-05,,Eligible,Verified
+VISA001187,DUD101042,Work Visa,2024-11-17,,Eligible,Verified
+VISA001188,DUD101043,Work Visa,2024-09-29,,Eligible,Verified
+VISA001189,DUD101044,Dependent Visa with Work Permission,2022-01-02,,Eligible,Verified
+VISA001190,DUD101045,Permanent Resident,2019-08-23,,Eligible,Verified
+VISA001191,DUD101046,Spouse of Japanese National,2024-10-07,,Eligible,Verified
+VISA001192,DUD101047,Work Visa,2024-09-19,,Eligible,Verified
+VISA001193,DUD101048,Work Visa,2020-07-22,2023-08-19,Eligible,Verified
+VISA001194,DUD101048,Long-Term Resident,2023-08-20,,Eligible,Verified
+VISA001195,DUD101049,Work Visa,2023-06-07,,Eligible,Verified
+VISA001196,DUD101050,Spouse of Japanese National,2025-01-05,,Eligible,Verified
+VISA001197,DUD101051,Spouse of Japanese National,2025-05-26,,Eligible,Verified
+VISA001198,DUD101052,Work Visa,2022-08-17,,Eligible,Verified
+VISA001199,DUD101053,Work Visa,2020-10-23,,Eligible,Verified
+VISA001200,DUD101054,Spouse of Japanese National,2020-09-29,,Eligible,Verified
+VISA001201,DUD101055,Work Visa,2022-03-24,,Eligible,Verified
+VISA001202,DUD101056,Student Visa with Work Permission,2020-09-18,,Eligible,Verified
+VISA001203,DUD101057,Work Visa,2020-01-14,,Eligible,Verified
+VISA001204,DUD101058,Work Visa,2022-12-29,,Eligible,Verified
+VISA001205,DUD101059,Work Visa,2019-12-22,,Eligible,Verified
+VISA001206,DUD101060,Long-Term Resident,2021-06-20,,Eligible,Verified
+VISA001207,DUD101061,Student Visa with Work Permission,2023-05-12,,Eligible,Verified
+VISA001208,DUD101062,Work Visa,2024-11-06,,Eligible,Verified
+VISA001209,DUD101063,Work Visa,2023-07-17,,Eligible,Verified
+VISA001210,DUD101064,Dependent Visa with Work Permission,2022-03-25,,Eligible,Verified
+VISA001211,DUD101065,Work Visa,2020-01-21,,Eligible,Verified
+VISA001212,DUD101066,Spouse of Japanese National,2023-01-31,,Eligible,Verified
+VISA001213,DUD101067,Work Visa,2022-11-12,,Eligible,Verified
+VISA001214,DUD101068,Work Visa,2020-08-26,2024-09-06,Eligible,Verified
+VISA001215,DUD101068,Spouse of Japanese National,2024-09-07,,Eligible,Verified
+VISA001216,DUD101069,Permanent Resident,2023-08-15,,Eligible,Verified
+VISA001217,DUD101070,Permanent Resident,2024-10-17,,Eligible,Verified
+VISA001218,DUD101071,Permanent Resident,2023-06-30,,Eligible,Verified
+VISA001219,DUD101072,Other Work-Eligible Status,2025-08-01,,Eligible,Verified
+VISA001220,DUD101073,Permanent Resident,2024-01-04,,Eligible,Verified
+VISA001221,DUD101074,Permanent Resident,2021-07-07,,Eligible,Verified
+VISA001222,DUD101075,Work Visa,2022-02-23,,Eligible,Verified
+VISA001223,DUD101076,Spouse of Japanese National,2025-09-21,,Eligible,Verified
+VISA001224,DUD101077,Permanent Resident,2020-01-25,,Eligible,Verified
+VISA001225,DUD101078,Work Visa,2022-12-21,,Pending,Verified
+VISA001226,DUD101079,Work Visa,2026-02-23,,Eligible,Verified
+VISA001227,DUD101080,Work Visa,2023-06-28,,Eligible,Verified
+VISA001228,DUD101081,Work Visa,2023-11-09,,Eligible,Verified
+VISA001229,DUD101082,Work Visa,2023-07-28,,Eligible,Verified
+VISA001230,DUD101083,Work Visa,2021-12-31,,Eligible,Verified
+VISA001231,DUD101084,Work Visa,2022-01-30,,Eligible,Verified
+VISA001232,DUD101085,Work Visa,2023-04-19,,Eligible,Verified
+VISA001233,DUD101086,Student Visa with Work Permission,2020-12-11,,Eligible,Verified
+VISA001234,DUD101087,Work Visa,2022-12-07,,Eligible,Verified
+VISA001235,DUD101088,Student Visa with Work Permission,2021-01-17,,Eligible,Verified
+VISA001236,DUD101089,Work Visa,2019-10-07,,Eligible,Verified
+VISA001237,DUD101090,Work Visa,2020-01-02,2022-07-21,Eligible,Verified
+VISA001238,DUD101090,Permanent Resident,2022-07-22,,Eligible,Verified
+VISA001239,DUD101091,Work Visa,2023-06-30,,Eligible,Verified
+VISA001240,DUD101092,Work Visa,2022-01-06,2025-05-10,Eligible,Verified
+VISA001241,DUD101092,Spouse of Japanese National,2025-05-11,,Eligible,Verified
+VISA001242,DUD101093,Long-Term Resident,2020-12-14,,Eligible,Verified
+VISA001243,DUD101094,Work Visa,2022-12-26,,Eligible,Verified
+VISA001244,DUD101095,Dependent Visa with Work Permission,2023-01-27,,Eligible,Verified
+VISA001245,DUD101096,Permanent Resident,2021-02-14,,Eligible,Verified
+VISA001246,DUD101097,Work Visa,2020-12-14,,Eligible,Verified
+VISA001247,DUD101098,Student Visa with Work Permission,2019-09-25,,Eligible,Verified
+VISA001248,DUD101099,Work Visa,2020-01-06,,Eligible,Verified
+VISA001249,DUD101100,Work Visa,2024-08-13,,Eligible,Verified
+VISA001250,DUD101101,Work Visa,2021-08-17,,Pending,Verified
+VISA001251,DUD101102,Spouse of Japanese National,2023-01-14,,Eligible,Verified
+VISA001252,DUD101103,Work Visa,2023-08-24,,Eligible,Verified
+VISA001253,DUD101104,Permanent Resident,2022-12-23,,Eligible,Verified
+VISA001254,DUD101105,Work Visa,2023-01-04,,Eligible,Verified
+VISA001255,DUD101106,Long-Term Resident,2023-02-28,,Eligible,Verified
+VISA001256,DUD101107,Permanent Resident,2025-12-02,,Eligible,Verified
+VISA001257,DUD101108,Permanent Resident,2019-10-09,,Eligible,Verified
+VISA001258,DUD101109,Permanent Resident,2021-10-13,,Eligible,Verified
+VISA001259,DUD101110,Work Visa,2021-12-16,,Eligible,Verified
+VISA001260,DUD101111,Long-Term Resident,2019-11-11,,Eligible,Verified
+VISA001261,DUD101112,Work Visa,2022-12-27,,Eligible,Verified
+VISA001262,DUD101113,Permanent Resident,2021-02-11,,Eligible,Verified
+VISA001263,DUD101114,Work Visa,2020-01-20,,Eligible,Verified
+VISA001264,DUD101115,Permanent Resident,2023-04-24,,Eligible,Verified
+VISA001265,DUD101116,Long-Term Resident,2021-01-28,,Eligible,Verified
+VISA001266,DUD101117,Student Visa with Work Permission,2025-01-21,,Eligible,Verified
+VISA001267,DUD101118,Work Visa,2022-11-30,,Eligible,Verified
+VISA001268,DUD101119,Work Visa,2019-05-11,,Eligible,Verified
+VISA001269,DUD101120,Work Visa,2020-08-22,,Eligible,Verified
+VISA001270,DUD101121,Permanent Resident,2020-11-03,,Eligible,Verified
+VISA001271,DUD101122,Permanent Resident,2019-07-26,,Pending,Verified
+VISA001272,DUD101123,Work Visa,2025-09-22,,Eligible,Verified
+VISA001273,DUD101124,Other Work-Eligible Status,2022-08-04,,Eligible,Verified
+VISA001274,DUD101125,Long-Term Resident,2024-08-06,,Eligible,Verified
+VISA001275,DUD101126,Permanent Resident,2021-02-23,,Eligible,Verified
+VISA001276,DUD101127,Work Visa,2025-03-10,,Eligible,Verified
+VISA001277,DUD101128,Permanent Resident,2023-02-13,,Eligible,Verified
+VISA001278,DUD101129,Work Visa,2020-07-25,2025-03-08,Eligible,Verified
+VISA001279,DUD101129,Spouse of Japanese National,2025-03-09,,Eligible,Verified
+VISA001280,DUD101130,Long-Term Resident,2019-10-31,,Eligible,Verified
+VISA001281,DUD101131,Permanent Resident,2023-02-03,,Eligible,Verified
+VISA001282,DUD101132,Work Visa,2021-07-31,,Eligible,Verified
+VISA001283,DUD101133,Work Visa,2021-01-10,,Eligible,Verified
+VISA001284,DUD101134,Permanent Resident,2024-08-15,,Eligible,Verified
+VISA001285,DUD101135,Permanent Resident,2022-04-14,,Eligible,Verified
+VISA001286,DUD101136,Work Visa,2022-04-24,,Eligible,Verified
+VISA001287,DUD101137,Work Visa,2022-01-19,,Pending,Verified
+VISA001288,DUD101138,Work Visa,2024-01-02,,Eligible,Verified
+VISA001289,DUD101139,Other Work-Eligible Status,2026-01-16,,Eligible,Verified
+VISA001290,DUD101140,Other Work-Eligible Status,2025-03-31,,Eligible,Verified
+VISA001291,DUD101141,Work Visa,2021-08-01,,Eligible,Verified
+VISA001292,DUD101142,Work Visa,2025-11-14,,Eligible,Verified
+VISA001293,DUD101143,Work Visa,2022-02-14,,Eligible,Verified
+VISA001294,DUD101144,Other Work-Eligible Status,2024-10-22,,Eligible,Verified
+VISA001295,DUD101145,Spouse of Japanese National,2024-05-13,,Eligible,Verified
+VISA001296,DUD101146,Work Visa,2019-10-26,,Eligible,Verified
+VISA001297,DUD101147,Long-Term Resident,2022-09-05,,Eligible,Verified
+VISA001298,DUD101148,Spouse of Japanese National,2020-06-20,,Eligible,Verified
+VISA001299,DUD101149,Permanent Resident,2025-12-16,,Eligible,Verified
+VISA001300,DUD101150,Work Visa,2024-04-05,,Pending,Verified
+VISA001301,DUD101151,Student Visa with Work Permission,2020-08-10,,Eligible,Verified
+VISA001302,DUD101152,Spouse of Japanese National,2021-11-30,,Eligible,Verified
+VISA001303,DUD101153,Work Visa,2025-05-31,,Eligible,Verified
+VISA001304,DUD101154,Work Visa,2025-05-20,,Eligible,Verified
+VISA001305,DUD101155,Work Visa,2019-08-05,,Eligible,Verified
+VISA001306,DUD101156,Student Visa with Work Permission,2023-06-01,,Eligible,Verified
+VISA001307,DUD101157,Work Visa,2022-07-18,,Eligible,Verified
+VISA001308,DUD101158,Work Visa,2022-07-13,,Pending,Verified
+VISA001309,DUD101159,Permanent Resident,2023-07-07,,Eligible,Verified
+VISA001310,DUD101160,Permanent Resident,2025-01-01,,Eligible,Verified
+VISA001311,DUD101161,Work Visa,2021-08-06,,Pending,Verified
+VISA001312,DUD101162,Work Visa,2022-02-25,,Eligible,Verified
+VISA001313,DUD101163,Work Visa,2021-06-15,,Eligible,Verified
+VISA001314,DUD101164,Spouse of Japanese National,2025-02-22,,Eligible,Verified
+VISA001315,DUD101165,Other Work-Eligible Status,2025-03-17,,Eligible,Verified
+VISA001316,DUD101166,Permanent Resident,2023-07-03,,Eligible,Verified
+VISA001317,DUD101167,Permanent Resident,2019-07-26,,Eligible,Verified
+VISA001318,DUD101168,Work Visa,2025-01-28,,Eligible,Verified
+VISA001319,DUD101169,Work Visa,2022-07-14,,Eligible,Verified
+VISA001320,DUD101170,Permanent Resident,2020-05-25,,Eligible,Verified
+VISA001321,DUD101171,Work Visa,2021-09-08,,Eligible,Verified
+VISA001322,DUD101172,Work Visa,2023-08-15,,Eligible,Verified
+VISA001323,DUD101173,Work Visa,2019-08-17,,Eligible,Verified
+VISA001324,DUD101174,Work Visa,2022-07-01,,Eligible,Verified
+VISA001325,DUD101175,Spouse of Japanese National,2026-01-08,,Eligible,Verified
+VISA001326,DUD101176,Permanent Resident,2019-08-05,,Eligible,Verified
+VISA001327,DUD101177,Work Visa,2023-12-11,,Eligible,Verified
+VISA001328,DUD101178,Spouse of Japanese National,2023-01-19,,Eligible,Verified
+VISA001329,DUD101179,Work Visa,2019-11-29,,Eligible,Verified
+VISA001330,DUD101180,Work Visa,2021-04-12,,Eligible,Verified
+VISA001331,DUD101181,Spouse of Japanese National,2020-11-24,,Eligible,Verified
+VISA001332,DUD101182,Work Visa,2021-12-13,,Eligible,Verified
+VISA001333,DUD101183,Permanent Resident,2023-06-10,,Eligible,Verified
+VISA001334,DUD101184,Work Visa,2024-05-07,,Eligible,Verified
+VISA001335,DUD101185,Spouse of Japanese National,2026-01-15,,Eligible,Verified
+VISA001336,DUD101186,Long-Term Resident,2025-08-23,,Eligible,Verified
+VISA001337,DUD101187,Dependent Visa with Work Permission,2021-05-22,,Eligible,Verified
+VISA001338,DUD101188,Long-Term Resident,2019-07-21,,Eligible,Verified
+VISA001339,DUD101189,Long-Term Resident,2026-01-30,,Eligible,Verified
+VISA001340,DUD101190,Long-Term Resident,2020-07-30,,Eligible,Verified
+VISA001341,DUD101191,Student Visa with Work Permission,2022-03-27,,Eligible,Verified
+VISA001342,DUD101192,Work Visa,2022-10-24,,Eligible,Verified
+VISA001343,DUD101193,Student Visa with Work Permission,2019-10-11,,Eligible,Verified
+VISA001344,DUD101194,Long-Term Resident,2020-08-17,,Eligible,Verified
+VISA001345,DUD101195,Work Visa,2020-03-03,2024-12-19,Eligible,Verified
+VISA001346,DUD101195,Long-Term Resident,2024-12-20,,Eligible,Verified
+VISA001347,DUD101196,Dependent Visa with Work Permission,2020-11-10,,Pending,Verified
+VISA001348,DUD101197,Work Visa,2024-05-11,,Eligible,Verified
+VISA001349,DUD101198,Work Visa,2024-08-23,,Eligible,Verified
+VISA001350,DUD101199,Permanent Resident,2020-01-07,,Eligible,Verified
+VISA001351,DUD101200,Long-Term Resident,2025-06-08,,Eligible,Verified
+VISA001352,DUD101201,Long-Term Resident,2025-01-22,,Eligible,Verified
+VISA001353,DUD101202,Work Visa,2022-04-06,,Eligible,Verified
+VISA001354,DUD101203,Work Visa,2022-06-11,,Eligible,Verified
+VISA001355,DUD101204,Work Visa,2021-03-27,,Eligible,Verified
+VISA001356,DUD101205,Long-Term Resident,2025-05-25,,Eligible,Verified
+VISA001357,DUD101206,Spouse of Japanese National,2020-08-10,,Eligible,Verified
+VISA001358,DUD101207,Permanent Resident,2025-11-22,,Eligible,Verified
+VISA001359,DUD101208,Long-Term Resident,2020-12-18,,Eligible,Verified
+VISA001360,DUD101209,Work Visa,2023-09-19,,Eligible,Verified
+VISA001361,DUD101210,Student Visa with Work Permission,2021-03-16,,Eligible,Verified
+VISA001362,DUD101211,Permanent Resident,2026-02-14,,Pending,Verified
+VISA001363,DUD101212,Work Visa,2021-11-18,,Eligible,Verified
+VISA001364,DUD101213,Work Visa,2025-07-05,,Eligible,Verified
+VISA001365,DUD101214,Permanent Resident,2021-12-17,,Eligible,Verified
+VISA001366,DUD101215,Spouse of Japanese National,2020-01-09,,Eligible,Verified
+VISA001367,DUD101216,Work Visa,2021-01-16,,Eligible,Verified
+VISA001368,DUD101217,Work Visa,2021-12-09,,Eligible,Verified
+VISA001369,DUD101218,Work Visa,2020-08-29,,Eligible,Verified
+VISA001370,DUD101219,Work Visa,2021-06-16,,Eligible,Verified
+VISA001371,DUD101220,Work Visa,2021-10-24,2023-12-09,Eligible,Verified
+VISA001372,DUD101220,Spouse of Japanese National,2023-12-10,,Eligible,Verified
+VISA001373,DUD101221,Permanent Resident,2024-09-05,,Eligible,Verified
+VISA001374,DUD101222,Work Visa,2023-05-28,,Eligible,Verified
+VISA001375,DUD101223,Spouse of Japanese National,2025-07-16,,Eligible,Verified
+VISA001376,DUD101224,Work Visa,2025-01-23,,Pending,Verified
+VISA001377,DUD101225,Work Visa,2022-05-02,,Eligible,Verified
+VISA001378,DUD101226,Work Visa,2021-03-22,,Eligible,Verified
+VISA001379,DUD101227,Spouse of Japanese National,2022-04-23,,Eligible,Verified
+VISA001380,DUD101228,Dependent Visa with Work Permission,2025-02-28,,Eligible,Verified
+VISA001381,DUD101229,Long-Term Resident,2023-03-09,,Eligible,Verified
+VISA001382,DUD101230,Permanent Resident,2024-05-03,,Eligible,Verified
+VISA001383,DUD101231,Other Work-Eligible Status,2023-02-12,,Eligible,Verified
+VISA001384,DUD101232,Work Visa,2024-01-28,,Pending,Verified
+VISA001385,DUD101233,Other Work-Eligible Status,2021-11-28,,Eligible,Verified
+VISA001386,DUD101234,Permanent Resident,2021-08-03,,Eligible,Verified
+VISA001387,DUD101235,Permanent Resident,2021-10-09,,Eligible,Verified
+VISA001388,DUD101236,Work Visa,2021-03-16,,Pending,Verified
+VISA001389,DUD101237,Work Visa,2019-05-20,,Eligible,Verified
+VISA001390,DUD101238,Work Visa,2019-07-26,,Eligible,Verified
+VISA001391,DUD101239,Permanent Resident,2023-05-14,,Eligible,Verified
+VISA001392,DUD101240,Student Visa with Work Permission,2022-01-05,,Eligible,Verified
+VISA001393,DUD101241,Work Visa,2021-10-05,,Eligible,Verified
+VISA001394,DUD101242,Work Visa,2020-06-09,,Eligible,Verified
+VISA001395,DUD101243,Work Visa,2023-05-21,,Eligible,Verified
+VISA001396,DUD101244,Work Visa,2024-10-17,,Eligible,Verified
+VISA001397,DUD101245,Permanent Resident,2020-07-26,,Eligible,Verified
+VISA001398,DUD101246,Work Visa,2025-12-19,,Eligible,Verified
+VISA001399,DUD101247,Work Visa,2020-09-21,,Eligible,Verified
+VISA001400,DUD101248,Work Visa,2025-07-03,,Eligible,Verified
+VISA001401,DUD101249,Spouse of Japanese National,2021-12-15,,Eligible,Verified
+VISA001402,DUD101250,Other Work-Eligible Status,2025-09-16,,Eligible,Verified
+VISA001403,DUD101251,Permanent Resident,2021-03-10,,Eligible,Verified
+VISA001404,DUD101252,Work Visa,2021-07-12,,Pending,Verified
+VISA001405,DUD101253,Work Visa,2021-01-01,,Eligible,Verified
+VISA001406,DUD101254,Work Visa,2020-04-03,,Eligible,Verified
+VISA001407,DUD101255,Work Visa,2022-01-19,,Eligible,Verified
+VISA001408,DUD101256,Work Visa,2020-06-02,2024-05-07,Eligible,Verified
+VISA001409,DUD101256,Spouse of Japanese National,2024-05-08,,Eligible,Verified
+VISA001410,DUD101257,Spouse of Japanese National,2022-12-02,,Eligible,Verified
+VISA001411,DUD101258,Work Visa,2020-01-21,,Eligible,Verified
+VISA001412,DUD101259,Spouse of Japanese National,2021-11-07,,Eligible,Verified
+VISA001413,DUD101260,Work Visa,2022-03-28,,Eligible,Verified
+VISA001414,DUD101261,Dependent Visa with Work Permission,2024-10-25,,Eligible,Verified
+VISA001415,DUD101262,Student Visa with Work Permission,2020-09-27,,Eligible,Verified
+VISA001416,DUD101263,Spouse of Japanese National,2019-11-30,,Eligible,Verified
+VISA001417,DUD101264,Other Work-Eligible Status,2024-04-05,,Eligible,Verified
+VISA001418,DUD101265,Work Visa,2022-02-06,,Eligible,Verified
+VISA001419,DUD101266,Other Work-Eligible Status,2020-05-30,,Eligible,Verified
+VISA001420,DUD101267,Work Visa,2020-12-15,,Eligible,Verified
+VISA001421,DUD101268,Spouse of Japanese National,2021-11-04,,Eligible,Verified
+VISA001422,DUD101269,Work Visa,2021-06-14,,Eligible,Verified
+VISA001423,DUD101270,Work Visa,2025-07-16,,Eligible,Verified
+VISA001424,DUD101271,Work Visa,2023-09-12,,Eligible,Verified
+VISA001425,DUD101272,Work Visa,2020-05-24,,Eligible,Verified
+VISA001426,DUD101273,Other Work-Eligible Status,2022-03-29,,Eligible,Verified
+VISA001427,DUD101274,Permanent Resident,2022-03-01,,Eligible,Verified
+VISA001428,DUD101275,Permanent Resident,2021-07-06,,Eligible,Verified
+VISA001429,DUD101276,Dependent Visa with Work Permission,2024-09-16,,Eligible,Verified
+VISA001430,DUD101277,Long-Term Resident,2025-12-11,,Eligible,Verified
+VISA001431,DUD101278,Long-Term Resident,2020-10-23,,Eligible,Verified
+VISA001432,DUD101279,Permanent Resident,2022-03-01,,Eligible,Verified
+VISA001433,DUD101280,Work Visa,2025-04-26,,Eligible,Verified
+VISA001434,DUD101281,Other Work-Eligible Status,2020-08-19,,Eligible,Verified
+VISA001435,DUD101282,Long-Term Resident,2022-03-15,,Eligible,Verified
+VISA001436,DUD101283,Long-Term Resident,2020-04-08,,Eligible,Verified
+VISA001437,DUD101284,Work Visa,2024-08-27,,Eligible,Verified
+VISA001438,DUD101285,Spouse of Japanese National,2024-01-15,,Eligible,Verified
+VISA001439,DUD101286,Work Visa,2023-09-22,,Eligible,Verified
+VISA001440,DUD101287,Student Visa with Work Permission,2024-01-23,,Eligible,Verified
+VISA001441,DUD101288,Work Visa,2022-01-16,,Eligible,Verified
+VISA001442,DUD101289,Permanent Resident,2024-02-23,,Eligible,Verified
+VISA001443,DUD101290,Work Visa,2020-07-24,,Eligible,Verified
+VISA001444,DUD101291,Work Visa,2023-11-23,,Eligible,Verified
+VISA001445,DUD101292,Work Visa,2022-06-08,,Eligible,Verified
+VISA001446,DUD101293,Permanent Resident,2019-12-30,,Eligible,Verified
+VISA001447,DUD101294,Work Visa,2019-05-09,,Eligible,Verified
+VISA001448,DUD101295,Work Visa,2021-05-25,2024-10-06,Eligible,Verified
+VISA001449,DUD101295,Long-Term Resident,2024-10-07,,Eligible,Verified
+VISA001450,DUD101296,Other Work-Eligible Status,2024-12-17,,Eligible,Verified
+VISA001451,DUD101297,Long-Term Resident,2026-01-08,,Eligible,Verified
+VISA001452,DUD101298,Work Visa,2020-02-29,2024-07-09,Eligible,Verified
+VISA001453,DUD101298,Long-Term Resident,2024-07-10,,Eligible,Verified
+VISA001454,DUD101299,Spouse of Japanese National,2025-10-06,,Eligible,Verified
+VISA001455,DUD101300,Permanent Resident,2022-08-22,,Eligible,Verified
+VISA001456,DUD101301,Other Work-Eligible Status,2024-02-27,,Eligible,Verified
+VISA001457,DUD101302,Spouse of Japanese National,2022-10-09,,Eligible,Verified
+VISA001458,DUD101303,Work Visa,2020-10-14,2023-02-26,Eligible,Verified
+VISA001459,DUD101303,Spouse of Japanese National,2023-02-27,,Eligible,Verified
+VISA001460,DUD101304,Work Visa,2019-05-30,,Eligible,Verified
+VISA001461,DUD101305,Permanent Resident,2022-10-06,,Eligible,Verified
+VISA001462,DUD101306,Spouse of Japanese National,2024-12-17,,Eligible,Verified
+VISA001463,DUD101307,Spouse of Japanese National,2024-11-02,,Eligible,Verified
+VISA001464,DUD101308,Permanent Resident,2023-11-24,,Eligible,Verified
+VISA001465,DUD101309,Other Work-Eligible Status,2024-08-22,,Eligible,Verified
+VISA001466,DUD101310,Work Visa,2022-04-19,,Eligible,Verified
+VISA001467,DUD101311,Work Visa,2024-01-31,,Eligible,Verified
+VISA001468,DUD101312,Permanent Resident,2024-04-15,,Eligible,Verified
+VISA001469,DUD101313,Work Visa,2021-02-25,,Eligible,Verified
+VISA001470,DUD101314,Other Work-Eligible Status,2019-12-30,,Eligible,Verified
+VISA001471,DUD101315,Work Visa,2025-05-28,,Eligible,Verified
+VISA001472,DUD101316,Work Visa,2020-06-15,2021-07-28,Eligible,Verified
+VISA001473,DUD101316,Long-Term Resident,2021-07-29,,Eligible,Verified
+VISA001474,DUD101317,Work Visa,2023-04-20,,Eligible,Verified
+VISA001475,DUD101318,Work Visa,2022-11-10,,Eligible,Verified
+VISA001476,DUD101319,Work Visa,2025-11-12,,Eligible,Verified
+VISA001477,DUD101320,Permanent Resident,2024-05-05,,Pending,Verified
+VISA001478,DUD101321,Other Work-Eligible Status,2021-11-01,,Eligible,Verified
+VISA001479,DUD101322,Dependent Visa with Work Permission,2025-08-13,,Eligible,Verified
+VISA001480,DUD101323,Work Visa,2019-04-09,,Eligible,Verified
+VISA001481,DUD101324,Spouse of Japanese National,2020-08-11,,Eligible,Verified
+VISA001482,DUD101325,Work Visa,2022-11-18,,Eligible,Verified
+VISA001483,DUD101326,Spouse of Japanese National,2022-10-02,,Eligible,Verified
+VISA001484,DUD101327,Work Visa,2022-06-16,,Eligible,Verified
+VISA001485,DUD101328,Work Visa,2019-06-21,,Pending,Verified
+VISA001486,DUD101329,Work Visa,2025-11-25,,Eligible,Verified
+VISA001487,DUD101330,Work Visa,2025-06-21,,Eligible,Verified
+VISA001488,DUD101331,Student Visa with Work Permission,2024-02-26,,Eligible,Verified
+VISA001489,DUD101332,Permanent Resident,2024-05-28,,Eligible,Verified
+VISA001490,DUD101333,Long-Term Resident,2023-04-22,,Eligible,Verified
+VISA001491,DUD101334,Student Visa with Work Permission,2025-09-08,,Eligible,Verified
+VISA001492,DUD101335,Permanent Resident,2020-11-01,,Eligible,Verified
+VISA001493,DUD101336,Student Visa with Work Permission,2024-02-26,,Eligible,Verified
+VISA001494,DUD101337,Work Visa,2023-05-18,,Eligible,Verified
+VISA001495,DUD101338,Work Visa,2020-11-04,,Eligible,Verified
+VISA001496,DUD101339,Work Visa,2019-11-17,,Eligible,Verified
+VISA001497,DUD101340,Other Work-Eligible Status,2025-02-18,,Eligible,Verified
+VISA001498,DUD101341,Long-Term Resident,2025-05-29,,Eligible,Verified
+VISA001499,DUD101342,Spouse of Japanese National,2025-09-19,,Eligible,Verified
+VISA001500,DUD101343,Work Visa,2021-11-17,,Eligible,Verified
+VISA001501,DUD101344,Work Visa,2024-09-10,,Eligible,Verified
+VISA001502,DUD101345,Work Visa,2025-02-19,,Eligible,Verified
+VISA001503,DUD101346,Work Visa,2023-12-15,,Eligible,Verified
+VISA001504,DUD101347,Permanent Resident,2020-01-16,,Eligible,Verified
+VISA001505,DUD101348,Work Visa,2023-04-28,,Eligible,Verified
+VISA001506,DUD101349,Permanent Resident,2024-02-06,,Eligible,Verified
+VISA001507,DUD101350,Spouse of Japanese National,2022-08-15,,Eligible,Verified
+VISA001508,DUD101351,Permanent Resident,2023-05-31,,Eligible,Verified
+VISA001509,DUD101352,Work Visa,2022-10-12,,Eligible,Verified
+VISA001510,DUD101353,Work Visa,2019-06-22,,Eligible,Verified
+VISA001511,DUD101354,Other Work-Eligible Status,2022-04-24,,Eligible,Verified
+VISA001512,DUD101355,Work Visa,2021-02-02,,Eligible,Verified
+VISA001513,DUD101356,Work Visa,2025-11-12,,Eligible,Verified
+VISA001514,DUD101357,Work Visa,2020-09-24,,Eligible,Verified
+VISA001515,DUD101358,Permanent Resident,2022-07-23,,Eligible,Verified
+VISA001516,DUD101359,Spouse of Japanese National,2024-12-23,,Eligible,Verified
+VISA001517,DUD101360,Work Visa,2023-02-06,,Eligible,Verified
+VISA001518,DUD101361,Work Visa,2019-08-16,,Eligible,Verified
+VISA001519,DUD101362,Long-Term Resident,2025-05-30,,Eligible,Verified
+VISA001520,DUD101363,Permanent Resident,2021-09-30,,Eligible,Verified
+VISA001521,DUD101364,Permanent Resident,2023-01-08,,Eligible,Verified
+VISA001522,DUD101365,Work Visa,2020-06-21,,Eligible,Verified
+VISA001523,DUD101366,Permanent Resident,2019-08-27,,Eligible,Verified
+VISA001524,DUD101367,Permanent Resident,2021-12-21,,Eligible,Verified
+VISA001525,DUD101368,Work Visa,2024-05-23,,Eligible,Verified
+VISA001526,DUD101369,Spouse of Japanese National,2023-09-06,,Eligible,Verified
+VISA001527,DUD101370,Work Visa,2024-07-08,,Eligible,Verified
+VISA001528,DUD101371,Dependent Visa with Work Permission,2025-06-03,,Eligible,Verified
+VISA001529,DUD101372,Spouse of Japanese National,2024-10-16,,Eligible,Verified
+VISA001530,DUD101373,Permanent Resident,2020-03-23,,Eligible,Verified
+VISA001531,DUD101374,Work Visa,2023-02-19,,Eligible,Verified
+VISA001532,DUD101375,Permanent Resident,2021-04-01,,Eligible,Verified
+VISA001533,DUD101376,Work Visa,2025-06-11,,Eligible,Verified
+VISA001534,DUD101377,Work Visa,2022-06-05,2024-11-16,Eligible,Verified
+VISA001535,DUD101377,Long-Term Resident,2024-11-17,,Eligible,Verified
+VISA001536,DUD101378,Work Visa,2021-07-04,,Eligible,Verified
+VISA001537,DUD101379,Work Visa,2020-09-23,2023-03-11,Eligible,Verified
+VISA001538,DUD101379,Long-Term Resident,2023-03-12,,Eligible,Verified
+VISA001539,DUD101380,Work Visa,2023-12-17,,Eligible,Verified
+VISA001540,DUD101381,Spouse of Japanese National,2025-10-23,,Eligible,Verified
+VISA001541,DUD101382,Other Work-Eligible Status,2020-02-13,,Eligible,Verified
+VISA001542,DUD101383,Long-Term Resident,2025-05-21,,Eligible,Verified
+VISA001543,DUD101384,Work Visa,2023-05-24,,Eligible,Verified
+VISA001544,DUD101385,Work Visa,2023-09-10,,Eligible,Verified
+VISA001545,DUD101386,Work Visa,2026-02-03,,Eligible,Verified
+VISA001546,DUD101387,Other Work-Eligible Status,2021-03-04,,Eligible,Verified
+VISA001547,DUD101388,Permanent Resident,2025-07-12,,Eligible,Verified
+VISA001548,DUD101389,Spouse of Japanese National,2020-05-29,,Eligible,Verified
+VISA001549,DUD101390,Work Visa,2022-01-03,,Eligible,Verified
+VISA001550,DUD101391,Permanent Resident,2021-08-06,,Eligible,Verified
+VISA001551,DUD101392,Work Visa,2023-09-15,,Eligible,Verified
+VISA001552,DUD101393,Work Visa,2022-04-26,,Eligible,Verified
+VISA001553,DUD101394,Permanent Resident,2023-05-25,,Eligible,Verified
+VISA001554,DUD101395,Student Visa with Work Permission,2023-06-17,,Eligible,Verified
+VISA001555,DUD101396,Work Visa,2025-11-08,,Eligible,Verified
+VISA001556,DUD101397,Permanent Resident,2023-12-23,,Eligible,Verified
+VISA001557,DUD101398,Work Visa,2019-06-14,,Eligible,Verified
+VISA001558,DUD101399,Work Visa,2025-07-07,,Eligible,Verified
+VISA001559,DUD101400,Work Visa,2024-11-01,,Eligible,Verified
+VISA001560,DUD101401,Work Visa,2021-10-26,,Eligible,Verified
+VISA001561,DUD101402,Work Visa,2019-11-07,2023-02-15,Eligible,Verified
+VISA001562,DUD101402,Spouse of Japanese National,2023-02-16,,Eligible,Verified
+VISA001563,DUD101403,Permanent Resident,2024-09-29,,Eligible,Verified
+VISA001564,DUD101404,Long-Term Resident,2026-01-17,,Eligible,Verified
+VISA001565,DUD101405,Permanent Resident,2021-06-24,,Eligible,Verified
+VISA001566,DUD101406,Work Visa,2023-02-11,,Eligible,Verified
+VISA001567,DUD101407,Spouse of Japanese National,2025-02-25,,Eligible,Verified
+VISA001568,DUD101408,Permanent Resident,2023-03-05,,Eligible,Verified
+VISA001569,DUD101409,Spouse of Japanese National,2021-02-03,,Eligible,Verified
+VISA001570,DUD101410,Student Visa with Work Permission,2025-07-25,,Eligible,Verified
+VISA001571,DUD101411,Permanent Resident,2022-12-03,,Eligible,Verified
+VISA001572,DUD101412,Work Visa,2020-07-02,,Eligible,Verified
+VISA001573,DUD101413,Spouse of Japanese National,2023-03-31,,Eligible,Verified
+VISA001574,DUD101414,Long-Term Resident,2024-09-09,,Eligible,Verified
+VISA001575,DUD101415,Permanent Resident,2019-05-11,,Eligible,Verified
+VISA001576,DUD101416,Work Visa,2021-03-27,,Eligible,Verified
+VISA001577,DUD101417,Work Visa,2019-10-13,2024-06-24,Eligible,Verified
+VISA001578,DUD101417,Permanent Resident,2024-06-25,,Eligible,Verified
+VISA001579,DUD101418,Permanent Resident,2023-02-10,,Eligible,Verified
+VISA001580,DUD101419,Work Visa,2023-04-30,,Eligible,Verified
+VISA001581,DUD101420,Long-Term Resident,2024-10-26,,Eligible,Verified
+VISA001582,DUD101421,Permanent Resident,2025-04-05,,Eligible,Verified
+VISA001583,DUD101422,Permanent Resident,2026-01-23,,Eligible,Verified
+VISA001584,DUD101423,Work Visa,2025-05-23,,Eligible,Verified
+VISA001585,DUD101424,Spouse of Japanese National,2025-01-19,,Eligible,Verified
+VISA001586,DUD101425,Spouse of Japanese National,2019-07-30,,Eligible,Verified
+VISA001587,DUD101426,Work Visa,2025-07-30,,Eligible,Verified
+VISA001588,DUD101427,Work Visa,2020-04-12,,Eligible,Verified
+VISA001589,DUD101428,Spouse of Japanese National,2024-07-15,,Eligible,Verified
+VISA001590,DUD101429,Other Work-Eligible Status,2025-08-23,,Eligible,Verified
+VISA001591,DUD101430,Permanent Resident,2023-03-06,,Eligible,Verified
+VISA001592,DUD101431,Permanent Resident,2023-03-28,,Eligible,Verified
+VISA001593,DUD101432,Other Work-Eligible Status,2022-09-21,,Eligible,Verified
+VISA001594,DUD101433,Other Work-Eligible Status,2025-10-08,,Eligible,Verified
+VISA001595,DUD101434,Other Work-Eligible Status,2024-08-28,,Eligible,Verified
+VISA001596,DUD101435,Long-Term Resident,2025-09-08,,Eligible,Verified
+VISA001597,DUD101436,Permanent Resident,2022-07-09,,Eligible,Verified
+VISA001598,DUD101437,Permanent Resident,2023-08-09,,Eligible,Verified
+VISA001599,DUD101438,Work Visa,2024-06-13,,Eligible,Verified
+VISA001600,DUD101439,Long-Term Resident,2024-02-21,,Eligible,Verified
+VISA001601,DUD101440,Permanent Resident,2021-09-25,,Eligible,Verified
+VISA001602,DUD101441,Permanent Resident,2022-01-19,,Eligible,Verified
+VISA001603,DUD101442,Work Visa,2023-10-05,,Eligible,Verified
+VISA001604,DUD101443,Permanent Resident,2025-11-11,,Eligible,Verified
+VISA001605,DUD101444,Work Visa,2021-08-25,,Eligible,Verified
+VISA001606,DUD101445,Work Visa,2024-05-04,,Eligible,Verified
+VISA001607,DUD101446,Student Visa with Work Permission,2019-06-10,,Eligible,Verified
+VISA001608,DUD101447,Work Visa,2020-09-06,,Eligible,Verified
+VISA001609,DUD101448,Other Work-Eligible Status,2019-11-24,,Eligible,Verified
+VISA001610,DUD101449,Student Visa with Work Permission,2019-08-03,,Eligible,Verified
+VISA001611,DUD101450,Work Visa,2019-06-09,,Eligible,Verified
+VISA001612,DUD101451,Work Visa,2025-05-31,,Eligible,Verified
+VISA001613,DUD101452,Work Visa,2023-05-03,,Pending,Verified
+VISA001614,DUD101453,Work Visa,2022-11-07,2025-04-10,Eligible,Verified
+VISA001615,DUD101453,Long-Term Resident,2025-04-11,,Eligible,Verified
+VISA001616,DUD101454,Work Visa,2024-09-16,,Eligible,Verified
+VISA001617,DUD101455,Permanent Resident,2025-01-03,,Eligible,Verified
+VISA001618,DUD101456,Work Visa,2024-09-15,2025-10-03,Eligible,Verified
+VISA001619,DUD101456,Permanent Resident,2025-10-04,,Eligible,Verified
+VISA001620,DUD101457,Dependent Visa with Work Permission,2025-12-25,,Eligible,Verified
+VISA001621,DUD101458,Work Visa,2022-01-25,,Eligible,Verified
+VISA001622,DUD101459,Work Visa,2023-08-11,,Eligible,Verified
+VISA001623,DUD101460,Other Work-Eligible Status,2025-02-07,,Eligible,Verified
+VISA001624,DUD101461,Permanent Resident,2023-07-19,,Eligible,Verified
+VISA001625,DUD101462,Work Visa,2021-08-09,,Eligible,Verified
+VISA001626,DUD101463,Spouse of Japanese National,2019-06-24,,Eligible,Verified
+VISA001627,DUD101464,Work Visa,2022-06-17,2024-03-05,Eligible,Verified
+VISA001628,DUD101464,Long-Term Resident,2024-03-06,,Eligible,Verified
+VISA001629,DUD101465,Work Visa,2021-01-11,,Eligible,Verified
+VISA001630,DUD101466,Spouse of Japanese National,2025-06-15,,Eligible,Verified
+VISA001631,DUD101467,Permanent Resident,2021-01-05,,Eligible,Verified
+VISA001632,DUD101468,Work Visa,2025-04-17,,Eligible,Verified
+VISA001633,DUD101469,Work Visa,2025-04-10,,Eligible,Verified
+VISA001634,DUD101470,Work Visa,2025-03-03,,Eligible,Verified
+VISA001635,DUD101471,Work Visa,2020-08-18,,Eligible,Verified
+VISA001636,DUD101472,Spouse of Japanese National,2022-09-25,,Eligible,Verified
+VISA001637,DUD101473,Work Visa,2020-07-04,,Eligible,Verified
+VISA001638,DUD101474,Permanent Resident,2025-05-29,,Eligible,Verified
+VISA001639,DUD101475,Long-Term Resident,2025-04-27,,Eligible,Verified
+VISA001640,DUD101476,Permanent Resident,2021-12-05,,Eligible,Verified
+VISA001641,DUD101477,Permanent Resident,2023-10-04,,Eligible,Verified
+VISA001642,DUD101478,Permanent Resident,2024-12-03,,Eligible,Verified
+VISA001643,DUD101479,Long-Term Resident,2023-10-10,,Eligible,Verified
+VISA001644,DUD101480,Work Visa,2021-11-02,,Eligible,Verified
+VISA001645,DUD101481,Permanent Resident,2022-12-15,,Eligible,Verified
+VISA001646,DUD101482,Work Visa,2021-02-13,,Eligible,Verified
+VISA001647,DUD101483,Dependent Visa with Work Permission,2024-12-12,,Eligible,Verified
+VISA001648,DUD101484,Work Visa,2019-06-30,2021-02-10,Eligible,Verified
+VISA001649,DUD101484,Permanent Resident,2021-02-11,,Eligible,Verified
+VISA001650,DUD101485,Work Visa,2022-10-02,,Eligible,Verified
+VISA001651,DUD101486,Work Visa,2020-10-29,,Eligible,Verified
+VISA001652,DUD101487,Work Visa,2025-09-26,,Eligible,Verified
+VISA001653,DUD101488,Work Visa,2025-09-03,,Eligible,Verified
+VISA001654,DUD101489,Work Visa,2023-02-11,,Eligible,Verified
+VISA001655,DUD101490,Work Visa,2026-01-16,,Eligible,Verified
+VISA001656,DUD101491,Permanent Resident,2020-11-22,,Eligible,Verified
+VISA001657,DUD101492,Work Visa,2021-09-24,,Eligible,Verified
+VISA001658,DUD101493,Work Visa,2024-07-31,,Eligible,Verified
+VISA001659,DUD101494,Permanent Resident,2019-10-11,,Eligible,Verified
+VISA001660,DUD101495,Other Work-Eligible Status,2023-04-16,,Eligible,Verified
+VISA001661,DUD101496,Dependent Visa with Work Permission,2019-07-09,,Eligible,Verified
+VISA001662,DUD101497,Work Visa,2021-11-09,,Eligible,Verified
+VISA001663,DUD101498,Work Visa,2023-06-16,,Eligible,Verified
+VISA001664,DUD101499,Permanent Resident,2021-04-05,,Eligible,Verified
+VISA001665,DUD101500,Work Visa,2023-08-19,,Eligible,Verified
