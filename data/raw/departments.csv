@@ -1,0 +1,10 @@
+department_id,department_name,department_type,active_flag
+DEP001,Recruitment,Operations,True
+DEP002,Human Resources,Corporate,True
+DEP003,Training,Operations,True
+DEP004,Dispatch,Operations,True
+DEP005,Client Relations,Operations,True
+DEP006,Employee Support,Operations,True
+DEP007,Finance,Corporate,True
+DEP008,Administration,Corporate,True
+DEP009,Management,Corporate,True

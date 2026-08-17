@@ -1,0 +1,7 @@
+position_id,position_name,career_level,standard_monthly_salary,trainer_role
+POS001,ALT / English Teacher,1,250000,False
+POS002,Experienced Teacher,2,260000,False
+POS003,Senior Teacher,3,270000,False
+POS004,Trainer,4,280000,True
+POS005,Senior Trainer,5,290000,True
+POS006,Lead Trainer,6,300000,True
