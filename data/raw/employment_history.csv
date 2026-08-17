@@ -1,0 +1,1601 @@
+employment_history_id,employee_id,employment_start_date,employment_end_date,employment_status,employment_type,position,career_level,start_reason,end_reason,assignment_status
+EMPLOY000001,DUD100001,2024-01-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000002,DUD100002,2024-10-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000003,DUD100003,2024-03-08,2025-05-20,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY000004,DUD100004,2022-07-08,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000005,DUD100005,2023-05-15,2025-10-29,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000006,DUD100006,2022-08-08,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000007,DUD100007,2024-08-06,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000008,DUD100008,2022-01-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000009,DUD100009,2024-07-22,2026-11-04,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000010,DUD100010,2021-09-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000011,DUD100011,2024-12-10,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000012,DUD100012,2026-08-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000013,DUD100013,2025-08-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000014,DUD100014,2021-12-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000015,DUD100015,2024-03-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000016,DUD100016,2024-02-19,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000017,DUD100017,2021-01-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000018,DUD100018,2024-02-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000019,DUD100019,2023-09-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000020,DUD100020,2026-07-16,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000021,DUD100021,2026-05-19,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000022,DUD100022,2022-01-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000023,DUD100023,2022-11-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000024,DUD100024,2025-05-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000025,DUD100025,2025-03-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000026,DUD100026,2021-10-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000027,DUD100027,2023-08-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000028,DUD100028,2025-05-24,2027-03-26,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000029,DUD100029,2021-05-17,2023-07-01,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY000030,DUD100030,2023-08-13,2024-08-01,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000031,DUD100031,2025-02-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000032,DUD100032,2026-01-18,2028-04-26,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000033,DUD100033,2026-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000034,DUD100034,2025-04-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000035,DUD100035,2025-01-25,2026-02-21,Inactive,Full-time,Senior Teacher,3,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000036,DUD100036,2025-05-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000037,DUD100037,2022-07-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000038,DUD100038,2022-02-12,2023-12-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000039,DUD100039,2021-12-04,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000040,DUD100040,2024-02-12,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000041,DUD100041,2024-10-24,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000042,DUD100042,2025-04-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000043,DUD100043,2021-07-09,2021-12-25,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000044,DUD100044,2024-09-14,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000045,DUD100045,2024-01-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000046,DUD100046,2025-01-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000047,DUD100047,2022-01-31,2022-11-19,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000048,DUD100048,2022-03-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000049,DUD100049,2024-11-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000050,DUD100050,2025-08-16,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY000051,DUD100051,2022-09-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000052,DUD100052,2022-12-28,2025-01-24,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000053,DUD100053,2022-02-24,2024-02-21,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000054,DUD100054,2024-11-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000055,DUD100055,2023-02-11,2024-12-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY000056,DUD100056,2022-12-12,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000057,DUD100057,2022-02-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000058,DUD100058,2025-05-30,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000059,DUD100059,2024-03-11,2025-01-07,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000060,DUD100060,2026-01-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000061,DUD100061,2022-08-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000062,DUD100062,2022-01-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000063,DUD100063,2021-04-01,2022-02-01,Inactive,Full-time,Trainer,4,Initial Hire,Performance,Assigned
+EMPLOY000064,DUD100064,2021-06-06,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000065,DUD100065,2023-09-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000066,DUD100066,2024-02-12,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000067,DUD100067,2024-05-20,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000068,DUD100068,2026-07-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000069,DUD100069,2026-03-22,2027-07-03,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000070,DUD100070,2023-03-07,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000071,DUD100071,2023-06-20,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000072,DUD100072,2021-01-10,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000073,DUD100073,2026-04-22,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000074,DUD100074,2024-01-28,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000075,DUD100075,2024-09-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000076,DUD100076,2023-02-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000077,DUD100077,2023-03-01,2025-07-22,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000078,DUD100078,2025-02-16,2026-11-07,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000079,DUD100079,2022-12-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000080,DUD100080,2023-04-18,2025-09-24,Inactive,Full-time,Trainer,4,Initial Hire,Relocation,Assigned
+EMPLOY000081,DUD100081,2022-01-02,2023-09-12,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY000082,DUD100082,2023-07-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000083,DUD100083,2023-07-02,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000084,DUD100084,2022-11-09,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000085,DUD100085,2024-03-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000086,DUD100086,2025-03-27,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000087,DUD100087,2023-08-01,2024-12-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY000088,DUD100088,2026-05-05,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000089,DUD100089,2024-07-25,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000090,DUD100090,2025-09-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000091,DUD100091,2025-11-03,2027-02-11,Inactive,Full-time,Lead Trainer,6,Initial Hire,Contract End,Assigned
+EMPLOY000092,DUD100092,2025-09-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000093,DUD100093,2023-02-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000094,DUD100094,2025-12-17,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000095,DUD100095,2026-08-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000096,DUD100096,2022-08-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000097,DUD100097,2023-07-08,2024-07-25,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000098,DUD100098,2026-03-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000099,DUD100099,2026-07-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000100,DUD100100,2021-01-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000101,DUD100101,2021-10-03,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000102,DUD100102,2022-07-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000103,DUD100103,2022-12-16,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000104,DUD100104,2021-12-16,2024-02-02,Inactive,Full-time,Trainer,4,Initial Hire,Career Change,Assigned
+EMPLOY000105,DUD100105,2026-04-05,2028-03-18,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000106,DUD100106,2021-02-21,2023-01-16,Inactive,Full-time,Senior Teacher,3,Initial Hire,Personal Reasons,Assigned
+EMPLOY000107,DUD100107,2026-08-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000108,DUD100108,2024-05-23,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000109,DUD100109,2023-03-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000110,DUD100110,2021-07-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000111,DUD100111,2022-05-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000112,DUD100112,2024-01-03,2025-05-23,Inactive,Full-time,Lead Trainer,6,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY000113,DUD100113,2021-03-13,2022-02-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000114,DUD100114,2023-06-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000115,DUD100115,2022-09-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000116,DUD100116,2025-08-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000117,DUD100117,2023-10-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000118,DUD100118,2023-01-06,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000119,DUD100119,2023-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000120,DUD100120,2022-08-08,2024-06-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000121,DUD100121,2026-06-16,2027-03-28,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000122,DUD100122,2026-04-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000123,DUD100123,2022-09-07,2024-06-25,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000124,DUD100124,2023-11-18,2024-06-30,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000125,DUD100125,2021-05-24,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000126,DUD100126,2021-09-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000127,DUD100127,2021-04-01,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000128,DUD100128,2023-03-21,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000129,DUD100129,2021-04-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000130,DUD100130,2022-11-26,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000131,DUD100131,2025-03-26,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000132,DUD100132,2023-08-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000133,DUD100133,2021-11-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000134,DUD100134,2022-09-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000135,DUD100135,2023-12-05,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000136,DUD100136,2026-01-25,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000137,DUD100137,2024-09-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000138,DUD100138,2025-08-29,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000139,DUD100139,2023-10-04,2024-04-26,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000140,DUD100140,2024-12-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000141,DUD100141,2021-09-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000142,DUD100142,2024-12-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000143,DUD100143,2022-10-14,2023-02-25,Inactive,Full-time,Senior Teacher,3,Initial Hire,Personal Reasons,Assigned
+EMPLOY000144,DUD100144,2023-06-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000145,DUD100145,2025-08-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000146,DUD100146,2022-05-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000147,DUD100147,2022-10-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000148,DUD100148,2025-08-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000149,DUD100149,2022-05-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000150,DUD100150,2025-03-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000151,DUD100151,2023-06-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000152,DUD100152,2022-03-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000153,DUD100153,2021-03-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000154,DUD100154,2025-10-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000155,DUD100155,2021-02-04,2022-10-22,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000156,DUD100156,2021-01-08,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY000157,DUD100157,2023-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000158,DUD100158,2021-10-02,2023-06-10,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000159,DUD100159,2024-03-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000160,DUD100160,2024-08-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000161,DUD100161,2023-06-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000162,DUD100162,2025-02-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000163,DUD100163,2023-10-27,2024-05-09,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000164,DUD100164,2023-07-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000165,DUD100165,2025-07-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000166,DUD100166,2023-05-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000167,DUD100167,2025-01-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000168,DUD100168,2023-08-26,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000169,DUD100169,2023-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000170,DUD100170,2025-08-04,2027-05-03,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY000171,DUD100171,2022-05-14,2023-04-14,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000172,DUD100172,2024-12-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000173,DUD100173,2021-11-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000174,DUD100174,2022-06-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000175,DUD100175,2024-08-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000176,DUD100176,2024-04-23,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000177,DUD100177,2021-10-04,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000178,DUD100178,2022-12-09,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000179,DUD100179,2021-05-28,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000180,DUD100180,2021-08-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000181,DUD100181,2025-02-12,2026-11-30,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY000182,DUD100182,2022-12-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000183,DUD100183,2024-06-02,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY000184,DUD100184,2024-02-05,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000185,DUD100185,2026-06-11,2027-12-23,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000186,DUD100186,2022-10-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000187,DUD100187,2021-03-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000188,DUD100188,2022-09-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000189,DUD100189,2024-03-29,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000190,DUD100190,2022-03-08,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000191,DUD100191,2023-01-04,2023-10-30,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY000192,DUD100192,2024-10-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000193,DUD100193,2025-08-18,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000194,DUD100194,2021-09-20,2024-02-15,Inactive,Full-time,Trainer,4,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000195,DUD100195,2026-04-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000196,DUD100196,2025-02-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000197,DUD100197,2021-10-04,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000198,DUD100198,2025-12-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000199,DUD100199,2024-02-12,2024-08-18,Inactive,Full-time,Senior Trainer,5,Initial Hire,Personal Reasons,Assigned
+EMPLOY000200,DUD100200,2022-05-26,2024-09-16,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY000201,DUD100201,2026-05-23,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000202,DUD100202,2022-12-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000203,DUD100203,2023-12-18,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000204,DUD100204,2021-08-26,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000205,DUD100205,2024-04-02,2025-06-30,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000206,DUD100206,2023-03-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000207,DUD100207,2025-11-29,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000208,DUD100208,2026-02-20,2028-04-23,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000209,DUD100209,2025-10-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000210,DUD100210,2021-05-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000211,DUD100211,2023-04-26,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000212,DUD100212,2024-08-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000213,DUD100213,2026-06-27,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000214,DUD100214,2021-07-25,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000215,DUD100215,2021-04-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000216,DUD100216,2022-09-29,2023-10-30,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000217,DUD100217,2022-12-09,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY000218,DUD100218,2025-03-30,2027-06-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000219,DUD100219,2025-08-31,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000220,DUD100220,2024-05-27,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000221,DUD100221,2023-01-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000222,DUD100222,2021-11-29,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000223,DUD100223,2025-10-18,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000224,DUD100224,2023-08-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000225,DUD100225,2023-06-07,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000226,DUD100226,2024-03-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000227,DUD100227,2024-09-12,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000228,DUD100228,2022-05-21,2024-05-27,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000229,DUD100229,2021-05-18,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY000230,DUD100230,2022-11-08,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000231,DUD100231,2021-09-05,2022-07-17,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000232,DUD100232,2021-05-11,2022-09-05,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000233,DUD100233,2023-08-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000234,DUD100234,2022-02-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000235,DUD100235,2021-04-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000236,DUD100236,2023-04-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000237,DUD100237,2021-10-10,2022-03-28,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000238,DUD100238,2026-02-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000239,DUD100239,2023-09-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000240,DUD100240,2022-03-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000241,DUD100241,2022-01-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000242,DUD100242,2024-06-25,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY000243,DUD100243,2024-07-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000244,DUD100244,2021-02-15,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000245,DUD100245,2026-05-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000246,DUD100246,2022-03-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000247,DUD100247,2021-08-16,2022-04-21,Inactive,Full-time,Trainer,4,Initial Hire,Career Change,Assigned
+EMPLOY000248,DUD100248,2023-03-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000249,DUD100249,2025-03-07,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000250,DUD100250,2022-09-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000251,DUD100251,2024-01-20,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000252,DUD100252,2022-08-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000253,DUD100253,2026-06-14,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000254,DUD100254,2025-02-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000255,DUD100255,2021-02-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000256,DUD100256,2022-07-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000257,DUD100257,2021-07-15,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000258,DUD100258,2023-04-25,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000259,DUD100259,2023-12-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000260,DUD100260,2023-05-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000261,DUD100261,2026-01-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000262,DUD100262,2021-08-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000263,DUD100263,2026-06-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000264,DUD100264,2022-11-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000265,DUD100265,2025-06-03,2027-06-10,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000266,DUD100266,2025-07-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000267,DUD100267,2024-03-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000268,DUD100268,2023-09-07,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000269,DUD100269,2023-05-06,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000270,DUD100270,2023-12-28,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000271,DUD100271,2021-08-18,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000272,DUD100272,2025-07-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000273,DUD100273,2021-03-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000274,DUD100274,2026-03-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000275,DUD100275,2023-02-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000276,DUD100276,2023-12-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000277,DUD100277,2025-08-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000278,DUD100278,2024-11-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000279,DUD100279,2024-06-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000280,DUD100280,2025-07-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000281,DUD100281,2026-04-26,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000282,DUD100282,2021-05-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000283,DUD100283,2025-03-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000284,DUD100284,2024-09-09,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000285,DUD100285,2021-03-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000286,DUD100286,2023-01-25,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000287,DUD100287,2021-12-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000288,DUD100288,2023-08-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000289,DUD100289,2024-10-15,2027-03-14,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000290,DUD100290,2025-07-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000291,DUD100291,2026-05-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000292,DUD100292,2023-04-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000293,DUD100293,2024-05-22,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000294,DUD100294,2024-08-04,2025-08-13,Inactive,Full-time,Trainer,4,Initial Hire,Performance,Assigned
+EMPLOY000295,DUD100295,2022-10-22,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000296,DUD100296,2025-08-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000297,DUD100297,2022-10-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000298,DUD100298,2024-08-30,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000299,DUD100299,2023-12-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000300,DUD100300,2023-11-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000301,DUD100301,2025-03-07,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000302,DUD100302,2025-07-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000303,DUD100303,2025-07-02,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000304,DUD100304,2023-12-08,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000305,DUD100305,2024-03-08,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000306,DUD100306,2021-04-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000307,DUD100307,2024-12-07,2026-09-01,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000308,DUD100308,2024-10-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000309,DUD100309,2022-10-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000310,DUD100310,2021-06-25,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000311,DUD100311,2022-12-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000312,DUD100312,2022-09-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000313,DUD100313,2024-05-01,2025-01-18,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000314,DUD100314,2025-06-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000315,DUD100315,2025-08-10,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000316,DUD100316,2026-06-05,2028-04-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000317,DUD100317,2022-06-28,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000318,DUD100318,2021-07-22,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000319,DUD100319,2023-06-28,2025-05-22,Inactive,Full-time,Lead Trainer,6,Initial Hire,Contract End,Assigned
+EMPLOY000320,DUD100320,2026-05-27,2028-06-12,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY000321,DUD100321,2025-11-14,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000322,DUD100322,2021-07-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000323,DUD100323,2023-04-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000324,DUD100324,2023-12-24,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000325,DUD100325,2021-08-09,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000326,DUD100326,2021-09-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000327,DUD100327,2021-05-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000328,DUD100328,2023-11-05,2025-12-12,Inactive,Full-time,Senior Teacher,3,Initial Hire,Performance,Assigned
+EMPLOY000329,DUD100329,2023-06-14,2025-03-28,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000330,DUD100330,2022-03-17,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000331,DUD100331,2022-03-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000332,DUD100332,2024-09-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000333,DUD100333,2023-10-13,2025-05-03,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000334,DUD100334,2024-11-23,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000335,DUD100335,2022-06-20,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000336,DUD100336,2026-02-06,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000337,DUD100337,2021-06-16,2023-07-19,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000338,DUD100338,2022-10-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000339,DUD100339,2024-10-31,2025-06-15,Inactive,Full-time,Senior Teacher,3,Initial Hire,Performance,Assigned
+EMPLOY000340,DUD100340,2026-06-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000341,DUD100341,2021-01-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000342,DUD100342,2022-06-26,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000343,DUD100343,2026-04-29,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000344,DUD100344,2025-02-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000345,DUD100345,2025-03-16,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000346,DUD100346,2021-08-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000347,DUD100347,2023-07-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000348,DUD100348,2022-06-24,2024-09-03,Inactive,Full-time,Trainer,4,Initial Hire,Contract End,Assigned
+EMPLOY000349,DUD100349,2024-09-20,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000350,DUD100350,2023-03-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000351,DUD100351,2022-02-26,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000352,DUD100352,2024-01-02,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000353,DUD100353,2024-05-12,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000354,DUD100354,2022-05-28,2024-07-22,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY000355,DUD100355,2025-08-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000356,DUD100356,2025-10-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000357,DUD100357,2023-05-31,2024-09-26,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000358,DUD100358,2021-09-18,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000359,DUD100359,2022-06-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000360,DUD100360,2023-06-25,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000361,DUD100361,2023-08-31,2026-02-16,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY000362,DUD100362,2022-05-28,2024-09-08,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY000363,DUD100363,2025-06-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000364,DUD100364,2023-06-28,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000365,DUD100365,2022-09-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000366,DUD100366,2023-05-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000367,DUD100367,2024-07-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000368,DUD100368,2023-07-21,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000369,DUD100369,2024-10-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000370,DUD100370,2021-05-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000371,DUD100371,2022-12-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000372,DUD100372,2022-08-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000373,DUD100373,2023-12-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000374,DUD100374,2024-09-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000375,DUD100375,2023-01-22,2023-12-11,Inactive,Full-time,Trainer,4,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000376,DUD100376,2021-01-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000377,DUD100377,2024-05-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000378,DUD100378,2026-03-20,2027-09-30,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000379,DUD100379,2022-07-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000380,DUD100380,2022-11-15,2025-03-19,Inactive,Full-time,Lead Trainer,6,Initial Hire,Performance,Assigned
+EMPLOY000381,DUD100381,2024-09-29,2026-05-12,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY000382,DUD100382,2024-11-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000383,DUD100383,2024-05-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000384,DUD100384,2023-07-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000385,DUD100385,2021-06-06,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000386,DUD100386,2025-04-17,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000387,DUD100387,2024-05-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000388,DUD100388,2021-11-06,2022-06-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000389,DUD100389,2022-01-07,2022-08-24,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000390,DUD100390,2024-01-26,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000391,DUD100391,2021-07-06,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000392,DUD100392,2024-08-02,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY000393,DUD100393,2021-11-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000394,DUD100394,2021-04-21,2021-08-22,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000395,DUD100395,2022-08-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000396,DUD100396,2024-09-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000397,DUD100397,2022-12-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000398,DUD100398,2025-05-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000399,DUD100399,2022-11-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000400,DUD100400,2022-05-18,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000401,DUD100401,2023-02-26,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000402,DUD100402,2025-06-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000403,DUD100403,2026-04-28,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000404,DUD100404,2022-09-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000405,DUD100405,2024-01-24,2026-05-17,Inactive,Full-time,Senior Teacher,3,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000406,DUD100406,2025-11-17,2026-12-09,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000407,DUD100407,2025-10-20,2027-01-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000408,DUD100408,2023-08-26,2024-08-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000409,DUD100409,2023-08-27,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000410,DUD100410,2024-12-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000411,DUD100411,2021-03-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000412,DUD100412,2026-04-23,2028-01-01,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000413,DUD100413,2024-06-29,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000414,DUD100414,2023-09-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000415,DUD100415,2021-02-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000416,DUD100416,2025-12-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000417,DUD100417,2021-03-09,2021-10-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000418,DUD100418,2023-03-26,2024-08-24,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000419,DUD100419,2022-01-02,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000420,DUD100420,2025-10-21,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000421,DUD100421,2024-12-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000422,DUD100422,2022-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000423,DUD100423,2022-03-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000424,DUD100424,2021-03-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000425,DUD100425,2021-07-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000426,DUD100426,2021-06-27,2023-05-22,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000427,DUD100427,2025-05-09,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000428,DUD100428,2021-06-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000429,DUD100429,2022-05-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000430,DUD100430,2025-12-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000431,DUD100431,2025-10-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000432,DUD100432,2022-09-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000433,DUD100433,2024-06-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000434,DUD100434,2026-02-23,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000435,DUD100435,2021-01-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000436,DUD100436,2022-01-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000437,DUD100437,2026-05-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000438,DUD100438,2025-06-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000439,DUD100439,2025-12-27,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000440,DUD100440,2025-04-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000441,DUD100441,2024-08-02,2026-07-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000442,DUD100442,2022-11-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000443,DUD100443,2025-10-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000444,DUD100444,2025-04-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000445,DUD100445,2025-06-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000446,DUD100446,2021-04-08,2022-01-04,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000447,DUD100447,2024-08-28,2026-01-14,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000448,DUD100448,2024-03-19,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000449,DUD100449,2024-03-24,2025-09-24,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000450,DUD100450,2025-01-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000451,DUD100451,2022-11-23,2023-12-02,Inactive,Full-time,Senior Trainer,5,Initial Hire,Contract End,Assigned
+EMPLOY000452,DUD100452,2022-08-10,2023-05-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000453,DUD100453,2025-08-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000454,DUD100454,2023-04-23,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000455,DUD100455,2024-09-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000456,DUD100456,2023-01-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000457,DUD100457,2024-11-28,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000458,DUD100458,2025-08-03,2027-02-08,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000459,DUD100459,2023-05-25,2025-05-13,Inactive,Full-time,Senior Teacher,3,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY000460,DUD100460,2022-09-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000461,DUD100461,2022-05-23,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000462,DUD100462,2022-02-20,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000463,DUD100463,2024-01-27,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000464,DUD100464,2021-11-04,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000465,DUD100465,2023-11-08,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000466,DUD100466,2023-02-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000467,DUD100467,2024-12-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000468,DUD100468,2022-05-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000469,DUD100469,2021-07-21,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000470,DUD100470,2022-04-03,2024-01-05,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY000471,DUD100471,2022-10-24,2023-03-01,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000472,DUD100472,2023-12-11,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000473,DUD100473,2024-09-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000474,DUD100474,2025-10-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000475,DUD100475,2026-04-06,2027-12-05,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY000476,DUD100476,2025-08-21,2027-04-27,Inactive,Full-time,Senior Trainer,5,Initial Hire,Relocation,Assigned
+EMPLOY000477,DUD100477,2025-08-09,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000478,DUD100478,2022-05-19,2022-10-25,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000479,DUD100479,2023-01-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000480,DUD100480,2022-02-11,2023-04-09,Inactive,Full-time,Senior Teacher,3,Initial Hire,Relocation,Assigned
+EMPLOY000481,DUD100481,2023-09-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000482,DUD100482,2025-07-25,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000483,DUD100483,2022-10-11,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000484,DUD100484,2022-05-19,2023-09-19,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY000485,DUD100485,2025-01-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000486,DUD100486,2024-10-10,2027-01-11,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000487,DUD100487,2023-09-06,2025-11-02,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY000488,DUD100488,2026-08-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000489,DUD100489,2026-05-14,2028-01-31,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000490,DUD100490,2024-11-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000491,DUD100491,2021-09-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000492,DUD100492,2023-06-04,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000493,DUD100493,2023-05-31,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000494,DUD100494,2024-06-28,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000495,DUD100495,2022-10-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000496,DUD100496,2021-11-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000497,DUD100497,2021-06-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000498,DUD100498,2024-08-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000499,DUD100499,2021-05-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000500,DUD100500,2021-11-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000501,DUD100501,2022-10-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000502,DUD100502,2026-05-23,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000503,DUD100503,2026-05-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000504,DUD100504,2023-02-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000505,DUD100505,2026-07-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000506,DUD100506,2024-03-12,2025-08-11,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000507,DUD100507,2021-11-10,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000508,DUD100508,2024-01-31,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000509,DUD100509,2021-11-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000510,DUD100510,2023-12-10,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000511,DUD100511,2023-12-23,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000512,DUD100512,2023-04-18,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000513,DUD100513,2021-07-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000514,DUD100514,2021-11-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000515,DUD100515,2022-12-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000516,DUD100516,2025-03-11,2027-03-07,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000517,DUD100517,2021-10-09,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000518,DUD100518,2026-01-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000519,DUD100519,2021-12-30,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000520,DUD100520,2024-04-16,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000521,DUD100521,2025-06-05,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000522,DUD100522,2021-12-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000523,DUD100523,2021-06-17,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000524,DUD100524,2024-10-13,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000525,DUD100525,2026-05-06,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000526,DUD100526,2025-05-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000527,DUD100527,2021-01-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000528,DUD100528,2024-03-02,2024-07-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000529,DUD100529,2021-11-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000530,DUD100530,2023-12-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000531,DUD100531,2026-02-01,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000532,DUD100532,2023-03-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000533,DUD100533,2025-03-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000534,DUD100534,2023-11-18,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000535,DUD100535,2025-05-12,2026-03-19,Inactive,Full-time,Trainer,4,Initial Hire,Contract End,Assigned
+EMPLOY000536,DUD100536,2021-01-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000537,DUD100537,2021-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000538,DUD100538,2025-05-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000539,DUD100539,2022-06-19,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000540,DUD100540,2023-01-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000541,DUD100541,2025-04-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000542,DUD100542,2021-08-14,2023-10-21,Inactive,Full-time,Senior Trainer,5,Initial Hire,Career Change,Assigned
+EMPLOY000543,DUD100543,2026-05-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000544,DUD100544,2026-04-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000545,DUD100545,2026-04-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000546,DUD100546,2025-03-19,2027-08-25,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000547,DUD100547,2023-01-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000548,DUD100548,2023-03-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000549,DUD100549,2024-01-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000550,DUD100550,2023-09-19,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000551,DUD100551,2025-06-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000552,DUD100552,2022-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000553,DUD100553,2025-09-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000554,DUD100554,2022-04-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000555,DUD100555,2024-09-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000556,DUD100556,2021-06-18,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000557,DUD100557,2023-11-26,2025-05-10,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000558,DUD100558,2023-05-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000559,DUD100559,2024-09-06,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000560,DUD100560,2024-02-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000561,DUD100561,2023-08-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000562,DUD100562,2023-11-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000563,DUD100563,2026-01-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000564,DUD100564,2024-08-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000565,DUD100565,2025-06-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000566,DUD100566,2021-08-14,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000567,DUD100567,2025-09-07,2028-02-19,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000568,DUD100568,2024-07-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000569,DUD100569,2021-07-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000570,DUD100570,2023-05-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000571,DUD100571,2026-04-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000572,DUD100572,2024-05-14,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000573,DUD100573,2024-11-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000574,DUD100574,2026-01-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000575,DUD100575,2022-08-19,2024-05-05,Inactive,Full-time,Trainer,4,Initial Hire,Career Change,Assigned
+EMPLOY000576,DUD100576,2025-05-31,2027-01-30,Inactive,Full-time,Trainer,4,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000577,DUD100577,2022-06-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000578,DUD100578,2025-04-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000579,DUD100579,2026-07-09,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000580,DUD100580,2024-06-15,2025-08-02,Inactive,Full-time,Senior Trainer,5,Initial Hire,Relocation,Assigned
+EMPLOY000581,DUD100581,2023-03-16,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000582,DUD100582,2022-08-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000583,DUD100583,2023-10-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000584,DUD100584,2022-05-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000585,DUD100585,2023-05-17,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000586,DUD100586,2025-10-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000587,DUD100587,2025-09-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000588,DUD100588,2025-11-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000589,DUD100589,2022-05-27,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000590,DUD100590,2022-05-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000591,DUD100591,2023-08-19,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000592,DUD100592,2025-04-02,2026-01-06,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000593,DUD100593,2023-04-11,2025-01-26,Inactive,Full-time,Lead Trainer,6,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY000594,DUD100594,2022-01-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000595,DUD100595,2024-06-15,2025-10-18,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000596,DUD100596,2024-09-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000597,DUD100597,2021-11-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000598,DUD100598,2025-12-01,2026-08-27,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000599,DUD100599,2023-01-16,2025-04-21,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000600,DUD100600,2022-07-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000601,DUD100601,2022-10-11,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000602,DUD100602,2025-10-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000603,DUD100603,2022-09-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000604,DUD100604,2024-05-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000605,DUD100605,2023-11-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000606,DUD100606,2022-03-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000607,DUD100607,2024-05-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000608,DUD100608,2024-01-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000609,DUD100609,2022-05-05,2023-09-07,Inactive,Full-time,Senior Teacher,3,Initial Hire,Performance,Assigned
+EMPLOY000610,DUD100610,2024-11-28,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000611,DUD100611,2021-01-23,2021-12-09,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY000612,DUD100612,2023-10-08,2025-11-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000613,DUD100613,2022-12-24,2024-09-05,Inactive,Full-time,Senior Teacher,3,Initial Hire,Contract End,Assigned
+EMPLOY000614,DUD100614,2026-04-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000615,DUD100615,2022-10-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000616,DUD100616,2023-09-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000617,DUD100617,2023-11-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000618,DUD100618,2022-11-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000619,DUD100619,2022-03-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000620,DUD100620,2024-12-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000621,DUD100621,2021-07-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000622,DUD100622,2023-10-11,2024-11-30,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000623,DUD100623,2023-09-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000624,DUD100624,2026-05-02,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000625,DUD100625,2023-02-26,2024-03-14,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY000626,DUD100626,2021-10-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000627,DUD100627,2026-04-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000628,DUD100628,2024-07-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000629,DUD100629,2025-07-05,2027-05-14,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000630,DUD100630,2024-02-01,2024-07-15,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000631,DUD100631,2026-01-30,2027-05-10,Inactive,Full-time,Senior Trainer,5,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000632,DUD100632,2023-03-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000633,DUD100633,2026-04-28,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000634,DUD100634,2022-01-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000635,DUD100635,2024-03-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000636,DUD100636,2023-05-20,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000637,DUD100637,2021-06-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000638,DUD100638,2022-05-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000639,DUD100639,2026-01-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000640,DUD100640,2025-11-25,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY000641,DUD100641,2025-08-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000642,DUD100642,2024-02-16,2024-11-24,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000643,DUD100643,2021-07-12,2022-10-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000644,DUD100644,2024-02-24,2024-12-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000645,DUD100645,2021-12-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000646,DUD100646,2022-07-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000647,DUD100647,2022-07-15,2023-05-12,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000648,DUD100648,2025-08-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000649,DUD100649,2025-08-08,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000650,DUD100650,2022-02-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000651,DUD100651,2023-08-09,2024-12-25,Inactive,Full-time,Senior Teacher,3,Initial Hire,Performance,Assigned
+EMPLOY000652,DUD100652,2023-10-30,2025-09-27,Inactive,Full-time,Lead Trainer,6,Initial Hire,Performance,Assigned
+EMPLOY000653,DUD100653,2022-05-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000654,DUD100654,2021-12-23,2023-05-16,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000655,DUD100655,2024-07-03,2025-05-02,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY000656,DUD100656,2022-03-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000657,DUD100657,2023-09-15,2024-08-04,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000658,DUD100658,2023-04-08,2023-10-09,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000659,DUD100659,2021-01-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000660,DUD100660,2022-12-31,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY000661,DUD100661,2023-11-25,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000662,DUD100662,2021-05-12,2022-03-14,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Assigned
+EMPLOY000663,DUD100663,2026-06-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000664,DUD100664,2022-06-27,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000665,DUD100665,2024-03-14,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000666,DUD100666,2022-01-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000667,DUD100667,2024-07-16,2024-11-26,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000668,DUD100668,2022-07-27,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000669,DUD100669,2022-08-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000670,DUD100670,2024-11-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000671,DUD100671,2026-02-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000672,DUD100672,2024-10-12,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000673,DUD100673,2023-10-05,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000674,DUD100674,2022-04-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000675,DUD100675,2025-07-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000676,DUD100676,2025-03-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000677,DUD100677,2023-02-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000678,DUD100678,2023-08-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000679,DUD100679,2022-03-25,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000680,DUD100680,2021-07-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000681,DUD100681,2026-01-04,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000682,DUD100682,2023-12-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000683,DUD100683,2023-06-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000684,DUD100684,2025-08-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000685,DUD100685,2022-03-03,2022-09-06,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000686,DUD100686,2025-12-30,2027-08-27,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000687,DUD100687,2023-05-05,2024-09-01,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000688,DUD100688,2021-12-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000689,DUD100689,2022-02-10,2023-05-28,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000690,DUD100690,2022-08-17,2024-03-10,Inactive,Full-time,Senior Teacher,3,Initial Hire,Relocation,Assigned
+EMPLOY000691,DUD100691,2024-02-18,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000692,DUD100692,2021-11-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000693,DUD100693,2021-10-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000694,DUD100694,2024-01-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000695,DUD100695,2024-05-18,2026-04-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000696,DUD100696,2022-10-31,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000697,DUD100697,2024-05-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000698,DUD100698,2025-04-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000699,DUD100699,2026-06-25,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000700,DUD100700,2025-08-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000701,DUD100701,2023-09-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000702,DUD100702,2024-10-24,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000703,DUD100703,2021-01-04,2023-03-10,Inactive,Full-time,Trainer,4,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000704,DUD100704,2021-08-04,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000705,DUD100705,2021-09-25,2023-11-24,Inactive,Full-time,Trainer,4,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000706,DUD100706,2024-09-07,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000707,DUD100707,2024-12-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000708,DUD100708,2024-03-20,2025-12-31,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000709,DUD100709,2022-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000710,DUD100710,2023-06-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000711,DUD100711,2025-02-22,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000712,DUD100712,2024-03-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000713,DUD100713,2022-03-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000714,DUD100714,2021-03-18,2022-04-21,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000715,DUD100715,2025-10-11,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000716,DUD100716,2024-07-28,2025-04-21,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000717,DUD100717,2025-02-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000718,DUD100718,2024-09-14,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000719,DUD100719,2024-01-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000720,DUD100720,2026-04-27,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000721,DUD100721,2024-06-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000722,DUD100722,2023-10-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000723,DUD100723,2021-06-09,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000724,DUD100724,2022-11-02,2023-10-26,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000725,DUD100725,2023-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000726,DUD100726,2024-08-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000727,DUD100727,2026-06-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000728,DUD100728,2026-01-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000729,DUD100729,2023-05-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000730,DUD100730,2023-08-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000731,DUD100731,2021-05-11,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000732,DUD100732,2022-12-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000733,DUD100733,2024-09-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000734,DUD100734,2024-02-16,2024-12-09,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY000735,DUD100735,2024-07-28,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000736,DUD100736,2025-12-06,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000737,DUD100737,2023-12-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000738,DUD100738,2024-01-14,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY000739,DUD100739,2021-05-12,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000740,DUD100740,2024-12-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000741,DUD100741,2021-11-16,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000742,DUD100742,2021-08-21,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000743,DUD100743,2021-02-16,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000744,DUD100744,2024-10-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000745,DUD100745,2023-08-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000746,DUD100746,2023-07-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000747,DUD100747,2021-11-28,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000748,DUD100748,2023-02-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000749,DUD100749,2023-07-10,2025-06-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000750,DUD100750,2021-02-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000751,DUD100751,2023-08-31,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000752,DUD100752,2021-01-29,2021-10-16,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000753,DUD100753,2022-02-21,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000754,DUD100754,2022-03-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000755,DUD100755,2025-06-04,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY000756,DUD100756,2021-08-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000757,DUD100757,2026-08-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000758,DUD100758,2022-09-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000759,DUD100759,2025-03-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000760,DUD100760,2023-06-27,2025-03-01,Inactive,Full-time,Lead Trainer,6,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000761,DUD100761,2023-05-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000762,DUD100762,2026-07-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000763,DUD100763,2024-08-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000764,DUD100764,2024-01-24,2024-06-24,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY000765,DUD100765,2021-09-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000766,DUD100766,2026-01-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000767,DUD100767,2024-07-26,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000768,DUD100768,2025-10-09,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000769,DUD100769,2022-06-14,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000770,DUD100770,2025-04-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000771,DUD100771,2021-03-15,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000772,DUD100772,2024-03-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000773,DUD100773,2024-12-20,2025-12-14,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000774,DUD100774,2024-03-10,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000775,DUD100775,2025-02-21,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000776,DUD100776,2023-02-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000777,DUD100777,2024-03-07,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000778,DUD100778,2023-05-04,2025-01-15,Inactive,Full-time,Senior Trainer,5,Initial Hire,Career Change,Assigned
+EMPLOY000779,DUD100779,2025-01-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000780,DUD100780,2026-01-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000781,DUD100781,2025-01-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000782,DUD100782,2025-09-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000783,DUD100783,2021-12-07,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY000784,DUD100784,2024-10-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000785,DUD100785,2024-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000786,DUD100786,2022-11-26,2023-05-18,Inactive,Full-time,Senior Teacher,3,Initial Hire,Personal Reasons,Assigned
+EMPLOY000787,DUD100787,2025-04-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000788,DUD100788,2026-02-06,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000789,DUD100789,2024-08-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000790,DUD100790,2024-07-26,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000791,DUD100791,2024-12-03,2026-03-04,Inactive,Full-time,Senior Teacher,3,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000792,DUD100792,2026-04-02,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000793,DUD100793,2025-10-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000794,DUD100794,2026-02-10,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000795,DUD100795,2025-09-05,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY000796,DUD100796,2024-08-29,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000797,DUD100797,2026-07-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000798,DUD100798,2023-09-25,2025-02-16,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY000799,DUD100799,2023-09-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000800,DUD100800,2023-10-22,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000801,DUD100801,2022-07-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000802,DUD100802,2026-03-14,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000803,DUD100803,2025-06-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000804,DUD100804,2022-10-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000805,DUD100805,2026-07-29,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000806,DUD100806,2023-01-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000807,DUD100807,2022-05-04,2023-06-02,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY000808,DUD100808,2025-06-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000809,DUD100809,2023-08-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000810,DUD100810,2021-09-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000811,DUD100811,2023-04-15,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000812,DUD100812,2021-09-20,2023-09-08,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY000813,DUD100813,2024-02-16,2026-06-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000814,DUD100814,2023-03-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000815,DUD100815,2025-09-24,2026-02-09,Inactive,Full-time,Senior Trainer,5,Initial Hire,Performance,Assigned
+EMPLOY000816,DUD100816,2022-01-14,2024-04-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000817,DUD100817,2024-04-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000818,DUD100818,2021-09-19,2023-10-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000819,DUD100819,2021-03-25,2023-02-01,Inactive,Full-time,Trainer,4,Initial Hire,Relocation,Assigned
+EMPLOY000820,DUD100820,2025-09-21,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000821,DUD100821,2022-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000822,DUD100822,2021-07-21,2023-09-17,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY000823,DUD100823,2024-09-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000824,DUD100824,2023-02-25,2024-09-19,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000825,DUD100825,2023-11-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000826,DUD100826,2022-09-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000827,DUD100827,2024-11-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000828,DUD100828,2021-03-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000829,DUD100829,2025-01-25,2026-01-15,Inactive,Full-time,Senior Teacher,3,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000830,DUD100830,2022-05-15,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000831,DUD100831,2021-01-31,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000832,DUD100832,2022-05-22,2023-12-11,Inactive,Full-time,Senior Trainer,5,Initial Hire,Personal Reasons,Assigned
+EMPLOY000833,DUD100833,2021-12-19,2022-08-21,Inactive,Full-time,Trainer,4,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY000834,DUD100834,2025-03-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000835,DUD100835,2022-05-16,2024-05-01,Inactive,Full-time,Senior Teacher,3,Initial Hire,Contract End,Assigned
+EMPLOY000836,DUD100836,2025-01-23,2025-07-13,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000837,DUD100837,2022-05-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000838,DUD100838,2025-03-28,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000839,DUD100839,2026-03-12,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000840,DUD100840,2023-08-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000841,DUD100841,2022-09-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000842,DUD100842,2022-10-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000843,DUD100843,2023-12-18,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000844,DUD100844,2025-03-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000845,DUD100845,2026-03-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000846,DUD100846,2022-10-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000847,DUD100847,2023-08-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000848,DUD100848,2023-10-31,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000849,DUD100849,2021-10-20,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000850,DUD100850,2026-04-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000851,DUD100851,2025-08-20,2027-02-26,Inactive,Full-time,Trainer,4,Initial Hire,Career Change,Assigned
+EMPLOY000852,DUD100852,2024-09-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000853,DUD100853,2021-07-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000854,DUD100854,2025-02-01,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000855,DUD100855,2023-12-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000856,DUD100856,2021-02-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000857,DUD100857,2024-04-11,2025-03-10,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000858,DUD100858,2022-06-19,2023-11-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY000859,DUD100859,2021-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000860,DUD100860,2024-03-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000861,DUD100861,2025-09-29,2027-10-28,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000862,DUD100862,2026-05-13,2028-07-21,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000863,DUD100863,2025-09-27,2026-03-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY000864,DUD100864,2022-07-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000865,DUD100865,2022-08-25,2024-09-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000866,DUD100866,2022-11-21,2024-03-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000867,DUD100867,2023-03-18,2023-07-19,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000868,DUD100868,2025-11-12,2028-02-23,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY000869,DUD100869,2025-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000870,DUD100870,2026-04-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000871,DUD100871,2024-09-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000872,DUD100872,2023-05-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000873,DUD100873,2022-08-25,2024-01-03,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY000874,DUD100874,2023-09-18,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000875,DUD100875,2023-08-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000876,DUD100876,2025-01-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000877,DUD100877,2024-07-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000878,DUD100878,2026-07-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000879,DUD100879,2025-09-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000880,DUD100880,2025-02-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000881,DUD100881,2025-01-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000882,DUD100882,2024-08-22,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000883,DUD100883,2022-12-19,2023-05-04,Inactive,Full-time,Senior Trainer,5,Initial Hire,Performance,Assigned
+EMPLOY000884,DUD100884,2022-12-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000885,DUD100885,2021-06-09,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000886,DUD100886,2023-10-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000887,DUD100887,2025-07-03,2027-09-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY000888,DUD100888,2025-11-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000889,DUD100889,2023-05-06,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000890,DUD100890,2024-09-18,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000891,DUD100891,2021-12-09,2022-12-01,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY000892,DUD100892,2021-03-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000893,DUD100893,2025-03-23,2027-04-20,Inactive,Full-time,Trainer,4,Initial Hire,Relocation,Assigned
+EMPLOY000894,DUD100894,2026-07-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000895,DUD100895,2026-04-11,2026-11-14,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY000896,DUD100896,2024-09-03,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000897,DUD100897,2021-11-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000898,DUD100898,2022-09-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000899,DUD100899,2025-02-15,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000900,DUD100900,2021-01-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000901,DUD100901,2025-08-05,2026-03-09,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY000902,DUD100902,2026-07-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000903,DUD100903,2024-03-18,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000904,DUD100904,2022-06-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000905,DUD100905,2024-06-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000906,DUD100906,2021-03-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000907,DUD100907,2025-01-11,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000908,DUD100908,2024-03-15,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000909,DUD100909,2023-06-05,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000910,DUD100910,2023-06-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000911,DUD100911,2024-10-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000912,DUD100912,2022-06-03,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000913,DUD100913,2024-09-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000914,DUD100914,2025-06-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000915,DUD100915,2023-11-01,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000916,DUD100916,2024-04-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000917,DUD100917,2025-12-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000918,DUD100918,2025-05-20,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000919,DUD100919,2022-07-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000920,DUD100920,2021-10-30,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000921,DUD100921,2025-11-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000922,DUD100922,2025-01-11,2025-09-10,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY000923,DUD100923,2024-04-06,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000924,DUD100924,2021-10-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000925,DUD100925,2026-05-17,2028-08-26,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000926,DUD100926,2022-04-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000927,DUD100927,2026-06-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000928,DUD100928,2022-03-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000929,DUD100929,2023-12-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000930,DUD100930,2024-06-20,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000931,DUD100931,2023-10-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000932,DUD100932,2024-12-01,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000933,DUD100933,2021-07-12,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000934,DUD100934,2022-07-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000935,DUD100935,2021-08-20,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000936,DUD100936,2023-10-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000937,DUD100937,2022-02-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000938,DUD100938,2022-03-09,2024-06-22,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000939,DUD100939,2024-10-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000940,DUD100940,2025-05-18,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000941,DUD100941,2024-11-09,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000942,DUD100942,2021-12-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000943,DUD100943,2021-02-18,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000944,DUD100944,2024-08-03,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000945,DUD100945,2025-11-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000946,DUD100946,2025-02-25,2026-07-05,Inactive,Full-time,Lead Trainer,6,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY000947,DUD100947,2024-08-27,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000948,DUD100948,2026-04-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000949,DUD100949,2023-09-14,2025-05-03,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY000950,DUD100950,2021-07-03,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000951,DUD100951,2025-04-29,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000952,DUD100952,2024-03-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000953,DUD100953,2024-08-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000954,DUD100954,2025-10-07,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000955,DUD100955,2024-11-05,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000956,DUD100956,2023-10-26,2024-09-18,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY000957,DUD100957,2026-06-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000958,DUD100958,2024-10-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000959,DUD100959,2021-12-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000960,DUD100960,2024-06-02,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000961,DUD100961,2025-06-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000962,DUD100962,2023-04-25,2025-04-16,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY000963,DUD100963,2022-08-06,2023-01-05,Inactive,Full-time,Senior Trainer,5,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY000964,DUD100964,2023-06-09,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY000965,DUD100965,2021-11-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000966,DUD100966,2025-03-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000967,DUD100967,2022-05-25,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000968,DUD100968,2021-02-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000969,DUD100969,2025-07-09,2026-05-16,Inactive,Full-time,Senior Teacher,3,Initial Hire,Personal Reasons,Assigned
+EMPLOY000970,DUD100970,2024-10-02,2025-09-07,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY000971,DUD100971,2022-01-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000972,DUD100972,2023-04-22,2024-04-23,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY000973,DUD100973,2023-12-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000974,DUD100974,2025-11-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000975,DUD100975,2023-11-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000976,DUD100976,2022-11-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000977,DUD100977,2025-03-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000978,DUD100978,2022-05-21,2024-07-26,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY000979,DUD100979,2024-12-29,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000980,DUD100980,2021-09-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000981,DUD100981,2025-03-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000982,DUD100982,2024-08-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000983,DUD100983,2025-05-28,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY000984,DUD100984,2023-11-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000985,DUD100985,2025-11-16,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000986,DUD100986,2025-02-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000987,DUD100987,2025-06-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000988,DUD100988,2023-12-02,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY000989,DUD100989,2026-02-05,2027-06-30,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY000990,DUD100990,2023-06-09,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY000991,DUD100991,2025-01-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000992,DUD100992,2024-11-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY000993,DUD100993,2024-03-31,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000994,DUD100994,2026-06-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY000995,DUD100995,2024-06-24,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY000996,DUD100996,2025-05-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000997,DUD100997,2021-12-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY000998,DUD100998,2021-09-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY000999,DUD100999,2023-07-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001000,DUD101000,2025-04-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001001,DUD101001,2025-03-10,2027-01-06,Inactive,Full-time,Senior Trainer,5,Initial Hire,Performance,Awaiting Assignment
+EMPLOY001002,DUD101002,2025-09-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001003,DUD101003,2024-02-10,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY001004,DUD101004,2024-01-06,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001005,DUD101005,2022-08-02,2023-11-08,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001006,DUD101006,2025-11-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001007,DUD101007,2023-09-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001008,DUD101008,2021-05-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001009,DUD101009,2024-06-03,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001010,DUD101010,2023-12-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001011,DUD101011,2025-10-07,2028-02-28,Inactive,Full-time,Senior Teacher,3,Initial Hire,Contract End,Assigned
+EMPLOY001012,DUD101012,2023-06-08,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001013,DUD101013,2022-07-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001014,DUD101014,2022-01-19,2022-09-13,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY001015,DUD101015,2024-07-21,2026-10-24,Inactive,Full-time,Senior Teacher,3,Initial Hire,Performance,Assigned
+EMPLOY001016,DUD101016,2025-09-13,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001017,DUD101017,2022-11-12,2023-07-10,Inactive,Full-time,Senior Teacher,3,Initial Hire,Relocation,Assigned
+EMPLOY001018,DUD101018,2024-04-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001019,DUD101019,2024-01-19,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001020,DUD101020,2023-12-12,2025-01-19,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY001021,DUD101021,2021-01-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001022,DUD101022,2024-05-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001023,DUD101023,2023-06-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001024,DUD101024,2023-11-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001025,DUD101025,2024-04-20,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001026,DUD101026,2024-06-04,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001027,DUD101027,2024-06-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001028,DUD101028,2022-02-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001029,DUD101029,2022-12-03,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001030,DUD101030,2026-07-15,2028-04-24,Inactive,Full-time,Senior Teacher,3,Initial Hire,Relocation,Assigned
+EMPLOY001031,DUD101031,2023-11-17,2024-09-22,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001032,DUD101032,2021-04-29,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001033,DUD101033,2021-02-24,2021-08-04,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY001034,DUD101034,2024-02-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001035,DUD101035,2022-11-21,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001036,DUD101036,2025-08-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001037,DUD101037,2023-08-17,2025-07-08,Inactive,Full-time,Senior Teacher,3,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001038,DUD101038,2026-07-08,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY001039,DUD101039,2024-12-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001040,DUD101040,2022-09-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001041,DUD101041,2021-03-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001042,DUD101042,2022-01-21,2023-02-17,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY001043,DUD101043,2024-11-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001044,DUD101044,2026-06-20,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001045,DUD101045,2022-05-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001046,DUD101046,2026-03-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001047,DUD101047,2024-01-29,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001048,DUD101048,2026-03-30,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001049,DUD101049,2023-03-12,2025-05-12,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY001050,DUD101050,2023-03-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001051,DUD101051,2024-05-28,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY001052,DUD101052,2021-10-28,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001053,DUD101053,2021-04-18,2023-03-16,Inactive,Full-time,Senior Teacher,3,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001054,DUD101054,2024-06-14,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001055,DUD101055,2023-01-27,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001056,DUD101056,2021-02-04,2022-01-14,Inactive,Full-time,Trainer,4,Initial Hire,Career Change,Assigned
+EMPLOY001057,DUD101057,2021-10-10,2022-06-29,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001058,DUD101058,2021-05-08,2022-10-05,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001059,DUD101059,2023-11-22,2025-03-29,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001060,DUD101060,2023-04-04,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001061,DUD101061,2025-03-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001062,DUD101062,2025-06-02,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY001063,DUD101063,2026-03-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001064,DUD101064,2025-05-05,2026-08-11,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY001065,DUD101065,2026-06-12,2028-07-27,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY001066,DUD101066,2022-09-07,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001067,DUD101067,2021-04-14,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001068,DUD101068,2024-06-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001069,DUD101069,2025-11-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001070,DUD101070,2026-03-18,2027-10-14,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY001071,DUD101071,2025-07-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001072,DUD101072,2026-05-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001073,DUD101073,2024-11-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001074,DUD101074,2026-01-14,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001075,DUD101075,2025-05-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001076,DUD101076,2026-05-02,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001077,DUD101077,2025-08-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001078,DUD101078,2025-06-08,2027-02-14,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001079,DUD101079,2022-06-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001080,DUD101080,2025-06-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001081,DUD101081,2026-01-27,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001082,DUD101082,2025-11-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001083,DUD101083,2022-08-06,2024-04-25,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001084,DUD101084,2025-05-03,2027-01-27,Inactive,Full-time,Senior Teacher,3,Initial Hire,Personal Reasons,Assigned
+EMPLOY001085,DUD101085,2023-09-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001086,DUD101086,2021-01-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001087,DUD101087,2026-05-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001088,DUD101088,2023-10-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001089,DUD101089,2026-08-08,2027-09-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001090,DUD101090,2021-04-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001091,DUD101091,2025-04-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001092,DUD101092,2021-03-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001093,DUD101093,2023-06-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001094,DUD101094,2025-07-22,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001095,DUD101095,2022-06-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001096,DUD101096,2026-05-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001097,DUD101097,2023-10-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001098,DUD101098,2026-08-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001099,DUD101099,2021-01-19,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001100,DUD101100,2022-08-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001101,DUD101101,2024-04-09,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001102,DUD101102,2022-03-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001103,DUD101103,2024-10-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001104,DUD101104,2021-11-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001105,DUD101105,2024-04-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001106,DUD101106,2022-10-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001107,DUD101107,2024-08-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001108,DUD101108,2022-12-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001109,DUD101109,2022-06-20,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001110,DUD101110,2021-05-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001111,DUD101111,2025-02-17,,Active,Full-time,Trainer,4,Initial Hire,,Awaiting Assignment
+EMPLOY001112,DUD101112,2022-10-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001113,DUD101113,2021-11-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001114,DUD101114,2022-07-29,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY001115,DUD101115,2025-06-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001116,DUD101116,2025-12-10,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY001117,DUD101117,2025-06-20,2025-11-07,Inactive,Full-time,Senior Trainer,5,Initial Hire,Career Change,Assigned
+EMPLOY001118,DUD101118,2023-09-09,2025-11-05,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Awaiting Assignment
+EMPLOY001119,DUD101119,2024-05-16,2026-01-13,Inactive,Full-time,Senior Teacher,3,Initial Hire,Performance,Assigned
+EMPLOY001120,DUD101120,2025-11-29,2026-11-11,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY001121,DUD101121,2024-07-09,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001122,DUD101122,2025-09-07,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001123,DUD101123,2025-01-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001124,DUD101124,2021-06-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001125,DUD101125,2023-10-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001126,DUD101126,2022-06-19,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001127,DUD101127,2022-07-14,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001128,DUD101128,2024-01-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001129,DUD101129,2024-06-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001130,DUD101130,2024-09-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001131,DUD101131,2026-07-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001132,DUD101132,2025-07-31,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001133,DUD101133,2025-08-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001134,DUD101134,2025-10-17,2026-04-16,Inactive,Full-time,Trainer,4,Initial Hire,Relocation,Assigned
+EMPLOY001135,DUD101135,2025-10-11,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001136,DUD101136,2025-01-25,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001137,DUD101137,2025-12-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001138,DUD101138,2024-01-13,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001139,DUD101139,2025-04-05,2027-09-02,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001140,DUD101140,2024-08-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001141,DUD101141,2022-09-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001142,DUD101142,2024-08-16,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001143,DUD101143,2024-04-26,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001144,DUD101144,2025-11-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001145,DUD101145,2025-06-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001146,DUD101146,2024-02-02,2026-02-22,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001147,DUD101147,2024-09-12,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001148,DUD101148,2021-10-03,2023-04-09,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY001149,DUD101149,2021-02-15,2022-09-29,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001150,DUD101150,2026-02-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001151,DUD101151,2025-05-28,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001152,DUD101152,2025-02-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001153,DUD101153,2025-07-28,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001154,DUD101154,2026-06-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001155,DUD101155,2025-11-05,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001156,DUD101156,2022-10-08,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001157,DUD101157,2021-10-17,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001158,DUD101158,2021-05-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001159,DUD101159,2022-11-08,2024-03-07,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY001160,DUD101160,2021-12-23,2024-02-04,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY001161,DUD101161,2024-10-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001162,DUD101162,2021-05-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001163,DUD101163,2024-04-01,2025-02-19,Inactive,Full-time,Senior Trainer,5,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001164,DUD101164,2021-02-07,2023-04-25,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY001165,DUD101165,2025-12-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001166,DUD101166,2021-09-01,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY001167,DUD101167,2022-05-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001168,DUD101168,2024-11-18,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001169,DUD101169,2022-05-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001170,DUD101170,2021-12-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001171,DUD101171,2022-08-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001172,DUD101172,2021-04-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001173,DUD101173,2021-10-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001174,DUD101174,2024-07-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001175,DUD101175,2025-11-25,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001176,DUD101176,2022-03-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001177,DUD101177,2026-07-11,2026-11-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Awaiting Assignment
+EMPLOY001178,DUD101178,2026-06-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001179,DUD101179,2025-03-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001180,DUD101180,2025-07-21,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001181,DUD101181,2021-01-17,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001182,DUD101182,2025-01-24,2026-07-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001183,DUD101183,2022-04-27,2023-03-08,Inactive,Full-time,Senior Trainer,5,Initial Hire,Relocation,Assigned
+EMPLOY001184,DUD101184,2025-06-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001185,DUD101185,2021-11-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001186,DUD101186,2025-05-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001187,DUD101187,2024-03-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001188,DUD101188,2025-09-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001189,DUD101189,2024-07-14,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001190,DUD101190,2022-12-15,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY001191,DUD101191,2023-03-26,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001192,DUD101192,2022-11-24,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001193,DUD101193,2021-01-07,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001194,DUD101194,2025-01-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001195,DUD101195,2021-05-31,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001196,DUD101196,2023-12-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001197,DUD101197,2026-02-14,2026-09-16,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Assigned
+EMPLOY001198,DUD101198,2025-01-27,2025-10-30,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY001199,DUD101199,2021-09-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001200,DUD101200,2023-11-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001201,DUD101201,2024-02-04,2025-08-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001202,DUD101202,2021-03-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001203,DUD101203,2024-10-14,2026-04-24,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Assigned
+EMPLOY001204,DUD101204,2024-06-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001205,DUD101205,2024-12-14,2026-11-09,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001206,DUD101206,2023-08-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001207,DUD101207,2025-12-24,2026-10-14,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY001208,DUD101208,2024-04-26,2026-08-28,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001209,DUD101209,2021-04-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001210,DUD101210,2023-07-24,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001211,DUD101211,2024-03-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001212,DUD101212,2022-07-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001213,DUD101213,2021-01-21,2023-06-15,Inactive,Full-time,Lead Trainer,6,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001214,DUD101214,2023-09-29,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001215,DUD101215,2025-03-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001216,DUD101216,2022-11-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001217,DUD101217,2025-11-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001218,DUD101218,2025-11-07,2027-01-11,Inactive,Full-time,Lead Trainer,6,Initial Hire,Personal Reasons,Assigned
+EMPLOY001219,DUD101219,2022-09-29,2023-02-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY001220,DUD101220,2025-09-04,2026-07-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001221,DUD101221,2025-06-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001222,DUD101222,2025-03-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001223,DUD101223,2023-03-02,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001224,DUD101224,2021-05-28,2023-10-01,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY001225,DUD101225,2022-02-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001226,DUD101226,2022-04-15,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001227,DUD101227,2021-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001228,DUD101228,2021-11-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001229,DUD101229,2024-07-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001230,DUD101230,2023-06-20,2024-04-23,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Assigned
+EMPLOY001231,DUD101231,2023-08-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001232,DUD101232,2024-01-28,2025-07-18,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001233,DUD101233,2021-05-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001234,DUD101234,2021-02-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001235,DUD101235,2021-01-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001236,DUD101236,2026-01-15,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001237,DUD101237,2025-06-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001238,DUD101238,2026-05-16,2028-07-16,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY001239,DUD101239,2023-03-05,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001240,DUD101240,2026-07-21,2028-03-19,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY001241,DUD101241,2025-05-29,2027-03-13,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Assigned
+EMPLOY001242,DUD101242,2022-12-09,2025-05-22,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY001243,DUD101243,2022-05-31,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001244,DUD101244,2026-04-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001245,DUD101245,2021-08-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001246,DUD101246,2023-10-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001247,DUD101247,2021-11-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001248,DUD101248,2025-09-13,2027-03-08,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Awaiting Assignment
+EMPLOY001249,DUD101249,2022-03-28,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001250,DUD101250,2023-06-21,2024-08-01,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY001251,DUD101251,2022-05-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001252,DUD101252,2024-12-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001253,DUD101253,2021-01-14,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001254,DUD101254,2024-01-15,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001255,DUD101255,2025-03-12,2027-08-07,Inactive,Full-time,Senior Teacher,3,Initial Hire,Personal Reasons,Assigned
+EMPLOY001256,DUD101256,2024-07-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001257,DUD101257,2024-02-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001258,DUD101258,2022-06-10,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001259,DUD101259,2023-08-01,2025-12-18,Inactive,Full-time,Trainer,4,Initial Hire,Relocation,Assigned
+EMPLOY001260,DUD101260,2022-06-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001261,DUD101261,2021-10-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001262,DUD101262,2024-10-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001263,DUD101263,2023-05-31,2024-09-10,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY001264,DUD101264,2023-04-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001265,DUD101265,2021-02-17,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001266,DUD101266,2021-01-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001267,DUD101267,2022-10-15,2024-01-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001268,DUD101268,2022-04-27,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001269,DUD101269,2022-12-07,2024-09-02,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY001270,DUD101270,2021-05-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001271,DUD101271,2025-03-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001272,DUD101272,2023-05-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001273,DUD101273,2021-02-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001274,DUD101274,2026-06-13,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001275,DUD101275,2023-10-26,2024-10-31,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001276,DUD101276,2025-01-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001277,DUD101277,2024-11-07,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001278,DUD101278,2025-07-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001279,DUD101279,2026-07-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001280,DUD101280,2021-08-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001281,DUD101281,2024-04-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001282,DUD101282,2025-07-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001283,DUD101283,2026-07-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001284,DUD101284,2026-03-11,2027-09-04,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY001285,DUD101285,2021-11-20,2022-09-05,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY001286,DUD101286,2022-10-19,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001287,DUD101287,2026-03-20,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001288,DUD101288,2024-07-11,2025-07-19,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Assigned
+EMPLOY001289,DUD101289,2024-03-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001290,DUD101290,2026-07-03,2027-10-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001291,DUD101291,2025-12-24,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001292,DUD101292,2024-12-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001293,DUD101293,2025-04-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001294,DUD101294,2023-05-14,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001295,DUD101295,2024-05-24,2026-08-27,Inactive,Full-time,Trainer,4,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001296,DUD101296,2024-08-19,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001297,DUD101297,2022-06-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001298,DUD101298,2023-07-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001299,DUD101299,2025-12-26,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001300,DUD101300,2025-10-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001301,DUD101301,2022-08-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001302,DUD101302,2023-01-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001303,DUD101303,2021-06-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001304,DUD101304,2022-03-11,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001305,DUD101305,2022-01-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001306,DUD101306,2025-10-16,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001307,DUD101307,2023-12-03,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001308,DUD101308,2023-04-08,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001309,DUD101309,2021-01-05,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001310,DUD101310,2025-11-18,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001311,DUD101311,2025-07-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001312,DUD101312,2026-04-01,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001313,DUD101313,2025-11-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001314,DUD101314,2021-06-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001315,DUD101315,2026-06-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001316,DUD101316,2025-05-25,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY001317,DUD101317,2026-06-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001318,DUD101318,2021-07-08,2022-11-30,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001319,DUD101319,2021-12-21,2023-01-04,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Awaiting Assignment
+EMPLOY001320,DUD101320,2024-01-19,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001321,DUD101321,2022-12-21,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001322,DUD101322,2026-02-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001323,DUD101323,2024-03-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001324,DUD101324,2022-05-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001325,DUD101325,2022-02-02,2023-04-08,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Career Change,Assigned
+EMPLOY001326,DUD101326,2026-02-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001327,DUD101327,2024-05-09,2025-05-20,Inactive,Full-time,Senior Trainer,5,Initial Hire,Relocation,Assigned
+EMPLOY001328,DUD101328,2024-10-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001329,DUD101329,2021-10-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001330,DUD101330,2022-09-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001331,DUD101331,2025-06-16,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001332,DUD101332,2026-01-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001333,DUD101333,2025-05-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001334,DUD101334,2026-06-10,2027-03-21,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001335,DUD101335,2024-11-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001336,DUD101336,2023-03-28,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001337,DUD101337,2025-02-03,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001338,DUD101338,2026-02-17,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001339,DUD101339,2021-08-13,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY001340,DUD101340,2023-09-18,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001341,DUD101341,2023-03-07,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001342,DUD101342,2026-01-09,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001343,DUD101343,2024-01-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001344,DUD101344,2022-09-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001345,DUD101345,2021-05-27,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001346,DUD101346,2024-03-23,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001347,DUD101347,2023-07-07,2024-02-08,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY001348,DUD101348,2021-10-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001349,DUD101349,2025-05-26,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001350,DUD101350,2025-03-04,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001351,DUD101351,2024-09-25,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001352,DUD101352,2025-10-31,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001353,DUD101353,2024-04-18,2025-12-14,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001354,DUD101354,2026-02-11,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001355,DUD101355,2024-02-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001356,DUD101356,2025-08-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001357,DUD101357,2025-05-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001358,DUD101358,2025-04-27,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001359,DUD101359,2026-03-24,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001360,DUD101360,2023-08-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001361,DUD101361,2022-08-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001362,DUD101362,2021-09-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001363,DUD101363,2023-01-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001364,DUD101364,2021-08-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001365,DUD101365,2025-05-04,2027-09-30,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001366,DUD101366,2023-05-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001367,DUD101367,2023-01-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001368,DUD101368,2026-07-14,2028-05-12,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Assigned
+EMPLOY001369,DUD101369,2022-01-09,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001370,DUD101370,2024-06-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001371,DUD101371,2025-04-24,,Active,Full-time,Senior Teacher,3,Initial Hire,,Awaiting Assignment
+EMPLOY001372,DUD101372,2024-04-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001373,DUD101373,2023-04-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001374,DUD101374,2022-11-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001375,DUD101375,2025-12-07,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001376,DUD101376,2025-06-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001377,DUD101377,2022-02-18,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001378,DUD101378,2022-02-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001379,DUD101379,2025-03-17,2027-03-13,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY001380,DUD101380,2023-05-18,,Active,Full-time,Lead Trainer,6,Initial Hire,,Awaiting Assignment
+EMPLOY001381,DUD101381,2021-06-12,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001382,DUD101382,2022-04-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001383,DUD101383,2026-06-25,2028-05-24,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Performance,Assigned
+EMPLOY001384,DUD101384,2021-09-20,2022-01-30,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001385,DUD101385,2025-07-16,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001386,DUD101386,2025-09-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001387,DUD101387,2025-08-15,2027-10-09,Inactive,Full-time,Trainer,4,Initial Hire,Contract End,Assigned
+EMPLOY001388,DUD101388,2021-09-08,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001389,DUD101389,2021-03-28,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001390,DUD101390,2024-08-13,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001391,DUD101391,2021-10-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001392,DUD101392,2026-02-06,2027-05-07,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY001393,DUD101393,2024-12-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001394,DUD101394,2025-02-13,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001395,DUD101395,2025-12-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001396,DUD101396,2021-04-03,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001397,DUD101397,2021-11-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001398,DUD101398,2026-05-10,2028-07-24,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001399,DUD101399,2026-04-03,2028-03-02,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Awaiting Assignment
+EMPLOY001400,DUD101400,2022-05-07,2024-03-04,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY001401,DUD101401,2021-10-27,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001402,DUD101402,2026-06-23,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001403,DUD101403,2026-07-26,2027-01-14,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001404,DUD101404,2022-01-24,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001405,DUD101405,2021-06-06,2022-12-27,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001406,DUD101406,2021-09-10,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001407,DUD101407,2025-04-11,,Active,Full-time,Trainer,4,Initial Hire,,Assigned
+EMPLOY001408,DUD101408,2025-06-29,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001409,DUD101409,2026-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001410,DUD101410,2021-10-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001411,DUD101411,2026-04-11,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001412,DUD101412,2024-07-27,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001413,DUD101413,2021-09-15,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001414,DUD101414,2022-09-04,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001415,DUD101415,2024-04-28,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001416,DUD101416,2025-03-08,2026-12-26,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY001417,DUD101417,2021-09-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001418,DUD101418,2022-08-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001419,DUD101419,2024-10-21,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001420,DUD101420,2022-12-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001421,DUD101421,2022-09-19,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001422,DUD101422,2021-11-04,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001423,DUD101423,2021-12-21,2022-05-09,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY001424,DUD101424,2021-05-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001425,DUD101425,2024-02-21,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001426,DUD101426,2025-09-19,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001427,DUD101427,2024-07-15,2026-09-29,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Contract End,Assigned
+EMPLOY001428,DUD101428,2023-09-12,2024-07-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Relocation,Assigned
+EMPLOY001429,DUD101429,2026-02-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001430,DUD101430,2023-03-17,2024-05-23,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Awaiting Assignment
+EMPLOY001431,DUD101431,2021-12-12,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001432,DUD101432,2024-02-25,2024-12-26,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Relocation,Awaiting Assignment
+EMPLOY001433,DUD101433,2023-08-16,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001434,DUD101434,2022-07-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001435,DUD101435,2021-01-31,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001436,DUD101436,2024-09-20,2026-06-24,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Personal Reasons,Awaiting Assignment
+EMPLOY001437,DUD101437,2021-06-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001438,DUD101438,2024-03-11,2025-02-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001439,DUD101439,2024-12-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001440,DUD101440,2026-05-11,2028-04-01,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001441,DUD101441,2025-08-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001442,DUD101442,2025-04-18,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001443,DUD101443,2024-01-10,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001444,DUD101444,2024-02-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001445,DUD101445,2025-04-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001446,DUD101446,2022-02-27,2023-11-15,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY001447,DUD101447,2024-06-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001448,DUD101448,2023-07-18,2025-05-22,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Personal Reasons,Assigned
+EMPLOY001449,DUD101449,2024-06-22,,Active,Full-time,Senior Trainer,5,Initial Hire,,Assigned
+EMPLOY001450,DUD101450,2023-06-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001451,DUD101451,2022-10-26,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001452,DUD101452,2021-10-04,2023-02-17,Inactive,Full-time,Senior Teacher,3,Initial Hire,Career Change,Assigned
+EMPLOY001453,DUD101453,2022-04-23,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001454,DUD101454,2025-12-29,,Active,Full-time,Lead Trainer,6,Initial Hire,,Assigned
+EMPLOY001455,DUD101455,2021-04-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001456,DUD101456,2022-09-11,2023-08-07,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001457,DUD101457,2025-12-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001458,DUD101458,2023-05-25,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001459,DUD101459,2025-01-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001460,DUD101460,2024-01-04,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001461,DUD101461,2022-11-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001462,DUD101462,2025-11-04,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001463,DUD101463,2026-02-25,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001464,DUD101464,2026-02-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001465,DUD101465,2025-06-17,2026-10-13,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY001466,DUD101466,2021-12-14,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001467,DUD101467,2023-03-17,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001468,DUD101468,2024-02-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001469,DUD101469,2024-03-30,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001470,DUD101470,2026-02-20,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001471,DUD101471,2023-05-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001472,DUD101472,2026-08-12,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001473,DUD101473,2022-06-21,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001474,DUD101474,2026-03-05,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001475,DUD101475,2026-05-06,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001476,DUD101476,2023-12-09,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001477,DUD101477,2025-06-10,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001478,DUD101478,2024-07-13,,Active,Full-time,Senior Trainer,5,Initial Hire,,Awaiting Assignment
+EMPLOY001479,DUD101479,2023-09-30,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001480,DUD101480,2021-04-08,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001481,DUD101481,2022-05-25,2023-05-12,Inactive,Full-time,Experienced Teacher,2,Initial Hire,Voluntary Resignation,Assigned
+EMPLOY001482,DUD101482,2025-10-01,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001483,DUD101483,2024-03-27,2025-01-20,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Career Change,Assigned
+EMPLOY001484,DUD101484,2026-04-23,2026-12-02,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY001485,DUD101485,2022-03-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001486,DUD101486,2026-01-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001487,DUD101487,2022-12-03,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001488,DUD101488,2026-07-16,,Active,Full-time,Senior Teacher,3,Initial Hire,,Assigned
+EMPLOY001489,DUD101489,2025-02-02,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001490,DUD101490,2023-06-09,2025-02-13,Inactive,Full-time,Senior Trainer,5,Initial Hire,Contract End,Assigned
+EMPLOY001491,DUD101491,2023-09-19,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Awaiting Assignment
+EMPLOY001492,DUD101492,2022-12-13,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001493,DUD101493,2023-09-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001494,DUD101494,2023-12-14,2024-05-02,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Contract End,Assigned
+EMPLOY001495,DUD101495,2021-10-17,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001496,DUD101496,2023-08-01,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Awaiting Assignment
+EMPLOY001497,DUD101497,2024-11-22,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001498,DUD101498,2022-03-27,2023-09-25,Inactive,Full-time,ALT / English Teacher,1,Initial Hire,Performance,Assigned
+EMPLOY001499,DUD101499,2024-05-14,,Active,Full-time,ALT / English Teacher,1,Initial Hire,,Assigned
+EMPLOY001500,DUD101500,2022-09-16,,Active,Full-time,Experienced Teacher,2,Initial Hire,,Assigned
+EMPLOY001501,DUD000001,2021-10-30,,Active,Full-time,HR Staff,5,Initial Hire,,Office
+EMPLOY001502,DUD000002,2024-07-17,,Active,Full-time,Manager,4,Initial Hire,,Office
+EMPLOY001503,DUD000003,2025-02-06,,Active,Full-time,Recruiter,5,Initial Hire,,Office
+EMPLOY001504,DUD000004,2024-10-29,,Active,Full-time,HR Staff,3,Initial Hire,,Office
+EMPLOY001505,DUD000005,2024-08-02,,Active,Full-time,HR Staff,1,Initial Hire,,Office
+EMPLOY001506,DUD000006,2020-08-28,,Active,Full-time,Recruiter,4,Initial Hire,,Office
+EMPLOY001507,DUD000007,2022-06-06,,Active,Full-time,Client Relations,1,Initial Hire,,Office
+EMPLOY001508,DUD000008,2023-11-05,,Active,Full-time,Manager,3,Initial Hire,,Office
+EMPLOY001509,DUD000009,2023-01-29,,Active,Full-time,Client Relations,1,Initial Hire,,Office
+EMPLOY001510,DUD000010,2020-10-03,,Active,Full-time,Client Relations,4,Initial Hire,,Office
+EMPLOY001511,DUD000011,2020-12-31,,Active,Full-time,Recruiter,4,Initial Hire,,Office
+EMPLOY001512,DUD000012,2025-11-27,,Active,Full-time,Administrator,3,Initial Hire,,Office
+EMPLOY001513,DUD000013,2025-11-03,,Active,Full-time,Recruiter,5,Initial Hire,,Office
+EMPLOY001514,DUD000014,2020-09-29,,Active,Full-time,HR Staff,5,Initial Hire,,Office
+EMPLOY001515,DUD000015,2023-04-20,,Active,Full-time,HR Staff,5,Initial Hire,,Office
+EMPLOY001516,DUD000016,2025-07-22,,Active,Full-time,Client Relations,5,Initial Hire,,Office
+EMPLOY001517,DUD000017,2021-03-22,,Active,Full-time,Dispatch Staff,3,Initial Hire,,Office
+EMPLOY001518,DUD000018,2022-01-15,,Active,Full-time,Administrator,4,Initial Hire,,Office
+EMPLOY001519,DUD000019,2021-05-12,,Active,Full-time,Client Relations,3,Initial Hire,,Office
+EMPLOY001520,DUD000020,2025-05-20,,Active,Full-time,Manager,5,Initial Hire,,Office
+EMPLOY001521,DUD000021,2020-04-25,,Active,Full-time,Dispatch Staff,4,Initial Hire,,Office
+EMPLOY001522,DUD000022,2024-04-26,,Active,Full-time,Client Relations,4,Initial Hire,,Office
+EMPLOY001523,DUD000023,2023-02-07,,Active,Full-time,Recruiter,5,Initial Hire,,Office
+EMPLOY001524,DUD000024,2025-11-13,,Active,Full-time,Administrator,2,Initial Hire,,Office
+EMPLOY001525,DUD000025,2021-06-02,,Active,Full-time,Client Relations,4,Initial Hire,,Office
+EMPLOY001526,DUD000026,2022-12-24,,Active,Full-time,Manager,3,Initial Hire,,Office
+EMPLOY001527,DUD000027,2024-08-09,,Active,Full-time,Manager,3,Initial Hire,,Office
+EMPLOY001528,DUD000028,2023-09-26,,Active,Full-time,Client Relations,2,Initial Hire,,Office
+EMPLOY001529,DUD000029,2022-10-31,,Active,Full-time,Dispatch Staff,2,Initial Hire,,Office
+EMPLOY001530,DUD000030,2022-12-26,,Active,Full-time,HR Staff,3,Initial Hire,,Office
+EMPLOY001531,DUD000031,2021-08-04,,Active,Full-time,Recruiter,3,Initial Hire,,Office
+EMPLOY001532,DUD000032,2022-05-07,,Active,Full-time,HR Staff,1,Initial Hire,,Office
+EMPLOY001533,DUD000033,2024-08-15,,Active,Full-time,Manager,5,Initial Hire,,Office
+EMPLOY001534,DUD000034,2023-07-17,,Active,Full-time,Manager,2,Initial Hire,,Office
+EMPLOY001535,DUD000035,2024-04-09,,Active,Full-time,Recruiter,3,Initial Hire,,Office
+EMPLOY001536,DUD000036,2024-08-16,,Active,Full-time,Administrator,3,Initial Hire,,Office
+EMPLOY001537,DUD000037,2022-08-10,,Active,Full-time,Client Relations,3,Initial Hire,,Office
+EMPLOY001538,DUD000038,2022-12-28,,Active,Full-time,Administrator,1,Initial Hire,,Office
+EMPLOY001539,DUD000039,2020-03-01,,Active,Full-time,Administrator,2,Initial Hire,,Office
+EMPLOY001540,DUD000040,2024-08-26,,Active,Full-time,Dispatch Staff,4,Initial Hire,,Office
+EMPLOY001541,DUD000041,2022-06-22,,Active,Full-time,Client Relations,3,Initial Hire,,Office
+EMPLOY001542,DUD000042,2024-10-02,,Active,Full-time,Client Relations,4,Initial Hire,,Office
+EMPLOY001543,DUD000043,2021-11-06,,Active,Full-time,Recruiter,5,Initial Hire,,Office
+EMPLOY001544,DUD000044,2022-10-15,,Active,Full-time,Administrator,3,Initial Hire,,Office
+EMPLOY001545,DUD000045,2024-09-18,,Active,Full-time,Recruiter,3,Initial Hire,,Office
+EMPLOY001546,DUD000046,2025-11-02,,Active,Full-time,Administrator,2,Initial Hire,,Office
+EMPLOY001547,DUD000047,2022-01-07,,Active,Full-time,Recruiter,1,Initial Hire,,Office
+EMPLOY001548,DUD000048,2020-10-07,,Active,Full-time,Manager,5,Initial Hire,,Office
+EMPLOY001549,DUD000049,2025-04-20,,Active,Full-time,Administrator,3,Initial Hire,,Office
+EMPLOY001550,DUD000050,2020-11-01,,Active,Full-time,Dispatch Staff,5,Initial Hire,,Office
+EMPLOY001551,DUD000051,2022-08-18,,Active,Full-time,Dispatch Staff,5,Initial Hire,,Office
+EMPLOY001552,DUD000052,2025-04-03,,Active,Full-time,Recruiter,1,Initial Hire,,Office
+EMPLOY001553,DUD000053,2022-10-28,,Active,Full-time,Dispatch Staff,4,Initial Hire,,Office
+EMPLOY001554,DUD000054,2021-06-25,,Active,Full-time,Dispatch Staff,2,Initial Hire,,Office
+EMPLOY001555,DUD000055,2021-05-19,,Active,Full-time,Manager,4,Initial Hire,,Office
+EMPLOY001556,DUD000056,2024-01-21,,Active,Full-time,Administrator,3,Initial Hire,,Office
+EMPLOY001557,DUD000057,2023-12-27,,Active,Full-time,Administrator,5,Initial Hire,,Office
+EMPLOY001558,DUD000058,2022-03-10,,Active,Full-time,Manager,2,Initial Hire,,Office
+EMPLOY001559,DUD000059,2024-03-27,,Active,Full-time,HR Staff,2,Initial Hire,,Office
+EMPLOY001560,DUD000060,2020-07-28,,Active,Full-time,Manager,1,Initial Hire,,Office
+EMPLOY001561,DUD000061,2023-07-06,,Active,Full-time,Client Relations,5,Initial Hire,,Office
+EMPLOY001562,DUD000062,2021-07-04,,Active,Full-time,Client Relations,5,Initial Hire,,Office
+EMPLOY001563,DUD000063,2021-07-05,,Active,Full-time,Dispatch Staff,4,Initial Hire,,Office
+EMPLOY001564,DUD000064,2020-07-20,,Active,Full-time,Administrator,5,Initial Hire,,Office
+EMPLOY001565,DUD000065,2021-01-28,,Active,Full-time,Recruiter,1,Initial Hire,,Office
+EMPLOY001566,DUD000066,2024-04-19,,Active,Full-time,Manager,4,Initial Hire,,Office
+EMPLOY001567,DUD000067,2025-12-09,,Active,Full-time,Dispatch Staff,5,Initial Hire,,Office
+EMPLOY001568,DUD000068,2024-04-19,,Active,Full-time,Dispatch Staff,5,Initial Hire,,Office
+EMPLOY001569,DUD000069,2021-08-01,,Active,Full-time,Dispatch Staff,5,Initial Hire,,Office
+EMPLOY001570,DUD000070,2022-03-25,,Active,Full-time,Recruiter,3,Initial Hire,,Office
+EMPLOY001571,DUD000071,2022-11-09,,Active,Full-time,Client Relations,2,Initial Hire,,Office
+EMPLOY001572,DUD000072,2024-02-08,,Active,Full-time,Dispatch Staff,3,Initial Hire,,Office
+EMPLOY001573,DUD000073,2024-08-25,,Active,Full-time,HR Staff,5,Initial Hire,,Office
+EMPLOY001574,DUD000074,2021-10-17,,Active,Full-time,Recruiter,2,Initial Hire,,Office
+EMPLOY001575,DUD000075,2023-12-15,,Active,Full-time,Manager,2,Initial Hire,,Office
+EMPLOY001576,DUD000076,2021-03-17,,Active,Full-time,Client Relations,4,Initial Hire,,Office
+EMPLOY001577,DUD000077,2025-12-13,,Active,Full-time,Manager,5,Initial Hire,,Office
+EMPLOY001578,DUD000078,2024-04-08,,Active,Full-time,Manager,1,Initial Hire,,Office
+EMPLOY001579,DUD000079,2021-04-04,,Active,Full-time,Dispatch Staff,3,Initial Hire,,Office
+EMPLOY001580,DUD000080,2024-08-04,,Active,Full-time,HR Staff,1,Initial Hire,,Office
+EMPLOY001581,DUD000081,2025-03-12,,Active,Full-time,Manager,4,Initial Hire,,Office
+EMPLOY001582,DUD000082,2025-04-12,,Active,Full-time,Recruiter,5,Initial Hire,,Office
+EMPLOY001583,DUD000083,2021-11-14,,Active,Full-time,Dispatch Staff,4,Initial Hire,,Office
+EMPLOY001584,DUD000084,2021-07-01,,Active,Full-time,Manager,5,Initial Hire,,Office
+EMPLOY001585,DUD000085,2021-04-23,,Active,Full-time,Administrator,4,Initial Hire,,Office
+EMPLOY001586,DUD000086,2025-06-28,,Active,Full-time,Dispatch Staff,5,Initial Hire,,Office
+EMPLOY001587,DUD000087,2022-09-20,,Active,Full-time,HR Staff,2,Initial Hire,,Office
+EMPLOY001588,DUD000088,2020-01-23,,Active,Full-time,Administrator,2,Initial Hire,,Office
+EMPLOY001589,DUD000089,2025-06-10,,Active,Full-time,Client Relations,5,Initial Hire,,Office
+EMPLOY001590,DUD000090,2023-05-31,,Active,Full-time,HR Staff,4,Initial Hire,,Office
+EMPLOY001591,DUD000091,2025-11-01,,Active,Full-time,Dispatch Staff,2,Initial Hire,,Office
+EMPLOY001592,DUD000092,2021-03-20,,Active,Full-time,Client Relations,3,Initial Hire,,Office
+EMPLOY001593,DUD000093,2020-07-18,,Active,Full-time,HR Staff,1,Initial Hire,,Office
+EMPLOY001594,DUD000094,2024-03-11,,Active,Full-time,Administrator,4,Initial Hire,,Office
+EMPLOY001595,DUD000095,2025-03-04,,Active,Full-time,HR Staff,5,Initial Hire,,Office
+EMPLOY001596,DUD000096,2020-06-13,,Active,Full-time,HR Staff,1,Initial Hire,,Office
+EMPLOY001597,DUD000097,2022-10-13,,Active,Full-time,Manager,1,Initial Hire,,Office
+EMPLOY001598,DUD000098,2022-02-22,,Active,Full-time,Dispatch Staff,5,Initial Hire,,Office
+EMPLOY001599,DUD000099,2022-12-22,,Active,Full-time,Client Relations,5,Initial Hire,,Office
+EMPLOY001600,DUD000100,2025-07-18,,Active,Full-time,Client Relations,1,Initial Hire,,Office

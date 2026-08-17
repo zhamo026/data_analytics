@@ -1,0 +1,1501 @@
+visa_history_id,employee_id,status_type,effective_date,expiry_date,work_authorization,verification_status,verification_date
+VISA000001,DUD100001,Engineer/Specialist in Humanities/International Services,2024-12-12,2028-12-11,Authorized,Verified,2024-12-21
+VISA000002,DUD100002,Instructor,2025-05-03,2026-05-03,Authorized,Pending Review,2025-05-25
+VISA000003,DUD100003,Student,2021-04-07,2022-04-07,Authorized,Verified,2021-05-03
+VISA000004,DUD100004,Spouse of Japanese National,2026-05-27,,Authorized,Verified,2026-06-26
+VISA000005,DUD100005,Permanent Resident,2024-07-16,,Authorized,Verified,2024-07-24
+VISA000006,DUD100006,Instructor,2025-01-10,2027-01-10,Authorized,Verified,2025-01-28
+VISA000007,DUD100007,Spouse of Japanese National,2025-03-13,,Authorized,Verified,2025-04-02
+VISA000008,DUD100008,Permanent Resident,2024-11-01,,Authorized,Verified,2024-11-09
+VISA000009,DUD100009,Engineer/Specialist in Humanities/International Services,2021-05-25,2022-05-25,Authorized,Verified,2021-06-13
+VISA000010,DUD100010,Instructor,2025-04-21,2028-04-20,Authorized,Verified,2025-05-12
+VISA000011,DUD100011,Student,2023-07-19,2026-07-18,Authorized,Verified,2023-08-04
+VISA000012,DUD100012,Spouse of Japanese National,2022-03-28,,Authorized,Verified,2022-04-19
+VISA000013,DUD100013,Long Term Resident,2024-03-18,,Authorized,Verified,2024-04-13
+VISA000014,DUD100014,Instructor,2023-12-08,2024-12-07,Authorized,Pending Review,2023-12-18
+VISA000015,DUD100015,Engineer/Specialist in Humanities/International Services,2025-06-08,2027-06-08,Authorized,Verified,2025-06-29
+VISA000016,DUD100016,Instructor,2023-04-29,2026-04-28,Authorized,Verified,2023-05-14
+VISA000017,DUD100017,Working Holiday,2021-03-04,2022-03-04,Authorized,Verified,2021-03-13
+VISA000018,DUD100018,Spouse of Japanese National,2026-05-06,,Authorized,Pending Review,2026-05-18
+VISA000019,DUD100019,Permanent Resident,2021-05-16,,Authorized,Pending Review,2021-06-15
+VISA000020,DUD100020,Long Term Resident,2024-07-14,,Authorized,Verified,2024-07-21
+VISA000021,DUD100021,Instructor,2024-11-18,2026-11-18,Authorized,Verified,2024-12-04
+VISA000022,DUD100022,Engineer/Specialist in Humanities/International Services,2023-03-25,2025-03-24,Authorized,Verified,2023-04-11
+VISA000023,DUD100023,Engineer/Specialist in Humanities/International Services,2025-05-27,2029-05-26,Authorized,Verified,2025-06-17
+VISA000024,DUD100024,Instructor,2022-05-17,2025-05-16,Authorized,Verified,2022-05-26
+VISA000025,DUD100025,Engineer/Specialist in Humanities/International Services,2021-06-20,2025-06-19,Authorized,Verified,2021-07-16
+VISA000026,DUD100026,Instructor,2026-07-20,2027-07-20,Authorized,Verified,2026-07-26
+VISA000027,DUD100027,Student,2022-09-09,2025-09-08,Authorized,Verified,2022-10-08
+VISA000028,DUD100028,Spouse of Japanese National,2023-08-19,,Authorized,Pending Review,2023-08-23
+VISA000029,DUD100029,Engineer/Specialist in Humanities/International Services,2021-04-01,2022-04-01,Authorized,Verified,2021-04-09
+VISA000030,DUD100030,Instructor,2022-09-12,2025-09-11,Authorized,Verified,2022-10-01
+VISA000031,DUD100031,Engineer/Specialist in Humanities/International Services,2026-07-06,2027-07-06,Authorized,Verified,2026-07-20
+VISA000032,DUD100032,Instructor,2025-09-07,2028-09-06,Authorized,Pending Review,2025-09-27
+VISA000033,DUD100033,Engineer/Specialist in Humanities/International Services,2022-07-27,2023-07-27,Authorized,Pending Review,2022-08-17
+VISA000034,DUD100034,Long Term Resident,2026-02-02,,Authorized,Pending Review,2026-02-28
+VISA000035,DUD100035,Spouse of Japanese National,2021-09-29,,Authorized,Verified,2021-10-25
+VISA000036,DUD100036,Instructor,2026-07-01,2028-06-30,Authorized,Verified,2026-07-27
+VISA000037,DUD100037,Engineer/Specialist in Humanities/International Services,2024-09-18,2025-09-18,Authorized,Verified,2024-10-10
+VISA000038,DUD100038,Student,2026-02-25,2029-02-24,Authorized,Verified,2026-03-15
+VISA000039,DUD100039,Long Term Resident,2023-02-15,,Authorized,Verified,2023-02-17
+VISA000040,DUD100040,Instructor,2023-12-15,2027-12-14,Authorized,Verified,2024-01-08
+VISA000041,DUD100041,Long Term Resident,2022-03-23,,Authorized,Pending Review,2022-04-10
+VISA000042,DUD100042,Permanent Resident,2025-01-22,,Authorized,Pending Review,2025-02-16
+VISA000043,DUD100043,Spouse of Japanese National,2023-04-20,,Authorized,Verified,2023-04-24
+VISA000044,DUD100044,Instructor,2024-06-03,2027-06-03,Authorized,Verified,2024-07-01
+VISA000045,DUD100045,Long Term Resident,2022-03-22,,Authorized,Verified,2022-04-19
+VISA000046,DUD100046,Instructor,2025-10-12,2028-10-11,Authorized,Verified,2025-11-11
+VISA000047,DUD100047,Permanent Resident,2025-05-25,,Authorized,Verified,2025-06-03
+VISA000048,DUD100048,Engineer/Specialist in Humanities/International Services,2023-05-13,2027-05-12,Authorized,Verified,2023-05-28
+VISA000049,DUD100049,Engineer/Specialist in Humanities/International Services,2025-12-10,2026-12-10,Authorized,Verified,2025-12-29
+VISA000050,DUD100050,Engineer/Specialist in Humanities/International Services,2026-05-19,2030-05-18,Authorized,Pending Review,2026-06-05
+VISA000051,DUD100051,Permanent Resident,2025-11-29,,Authorized,Verified,2025-12-09
+VISA000052,DUD100052,Engineer/Specialist in Humanities/International Services,2022-02-24,2024-02-24,Authorized,Pending Review,2022-03-07
+VISA000053,DUD100053,Instructor,2026-07-31,2028-07-30,Authorized,Verified,2026-08-11
+VISA000054,DUD100054,Student,2021-04-05,2025-04-04,Authorized,Pending Review,2021-04-25
+VISA000055,DUD100055,Permanent Resident,2023-01-06,,Authorized,Pending Review,2023-02-02
+VISA000056,DUD100056,Engineer/Specialist in Humanities/International Services,2021-06-25,2023-06-25,Authorized,Verified,2021-07-11
+VISA000057,DUD100057,Engineer/Specialist in Humanities/International Services,2025-08-11,2029-08-10,Authorized,Verified,2025-09-10
+VISA000058,DUD100058,Engineer/Specialist in Humanities/International Services,2025-06-18,2027-06-18,Authorized,Verified,2025-07-06
+VISA000059,DUD100059,Engineer/Specialist in Humanities/International Services,2025-05-13,2029-05-12,Authorized,Pending Review,2025-06-03
+VISA000060,DUD100060,Spouse of Japanese National,2025-03-09,,Authorized,Pending Review,2025-03-13
+VISA000061,DUD100061,Spouse of Japanese National,2021-12-19,,Authorized,Pending Review,2022-01-17
+VISA000062,DUD100062,Long Term Resident,2022-03-04,,Authorized,Verified,2022-04-02
+VISA000063,DUD100063,Instructor,2026-08-05,2027-08-05,Authorized,Pending Review,2026-08-22
+VISA000064,DUD100064,Instructor,2024-09-03,2026-09-03,Authorized,Verified,2024-09-16
+VISA000065,DUD100065,Engineer/Specialist in Humanities/International Services,2021-11-02,2025-11-01,Authorized,Verified,2021-11-23
+VISA000066,DUD100066,Engineer/Specialist in Humanities/International Services,2022-03-06,2023-03-06,Authorized,Verified,2022-03-07
+VISA000067,DUD100067,Permanent Resident,2025-06-05,,Authorized,Verified,2025-06-25
+VISA000068,DUD100068,Instructor,2023-07-08,2025-07-07,Authorized,Verified,2023-07-31
+VISA000069,DUD100069,Instructor,2024-06-09,2025-06-09,Authorized,Verified,2024-06-19
+VISA000070,DUD100070,Instructor,2022-12-28,2024-12-27,Authorized,Pending Review,2023-01-17
+VISA000071,DUD100071,Engineer/Specialist in Humanities/International Services,2026-04-26,2030-04-25,Authorized,Verified,2026-05-17
+VISA000072,DUD100072,Long Term Resident,2025-03-13,,Authorized,Verified,2025-03-24
+VISA000073,DUD100073,Engineer/Specialist in Humanities/International Services,2021-09-21,2022-09-21,Authorized,Verified,2021-10-19
+VISA000074,DUD100074,Engineer/Specialist in Humanities/International Services,2023-01-21,2025-01-20,Authorized,Verified,2023-01-24
+VISA000075,DUD100075,Engineer/Specialist in Humanities/International Services,2022-01-15,2026-01-14,Authorized,Verified,2022-01-19
+VISA000076,DUD100076,Engineer/Specialist in Humanities/International Services,2025-08-26,2027-08-26,Authorized,Verified,2025-09-20
+VISA000077,DUD100077,Permanent Resident,2022-01-05,,Authorized,Verified,2022-01-07
+VISA000078,DUD100078,Long Term Resident,2023-04-07,,Authorized,Verified,2023-04-18
+VISA000079,DUD100079,Long Term Resident,2022-01-08,,Authorized,Pending Review,2022-01-25
+VISA000080,DUD100080,Spouse of Japanese National,2024-12-13,,Authorized,Pending Review,2025-01-03
+VISA000081,DUD100081,Instructor,2025-12-04,2029-12-03,Authorized,Pending Review,2025-12-05
+VISA000082,DUD100082,Working Holiday,2023-03-09,2024-03-08,Authorized,Pending Review,2023-04-07
+VISA000083,DUD100083,Instructor,2022-02-19,2023-02-19,Authorized,Verified,2022-03-19
+VISA000084,DUD100084,Instructor,2024-10-02,2025-10-02,Authorized,Verified,2024-10-28
+VISA000085,DUD100085,Student,2023-02-07,2027-02-06,Authorized,Pending Review,2023-03-03
+VISA000086,DUD100086,Permanent Resident,2026-04-30,,Authorized,Verified,2026-05-30
+VISA000087,DUD100087,Engineer/Specialist in Humanities/International Services,2023-07-29,2024-07-28,Authorized,Pending Review,2023-08-09
+VISA000088,DUD100088,Permanent Resident,2022-08-05,,Authorized,Verified,2022-08-08
+VISA000089,DUD100089,Spouse of Japanese National,2021-07-12,,Authorized,Verified,2021-07-14
+VISA000090,DUD100090,Engineer/Specialist in Humanities/International Services,2021-01-26,2023-01-26,Authorized,Verified,2021-02-07
+VISA000091,DUD100091,Engineer/Specialist in Humanities/International Services,2025-02-27,2029-02-26,Authorized,Verified,2025-03-25
+VISA000092,DUD100092,Permanent Resident,2024-05-20,,Authorized,Verified,2024-06-03
+VISA000093,DUD100093,Instructor,2022-03-30,2026-03-29,Authorized,Verified,2022-04-24
+VISA000094,DUD100094,Working Holiday,2026-08-01,2027-08-01,Authorized,Pending Review,2026-08-09
+VISA000095,DUD100095,Instructor,2024-01-14,2025-01-13,Authorized,Pending Review,2024-01-21
+VISA000096,DUD100096,Instructor,2025-09-06,2026-09-06,Authorized,Verified,2025-09-30
+VISA000097,DUD100097,Instructor,2024-10-20,2025-10-20,Authorized,Verified,2024-11-05
+VISA000098,DUD100098,Engineer/Specialist in Humanities/International Services,2023-12-29,2025-12-28,Authorized,Verified,2024-01-06
+VISA000099,DUD100099,Instructor,2025-09-25,2027-09-25,Authorized,Verified,2025-09-26
+VISA000100,DUD100100,Permanent Resident,2022-04-13,,Authorized,Verified,2022-04-22
+VISA000101,DUD100101,Instructor,2023-05-23,2027-05-22,Authorized,Verified,2023-06-03
+VISA000102,DUD100102,Student,2025-06-29,2029-06-28,Authorized,Verified,2025-07-25
+VISA000103,DUD100103,Long Term Resident,2024-11-12,,Authorized,Verified,2024-11-13
+VISA000104,DUD100104,Spouse of Japanese National,2024-06-27,,Authorized,Verified,2024-07-24
+VISA000105,DUD100105,Engineer/Specialist in Humanities/International Services,2021-01-14,2022-01-14,Authorized,Pending Review,2021-02-12
+VISA000106,DUD100106,Engineer/Specialist in Humanities/International Services,2026-03-16,2029-03-15,Authorized,Pending Review,2026-04-02
+VISA000107,DUD100107,Engineer/Specialist in Humanities/International Services,2024-11-25,2025-11-25,Authorized,Verified,2024-12-15
+VISA000108,DUD100108,Engineer/Specialist in Humanities/International Services,2024-06-28,2028-06-27,Authorized,Pending Review,2024-07-12
+VISA000109,DUD100109,Spouse of Japanese National,2024-09-24,,Authorized,Verified,2024-10-22
+VISA000110,DUD100110,Instructor,2025-09-19,2026-09-19,Authorized,Pending Review,2025-10-02
+VISA000111,DUD100111,Engineer/Specialist in Humanities/International Services,2022-12-24,2023-12-24,Authorized,Verified,2022-12-29
+VISA000112,DUD100112,Engineer/Specialist in Humanities/International Services,2023-07-02,2027-07-01,Authorized,Pending Review,2023-07-16
+VISA000113,DUD100113,Permanent Resident,2025-09-29,,Authorized,Verified,2025-10-04
+VISA000114,DUD100114,Instructor,2025-03-19,2029-03-18,Authorized,Verified,2025-04-09
+VISA000115,DUD100115,Engineer/Specialist in Humanities/International Services,2022-08-28,2024-08-27,Authorized,Verified,2022-08-31
+VISA000116,DUD100116,Engineer/Specialist in Humanities/International Services,2021-03-13,2023-03-13,Authorized,Verified,2021-04-01
+VISA000117,DUD100117,Instructor,2025-09-10,2029-09-09,Authorized,Verified,2025-09-16
+VISA000118,DUD100118,Student,2022-08-21,2023-08-21,Authorized,Verified,2022-09-19
+VISA000119,DUD100119,Permanent Resident,2024-03-13,,Authorized,Pending Review,2024-03-28
+VISA000120,DUD100120,Instructor,2024-06-20,2028-06-19,Authorized,Verified,2024-06-21
+VISA000121,DUD100121,Long Term Resident,2025-10-19,,Authorized,Pending Review,2025-11-04
+VISA000122,DUD100122,Engineer/Specialist in Humanities/International Services,2025-07-30,2028-07-29,Authorized,Verified,2025-08-12
+VISA000123,DUD100123,Engineer/Specialist in Humanities/International Services,2025-03-23,2028-03-22,Authorized,Verified,2025-04-07
+VISA000124,DUD100124,Engineer/Specialist in Humanities/International Services,2025-05-27,2026-05-27,Authorized,Verified,2025-06-08
+VISA000125,DUD100125,Permanent Resident,2024-10-25,,Authorized,Verified,2024-10-26
+VISA000126,DUD100126,Instructor,2023-12-03,2024-12-02,Authorized,Pending Review,2023-12-19
+VISA000127,DUD100127,Engineer/Specialist in Humanities/International Services,2024-08-17,2027-08-17,Authorized,Verified,2024-08-31
+VISA000128,DUD100128,Engineer/Specialist in Humanities/International Services,2022-04-02,2024-04-01,Authorized,Verified,2022-05-02
+VISA000129,DUD100129,Permanent Resident,2024-03-01,,Authorized,Verified,2024-03-16
+VISA000130,DUD100130,Student,2024-10-28,2027-10-28,Authorized,Verified,2024-11-26
+VISA000131,DUD100131,Student,2022-08-23,2024-08-22,Authorized,Verified,2022-09-13
+VISA000132,DUD100132,Spouse of Japanese National,2023-04-24,,Authorized,Verified,2023-04-26
+VISA000133,DUD100133,Student,2025-02-06,2027-02-06,Authorized,Pending Review,2025-02-26
+VISA000134,DUD100134,Student,2022-11-29,2024-11-28,Authorized,Pending Review,2022-12-25
+VISA000135,DUD100135,Instructor,2021-08-08,2022-08-08,Authorized,Verified,2021-08-12
+VISA000136,DUD100136,Long Term Resident,2022-07-22,,Authorized,Verified,2022-07-31
+VISA000137,DUD100137,Long Term Resident,2025-05-15,,Authorized,Verified,2025-06-02
+VISA000138,DUD100138,Engineer/Specialist in Humanities/International Services,2025-01-05,2028-01-05,Authorized,Verified,2025-01-15
+VISA000139,DUD100139,Working Holiday,2023-10-25,2026-10-24,Authorized,Verified,2023-11-19
+VISA000140,DUD100140,Engineer/Specialist in Humanities/International Services,2023-04-30,2026-04-29,Authorized,Verified,2023-05-05
+VISA000141,DUD100141,Long Term Resident,2023-01-20,,Authorized,Verified,2023-01-31
+VISA000142,DUD100142,Engineer/Specialist in Humanities/International Services,2024-01-28,2026-01-27,Authorized,Verified,2024-02-22
+VISA000143,DUD100143,Permanent Resident,2024-01-14,,Authorized,Verified,2024-01-21
+VISA000144,DUD100144,Instructor,2026-07-10,2030-07-09,Authorized,Verified,2026-07-31
+VISA000145,DUD100145,Engineer/Specialist in Humanities/International Services,2022-09-07,2026-09-06,Authorized,Verified,2022-10-07
+VISA000146,DUD100146,Long Term Resident,2023-06-22,,Authorized,Verified,2023-06-25
+VISA000147,DUD100147,Permanent Resident,2023-05-28,,Authorized,Verified,2023-06-15
+VISA000148,DUD100148,Permanent Resident,2022-01-01,,Authorized,Pending Review,2022-01-11
+VISA000149,DUD100149,Instructor,2024-07-15,2025-07-15,Authorized,Verified,2024-08-07
+VISA000150,DUD100150,Instructor,2024-07-11,2025-07-11,Authorized,Verified,2024-07-29
+VISA000151,DUD100151,Spouse of Japanese National,2024-10-27,,Authorized,Pending Review,2024-11-22
+VISA000152,DUD100152,Working Holiday,2023-06-16,2026-06-15,Authorized,Verified,2023-07-12
+VISA000153,DUD100153,Engineer/Specialist in Humanities/International Services,2025-04-02,2026-04-02,Authorized,Verified,2025-04-11
+VISA000154,DUD100154,Instructor,2026-02-16,2030-02-15,Authorized,Verified,2026-02-27
+VISA000155,DUD100155,Instructor,2025-11-23,2027-11-23,Authorized,Verified,2025-12-12
+VISA000156,DUD100156,Long Term Resident,2023-05-10,,Authorized,Verified,2023-05-17
+VISA000157,DUD100157,Spouse of Japanese National,2023-09-08,,Authorized,Verified,2023-10-01
+VISA000158,DUD100158,Spouse of Japanese National,2023-12-04,,Authorized,Verified,2024-01-02
+VISA000159,DUD100159,Working Holiday,2023-03-25,2026-03-24,Authorized,Verified,2023-04-18
+VISA000160,DUD100160,Instructor,2024-09-04,2026-09-04,Authorized,Pending Review,2024-09-07
+VISA000161,DUD100161,Instructor,2021-05-25,2025-05-24,Authorized,Pending Review,2021-06-04
+VISA000162,DUD100162,Spouse of Japanese National,2022-01-20,,Authorized,Pending Review,2022-02-15
+VISA000163,DUD100163,Engineer/Specialist in Humanities/International Services,2024-01-13,2026-01-12,Authorized,Pending Review,2024-01-16
+VISA000164,DUD100164,Permanent Resident,2023-11-13,,Authorized,Verified,2023-11-28
+VISA000165,DUD100165,Engineer/Specialist in Humanities/International Services,2024-04-10,2026-04-10,Authorized,Verified,2024-04-18
+VISA000166,DUD100166,Engineer/Specialist in Humanities/International Services,2024-06-19,2028-06-18,Authorized,Verified,2024-07-01
+VISA000167,DUD100167,Permanent Resident,2021-02-07,,Authorized,Verified,2021-02-25
+VISA000168,DUD100168,Spouse of Japanese National,2025-08-31,,Authorized,Verified,2025-09-15
+VISA000169,DUD100169,Engineer/Specialist in Humanities/International Services,2026-02-04,2027-02-04,Authorized,Verified,2026-02-28
+VISA000170,DUD100170,Instructor,2025-07-07,2027-07-07,Authorized,Verified,2025-07-20
+VISA000171,DUD100171,Instructor,2026-01-27,2027-01-27,Authorized,Verified,2026-02-14
+VISA000172,DUD100172,Instructor,2026-01-11,2028-01-11,Authorized,Verified,2026-02-06
+VISA000173,DUD100173,Engineer/Specialist in Humanities/International Services,2023-09-04,2026-09-03,Authorized,Verified,2023-09-22
+VISA000174,DUD100174,Instructor,2026-07-13,2029-07-12,Authorized,Pending Review,2026-07-22
+VISA000175,DUD100175,Instructor,2024-10-12,2026-10-12,Authorized,Verified,2024-11-07
+VISA000176,DUD100176,Engineer/Specialist in Humanities/International Services,2023-07-15,2025-07-14,Authorized,Verified,2023-08-07
+VISA000177,DUD100177,Spouse of Japanese National,2026-01-09,,Authorized,Verified,2026-01-20
+VISA000178,DUD100178,Working Holiday,2023-06-04,2024-06-03,Authorized,Verified,2023-06-21
+VISA000179,DUD100179,Engineer/Specialist in Humanities/International Services,2022-10-06,2024-10-05,Authorized,Verified,2022-10-09
+VISA000180,DUD100180,Long Term Resident,2023-01-25,,Authorized,Verified,2023-02-14
+VISA000181,DUD100181,Engineer/Specialist in Humanities/International Services,2022-02-25,2025-02-24,Authorized,Verified,2022-02-28
+VISA000182,DUD100182,Engineer/Specialist in Humanities/International Services,2026-01-16,2029-01-15,Authorized,Verified,2026-02-04
+VISA000183,DUD100183,Permanent Resident,2026-07-21,,Authorized,Verified,2026-08-15
+VISA000184,DUD100184,Engineer/Specialist in Humanities/International Services,2022-07-13,2024-07-12,Authorized,Verified,2022-07-22
+VISA000185,DUD100185,Long Term Resident,2026-02-05,,Authorized,Verified,2026-03-07
+VISA000186,DUD100186,Spouse of Japanese National,2023-02-12,,Authorized,Verified,2023-02-26
+VISA000187,DUD100187,Engineer/Specialist in Humanities/International Services,2022-12-15,2026-12-14,Authorized,Verified,2022-12-30
+VISA000188,DUD100188,Instructor,2021-02-22,2023-02-22,Authorized,Pending Review,2021-03-11
+VISA000189,DUD100189,Working Holiday,2023-01-04,2025-01-03,Authorized,Verified,2023-01-24
+VISA000190,DUD100190,Engineer/Specialist in Humanities/International Services,2021-07-25,2025-07-24,Authorized,Verified,2021-08-18
+VISA000191,DUD100191,Permanent Resident,2024-01-02,,Authorized,Verified,2024-01-10
+VISA000192,DUD100192,Permanent Resident,2021-06-28,,Authorized,Verified,2021-07-06
+VISA000193,DUD100193,Long Term Resident,2024-04-26,,Authorized,Verified,2024-05-02
+VISA000194,DUD100194,Spouse of Japanese National,2024-05-25,,Authorized,Verified,2024-06-04
+VISA000195,DUD100195,Long Term Resident,2021-08-01,,Authorized,Verified,2021-08-23
+VISA000196,DUD100196,Permanent Resident,2021-10-08,,Authorized,Pending Review,2021-10-27
+VISA000197,DUD100197,Engineer/Specialist in Humanities/International Services,2025-10-07,2029-10-06,Authorized,Verified,2025-10-24
+VISA000198,DUD100198,Permanent Resident,2025-08-21,,Authorized,Verified,2025-08-30
+VISA000199,DUD100199,Engineer/Specialist in Humanities/International Services,2025-06-29,2028-06-28,Authorized,Verified,2025-07-12
+VISA000200,DUD100200,Engineer/Specialist in Humanities/International Services,2025-11-19,2029-11-18,Authorized,Verified,2025-11-27
+VISA000201,DUD100201,Engineer/Specialist in Humanities/International Services,2021-01-15,2022-01-15,Authorized,Verified,2021-01-28
+VISA000202,DUD100202,Working Holiday,2024-05-25,2026-05-25,Authorized,Verified,2024-05-28
+VISA000203,DUD100203,Engineer/Specialist in Humanities/International Services,2021-07-27,2024-07-26,Authorized,Verified,2021-07-30
+VISA000204,DUD100204,Engineer/Specialist in Humanities/International Services,2026-08-07,2029-08-06,Authorized,Verified,2026-09-03
+VISA000205,DUD100205,Working Holiday,2021-07-16,2024-07-15,Authorized,Pending Review,2021-07-24
+VISA000206,DUD100206,Instructor,2022-03-24,2025-03-23,Authorized,Verified,2022-04-06
+VISA000207,DUD100207,Spouse of Japanese National,2024-02-26,,Authorized,Verified,2024-03-14
+VISA000208,DUD100208,Spouse of Japanese National,2024-02-22,,Authorized,Verified,2024-03-04
+VISA000209,DUD100209,Engineer/Specialist in Humanities/International Services,2022-09-20,2023-09-20,Authorized,Verified,2022-10-13
+VISA000210,DUD100210,Engineer/Specialist in Humanities/International Services,2023-12-07,2025-12-06,Authorized,Verified,2024-01-02
+VISA000211,DUD100211,Engineer/Specialist in Humanities/International Services,2022-12-31,2025-12-30,Authorized,Verified,2023-01-27
+VISA000212,DUD100212,Spouse of Japanese National,2026-03-21,,Authorized,Verified,2026-03-25
+VISA000213,DUD100213,Engineer/Specialist in Humanities/International Services,2023-06-24,2025-06-23,Authorized,Pending Review,2023-07-07
+VISA000214,DUD100214,Spouse of Japanese National,2024-05-23,,Authorized,Verified,2024-06-20
+VISA000215,DUD100215,Instructor,2024-10-05,2028-10-04,Authorized,Verified,2024-10-08
+VISA000216,DUD100216,Student,2024-09-11,2026-09-11,Authorized,Verified,2024-09-19
+VISA000217,DUD100217,Permanent Resident,2026-07-30,,Authorized,Verified,2026-08-24
+VISA000218,DUD100218,Spouse of Japanese National,2021-05-20,,Authorized,Verified,2021-06-08
+VISA000219,DUD100219,Engineer/Specialist in Humanities/International Services,2024-07-09,2027-07-09,Authorized,Verified,2024-07-17
+VISA000220,DUD100220,Instructor,2026-06-25,2030-06-24,Authorized,Verified,2026-07-10
+VISA000221,DUD100221,Engineer/Specialist in Humanities/International Services,2023-07-01,2027-06-30,Authorized,Pending Review,2023-07-31
+VISA000222,DUD100222,Instructor,2023-08-08,2024-08-07,Authorized,Pending Review,2023-08-28
+VISA000223,DUD100223,Instructor,2021-09-28,2025-09-27,Authorized,Verified,2021-10-22
+VISA000224,DUD100224,Engineer/Specialist in Humanities/International Services,2021-01-09,2022-01-09,Authorized,Verified,2021-01-25
+VISA000225,DUD100225,Engineer/Specialist in Humanities/International Services,2024-07-11,2028-07-10,Authorized,Verified,2024-08-02
+VISA000226,DUD100226,Engineer/Specialist in Humanities/International Services,2021-08-09,2025-08-08,Authorized,Pending Review,2021-08-25
+VISA000227,DUD100227,Instructor,2025-06-27,2027-06-27,Authorized,Pending Review,2025-07-09
+VISA000228,DUD100228,Permanent Resident,2021-02-22,,Authorized,Verified,2021-03-12
+VISA000229,DUD100229,Spouse of Japanese National,2022-03-15,,Authorized,Verified,2022-04-11
+VISA000230,DUD100230,Engineer/Specialist in Humanities/International Services,2025-04-30,2027-04-30,Authorized,Verified,2025-05-07
+VISA000231,DUD100231,Permanent Resident,2021-08-05,,Authorized,Verified,2021-08-11
+VISA000232,DUD100232,Long Term Resident,2025-03-14,,Authorized,Verified,2025-03-22
+VISA000233,DUD100233,Engineer/Specialist in Humanities/International Services,2022-06-30,2024-06-29,Authorized,Verified,2022-07-28
+VISA000234,DUD100234,Engineer/Specialist in Humanities/International Services,2021-07-30,2023-07-30,Authorized,Pending Review,2021-08-24
+VISA000235,DUD100235,Instructor,2024-01-14,2026-01-13,Authorized,Verified,2024-01-25
+VISA000236,DUD100236,Long Term Resident,2026-02-05,,Authorized,Verified,2026-02-09
+VISA000237,DUD100237,Spouse of Japanese National,2024-12-07,,Authorized,Verified,2024-12-28
+VISA000238,DUD100238,Instructor,2024-02-18,2028-02-17,Authorized,Pending Review,2024-03-18
+VISA000239,DUD100239,Instructor,2022-09-09,2024-09-08,Authorized,Verified,2022-09-13
+VISA000240,DUD100240,Instructor,2021-08-10,2023-08-10,Authorized,Verified,2021-08-31
+VISA000241,DUD100241,Engineer/Specialist in Humanities/International Services,2025-02-15,2027-02-15,Authorized,Verified,2025-03-03
+VISA000242,DUD100242,Instructor,2026-05-18,2030-05-17,Authorized,Verified,2026-06-04
+VISA000243,DUD100243,Instructor,2024-08-22,2028-08-21,Authorized,Pending Review,2024-08-27
+VISA000244,DUD100244,Engineer/Specialist in Humanities/International Services,2022-11-27,2024-11-26,Authorized,Verified,2022-11-28
+VISA000245,DUD100245,Instructor,2023-03-31,2027-03-30,Authorized,Verified,2023-04-10
+VISA000246,DUD100246,Permanent Resident,2025-11-15,,Authorized,Pending Review,2025-12-13
+VISA000247,DUD100247,Engineer/Specialist in Humanities/International Services,2021-03-29,2025-03-28,Authorized,Pending Review,2021-03-31
+VISA000248,DUD100248,Engineer/Specialist in Humanities/International Services,2021-07-22,2022-07-22,Authorized,Verified,2021-08-07
+VISA000249,DUD100249,Spouse of Japanese National,2023-02-11,,Authorized,Verified,2023-03-09
+VISA000250,DUD100250,Engineer/Specialist in Humanities/International Services,2022-05-08,2025-05-07,Authorized,Pending Review,2022-05-17
+VISA000251,DUD100251,Student,2022-02-08,2023-02-08,Authorized,Verified,2022-02-24
+VISA000252,DUD100252,Engineer/Specialist in Humanities/International Services,2021-02-07,2025-02-06,Authorized,Pending Review,2021-02-13
+VISA000253,DUD100253,Student,2022-05-20,2025-05-19,Authorized,Verified,2022-06-04
+VISA000254,DUD100254,Working Holiday,2021-08-09,2022-08-09,Authorized,Pending Review,2021-08-30
+VISA000255,DUD100255,Permanent Resident,2021-12-02,,Authorized,Verified,2021-12-14
+VISA000256,DUD100256,Engineer/Specialist in Humanities/International Services,2023-03-15,2025-03-14,Authorized,Verified,2023-03-31
+VISA000257,DUD100257,Engineer/Specialist in Humanities/International Services,2022-03-13,2023-03-13,Authorized,Pending Review,2022-03-20
+VISA000258,DUD100258,Engineer/Specialist in Humanities/International Services,2021-06-04,2024-06-03,Authorized,Verified,2021-06-13
+VISA000259,DUD100259,Engineer/Specialist in Humanities/International Services,2025-03-08,2028-03-07,Authorized,Verified,2025-04-06
+VISA000260,DUD100260,Student,2022-06-05,2026-06-04,Authorized,Pending Review,2022-06-24
+VISA000261,DUD100261,Permanent Resident,2024-07-24,,Authorized,Pending Review,2024-07-25
+VISA000262,DUD100262,Instructor,2022-03-05,2024-03-04,Authorized,Verified,2022-03-09
+VISA000263,DUD100263,Engineer/Specialist in Humanities/International Services,2022-06-16,2023-06-16,Authorized,Verified,2022-06-17
+VISA000264,DUD100264,Long Term Resident,2023-01-12,,Authorized,Verified,2023-01-15
+VISA000265,DUD100265,Spouse of Japanese National,2026-05-27,,Authorized,Verified,2026-05-31
+VISA000266,DUD100266,Engineer/Specialist in Humanities/International Services,2022-12-09,2024-12-08,Authorized,Verified,2022-12-18
+VISA000267,DUD100267,Engineer/Specialist in Humanities/International Services,2023-07-08,2027-07-07,Authorized,Verified,2023-07-22
+VISA000268,DUD100268,Engineer/Specialist in Humanities/International Services,2021-04-30,2023-04-30,Authorized,Pending Review,2021-05-17
+VISA000269,DUD100269,Spouse of Japanese National,2021-09-17,,Authorized,Verified,2021-09-25
+VISA000270,DUD100270,Engineer/Specialist in Humanities/International Services,2025-01-01,2027-01-01,Authorized,Verified,2025-01-11
+VISA000271,DUD100271,Engineer/Specialist in Humanities/International Services,2021-07-02,2022-07-02,Authorized,Verified,2021-07-12
+VISA000272,DUD100272,Spouse of Japanese National,2025-11-25,,Authorized,Verified,2025-12-24
+VISA000273,DUD100273,Instructor,2021-07-12,2024-07-11,Authorized,Verified,2021-07-29
+VISA000274,DUD100274,Engineer/Specialist in Humanities/International Services,2022-11-01,2023-11-01,Authorized,Pending Review,2022-11-09
+VISA000275,DUD100275,Instructor,2023-11-30,2024-11-29,Authorized,Verified,2023-12-29
+VISA000276,DUD100276,Permanent Resident,2024-10-29,,Authorized,Verified,2024-11-01
+VISA000277,DUD100277,Engineer/Specialist in Humanities/International Services,2024-11-01,2027-11-01,Authorized,Verified,2024-11-21
+VISA000278,DUD100278,Permanent Resident,2022-09-15,,Authorized,Pending Review,2022-10-04
+VISA000279,DUD100279,Engineer/Specialist in Humanities/International Services,2024-10-08,2027-10-08,Authorized,Pending Review,2024-10-16
+VISA000280,DUD100280,Engineer/Specialist in Humanities/International Services,2026-05-30,2030-05-29,Authorized,Pending Review,2026-06-06
+VISA000281,DUD100281,Engineer/Specialist in Humanities/International Services,2021-05-25,2022-05-25,Authorized,Verified,2021-05-28
+VISA000282,DUD100282,Engineer/Specialist in Humanities/International Services,2022-04-23,2026-04-22,Authorized,Pending Review,2022-05-18
+VISA000283,DUD100283,Permanent Resident,2022-07-27,,Authorized,Verified,2022-08-15
+VISA000284,DUD100284,Engineer/Specialist in Humanities/International Services,2024-09-26,2025-09-26,Authorized,Verified,2024-10-08
+VISA000285,DUD100285,Instructor,2025-03-07,2026-03-07,Authorized,Verified,2025-03-10
+VISA000286,DUD100286,Instructor,2026-05-31,2030-05-30,Authorized,Verified,2026-06-20
+VISA000287,DUD100287,Engineer/Specialist in Humanities/International Services,2025-05-05,2028-05-04,Authorized,Verified,2025-05-20
+VISA000288,DUD100288,Permanent Resident,2025-09-30,,Authorized,Verified,2025-10-08
+VISA000289,DUD100289,Student,2023-09-15,2024-09-14,Authorized,Verified,2023-09-17
+VISA000290,DUD100290,Permanent Resident,2024-06-03,,Authorized,Pending Review,2024-06-19
+VISA000291,DUD100291,Long Term Resident,2023-10-11,,Authorized,Verified,2023-11-03
+VISA000292,DUD100292,Spouse of Japanese National,2024-01-21,,Authorized,Verified,2024-02-07
+VISA000293,DUD100293,Engineer/Specialist in Humanities/International Services,2021-06-07,2023-06-07,Authorized,Pending Review,2021-06-11
+VISA000294,DUD100294,Engineer/Specialist in Humanities/International Services,2022-04-19,2024-04-18,Authorized,Verified,2022-05-09
+VISA000295,DUD100295,Instructor,2022-04-01,2025-03-31,Authorized,Verified,2022-04-30
+VISA000296,DUD100296,Instructor,2026-08-12,2028-08-11,Authorized,Verified,2026-09-02
+VISA000297,DUD100297,Long Term Resident,2024-06-12,,Authorized,Verified,2024-07-04
+VISA000298,DUD100298,Permanent Resident,2025-08-06,,Authorized,Verified,2025-08-17
+VISA000299,DUD100299,Engineer/Specialist in Humanities/International Services,2023-09-28,2026-09-27,Authorized,Pending Review,2023-10-25
+VISA000300,DUD100300,Permanent Resident,2025-03-04,,Authorized,Verified,2025-03-09
+VISA000301,DUD100301,Instructor,2024-12-24,2025-12-24,Authorized,Pending Review,2024-12-29
+VISA000302,DUD100302,Long Term Resident,2024-12-12,,Authorized,Verified,2024-12-15
+VISA000303,DUD100303,Permanent Resident,2021-10-29,,Authorized,Verified,2021-11-20
+VISA000304,DUD100304,Long Term Resident,2023-01-29,,Authorized,Pending Review,2023-02-01
+VISA000305,DUD100305,Working Holiday,2023-05-25,2027-05-24,Authorized,Verified,2023-06-10
+VISA000306,DUD100306,Permanent Resident,2021-10-16,,Authorized,Pending Review,2021-10-23
+VISA000307,DUD100307,Engineer/Specialist in Humanities/International Services,2021-08-19,2023-08-19,Authorized,Pending Review,2021-08-20
+VISA000308,DUD100308,Permanent Resident,2022-07-22,,Authorized,Pending Review,2022-08-03
+VISA000309,DUD100309,Engineer/Specialist in Humanities/International Services,2023-08-08,2025-08-07,Authorized,Pending Review,2023-08-17
+VISA000310,DUD100310,Working Holiday,2026-03-04,2030-03-03,Authorized,Pending Review,2026-03-20
+VISA000311,DUD100311,Engineer/Specialist in Humanities/International Services,2021-05-22,2023-05-22,Authorized,Verified,2021-06-21
+VISA000312,DUD100312,Long Term Resident,2024-12-08,,Authorized,Verified,2025-01-05
+VISA000313,DUD100313,Working Holiday,2021-05-30,2023-05-30,Authorized,Verified,2021-06-01
+VISA000314,DUD100314,Permanent Resident,2021-02-18,,Authorized,Verified,2021-03-19
+VISA000315,DUD100315,Instructor,2021-04-06,2023-04-06,Authorized,Verified,2021-04-30
+VISA000316,DUD100316,Spouse of Japanese National,2024-11-07,,Authorized,Verified,2024-11-21
+VISA000317,DUD100317,Instructor,2022-08-10,2026-08-09,Authorized,Verified,2022-09-01
+VISA000318,DUD100318,Instructor,2022-10-17,2026-10-16,Authorized,Verified,2022-10-22
+VISA000319,DUD100319,Instructor,2023-01-14,2025-01-13,Authorized,Pending Review,2023-01-26
+VISA000320,DUD100320,Engineer/Specialist in Humanities/International Services,2021-04-13,2025-04-12,Authorized,Verified,2021-04-23
+VISA000321,DUD100321,Engineer/Specialist in Humanities/International Services,2022-11-19,2025-11-18,Authorized,Pending Review,2022-11-25
+VISA000322,DUD100322,Student,2024-08-08,2027-08-08,Authorized,Verified,2024-09-01
+VISA000323,DUD100323,Permanent Resident,2023-05-13,,Authorized,Pending Review,2023-06-10
+VISA000324,DUD100324,Engineer/Specialist in Humanities/International Services,2023-02-06,2026-02-05,Authorized,Verified,2023-03-05
+VISA000325,DUD100325,Instructor,2022-01-28,2025-01-27,Authorized,Verified,2022-02-12
+VISA000326,DUD100326,Engineer/Specialist in Humanities/International Services,2021-06-09,2024-06-08,Authorized,Verified,2021-07-01
+VISA000327,DUD100327,Instructor,2023-05-15,2024-05-14,Authorized,Verified,2023-05-23
+VISA000328,DUD100328,Engineer/Specialist in Humanities/International Services,2023-05-16,2026-05-15,Authorized,Verified,2023-05-29
+VISA000329,DUD100329,Permanent Resident,2021-09-03,,Authorized,Verified,2021-09-29
+VISA000330,DUD100330,Engineer/Specialist in Humanities/International Services,2025-09-13,2029-09-12,Authorized,Pending Review,2025-09-28
+VISA000331,DUD100331,Permanent Resident,2026-07-25,,Authorized,Verified,2026-08-08
+VISA000332,DUD100332,Engineer/Specialist in Humanities/International Services,2026-03-19,2030-03-18,Authorized,Verified,2026-04-05
+VISA000333,DUD100333,Instructor,2023-07-29,2024-07-28,Authorized,Verified,2023-08-26
+VISA000334,DUD100334,Permanent Resident,2024-05-31,,Authorized,Pending Review,2024-06-08
+VISA000335,DUD100335,Engineer/Specialist in Humanities/International Services,2023-04-16,2027-04-15,Authorized,Verified,2023-05-02
+VISA000336,DUD100336,Engineer/Specialist in Humanities/International Services,2021-04-07,2023-04-07,Authorized,Verified,2021-04-18
+VISA000337,DUD100337,Engineer/Specialist in Humanities/International Services,2023-07-07,2024-07-06,Authorized,Verified,2023-07-25
+VISA000338,DUD100338,Working Holiday,2024-09-02,2028-09-01,Authorized,Verified,2024-09-21
+VISA000339,DUD100339,Spouse of Japanese National,2023-01-27,,Authorized,Verified,2023-01-30
+VISA000340,DUD100340,Permanent Resident,2023-10-23,,Authorized,Pending Review,2023-11-11
+VISA000341,DUD100341,Long Term Resident,2021-04-25,,Authorized,Verified,2021-05-19
+VISA000342,DUD100342,Engineer/Specialist in Humanities/International Services,2025-09-06,2028-09-05,Authorized,Verified,2025-09-29
+VISA000343,DUD100343,Instructor,2022-08-22,2024-08-21,Authorized,Verified,2022-09-21
+VISA000344,DUD100344,Engineer/Specialist in Humanities/International Services,2024-06-21,2025-06-21,Authorized,Pending Review,2024-07-03
+VISA000345,DUD100345,Working Holiday,2025-05-08,2029-05-07,Authorized,Verified,2025-05-17
+VISA000346,DUD100346,Instructor,2024-03-06,2028-03-05,Authorized,Verified,2024-03-13
+VISA000347,DUD100347,Instructor,2025-06-09,2029-06-08,Authorized,Verified,2025-07-08
+VISA000348,DUD100348,Instructor,2024-04-15,2027-04-15,Authorized,Verified,2024-05-12
+VISA000349,DUD100349,Long Term Resident,2023-10-04,,Authorized,Verified,2023-10-23
+VISA000350,DUD100350,Engineer/Specialist in Humanities/International Services,2021-10-14,2024-10-13,Authorized,Verified,2021-10-28
+VISA000351,DUD100351,Working Holiday,2022-01-01,2024-12-31,Authorized,Verified,2022-01-12
+VISA000352,DUD100352,Instructor,2022-02-18,2026-02-17,Authorized,Verified,2022-02-21
+VISA000353,DUD100353,Engineer/Specialist in Humanities/International Services,2026-07-10,2027-07-10,Authorized,Verified,2026-07-12
+VISA000354,DUD100354,Engineer/Specialist in Humanities/International Services,2025-12-11,2026-12-11,Authorized,Pending Review,2026-01-06
+VISA000355,DUD100355,Engineer/Specialist in Humanities/International Services,2023-05-18,2025-05-17,Authorized,Verified,2023-06-15
+VISA000356,DUD100356,Engineer/Specialist in Humanities/International Services,2023-02-23,2025-02-22,Authorized,Pending Review,2023-03-19
+VISA000357,DUD100357,Instructor,2026-04-07,2028-04-06,Authorized,Verified,2026-05-02
+VISA000358,DUD100358,Permanent Resident,2021-08-07,,Authorized,Verified,2021-08-16
+VISA000359,DUD100359,Long Term Resident,2026-03-09,,Authorized,Pending Review,2026-03-17
+VISA000360,DUD100360,Engineer/Specialist in Humanities/International Services,2026-06-13,2028-06-12,Authorized,Pending Review,2026-06-23
+VISA000361,DUD100361,Spouse of Japanese National,2022-12-12,,Authorized,Verified,2022-12-22
+VISA000362,DUD100362,Engineer/Specialist in Humanities/International Services,2021-05-08,2023-05-08,Authorized,Verified,2021-05-27
+VISA000363,DUD100363,Permanent Resident,2021-12-05,,Authorized,Verified,2021-12-23
+VISA000364,DUD100364,Working Holiday,2021-01-20,2023-01-20,Authorized,Verified,2021-02-12
+VISA000365,DUD100365,Instructor,2026-04-04,2027-04-04,Authorized,Verified,2026-04-26
+VISA000366,DUD100366,Engineer/Specialist in Humanities/International Services,2025-04-18,2028-04-17,Authorized,Pending Review,2025-05-04
+VISA000367,DUD100367,Engineer/Specialist in Humanities/International Services,2021-12-30,2024-12-29,Authorized,Verified,2022-01-15
+VISA000368,DUD100368,Long Term Resident,2022-05-05,,Authorized,Verified,2022-05-31
+VISA000369,DUD100369,Engineer/Specialist in Humanities/International Services,2024-09-08,2026-09-08,Authorized,Verified,2024-09-28
+VISA000370,DUD100370,Engineer/Specialist in Humanities/International Services,2021-01-18,2025-01-17,Authorized,Pending Review,2021-02-09
+VISA000371,DUD100371,Instructor,2024-03-29,2026-03-29,Authorized,Verified,2024-04-20
+VISA000372,DUD100372,Instructor,2022-02-22,2025-02-21,Authorized,Pending Review,2022-03-24
+VISA000373,DUD100373,Permanent Resident,2024-03-26,,Authorized,Verified,2024-04-02
+VISA000374,DUD100374,Engineer/Specialist in Humanities/International Services,2023-02-10,2025-02-09,Authorized,Verified,2023-02-17
+VISA000375,DUD100375,Instructor,2026-05-22,2029-05-21,Authorized,Verified,2026-06-18
+VISA000376,DUD100376,Permanent Resident,2025-06-28,,Authorized,Pending Review,2025-07-02
+VISA000377,DUD100377,Instructor,2022-04-29,2023-04-29,Authorized,Verified,2022-05-06
+VISA000378,DUD100378,Engineer/Specialist in Humanities/International Services,2025-05-12,2029-05-11,Authorized,Verified,2025-05-14
+VISA000379,DUD100379,Permanent Resident,2023-08-30,,Authorized,Verified,2023-09-06
+VISA000380,DUD100380,Long Term Resident,2021-11-16,,Authorized,Pending Review,2021-12-09
+VISA000381,DUD100381,Engineer/Specialist in Humanities/International Services,2023-03-26,2025-03-25,Authorized,Pending Review,2023-04-13
+VISA000382,DUD100382,Spouse of Japanese National,2026-01-15,,Authorized,Verified,2026-02-13
+VISA000383,DUD100383,Engineer/Specialist in Humanities/International Services,2024-06-23,2028-06-22,Authorized,Pending Review,2024-07-03
+VISA000384,DUD100384,Engineer/Specialist in Humanities/International Services,2023-01-01,2024-12-31,Authorized,Verified,2023-01-18
+VISA000385,DUD100385,Engineer/Specialist in Humanities/International Services,2025-02-27,2027-02-27,Authorized,Verified,2025-03-07
+VISA000386,DUD100386,Instructor,2024-06-07,2026-06-07,Authorized,Pending Review,2024-06-27
+VISA000387,DUD100387,Engineer/Specialist in Humanities/International Services,2025-11-23,2026-11-23,Authorized,Verified,2025-12-09
+VISA000388,DUD100388,Long Term Resident,2024-06-22,,Authorized,Pending Review,2024-07-07
+VISA000389,DUD100389,Permanent Resident,2025-08-06,,Authorized,Pending Review,2025-08-23
+VISA000390,DUD100390,Instructor,2023-08-01,2026-07-31,Authorized,Verified,2023-08-15
+VISA000391,DUD100391,Engineer/Specialist in Humanities/International Services,2022-04-04,2025-04-03,Authorized,Pending Review,2022-04-11
+VISA000392,DUD100392,Instructor,2023-07-05,2024-07-04,Authorized,Verified,2023-07-08
+VISA000393,DUD100393,Student,2023-01-08,2026-01-07,Authorized,Verified,2023-01-29
+VISA000394,DUD100394,Engineer/Specialist in Humanities/International Services,2025-10-30,2026-10-30,Authorized,Pending Review,2025-11-13
+VISA000395,DUD100395,Long Term Resident,2021-04-05,,Authorized,Verified,2021-04-06
+VISA000396,DUD100396,Permanent Resident,2021-07-28,,Authorized,Verified,2021-08-01
+VISA000397,DUD100397,Long Term Resident,2022-04-04,,Authorized,Verified,2022-04-05
+VISA000398,DUD100398,Engineer/Specialist in Humanities/International Services,2022-08-11,2026-08-10,Authorized,Verified,2022-08-14
+VISA000399,DUD100399,Student,2023-12-24,2027-12-23,Authorized,Verified,2024-01-23
+VISA000400,DUD100400,Engineer/Specialist in Humanities/International Services,2023-06-02,2026-06-01,Authorized,Verified,2023-06-30
+VISA000401,DUD100401,Engineer/Specialist in Humanities/International Services,2026-08-03,2030-08-02,Authorized,Pending Review,2026-08-04
+VISA000402,DUD100402,Instructor,2021-06-22,2023-06-22,Authorized,Verified,2021-07-11
+VISA000403,DUD100403,Engineer/Specialist in Humanities/International Services,2025-07-02,2028-07-01,Authorized,Verified,2025-07-30
+VISA000404,DUD100404,Instructor,2024-04-18,2028-04-17,Authorized,Verified,2024-04-28
+VISA000405,DUD100405,Engineer/Specialist in Humanities/International Services,2026-02-06,2030-02-05,Authorized,Verified,2026-03-05
+VISA000406,DUD100406,Permanent Resident,2025-11-13,,Authorized,Verified,2025-11-28
+VISA000407,DUD100407,Engineer/Specialist in Humanities/International Services,2021-01-13,2023-01-13,Authorized,Verified,2021-01-21
+VISA000408,DUD100408,Engineer/Specialist in Humanities/International Services,2022-05-02,2023-05-02,Authorized,Pending Review,2022-05-13
+VISA000409,DUD100409,Working Holiday,2022-02-12,2023-02-12,Authorized,Pending Review,2022-02-19
+VISA000410,DUD100410,Instructor,2024-01-24,2026-01-23,Authorized,Verified,2024-01-26
+VISA000411,DUD100411,Engineer/Specialist in Humanities/International Services,2024-06-15,2028-06-14,Authorized,Verified,2024-06-19
+VISA000412,DUD100412,Instructor,2026-07-28,2030-07-27,Authorized,Verified,2026-08-09
+VISA000413,DUD100413,Instructor,2025-05-23,2027-05-23,Authorized,Verified,2025-06-17
+VISA000414,DUD100414,Engineer/Specialist in Humanities/International Services,2024-03-17,2027-03-17,Authorized,Verified,2024-03-19
+VISA000415,DUD100415,Engineer/Specialist in Humanities/International Services,2024-04-08,2028-04-07,Authorized,Pending Review,2024-05-01
+VISA000416,DUD100416,Permanent Resident,2024-02-08,,Authorized,Verified,2024-03-01
+VISA000417,DUD100417,Permanent Resident,2022-03-31,,Authorized,Pending Review,2022-04-29
+VISA000418,DUD100418,Spouse of Japanese National,2025-03-10,,Authorized,Verified,2025-03-29
+VISA000419,DUD100419,Instructor,2025-12-09,2027-12-09,Authorized,Verified,2025-12-29
+VISA000420,DUD100420,Spouse of Japanese National,2024-12-14,,Authorized,Pending Review,2025-01-04
+VISA000421,DUD100421,Instructor,2025-06-22,2028-06-21,Authorized,Pending Review,2025-06-28
+VISA000422,DUD100422,Engineer/Specialist in Humanities/International Services,2023-01-11,2026-01-10,Authorized,Verified,2023-01-25
+VISA000423,DUD100423,Student,2025-01-09,2029-01-08,Authorized,Verified,2025-02-05
+VISA000424,DUD100424,Instructor,2022-11-19,2023-11-19,Authorized,Verified,2022-12-02
+VISA000425,DUD100425,Engineer/Specialist in Humanities/International Services,2025-12-11,2028-12-10,Authorized,Pending Review,2025-12-24
+VISA000426,DUD100426,Instructor,2023-07-16,2026-07-15,Authorized,Verified,2023-07-20
+VISA000427,DUD100427,Engineer/Specialist in Humanities/International Services,2024-04-16,2025-04-16,Authorized,Pending Review,2024-05-07
+VISA000428,DUD100428,Engineer/Specialist in Humanities/International Services,2025-06-14,2029-06-13,Authorized,Verified,2025-06-16
+VISA000429,DUD100429,Long Term Resident,2024-11-07,,Authorized,Pending Review,2024-11-13
+VISA000430,DUD100430,Instructor,2022-10-29,2023-10-29,Authorized,Verified,2022-11-07
+VISA000431,DUD100431,Permanent Resident,2024-11-18,,Authorized,Pending Review,2024-11-26
+VISA000432,DUD100432,Long Term Resident,2022-02-20,,Authorized,Verified,2022-03-06
+VISA000433,DUD100433,Permanent Resident,2026-06-16,,Authorized,Pending Review,2026-06-28
+VISA000434,DUD100434,Permanent Resident,2023-03-05,,Authorized,Pending Review,2023-03-12
+VISA000435,DUD100435,Instructor,2025-04-06,2027-04-06,Authorized,Pending Review,2025-04-15
+VISA000436,DUD100436,Instructor,2025-06-13,2028-06-12,Authorized,Verified,2025-07-06
+VISA000437,DUD100437,Engineer/Specialist in Humanities/International Services,2021-01-31,2022-01-31,Authorized,Verified,2021-02-15
+VISA000438,DUD100438,Instructor,2024-09-24,2026-09-24,Authorized,Pending Review,2024-10-20
+VISA000439,DUD100439,Student,2021-02-01,2024-02-01,Authorized,Pending Review,2021-02-14
+VISA000440,DUD100440,Long Term Resident,2024-08-25,,Authorized,Verified,2024-09-05
+VISA000441,DUD100441,Long Term Resident,2025-03-06,,Authorized,Verified,2025-03-14
+VISA000442,DUD100442,Long Term Resident,2024-09-26,,Authorized,Verified,2024-10-10
+VISA000443,DUD100443,Long Term Resident,2021-05-12,,Authorized,Verified,2021-05-22
+VISA000444,DUD100444,Permanent Resident,2021-09-04,,Authorized,Verified,2021-09-17
+VISA000445,DUD100445,Engineer/Specialist in Humanities/International Services,2021-11-28,2022-11-28,Authorized,Verified,2021-11-30
+VISA000446,DUD100446,Engineer/Specialist in Humanities/International Services,2022-09-08,2024-09-07,Authorized,Pending Review,2022-09-25
+VISA000447,DUD100447,Instructor,2025-04-28,2026-04-28,Authorized,Verified,2025-05-27
+VISA000448,DUD100448,Spouse of Japanese National,2026-07-24,,Authorized,Pending Review,2026-08-10
+VISA000449,DUD100449,Engineer/Specialist in Humanities/International Services,2023-07-05,2026-07-04,Authorized,Verified,2023-07-10
+VISA000450,DUD100450,Permanent Resident,2026-06-11,,Authorized,Verified,2026-06-28
+VISA000451,DUD100451,Instructor,2025-06-24,2029-06-23,Authorized,Verified,2025-07-23
+VISA000452,DUD100452,Engineer/Specialist in Humanities/International Services,2023-11-25,2024-11-24,Authorized,Pending Review,2023-12-15
+VISA000453,DUD100453,Engineer/Specialist in Humanities/International Services,2025-03-30,2027-03-30,Authorized,Verified,2025-04-13
+VISA000454,DUD100454,Engineer/Specialist in Humanities/International Services,2024-07-06,2027-07-06,Authorized,Pending Review,2024-08-03
+VISA000455,DUD100455,Engineer/Specialist in Humanities/International Services,2022-12-04,2024-12-03,Authorized,Pending Review,2022-12-11
+VISA000456,DUD100456,Spouse of Japanese National,2023-05-11,,Authorized,Pending Review,2023-05-25
+VISA000457,DUD100457,Engineer/Specialist in Humanities/International Services,2024-01-09,2027-01-08,Authorized,Verified,2024-01-30
+VISA000458,DUD100458,Instructor,2026-03-14,2027-03-14,Authorized,Verified,2026-03-15
+VISA000459,DUD100459,Engineer/Specialist in Humanities/International Services,2025-11-22,2029-11-21,Authorized,Verified,2025-12-07
+VISA000460,DUD100460,Instructor,2024-04-01,2027-04-01,Authorized,Pending Review,2024-04-27
+VISA000461,DUD100461,Instructor,2026-02-19,2027-02-19,Authorized,Pending Review,2026-03-20
+VISA000462,DUD100462,Engineer/Specialist in Humanities/International Services,2023-06-20,2024-06-19,Authorized,Pending Review,2023-06-22
+VISA000463,DUD100463,Permanent Resident,2021-04-27,,Authorized,Verified,2021-05-22
+VISA000464,DUD100464,Permanent Resident,2022-07-17,,Authorized,Pending Review,2022-07-25
+VISA000465,DUD100465,Instructor,2024-07-31,2028-07-30,Authorized,Verified,2024-08-03
+VISA000466,DUD100466,Instructor,2025-08-31,2028-08-30,Authorized,Verified,2025-09-23
+VISA000467,DUD100467,Engineer/Specialist in Humanities/International Services,2024-09-03,2028-09-02,Authorized,Verified,2024-09-21
+VISA000468,DUD100468,Engineer/Specialist in Humanities/International Services,2026-04-01,2028-03-31,Authorized,Pending Review,2026-04-28
+VISA000469,DUD100469,Student,2021-10-09,2023-10-09,Authorized,Verified,2021-10-15
+VISA000470,DUD100470,Permanent Resident,2026-07-24,,Authorized,Verified,2026-08-21
+VISA000471,DUD100471,Working Holiday,2026-02-06,2029-02-05,Authorized,Verified,2026-03-08
+VISA000472,DUD100472,Instructor,2026-01-11,2027-01-11,Authorized,Verified,2026-01-21
+VISA000473,DUD100473,Instructor,2023-01-22,2025-01-21,Authorized,Pending Review,2023-02-01
+VISA000474,DUD100474,Permanent Resident,2022-09-23,,Authorized,Pending Review,2022-10-23
+VISA000475,DUD100475,Instructor,2025-02-16,2027-02-16,Authorized,Verified,2025-03-11
+VISA000476,DUD100476,Instructor,2023-09-18,2024-09-17,Authorized,Verified,2023-09-29
+VISA000477,DUD100477,Engineer/Specialist in Humanities/International Services,2021-02-05,2024-02-05,Authorized,Verified,2021-02-07
+VISA000478,DUD100478,Instructor,2021-07-14,2025-07-13,Authorized,Verified,2021-07-19
+VISA000479,DUD100479,Engineer/Specialist in Humanities/International Services,2022-05-13,2023-05-13,Authorized,Verified,2022-05-21
+VISA000480,DUD100480,Student,2023-11-02,2025-11-01,Authorized,Verified,2023-11-10
+VISA000481,DUD100481,Instructor,2022-04-13,2026-04-12,Authorized,Pending Review,2022-05-03
+VISA000482,DUD100482,Instructor,2025-07-14,2027-07-14,Authorized,Pending Review,2025-07-28
+VISA000483,DUD100483,Permanent Resident,2023-12-11,,Authorized,Verified,2023-12-25
+VISA000484,DUD100484,Permanent Resident,2022-12-19,,Authorized,Pending Review,2022-12-27
+VISA000485,DUD100485,Instructor,2022-12-14,2023-12-14,Authorized,Verified,2023-01-06
+VISA000486,DUD100486,Engineer/Specialist in Humanities/International Services,2021-03-28,2022-03-28,Authorized,Verified,2021-04-08
+VISA000487,DUD100487,Instructor,2022-12-27,2026-12-26,Authorized,Verified,2023-01-22
+VISA000488,DUD100488,Engineer/Specialist in Humanities/International Services,2023-05-10,2026-05-09,Authorized,Verified,2023-05-13
+VISA000489,DUD100489,Instructor,2024-07-06,2026-07-06,Authorized,Verified,2024-07-30
+VISA000490,DUD100490,Instructor,2024-06-15,2026-06-15,Authorized,Verified,2024-07-06
+VISA000491,DUD100491,Engineer/Specialist in Humanities/International Services,2024-05-04,2028-05-03,Authorized,Verified,2024-05-13
+VISA000492,DUD100492,Permanent Resident,2021-02-24,,Authorized,Pending Review,2021-03-01
+VISA000493,DUD100493,Long Term Resident,2024-01-29,,Authorized,Verified,2024-02-12
+VISA000494,DUD100494,Instructor,2026-01-17,2029-01-16,Authorized,Verified,2026-02-08
+VISA000495,DUD100495,Engineer/Specialist in Humanities/International Services,2024-11-17,2026-11-17,Authorized,Verified,2024-11-27
+VISA000496,DUD100496,Permanent Resident,2025-05-25,,Authorized,Verified,2025-06-14
+VISA000497,DUD100497,Permanent Resident,2021-05-06,,Authorized,Pending Review,2021-05-18
+VISA000498,DUD100498,Engineer/Specialist in Humanities/International Services,2022-09-23,2025-09-22,Authorized,Verified,2022-10-22
+VISA000499,DUD100499,Spouse of Japanese National,2025-07-07,,Authorized,Verified,2025-07-15
+VISA000500,DUD100500,Working Holiday,2021-01-12,2023-01-12,Authorized,Verified,2021-02-07
+VISA000501,DUD100501,Engineer/Specialist in Humanities/International Services,2024-08-21,2025-08-21,Authorized,Verified,2024-08-29
+VISA000502,DUD100502,Instructor,2022-02-18,2024-02-18,Authorized,Verified,2022-03-13
+VISA000503,DUD100503,Engineer/Specialist in Humanities/International Services,2024-06-03,2027-06-03,Authorized,Pending Review,2024-06-19
+VISA000504,DUD100504,Student,2022-09-17,2023-09-17,Authorized,Verified,2022-09-27
+VISA000505,DUD100505,Instructor,2023-12-11,2024-12-10,Authorized,Verified,2023-12-24
+VISA000506,DUD100506,Engineer/Specialist in Humanities/International Services,2021-11-05,2022-11-05,Authorized,Verified,2021-11-09
+VISA000507,DUD100507,Working Holiday,2025-12-30,2029-12-29,Authorized,Verified,2026-01-06
+VISA000508,DUD100508,Engineer/Specialist in Humanities/International Services,2026-02-06,2028-02-06,Authorized,Verified,2026-02-18
+VISA000509,DUD100509,Engineer/Specialist in Humanities/International Services,2021-09-07,2022-09-07,Authorized,Verified,2021-09-16
+VISA000510,DUD100510,Engineer/Specialist in Humanities/International Services,2026-03-18,2029-03-17,Authorized,Pending Review,2026-04-15
+VISA000511,DUD100511,Engineer/Specialist in Humanities/International Services,2022-09-14,2025-09-13,Authorized,Pending Review,2022-10-05
+VISA000512,DUD100512,Long Term Resident,2023-11-24,,Authorized,Pending Review,2023-12-06
+VISA000513,DUD100513,Spouse of Japanese National,2022-12-28,,Authorized,Verified,2022-12-30
+VISA000514,DUD100514,Permanent Resident,2025-01-27,,Authorized,Verified,2025-01-29
+VISA000515,DUD100515,Engineer/Specialist in Humanities/International Services,2021-03-28,2024-03-27,Authorized,Verified,2021-04-19
+VISA000516,DUD100516,Permanent Resident,2022-03-05,,Authorized,Verified,2022-04-02
+VISA000517,DUD100517,Instructor,2023-04-11,2025-04-10,Authorized,Verified,2023-04-24
+VISA000518,DUD100518,Permanent Resident,2025-09-18,,Authorized,Verified,2025-09-30
+VISA000519,DUD100519,Instructor,2024-02-20,2027-02-19,Authorized,Verified,2024-03-10
+VISA000520,DUD100520,Permanent Resident,2022-12-30,,Authorized,Verified,2023-01-17
+VISA000521,DUD100521,Spouse of Japanese National,2021-07-05,,Authorized,Verified,2021-07-31
+VISA000522,DUD100522,Spouse of Japanese National,2022-09-14,,Authorized,Verified,2022-10-10
+VISA000523,DUD100523,Instructor,2021-06-16,2022-06-16,Authorized,Verified,2021-07-16
+VISA000524,DUD100524,Student,2021-09-29,2023-09-29,Authorized,Verified,2021-10-07
+VISA000525,DUD100525,Spouse of Japanese National,2022-04-11,,Authorized,Verified,2022-04-17
+VISA000526,DUD100526,Long Term Resident,2024-01-30,,Authorized,Verified,2024-02-13
+VISA000527,DUD100527,Working Holiday,2021-12-18,2025-12-17,Authorized,Verified,2021-12-22
+VISA000528,DUD100528,Engineer/Specialist in Humanities/International Services,2021-11-06,2023-11-06,Authorized,Pending Review,2021-11-18
+VISA000529,DUD100529,Working Holiday,2024-12-17,2028-12-16,Authorized,Verified,2024-12-26
+VISA000530,DUD100530,Student,2021-09-09,2022-09-09,Authorized,Verified,2021-09-13
+VISA000531,DUD100531,Engineer/Specialist in Humanities/International Services,2025-08-12,2029-08-11,Authorized,Pending Review,2025-08-25
+VISA000532,DUD100532,Engineer/Specialist in Humanities/International Services,2025-05-06,2028-05-05,Authorized,Verified,2025-05-16
+VISA000533,DUD100533,Engineer/Specialist in Humanities/International Services,2023-07-23,2027-07-22,Authorized,Verified,2023-08-22
+VISA000534,DUD100534,Instructor,2026-03-03,2030-03-02,Authorized,Pending Review,2026-03-14
+VISA000535,DUD100535,Engineer/Specialist in Humanities/International Services,2023-03-31,2026-03-30,Authorized,Verified,2023-04-26
+VISA000536,DUD100536,Long Term Resident,2024-02-02,,Authorized,Verified,2024-02-26
+VISA000537,DUD100537,Permanent Resident,2025-04-27,,Authorized,Pending Review,2025-05-14
+VISA000538,DUD100538,Instructor,2023-11-11,2026-11-10,Authorized,Verified,2023-12-02
+VISA000539,DUD100539,Instructor,2025-02-14,2028-02-14,Authorized,Verified,2025-03-04
+VISA000540,DUD100540,Engineer/Specialist in Humanities/International Services,2026-01-01,2029-12-31,Authorized,Verified,2026-01-24
+VISA000541,DUD100541,Engineer/Specialist in Humanities/International Services,2024-12-13,2028-12-12,Authorized,Pending Review,2024-12-19
+VISA000542,DUD100542,Instructor,2022-07-04,2023-07-04,Authorized,Verified,2022-07-22
+VISA000543,DUD100543,Permanent Resident,2025-05-27,,Authorized,Verified,2025-06-05
+VISA000544,DUD100544,Instructor,2021-06-30,2024-06-29,Authorized,Verified,2021-07-26
+VISA000545,DUD100545,Permanent Resident,2022-10-17,,Authorized,Verified,2022-10-28
+VISA000546,DUD100546,Student,2026-02-13,2028-02-13,Authorized,Pending Review,2026-02-15
+VISA000547,DUD100547,Instructor,2025-08-15,2026-08-15,Authorized,Verified,2025-08-23
+VISA000548,DUD100548,Engineer/Specialist in Humanities/International Services,2024-10-24,2028-10-23,Authorized,Pending Review,2024-11-12
+VISA000549,DUD100549,Engineer/Specialist in Humanities/International Services,2024-05-08,2027-05-08,Authorized,Verified,2024-05-24
+VISA000550,DUD100550,Engineer/Specialist in Humanities/International Services,2026-07-18,2030-07-17,Authorized,Verified,2026-07-25
+VISA000551,DUD100551,Engineer/Specialist in Humanities/International Services,2023-11-28,2026-11-27,Authorized,Verified,2023-12-08
+VISA000552,DUD100552,Engineer/Specialist in Humanities/International Services,2022-12-18,2025-12-17,Authorized,Verified,2023-01-06
+VISA000553,DUD100553,Engineer/Specialist in Humanities/International Services,2025-07-02,2029-07-01,Authorized,Pending Review,2025-07-10
+VISA000554,DUD100554,Engineer/Specialist in Humanities/International Services,2024-06-11,2027-06-11,Authorized,Verified,2024-06-26
+VISA000555,DUD100555,Engineer/Specialist in Humanities/International Services,2023-12-15,2026-12-14,Authorized,Verified,2024-01-04
+VISA000556,DUD100556,Instructor,2022-02-20,2025-02-19,Authorized,Verified,2022-03-22
+VISA000557,DUD100557,Engineer/Specialist in Humanities/International Services,2021-11-04,2023-11-04,Authorized,Verified,2021-11-06
+VISA000558,DUD100558,Engineer/Specialist in Humanities/International Services,2021-01-19,2022-01-19,Authorized,Verified,2021-01-22
+VISA000559,DUD100559,Engineer/Specialist in Humanities/International Services,2024-01-26,2025-01-25,Authorized,Verified,2024-01-27
+VISA000560,DUD100560,Engineer/Specialist in Humanities/International Services,2023-12-31,2024-12-30,Authorized,Verified,2024-01-15
+VISA000561,DUD100561,Working Holiday,2023-05-09,2026-05-08,Authorized,Pending Review,2023-06-08
+VISA000562,DUD100562,Spouse of Japanese National,2024-06-20,,Authorized,Verified,2024-07-20
+VISA000563,DUD100563,Long Term Resident,2021-11-23,,Authorized,Verified,2021-12-21
+VISA000564,DUD100564,Engineer/Specialist in Humanities/International Services,2022-12-23,2023-12-23,Authorized,Verified,2022-12-26
+VISA000565,DUD100565,Instructor,2026-07-07,2030-07-06,Authorized,Verified,2026-08-01
+VISA000566,DUD100566,Engineer/Specialist in Humanities/International Services,2024-08-06,2025-08-06,Authorized,Pending Review,2024-08-31
+VISA000567,DUD100567,Long Term Resident,2024-08-13,,Authorized,Verified,2024-08-19
+VISA000568,DUD100568,Instructor,2022-05-17,2026-05-16,Authorized,Verified,2022-05-21
+VISA000569,DUD100569,Student,2021-12-05,2025-12-04,Authorized,Verified,2021-12-06
+VISA000570,DUD100570,Permanent Resident,2024-02-25,,Authorized,Verified,2024-03-12
+VISA000571,DUD100571,Working Holiday,2021-03-03,2022-03-03,Authorized,Verified,2021-03-12
+VISA000572,DUD100572,Instructor,2022-04-06,2025-04-05,Authorized,Pending Review,2022-04-23
+VISA000573,DUD100573,Instructor,2022-03-17,2024-03-16,Authorized,Verified,2022-03-18
+VISA000574,DUD100574,Instructor,2026-06-11,2027-06-11,Authorized,Verified,2026-06-25
+VISA000575,DUD100575,Spouse of Japanese National,2024-04-02,,Authorized,Verified,2024-04-11
+VISA000576,DUD100576,Engineer/Specialist in Humanities/International Services,2023-10-24,2024-10-23,Authorized,Verified,2023-11-10
+VISA000577,DUD100577,Instructor,2024-01-26,2026-01-25,Authorized,Verified,2024-02-10
+VISA000578,DUD100578,Spouse of Japanese National,2021-12-03,,Authorized,Verified,2021-12-20
+VISA000579,DUD100579,Student,2025-01-02,2029-01-01,Authorized,Verified,2025-01-06
+VISA000580,DUD100580,Engineer/Specialist in Humanities/International Services,2025-03-17,2029-03-16,Authorized,Verified,2025-04-07
+VISA000581,DUD100581,Engineer/Specialist in Humanities/International Services,2021-11-24,2023-11-24,Authorized,Verified,2021-12-24
+VISA000582,DUD100582,Engineer/Specialist in Humanities/International Services,2024-07-12,2028-07-11,Authorized,Verified,2024-07-26
+VISA000583,DUD100583,Instructor,2025-07-16,2029-07-15,Authorized,Pending Review,2025-07-23
+VISA000584,DUD100584,Spouse of Japanese National,2025-11-20,,Authorized,Verified,2025-12-11
+VISA000585,DUD100585,Permanent Resident,2025-10-06,,Authorized,Verified,2025-10-19
+VISA000586,DUD100586,Spouse of Japanese National,2026-01-19,,Authorized,Verified,2026-01-28
+VISA000587,DUD100587,Engineer/Specialist in Humanities/International Services,2024-12-21,2025-12-21,Authorized,Verified,2024-12-25
+VISA000588,DUD100588,Long Term Resident,2024-04-05,,Authorized,Verified,2024-04-21
+VISA000589,DUD100589,Working Holiday,2022-05-15,2026-05-14,Authorized,Verified,2022-05-16
+VISA000590,DUD100590,Engineer/Specialist in Humanities/International Services,2022-10-07,2024-10-06,Authorized,Pending Review,2022-10-11
+VISA000591,DUD100591,Engineer/Specialist in Humanities/International Services,2024-10-20,2026-10-20,Authorized,Verified,2024-11-11
+VISA000592,DUD100592,Engineer/Specialist in Humanities/International Services,2026-04-07,2030-04-06,Authorized,Verified,2026-05-05
+VISA000593,DUD100593,Engineer/Specialist in Humanities/International Services,2023-11-19,2025-11-18,Authorized,Verified,2023-11-25
+VISA000594,DUD100594,Engineer/Specialist in Humanities/International Services,2023-03-26,2027-03-25,Authorized,Verified,2023-04-19
+VISA000595,DUD100595,Engineer/Specialist in Humanities/International Services,2025-08-26,2027-08-26,Authorized,Verified,2025-09-12
+VISA000596,DUD100596,Spouse of Japanese National,2023-07-07,,Authorized,Verified,2023-07-12
+VISA000597,DUD100597,Student,2023-04-10,2026-04-09,Authorized,Pending Review,2023-05-01
+VISA000598,DUD100598,Engineer/Specialist in Humanities/International Services,2021-06-26,2024-06-25,Authorized,Verified,2021-06-29
+VISA000599,DUD100599,Instructor,2026-02-06,2030-02-05,Authorized,Verified,2026-02-13
+VISA000600,DUD100600,Instructor,2022-10-04,2023-10-04,Authorized,Verified,2022-10-11
+VISA000601,DUD100601,Engineer/Specialist in Humanities/International Services,2024-03-20,2025-03-20,Authorized,Verified,2024-03-31
+VISA000602,DUD100602,Spouse of Japanese National,2025-04-04,,Authorized,Verified,2025-05-04
+VISA000603,DUD100603,Student,2025-10-13,2027-10-13,Authorized,Verified,2025-10-28
+VISA000604,DUD100604,Engineer/Specialist in Humanities/International Services,2025-02-23,2028-02-23,Authorized,Verified,2025-03-18
+VISA000605,DUD100605,Spouse of Japanese National,2024-12-10,,Authorized,Verified,2025-01-06
+VISA000606,DUD100606,Instructor,2024-09-06,2028-09-05,Authorized,Verified,2024-09-07
+VISA000607,DUD100607,Engineer/Specialist in Humanities/International Services,2023-02-27,2025-02-26,Authorized,Pending Review,2023-03-20
+VISA000608,DUD100608,Permanent Resident,2022-01-06,,Authorized,Verified,2022-01-10
+VISA000609,DUD100609,Engineer/Specialist in Humanities/International Services,2026-03-10,2027-03-10,Authorized,Pending Review,2026-03-27
+VISA000610,DUD100610,Long Term Resident,2023-08-03,,Authorized,Verified,2023-08-30
+VISA000611,DUD100611,Engineer/Specialist in Humanities/International Services,2025-09-28,2027-09-28,Authorized,Verified,2025-10-13
+VISA000612,DUD100612,Instructor,2022-10-19,2024-10-18,Authorized,Verified,2022-11-01
+VISA000613,DUD100613,Instructor,2023-05-24,2027-05-23,Authorized,Verified,2023-06-06
+VISA000614,DUD100614,Spouse of Japanese National,2022-09-16,,Authorized,Verified,2022-10-15
+VISA000615,DUD100615,Engineer/Specialist in Humanities/International Services,2026-02-18,2029-02-17,Authorized,Verified,2026-03-03
+VISA000616,DUD100616,Engineer/Specialist in Humanities/International Services,2021-10-23,2022-10-23,Authorized,Verified,2021-11-11
+VISA000617,DUD100617,Permanent Resident,2024-04-01,,Authorized,Verified,2024-04-08
+VISA000618,DUD100618,Engineer/Specialist in Humanities/International Services,2024-10-18,2025-10-18,Authorized,Verified,2024-11-06
+VISA000619,DUD100619,Engineer/Specialist in Humanities/International Services,2022-08-08,2024-08-07,Authorized,Verified,2022-08-27
+VISA000620,DUD100620,Instructor,2024-09-19,2025-09-19,Authorized,Verified,2024-10-05
+VISA000621,DUD100621,Permanent Resident,2023-10-08,,Authorized,Verified,2023-10-27
+VISA000622,DUD100622,Instructor,2026-05-27,2028-05-26,Authorized,Verified,2026-06-11
+VISA000623,DUD100623,Engineer/Specialist in Humanities/International Services,2021-07-26,2024-07-25,Authorized,Verified,2021-08-06
+VISA000624,DUD100624,Instructor,2025-04-11,2029-04-10,Authorized,Verified,2025-04-30
+VISA000625,DUD100625,Engineer/Specialist in Humanities/International Services,2021-10-25,2025-10-24,Authorized,Verified,2021-11-13
+VISA000626,DUD100626,Instructor,2021-11-17,2023-11-17,Authorized,Pending Review,2021-12-08
+VISA000627,DUD100627,Permanent Resident,2024-12-20,,Authorized,Verified,2025-01-05
+VISA000628,DUD100628,Spouse of Japanese National,2025-10-23,,Authorized,Verified,2025-11-06
+VISA000629,DUD100629,Engineer/Specialist in Humanities/International Services,2025-01-29,2026-01-29,Authorized,Verified,2025-02-12
+VISA000630,DUD100630,Engineer/Specialist in Humanities/International Services,2023-03-19,2026-03-18,Authorized,Verified,2023-03-28
+VISA000631,DUD100631,Long Term Resident,2023-11-26,,Authorized,Verified,2023-12-22
+VISA000632,DUD100632,Student,2025-05-06,2029-05-05,Authorized,Verified,2025-06-05
+VISA000633,DUD100633,Engineer/Specialist in Humanities/International Services,2026-03-16,2029-03-15,Authorized,Pending Review,2026-03-23
+VISA000634,DUD100634,Instructor,2021-08-22,2025-08-21,Authorized,Pending Review,2021-09-20
+VISA000635,DUD100635,Permanent Resident,2023-05-17,,Authorized,Verified,2023-05-21
+VISA000636,DUD100636,Engineer/Specialist in Humanities/International Services,2023-07-05,2025-07-04,Authorized,Verified,2023-08-02
+VISA000637,DUD100637,Student,2023-04-16,2025-04-15,Authorized,Verified,2023-04-19
+VISA000638,DUD100638,Engineer/Specialist in Humanities/International Services,2023-03-13,2024-03-12,Authorized,Verified,2023-04-11
+VISA000639,DUD100639,Engineer/Specialist in Humanities/International Services,2024-04-01,2028-03-31,Authorized,Verified,2024-04-19
+VISA000640,DUD100640,Instructor,2025-04-18,2029-04-17,Authorized,Verified,2025-04-30
+VISA000641,DUD100641,Student,2023-12-25,2027-12-24,Authorized,Verified,2024-01-05
+VISA000642,DUD100642,Engineer/Specialist in Humanities/International Services,2026-07-04,2029-07-03,Authorized,Pending Review,2026-07-31
+VISA000643,DUD100643,Working Holiday,2025-07-26,2028-07-25,Authorized,Verified,2025-08-10
+VISA000644,DUD100644,Instructor,2024-11-23,2025-11-23,Authorized,Pending Review,2024-12-20
+VISA000645,DUD100645,Engineer/Specialist in Humanities/International Services,2026-06-27,2029-06-26,Authorized,Verified,2026-07-14
+VISA000646,DUD100646,Permanent Resident,2023-02-06,,Authorized,Verified,2023-02-19
+VISA000647,DUD100647,Student,2022-02-16,2024-02-16,Authorized,Verified,2022-03-11
+VISA000648,DUD100648,Engineer/Specialist in Humanities/International Services,2024-10-02,2026-10-02,Authorized,Verified,2024-10-22
+VISA000649,DUD100649,Engineer/Specialist in Humanities/International Services,2021-01-13,2022-01-13,Authorized,Pending Review,2021-02-01
+VISA000650,DUD100650,Engineer/Specialist in Humanities/International Services,2021-02-18,2022-02-18,Authorized,Verified,2021-03-05
+VISA000651,DUD100651,Engineer/Specialist in Humanities/International Services,2023-04-30,2025-04-29,Authorized,Pending Review,2023-05-30
+VISA000652,DUD100652,Engineer/Specialist in Humanities/International Services,2023-11-23,2025-11-22,Authorized,Pending Review,2023-11-30
+VISA000653,DUD100653,Student,2022-03-06,2025-03-05,Authorized,Pending Review,2022-03-19
+VISA000654,DUD100654,Engineer/Specialist in Humanities/International Services,2022-12-31,2026-12-30,Authorized,Verified,2023-01-09
+VISA000655,DUD100655,Instructor,2026-05-01,2027-05-01,Authorized,Verified,2026-05-09
+VISA000656,DUD100656,Permanent Resident,2025-05-09,,Authorized,Verified,2025-05-15
+VISA000657,DUD100657,Permanent Resident,2024-02-27,,Authorized,Verified,2024-03-11
+VISA000658,DUD100658,Engineer/Specialist in Humanities/International Services,2022-12-18,2023-12-18,Authorized,Verified,2023-01-03
+VISA000659,DUD100659,Engineer/Specialist in Humanities/International Services,2021-01-06,2025-01-05,Authorized,Verified,2021-01-14
+VISA000660,DUD100660,Engineer/Specialist in Humanities/International Services,2025-09-23,2029-09-22,Authorized,Pending Review,2025-09-26
+VISA000661,DUD100661,Permanent Resident,2021-07-26,,Authorized,Verified,2021-08-09
+VISA000662,DUD100662,Spouse of Japanese National,2021-02-07,,Authorized,Verified,2021-02-12
+VISA000663,DUD100663,Engineer/Specialist in Humanities/International Services,2023-03-07,2026-03-06,Authorized,Pending Review,2023-03-22
+VISA000664,DUD100664,Engineer/Specialist in Humanities/International Services,2025-09-29,2027-09-29,Authorized,Pending Review,2025-10-09
+VISA000665,DUD100665,Engineer/Specialist in Humanities/International Services,2023-08-17,2026-08-16,Authorized,Verified,2023-09-16
+VISA000666,DUD100666,Instructor,2024-06-29,2027-06-29,Authorized,Verified,2024-07-03
+VISA000667,DUD100667,Instructor,2026-03-22,2030-03-21,Authorized,Verified,2026-04-03
+VISA000668,DUD100668,Permanent Resident,2024-04-17,,Authorized,Verified,2024-05-04
+VISA000669,DUD100669,Engineer/Specialist in Humanities/International Services,2024-06-30,2028-06-29,Authorized,Verified,2024-07-26
+VISA000670,DUD100670,Long Term Resident,2025-07-26,,Authorized,Verified,2025-08-02
+VISA000671,DUD100671,Engineer/Specialist in Humanities/International Services,2021-08-17,2024-08-16,Authorized,Verified,2021-08-25
+VISA000672,DUD100672,Long Term Resident,2022-07-10,,Authorized,Verified,2022-08-01
+VISA000673,DUD100673,Long Term Resident,2025-01-31,,Authorized,Verified,2025-02-03
+VISA000674,DUD100674,Engineer/Specialist in Humanities/International Services,2021-06-06,2024-06-05,Authorized,Verified,2021-06-23
+VISA000675,DUD100675,Long Term Resident,2023-09-19,,Authorized,Verified,2023-10-18
+VISA000676,DUD100676,Permanent Resident,2022-03-17,,Authorized,Verified,2022-04-13
+VISA000677,DUD100677,Instructor,2026-08-09,2028-08-08,Authorized,Verified,2026-08-14
+VISA000678,DUD100678,Engineer/Specialist in Humanities/International Services,2022-03-05,2025-03-04,Authorized,Verified,2022-03-10
+VISA000679,DUD100679,Long Term Resident,2024-11-16,,Authorized,Verified,2024-11-21
+VISA000680,DUD100680,Permanent Resident,2025-10-19,,Authorized,Verified,2025-11-05
+VISA000681,DUD100681,Spouse of Japanese National,2026-05-22,,Authorized,Pending Review,2026-06-11
+VISA000682,DUD100682,Instructor,2025-10-03,2028-10-02,Authorized,Verified,2025-10-27
+VISA000683,DUD100683,Engineer/Specialist in Humanities/International Services,2023-07-05,2027-07-04,Authorized,Verified,2023-07-10
+VISA000684,DUD100684,Engineer/Specialist in Humanities/International Services,2024-05-30,2026-05-30,Authorized,Verified,2024-06-17
+VISA000685,DUD100685,Engineer/Specialist in Humanities/International Services,2021-11-30,2025-11-29,Authorized,Verified,2021-12-29
+VISA000686,DUD100686,Engineer/Specialist in Humanities/International Services,2025-04-20,2026-04-20,Authorized,Pending Review,2025-05-02
+VISA000687,DUD100687,Instructor,2025-06-18,2026-06-18,Authorized,Pending Review,2025-07-02
+VISA000688,DUD100688,Engineer/Specialist in Humanities/International Services,2025-08-05,2028-08-04,Authorized,Verified,2025-08-18
+VISA000689,DUD100689,Permanent Resident,2021-10-09,,Authorized,Verified,2021-10-12
+VISA000690,DUD100690,Engineer/Specialist in Humanities/International Services,2021-03-15,2024-03-14,Authorized,Pending Review,2021-04-04
+VISA000691,DUD100691,Engineer/Specialist in Humanities/International Services,2023-03-25,2025-03-24,Authorized,Pending Review,2023-04-24
+VISA000692,DUD100692,Spouse of Japanese National,2024-05-27,,Authorized,Pending Review,2024-05-31
+VISA000693,DUD100693,Engineer/Specialist in Humanities/International Services,2021-03-25,2024-03-24,Authorized,Verified,2021-03-26
+VISA000694,DUD100694,Engineer/Specialist in Humanities/International Services,2024-11-17,2028-11-16,Authorized,Verified,2024-12-07
+VISA000695,DUD100695,Permanent Resident,2023-06-26,,Authorized,Pending Review,2023-07-22
+VISA000696,DUD100696,Student,2022-12-11,2025-12-10,Authorized,Pending Review,2022-12-12
+VISA000697,DUD100697,Permanent Resident,2023-01-22,,Authorized,Verified,2023-02-01
+VISA000698,DUD100698,Spouse of Japanese National,2026-02-02,,Authorized,Verified,2026-02-10
+VISA000699,DUD100699,Spouse of Japanese National,2025-08-27,,Authorized,Verified,2025-09-02
+VISA000700,DUD100700,Engineer/Specialist in Humanities/International Services,2025-05-11,2027-05-11,Authorized,Verified,2025-05-19
+VISA000701,DUD100701,Spouse of Japanese National,2024-08-02,,Authorized,Verified,2024-08-11
+VISA000702,DUD100702,Long Term Resident,2025-05-28,,Authorized,Verified,2025-06-12
+VISA000703,DUD100703,Engineer/Specialist in Humanities/International Services,2025-06-18,2027-06-18,Authorized,Pending Review,2025-07-01
+VISA000704,DUD100704,Instructor,2026-03-29,2030-03-28,Authorized,Verified,2026-04-15
+VISA000705,DUD100705,Permanent Resident,2025-04-06,,Authorized,Pending Review,2025-05-01
+VISA000706,DUD100706,Instructor,2024-09-13,2026-09-13,Authorized,Verified,2024-09-18
+VISA000707,DUD100707,Student,2023-08-18,2024-08-17,Authorized,Pending Review,2023-08-22
+VISA000708,DUD100708,Instructor,2023-03-24,2026-03-23,Authorized,Verified,2023-04-07
+VISA000709,DUD100709,Engineer/Specialist in Humanities/International Services,2023-01-04,2027-01-03,Authorized,Verified,2023-01-22
+VISA000710,DUD100710,Instructor,2024-10-20,2028-10-19,Authorized,Pending Review,2024-10-25
+VISA000711,DUD100711,Long Term Resident,2026-02-22,,Authorized,Verified,2026-03-19
+VISA000712,DUD100712,Spouse of Japanese National,2022-12-03,,Authorized,Verified,2022-12-06
+VISA000713,DUD100713,Engineer/Specialist in Humanities/International Services,2023-10-29,2026-10-28,Authorized,Pending Review,2023-11-20
+VISA000714,DUD100714,Engineer/Specialist in Humanities/International Services,2023-11-07,2025-11-06,Authorized,Verified,2023-11-08
+VISA000715,DUD100715,Engineer/Specialist in Humanities/International Services,2026-01-20,2029-01-19,Authorized,Verified,2026-02-02
+VISA000716,DUD100716,Permanent Resident,2022-06-07,,Authorized,Verified,2022-06-27
+VISA000717,DUD100717,Engineer/Specialist in Humanities/International Services,2024-10-14,2027-10-14,Authorized,Verified,2024-11-09
+VISA000718,DUD100718,Spouse of Japanese National,2021-04-17,,Authorized,Verified,2021-04-28
+VISA000719,DUD100719,Spouse of Japanese National,2024-11-10,,Authorized,Verified,2024-11-21
+VISA000720,DUD100720,Engineer/Specialist in Humanities/International Services,2022-06-08,2024-06-07,Authorized,Pending Review,2022-06-19
+VISA000721,DUD100721,Engineer/Specialist in Humanities/International Services,2024-02-01,2026-01-31,Authorized,Verified,2024-02-03
+VISA000722,DUD100722,Engineer/Specialist in Humanities/International Services,2022-12-11,2023-12-11,Authorized,Verified,2022-12-25
+VISA000723,DUD100723,Spouse of Japanese National,2021-09-15,,Authorized,Verified,2021-09-21
+VISA000724,DUD100724,Spouse of Japanese National,2026-04-08,,Authorized,Verified,2026-05-05
+VISA000725,DUD100725,Long Term Resident,2025-12-17,,Authorized,Pending Review,2026-01-04
+VISA000726,DUD100726,Spouse of Japanese National,2023-12-23,,Authorized,Verified,2024-01-10
+VISA000727,DUD100727,Instructor,2021-10-15,2023-10-15,Authorized,Verified,2021-10-20
+VISA000728,DUD100728,Permanent Resident,2022-05-20,,Authorized,Verified,2022-05-25
+VISA000729,DUD100729,Spouse of Japanese National,2025-01-29,,Authorized,Verified,2025-02-11
+VISA000730,DUD100730,Engineer/Specialist in Humanities/International Services,2023-05-29,2027-05-28,Authorized,Verified,2023-06-07
+VISA000731,DUD100731,Instructor,2021-06-05,2025-06-04,Authorized,Pending Review,2021-06-30
+VISA000732,DUD100732,Permanent Resident,2024-02-09,,Authorized,Verified,2024-02-21
+VISA000733,DUD100733,Instructor,2024-09-07,2026-09-07,Authorized,Verified,2024-09-13
+VISA000734,DUD100734,Permanent Resident,2025-07-14,,Authorized,Verified,2025-08-03
+VISA000735,DUD100735,Long Term Resident,2026-01-29,,Authorized,Pending Review,2026-02-03
+VISA000736,DUD100736,Student,2022-12-18,2026-12-17,Authorized,Pending Review,2023-01-15
+VISA000737,DUD100737,Spouse of Japanese National,2024-06-02,,Authorized,Verified,2024-06-22
+VISA000738,DUD100738,Long Term Resident,2025-12-05,,Authorized,Verified,2025-12-26
+VISA000739,DUD100739,Permanent Resident,2021-11-11,,Authorized,Verified,2021-11-12
+VISA000740,DUD100740,Engineer/Specialist in Humanities/International Services,2024-09-29,2025-09-29,Authorized,Pending Review,2024-10-13
+VISA000741,DUD100741,Engineer/Specialist in Humanities/International Services,2023-09-20,2025-09-19,Authorized,Verified,2023-10-16
+VISA000742,DUD100742,Engineer/Specialist in Humanities/International Services,2021-06-10,2022-06-10,Authorized,Verified,2021-06-24
+VISA000743,DUD100743,Permanent Resident,2023-07-09,,Authorized,Verified,2023-07-31
+VISA000744,DUD100744,Long Term Resident,2022-08-06,,Authorized,Verified,2022-08-11
+VISA000745,DUD100745,Instructor,2024-03-19,2027-03-19,Authorized,Pending Review,2024-04-07
+VISA000746,DUD100746,Student,2022-09-20,2025-09-19,Authorized,Verified,2022-10-13
+VISA000747,DUD100747,Permanent Resident,2025-02-05,,Authorized,Verified,2025-02-20
+VISA000748,DUD100748,Permanent Resident,2024-02-15,,Authorized,Pending Review,2024-02-22
+VISA000749,DUD100749,Student,2024-11-03,2026-11-03,Authorized,Pending Review,2024-11-27
+VISA000750,DUD100750,Permanent Resident,2022-08-08,,Authorized,Pending Review,2022-08-28
+VISA000751,DUD100751,Permanent Resident,2025-12-30,,Authorized,Verified,2026-01-01
+VISA000752,DUD100752,Engineer/Specialist in Humanities/International Services,2022-02-16,2025-02-15,Authorized,Verified,2022-03-16
+VISA000753,DUD100753,Permanent Resident,2024-07-03,,Authorized,Verified,2024-07-07
+VISA000754,DUD100754,Instructor,2026-05-21,2028-05-20,Authorized,Verified,2026-05-28
+VISA000755,DUD100755,Spouse of Japanese National,2025-01-21,,Authorized,Verified,2025-01-24
+VISA000756,DUD100756,Engineer/Specialist in Humanities/International Services,2021-04-01,2025-03-31,Authorized,Verified,2021-04-03
+VISA000757,DUD100757,Engineer/Specialist in Humanities/International Services,2024-03-28,2027-03-28,Authorized,Verified,2024-04-22
+VISA000758,DUD100758,Engineer/Specialist in Humanities/International Services,2021-04-28,2024-04-27,Authorized,Verified,2021-05-24
+VISA000759,DUD100759,Permanent Resident,2025-02-06,,Authorized,Verified,2025-02-27
+VISA000760,DUD100760,Long Term Resident,2023-11-13,,Authorized,Verified,2023-12-07
+VISA000761,DUD100761,Instructor,2023-05-19,2024-05-18,Authorized,Verified,2023-05-29
+VISA000762,DUD100762,Engineer/Specialist in Humanities/International Services,2021-04-14,2024-04-13,Authorized,Verified,2021-04-19
+VISA000763,DUD100763,Long Term Resident,2025-06-21,,Authorized,Verified,2025-07-06
+VISA000764,DUD100764,Engineer/Specialist in Humanities/International Services,2024-09-12,2025-09-12,Authorized,Verified,2024-10-12
+VISA000765,DUD100765,Spouse of Japanese National,2024-06-05,,Authorized,Verified,2024-06-24
+VISA000766,DUD100766,Instructor,2023-06-03,2026-06-02,Authorized,Verified,2023-06-15
+VISA000767,DUD100767,Engineer/Specialist in Humanities/International Services,2022-10-30,2024-10-29,Authorized,Verified,2022-11-03
+VISA000768,DUD100768,Permanent Resident,2025-08-09,,Authorized,Verified,2025-08-23
+VISA000769,DUD100769,Engineer/Specialist in Humanities/International Services,2024-02-25,2025-02-24,Authorized,Verified,2024-03-14
+VISA000770,DUD100770,Student,2024-04-03,2025-04-03,Authorized,Verified,2024-04-16
+VISA000771,DUD100771,Working Holiday,2022-01-17,2024-01-17,Authorized,Verified,2022-02-12
+VISA000772,DUD100772,Permanent Resident,2024-05-27,,Authorized,Verified,2024-06-07
+VISA000773,DUD100773,Student,2025-01-24,2028-01-24,Authorized,Verified,2025-02-20
+VISA000774,DUD100774,Working Holiday,2025-06-26,2028-06-25,Authorized,Pending Review,2025-07-16
+VISA000775,DUD100775,Instructor,2024-10-09,2026-10-09,Authorized,Verified,2024-10-20
+VISA000776,DUD100776,Spouse of Japanese National,2025-06-07,,Authorized,Verified,2025-07-02
+VISA000777,DUD100777,Permanent Resident,2023-08-17,,Authorized,Verified,2023-08-18
+VISA000778,DUD100778,Instructor,2025-11-11,2028-11-10,Authorized,Pending Review,2025-11-22
+VISA000779,DUD100779,Engineer/Specialist in Humanities/International Services,2021-07-09,2023-07-09,Authorized,Verified,2021-08-02
+VISA000780,DUD100780,Long Term Resident,2022-01-01,,Authorized,Verified,2022-01-25
+VISA000781,DUD100781,Engineer/Specialist in Humanities/International Services,2023-09-21,2025-09-20,Authorized,Verified,2023-10-10
+VISA000782,DUD100782,Long Term Resident,2023-05-16,,Authorized,Verified,2023-06-03
+VISA000783,DUD100783,Engineer/Specialist in Humanities/International Services,2021-04-08,2023-04-08,Authorized,Verified,2021-05-01
+VISA000784,DUD100784,Instructor,2023-07-07,2025-07-06,Authorized,Verified,2023-07-10
+VISA000785,DUD100785,Instructor,2023-02-20,2027-02-19,Authorized,Verified,2023-03-18
+VISA000786,DUD100786,Engineer/Specialist in Humanities/International Services,2025-06-22,2027-06-22,Authorized,Verified,2025-06-26
+VISA000787,DUD100787,Instructor,2025-10-24,2028-10-23,Authorized,Verified,2025-11-21
+VISA000788,DUD100788,Permanent Resident,2021-11-30,,Authorized,Pending Review,2021-12-06
+VISA000789,DUD100789,Engineer/Specialist in Humanities/International Services,2022-12-10,2024-12-09,Authorized,Pending Review,2022-12-26
+VISA000790,DUD100790,Permanent Resident,2021-07-18,,Authorized,Verified,2021-08-09
+VISA000791,DUD100791,Engineer/Specialist in Humanities/International Services,2025-11-17,2029-11-16,Authorized,Verified,2025-12-07
+VISA000792,DUD100792,Student,2026-05-13,2027-05-13,Authorized,Pending Review,2026-06-09
+VISA000793,DUD100793,Spouse of Japanese National,2022-08-31,,Authorized,Verified,2022-09-17
+VISA000794,DUD100794,Engineer/Specialist in Humanities/International Services,2026-04-02,2029-04-01,Authorized,Verified,2026-04-11
+VISA000795,DUD100795,Permanent Resident,2022-08-22,,Authorized,Verified,2022-09-18
+VISA000796,DUD100796,Engineer/Specialist in Humanities/International Services,2022-09-25,2024-09-24,Authorized,Verified,2022-10-14
+VISA000797,DUD100797,Working Holiday,2023-07-19,2026-07-18,Authorized,Verified,2023-08-09
+VISA000798,DUD100798,Permanent Resident,2024-06-27,,Authorized,Verified,2024-07-12
+VISA000799,DUD100799,Long Term Resident,2026-02-20,,Authorized,Verified,2026-03-02
+VISA000800,DUD100800,Engineer/Specialist in Humanities/International Services,2024-06-05,2027-06-05,Authorized,Pending Review,2024-06-22
+VISA000801,DUD100801,Permanent Resident,2023-10-15,,Authorized,Pending Review,2023-11-14
+VISA000802,DUD100802,Long Term Resident,2021-06-28,,Authorized,Verified,2021-07-15
+VISA000803,DUD100803,Engineer/Specialist in Humanities/International Services,2021-02-24,2024-02-24,Authorized,Verified,2021-03-05
+VISA000804,DUD100804,Long Term Resident,2021-07-27,,Authorized,Verified,2021-08-13
+VISA000805,DUD100805,Long Term Resident,2024-12-29,,Authorized,Verified,2025-01-08
+VISA000806,DUD100806,Permanent Resident,2023-08-10,,Authorized,Verified,2023-08-18
+VISA000807,DUD100807,Permanent Resident,2023-11-16,,Authorized,Verified,2023-11-18
+VISA000808,DUD100808,Engineer/Specialist in Humanities/International Services,2024-09-02,2026-09-02,Authorized,Pending Review,2024-09-25
+VISA000809,DUD100809,Engineer/Specialist in Humanities/International Services,2024-02-06,2027-02-05,Authorized,Pending Review,2024-02-25
+VISA000810,DUD100810,Working Holiday,2022-11-02,2026-11-01,Authorized,Verified,2022-11-11
+VISA000811,DUD100811,Instructor,2025-10-15,2027-10-15,Authorized,Verified,2025-11-03
+VISA000812,DUD100812,Spouse of Japanese National,2022-09-26,,Authorized,Verified,2022-09-30
+VISA000813,DUD100813,Long Term Resident,2024-08-31,,Authorized,Pending Review,2024-09-21
+VISA000814,DUD100814,Engineer/Specialist in Humanities/International Services,2024-10-24,2025-10-24,Authorized,Verified,2024-11-19
+VISA000815,DUD100815,Permanent Resident,2023-06-08,,Authorized,Verified,2023-06-29
+VISA000816,DUD100816,Instructor,2025-12-20,2028-12-19,Authorized,Verified,2025-12-23
+VISA000817,DUD100817,Instructor,2023-08-07,2026-08-06,Authorized,Verified,2023-08-23
+VISA000818,DUD100818,Engineer/Specialist in Humanities/International Services,2023-01-12,2027-01-11,Authorized,Verified,2023-02-10
+VISA000819,DUD100819,Engineer/Specialist in Humanities/International Services,2021-02-08,2025-02-07,Authorized,Verified,2021-02-12
+VISA000820,DUD100820,Instructor,2022-02-05,2026-02-04,Authorized,Verified,2022-02-12
+VISA000821,DUD100821,Engineer/Specialist in Humanities/International Services,2023-02-04,2025-02-03,Authorized,Verified,2023-02-17
+VISA000822,DUD100822,Permanent Resident,2022-10-17,,Authorized,Verified,2022-11-16
+VISA000823,DUD100823,Long Term Resident,2023-08-28,,Authorized,Pending Review,2023-09-21
+VISA000824,DUD100824,Permanent Resident,2026-07-04,,Authorized,Pending Review,2026-07-06
+VISA000825,DUD100825,Engineer/Specialist in Humanities/International Services,2023-11-15,2027-11-14,Authorized,Verified,2023-11-24
+VISA000826,DUD100826,Student,2021-11-05,2023-11-05,Authorized,Verified,2021-11-23
+VISA000827,DUD100827,Spouse of Japanese National,2023-12-01,,Authorized,Verified,2023-12-16
+VISA000828,DUD100828,Instructor,2023-05-07,2027-05-06,Authorized,Verified,2023-05-30
+VISA000829,DUD100829,Long Term Resident,2021-09-22,,Authorized,Verified,2021-09-29
+VISA000830,DUD100830,Long Term Resident,2025-09-29,,Authorized,Verified,2025-10-29
+VISA000831,DUD100831,Instructor,2023-06-01,2025-05-31,Authorized,Pending Review,2023-06-29
+VISA000832,DUD100832,Engineer/Specialist in Humanities/International Services,2023-05-31,2026-05-30,Authorized,Pending Review,2023-06-17
+VISA000833,DUD100833,Spouse of Japanese National,2022-07-12,,Authorized,Verified,2022-07-25
+VISA000834,DUD100834,Permanent Resident,2021-07-05,,Authorized,Pending Review,2021-07-22
+VISA000835,DUD100835,Engineer/Specialist in Humanities/International Services,2021-02-20,2022-02-20,Authorized,Verified,2021-02-27
+VISA000836,DUD100836,Engineer/Specialist in Humanities/International Services,2023-09-15,2024-09-14,Authorized,Pending Review,2023-09-29
+VISA000837,DUD100837,Spouse of Japanese National,2023-02-15,,Authorized,Verified,2023-02-26
+VISA000838,DUD100838,Instructor,2025-09-30,2029-09-29,Authorized,Pending Review,2025-10-16
+VISA000839,DUD100839,Instructor,2026-03-08,2027-03-08,Authorized,Verified,2026-03-26
+VISA000840,DUD100840,Instructor,2024-06-19,2025-06-19,Authorized,Verified,2024-07-14
+VISA000841,DUD100841,Instructor,2023-03-17,2024-03-16,Authorized,Pending Review,2023-03-24
+VISA000842,DUD100842,Engineer/Specialist in Humanities/International Services,2022-07-25,2026-07-24,Authorized,Pending Review,2022-08-12
+VISA000843,DUD100843,Engineer/Specialist in Humanities/International Services,2024-06-27,2027-06-27,Authorized,Verified,2024-07-27
+VISA000844,DUD100844,Long Term Resident,2022-01-29,,Authorized,Verified,2022-02-03
+VISA000845,DUD100845,Engineer/Specialist in Humanities/International Services,2024-09-17,2027-09-17,Authorized,Verified,2024-09-27
+VISA000846,DUD100846,Engineer/Specialist in Humanities/International Services,2021-09-28,2024-09-27,Authorized,Verified,2021-10-11
+VISA000847,DUD100847,Long Term Resident,2025-02-21,,Authorized,Verified,2025-02-27
+VISA000848,DUD100848,Engineer/Specialist in Humanities/International Services,2026-02-02,2028-02-02,Authorized,Verified,2026-02-03
+VISA000849,DUD100849,Engineer/Specialist in Humanities/International Services,2023-04-09,2024-04-08,Authorized,Pending Review,2023-05-02
+VISA000850,DUD100850,Permanent Resident,2024-01-17,,Authorized,Verified,2024-02-09
+VISA000851,DUD100851,Permanent Resident,2021-04-16,,Authorized,Verified,2021-05-12
+VISA000852,DUD100852,Instructor,2023-12-19,2027-12-18,Authorized,Pending Review,2023-12-30
+VISA000853,DUD100853,Working Holiday,2024-04-19,2027-04-19,Authorized,Verified,2024-04-23
+VISA000854,DUD100854,Long Term Resident,2022-01-21,,Authorized,Verified,2022-02-15
+VISA000855,DUD100855,Instructor,2025-01-10,2027-01-10,Authorized,Verified,2025-01-29
+VISA000856,DUD100856,Instructor,2026-06-20,2030-06-19,Authorized,Pending Review,2026-06-28
+VISA000857,DUD100857,Student,2024-05-27,2028-05-26,Authorized,Verified,2024-06-18
+VISA000858,DUD100858,Instructor,2024-08-24,2027-08-24,Authorized,Verified,2024-09-12
+VISA000859,DUD100859,Long Term Resident,2022-10-10,,Authorized,Pending Review,2022-10-27
+VISA000860,DUD100860,Engineer/Specialist in Humanities/International Services,2026-06-07,2027-06-07,Authorized,Pending Review,2026-06-15
+VISA000861,DUD100861,Engineer/Specialist in Humanities/International Services,2025-09-28,2026-09-28,Authorized,Verified,2025-10-06
+VISA000862,DUD100862,Instructor,2024-07-24,2026-07-24,Authorized,Verified,2024-08-12
+VISA000863,DUD100863,Engineer/Specialist in Humanities/International Services,2024-04-03,2026-04-03,Authorized,Verified,2024-05-01
+VISA000864,DUD100864,Spouse of Japanese National,2022-03-06,,Authorized,Pending Review,2022-04-02
+VISA000865,DUD100865,Engineer/Specialist in Humanities/International Services,2023-06-19,2024-06-18,Authorized,Pending Review,2023-07-02
+VISA000866,DUD100866,Instructor,2023-06-24,2027-06-23,Authorized,Verified,2023-07-07
+VISA000867,DUD100867,Engineer/Specialist in Humanities/International Services,2023-09-19,2026-09-18,Authorized,Verified,2023-10-08
+VISA000868,DUD100868,Long Term Resident,2023-02-02,,Authorized,Verified,2023-02-12
+VISA000869,DUD100869,Engineer/Specialist in Humanities/International Services,2024-12-14,2028-12-13,Authorized,Verified,2025-01-04
+VISA000870,DUD100870,Engineer/Specialist in Humanities/International Services,2024-08-11,2027-08-11,Authorized,Verified,2024-08-14
+VISA000871,DUD100871,Working Holiday,2023-02-01,2027-01-31,Authorized,Verified,2023-02-15
+VISA000872,DUD100872,Engineer/Specialist in Humanities/International Services,2026-03-21,2030-03-20,Authorized,Pending Review,2026-03-25
+VISA000873,DUD100873,Engineer/Specialist in Humanities/International Services,2023-06-20,2025-06-19,Authorized,Verified,2023-06-22
+VISA000874,DUD100874,Student,2023-04-24,2026-04-23,Authorized,Verified,2023-04-25
+VISA000875,DUD100875,Instructor,2026-02-25,2028-02-25,Authorized,Verified,2026-03-26
+VISA000876,DUD100876,Instructor,2023-05-04,2024-05-03,Authorized,Verified,2023-05-06
+VISA000877,DUD100877,Engineer/Specialist in Humanities/International Services,2024-11-29,2028-11-28,Authorized,Pending Review,2024-12-01
+VISA000878,DUD100878,Spouse of Japanese National,2021-06-05,,Authorized,Verified,2021-06-20
+VISA000879,DUD100879,Student,2023-08-09,2027-08-08,Authorized,Verified,2023-08-31
+VISA000880,DUD100880,Spouse of Japanese National,2025-10-23,,Authorized,Verified,2025-10-28
+VISA000881,DUD100881,Engineer/Specialist in Humanities/International Services,2021-02-06,2025-02-05,Authorized,Verified,2021-02-22
+VISA000882,DUD100882,Permanent Resident,2026-07-08,,Authorized,Verified,2026-08-06
+VISA000883,DUD100883,Working Holiday,2024-05-12,2025-05-12,Authorized,Pending Review,2024-05-24
+VISA000884,DUD100884,Permanent Resident,2023-11-14,,Authorized,Pending Review,2023-11-25
+VISA000885,DUD100885,Engineer/Specialist in Humanities/International Services,2026-03-13,2027-03-13,Authorized,Verified,2026-04-09
+VISA000886,DUD100886,Permanent Resident,2026-04-16,,Authorized,Verified,2026-04-18
+VISA000887,DUD100887,Working Holiday,2022-02-16,2026-02-15,Authorized,Verified,2022-02-26
+VISA000888,DUD100888,Permanent Resident,2023-02-04,,Authorized,Pending Review,2023-02-11
+VISA000889,DUD100889,Instructor,2024-02-16,2025-02-15,Authorized,Verified,2024-02-18
+VISA000890,DUD100890,Permanent Resident,2022-01-09,,Authorized,Verified,2022-01-12
+VISA000891,DUD100891,Engineer/Specialist in Humanities/International Services,2022-09-17,2024-09-16,Authorized,Verified,2022-09-19
+VISA000892,DUD100892,Permanent Resident,2025-09-24,,Authorized,Verified,2025-09-25
+VISA000893,DUD100893,Engineer/Specialist in Humanities/International Services,2023-03-19,2027-03-18,Authorized,Verified,2023-04-06
+VISA000894,DUD100894,Engineer/Specialist in Humanities/International Services,2026-05-07,2027-05-07,Authorized,Pending Review,2026-05-28
+VISA000895,DUD100895,Permanent Resident,2024-05-24,,Authorized,Verified,2024-05-26
+VISA000896,DUD100896,Instructor,2023-07-22,2024-07-21,Authorized,Verified,2023-08-21
+VISA000897,DUD100897,Student,2021-06-03,2023-06-03,Authorized,Verified,2021-06-17
+VISA000898,DUD100898,Student,2022-08-14,2023-08-14,Authorized,Verified,2022-09-09
+VISA000899,DUD100899,Engineer/Specialist in Humanities/International Services,2023-04-21,2027-04-20,Authorized,Verified,2023-05-10
+VISA000900,DUD100900,Student,2021-09-16,2025-09-15,Authorized,Pending Review,2021-10-16
+VISA000901,DUD100901,Spouse of Japanese National,2025-07-23,,Authorized,Verified,2025-08-12
+VISA000902,DUD100902,Spouse of Japanese National,2021-03-22,,Authorized,Verified,2021-04-04
+VISA000903,DUD100903,Instructor,2025-02-25,2029-02-24,Authorized,Verified,2025-03-16
+VISA000904,DUD100904,Permanent Resident,2022-07-19,,Authorized,Verified,2022-08-16
+VISA000905,DUD100905,Permanent Resident,2024-07-21,,Authorized,Verified,2024-08-03
+VISA000906,DUD100906,Engineer/Specialist in Humanities/International Services,2024-06-04,2027-06-04,Authorized,Pending Review,2024-06-19
+VISA000907,DUD100907,Permanent Resident,2023-12-25,,Authorized,Verified,2023-12-27
+VISA000908,DUD100908,Engineer/Specialist in Humanities/International Services,2025-11-18,2026-11-18,Authorized,Verified,2025-12-11
+VISA000909,DUD100909,Engineer/Specialist in Humanities/International Services,2023-03-01,2027-02-28,Authorized,Verified,2023-03-09
+VISA000910,DUD100910,Engineer/Specialist in Humanities/International Services,2022-12-20,2023-12-20,Authorized,Verified,2023-01-02
+VISA000911,DUD100911,Working Holiday,2023-08-09,2024-08-08,Authorized,Verified,2023-08-19
+VISA000912,DUD100912,Permanent Resident,2021-05-24,,Authorized,Pending Review,2021-05-30
+VISA000913,DUD100913,Engineer/Specialist in Humanities/International Services,2025-06-07,2029-06-06,Authorized,Verified,2025-06-13
+VISA000914,DUD100914,Permanent Resident,2023-01-22,,Authorized,Verified,2023-01-24
+VISA000915,DUD100915,Instructor,2024-10-29,2028-10-28,Authorized,Verified,2024-11-19
+VISA000916,DUD100916,Permanent Resident,2024-05-25,,Authorized,Verified,2024-05-30
+VISA000917,DUD100917,Engineer/Specialist in Humanities/International Services,2023-07-14,2025-07-13,Authorized,Verified,2023-07-27
+VISA000918,DUD100918,Engineer/Specialist in Humanities/International Services,2021-09-24,2024-09-23,Authorized,Pending Review,2021-10-06
+VISA000919,DUD100919,Engineer/Specialist in Humanities/International Services,2025-04-21,2028-04-20,Authorized,Verified,2025-05-15
+VISA000920,DUD100920,Student,2025-10-11,2027-10-11,Authorized,Verified,2025-10-15
+VISA000921,DUD100921,Long Term Resident,2024-01-27,,Authorized,Pending Review,2024-02-02
+VISA000922,DUD100922,Engineer/Specialist in Humanities/International Services,2021-07-29,2022-07-29,Authorized,Pending Review,2021-07-30
+VISA000923,DUD100923,Engineer/Specialist in Humanities/International Services,2024-11-04,2028-11-03,Authorized,Pending Review,2024-11-13
+VISA000924,DUD100924,Engineer/Specialist in Humanities/International Services,2021-11-28,2024-11-27,Authorized,Verified,2021-12-01
+VISA000925,DUD100925,Long Term Resident,2021-08-14,,Authorized,Pending Review,2021-08-31
+VISA000926,DUD100926,Instructor,2023-07-22,2025-07-21,Authorized,Pending Review,2023-08-15
+VISA000927,DUD100927,Permanent Resident,2026-03-26,,Authorized,Verified,2026-04-08
+VISA000928,DUD100928,Student,2022-05-22,2026-05-21,Authorized,Verified,2022-05-25
+VISA000929,DUD100929,Permanent Resident,2024-09-01,,Authorized,Verified,2024-09-07
+VISA000930,DUD100930,Spouse of Japanese National,2025-03-15,,Authorized,Verified,2025-03-18
+VISA000931,DUD100931,Student,2024-04-15,2025-04-15,Authorized,Verified,2024-05-01
+VISA000932,DUD100932,Student,2022-02-14,2026-02-13,Authorized,Verified,2022-02-23
+VISA000933,DUD100933,Long Term Resident,2023-03-26,,Authorized,Verified,2023-04-22
+VISA000934,DUD100934,Engineer/Specialist in Humanities/International Services,2022-01-19,2025-01-18,Authorized,Verified,2022-02-12
+VISA000935,DUD100935,Student,2024-12-26,2025-12-26,Authorized,Pending Review,2025-01-13
+VISA000936,DUD100936,Working Holiday,2022-01-04,2025-01-03,Authorized,Pending Review,2022-01-24
+VISA000937,DUD100937,Engineer/Specialist in Humanities/International Services,2026-04-03,2027-04-03,Authorized,Verified,2026-04-28
+VISA000938,DUD100938,Engineer/Specialist in Humanities/International Services,2021-08-02,2023-08-02,Authorized,Pending Review,2021-08-16
+VISA000939,DUD100939,Spouse of Japanese National,2025-11-20,,Authorized,Verified,2025-11-28
+VISA000940,DUD100940,Engineer/Specialist in Humanities/International Services,2023-12-01,2026-11-30,Authorized,Verified,2023-12-29
+VISA000941,DUD100941,Spouse of Japanese National,2026-06-07,,Authorized,Verified,2026-06-20
+VISA000942,DUD100942,Permanent Resident,2023-02-23,,Authorized,Verified,2023-03-09
+VISA000943,DUD100943,Long Term Resident,2025-06-13,,Authorized,Verified,2025-06-21
+VISA000944,DUD100944,Engineer/Specialist in Humanities/International Services,2025-02-09,2028-02-09,Authorized,Verified,2025-03-04
+VISA000945,DUD100945,Engineer/Specialist in Humanities/International Services,2024-01-20,2025-01-19,Authorized,Verified,2024-01-23
+VISA000946,DUD100946,Long Term Resident,2022-02-18,,Authorized,Pending Review,2022-03-06
+VISA000947,DUD100947,Engineer/Specialist in Humanities/International Services,2023-04-10,2025-04-09,Authorized,Verified,2023-04-22
+VISA000948,DUD100948,Permanent Resident,2023-02-01,,Authorized,Verified,2023-02-07
+VISA000949,DUD100949,Permanent Resident,2022-06-15,,Authorized,Verified,2022-07-07
+VISA000950,DUD100950,Engineer/Specialist in Humanities/International Services,2023-06-16,2026-06-15,Authorized,Verified,2023-07-02
+VISA000951,DUD100951,Permanent Resident,2022-05-28,,Authorized,Verified,2022-06-27
+VISA000952,DUD100952,Instructor,2021-01-22,2025-01-21,Authorized,Pending Review,2021-02-20
+VISA000953,DUD100953,Engineer/Specialist in Humanities/International Services,2026-03-14,2030-03-13,Authorized,Verified,2026-03-26
+VISA000954,DUD100954,Permanent Resident,2025-07-25,,Authorized,Verified,2025-08-03
+VISA000955,DUD100955,Long Term Resident,2022-07-13,,Authorized,Pending Review,2022-07-30
+VISA000956,DUD100956,Engineer/Specialist in Humanities/International Services,2024-05-19,2025-05-19,Authorized,Pending Review,2024-05-23
+VISA000957,DUD100957,Engineer/Specialist in Humanities/International Services,2024-01-12,2028-01-11,Authorized,Verified,2024-01-19
+VISA000958,DUD100958,Instructor,2021-07-12,2024-07-11,Authorized,Verified,2021-07-19
+VISA000959,DUD100959,Permanent Resident,2025-11-05,,Authorized,Verified,2025-11-20
+VISA000960,DUD100960,Long Term Resident,2022-11-05,,Authorized,Verified,2022-11-10
+VISA000961,DUD100961,Long Term Resident,2024-09-15,,Authorized,Pending Review,2024-10-15
+VISA000962,DUD100962,Spouse of Japanese National,2021-10-16,,Authorized,Pending Review,2021-10-20
+VISA000963,DUD100963,Long Term Resident,2026-04-24,,Authorized,Verified,2026-04-25
+VISA000964,DUD100964,Spouse of Japanese National,2021-10-01,,Authorized,Verified,2021-10-20
+VISA000965,DUD100965,Long Term Resident,2023-08-22,,Authorized,Verified,2023-08-29
+VISA000966,DUD100966,Engineer/Specialist in Humanities/International Services,2021-02-15,2024-02-15,Authorized,Verified,2021-02-28
+VISA000967,DUD100967,Engineer/Specialist in Humanities/International Services,2025-07-06,2026-07-06,Authorized,Pending Review,2025-07-26
+VISA000968,DUD100968,Engineer/Specialist in Humanities/International Services,2022-05-19,2026-05-18,Authorized,Pending Review,2022-05-22
+VISA000969,DUD100969,Spouse of Japanese National,2025-11-29,,Authorized,Verified,2025-12-21
+VISA000970,DUD100970,Student,2021-01-29,2022-01-29,Authorized,Verified,2021-02-02
+VISA000971,DUD100971,Instructor,2026-04-08,2027-04-08,Authorized,Verified,2026-04-30
+VISA000972,DUD100972,Permanent Resident,2024-04-10,,Authorized,Verified,2024-04-13
+VISA000973,DUD100973,Engineer/Specialist in Humanities/International Services,2021-07-21,2022-07-21,Authorized,Verified,2021-08-07
+VISA000974,DUD100974,Spouse of Japanese National,2026-08-04,,Authorized,Verified,2026-08-19
+VISA000975,DUD100975,Spouse of Japanese National,2023-05-07,,Authorized,Pending Review,2023-06-05
+VISA000976,DUD100976,Permanent Resident,2021-03-16,,Authorized,Verified,2021-03-22
+VISA000977,DUD100977,Engineer/Specialist in Humanities/International Services,2024-08-17,2027-08-17,Authorized,Verified,2024-08-24
+VISA000978,DUD100978,Engineer/Specialist in Humanities/International Services,2024-07-19,2028-07-18,Authorized,Verified,2024-08-16
+VISA000979,DUD100979,Spouse of Japanese National,2025-08-11,,Authorized,Verified,2025-08-28
+VISA000980,DUD100980,Spouse of Japanese National,2021-04-07,,Authorized,Pending Review,2021-05-02
+VISA000981,DUD100981,Long Term Resident,2022-02-02,,Authorized,Verified,2022-02-10
+VISA000982,DUD100982,Spouse of Japanese National,2022-10-01,,Authorized,Pending Review,2022-10-29
+VISA000983,DUD100983,Instructor,2025-05-04,2026-05-04,Authorized,Verified,2025-05-15
+VISA000984,DUD100984,Student,2026-04-28,2030-04-27,Authorized,Verified,2026-05-06
+VISA000985,DUD100985,Engineer/Specialist in Humanities/International Services,2025-09-09,2028-09-08,Authorized,Verified,2025-09-21
+VISA000986,DUD100986,Engineer/Specialist in Humanities/International Services,2026-06-27,2030-06-26,Authorized,Verified,2026-07-03
+VISA000987,DUD100987,Student,2025-11-07,2029-11-06,Authorized,Verified,2025-11-24
+VISA000988,DUD100988,Engineer/Specialist in Humanities/International Services,2022-06-12,2023-06-12,Authorized,Verified,2022-06-29
+VISA000989,DUD100989,Long Term Resident,2022-10-30,,Authorized,Verified,2022-11-20
+VISA000990,DUD100990,Permanent Resident,2021-02-14,,Authorized,Verified,2021-02-17
+VISA000991,DUD100991,Instructor,2026-01-15,2028-01-15,Authorized,Verified,2026-02-09
+VISA000992,DUD100992,Engineer/Specialist in Humanities/International Services,2025-06-13,2029-06-12,Authorized,Verified,2025-06-18
+VISA000993,DUD100993,Student,2023-04-13,2024-04-12,Authorized,Pending Review,2023-05-05
+VISA000994,DUD100994,Engineer/Specialist in Humanities/International Services,2021-09-06,2022-09-06,Authorized,Pending Review,2021-09-09
+VISA000995,DUD100995,Engineer/Specialist in Humanities/International Services,2023-02-05,2027-02-04,Authorized,Verified,2023-03-02
+VISA000996,DUD100996,Long Term Resident,2023-07-04,,Authorized,Verified,2023-07-17
+VISA000997,DUD100997,Spouse of Japanese National,2025-05-15,,Authorized,Verified,2025-06-12
+VISA000998,DUD100998,Engineer/Specialist in Humanities/International Services,2024-05-02,2025-05-02,Authorized,Pending Review,2024-05-23
+VISA000999,DUD100999,Student,2022-12-27,2026-12-26,Authorized,Verified,2023-01-01
+VISA001000,DUD101000,Engineer/Specialist in Humanities/International Services,2025-04-08,2027-04-08,Authorized,Verified,2025-04-17
+VISA001001,DUD101001,Instructor,2021-01-21,2024-01-21,Authorized,Verified,2021-02-01
+VISA001002,DUD101002,Engineer/Specialist in Humanities/International Services,2023-11-06,2024-11-05,Authorized,Verified,2023-11-13
+VISA001003,DUD101003,Long Term Resident,2026-07-18,,Authorized,Verified,2026-08-14
+VISA001004,DUD101004,Long Term Resident,2026-04-07,,Authorized,Verified,2026-04-26
+VISA001005,DUD101005,Working Holiday,2026-08-06,2029-08-05,Authorized,Verified,2026-08-08
+VISA001006,DUD101006,Engineer/Specialist in Humanities/International Services,2023-05-12,2025-05-11,Authorized,Verified,2023-05-30
+VISA001007,DUD101007,Instructor,2026-03-04,2027-03-04,Authorized,Pending Review,2026-03-12
+VISA001008,DUD101008,Permanent Resident,2021-03-03,,Authorized,Pending Review,2021-03-18
+VISA001009,DUD101009,Instructor,2022-01-06,2024-01-06,Authorized,Verified,2022-01-31
+VISA001010,DUD101010,Spouse of Japanese National,2021-11-18,,Authorized,Verified,2021-11-26
+VISA001011,DUD101011,Student,2021-01-14,2023-01-14,Authorized,Verified,2021-01-23
+VISA001012,DUD101012,Permanent Resident,2026-01-04,,Authorized,Verified,2026-01-15
+VISA001013,DUD101013,Permanent Resident,2024-10-23,,Authorized,Pending Review,2024-11-09
+VISA001014,DUD101014,Permanent Resident,2021-09-26,,Authorized,Verified,2021-10-20
+VISA001015,DUD101015,Permanent Resident,2021-04-27,,Authorized,Pending Review,2021-04-29
+VISA001016,DUD101016,Instructor,2021-02-04,2024-02-04,Authorized,Verified,2021-03-04
+VISA001017,DUD101017,Student,2021-05-12,2024-05-11,Authorized,Verified,2021-06-10
+VISA001018,DUD101018,Long Term Resident,2026-04-03,,Authorized,Verified,2026-04-13
+VISA001019,DUD101019,Long Term Resident,2022-04-12,,Authorized,Verified,2022-05-12
+VISA001020,DUD101020,Instructor,2022-11-15,2026-11-14,Authorized,Verified,2022-12-07
+VISA001021,DUD101021,Permanent Resident,2023-02-20,,Authorized,Verified,2023-02-25
+VISA001022,DUD101022,Working Holiday,2025-09-06,2027-09-06,Authorized,Pending Review,2025-09-19
+VISA001023,DUD101023,Long Term Resident,2023-01-17,,Authorized,Verified,2023-02-15
+VISA001024,DUD101024,Student,2022-08-17,2025-08-16,Authorized,Pending Review,2022-08-28
+VISA001025,DUD101025,Long Term Resident,2021-04-23,,Authorized,Verified,2021-05-04
+VISA001026,DUD101026,Long Term Resident,2023-09-10,,Authorized,Pending Review,2023-09-17
+VISA001027,DUD101027,Instructor,2024-05-15,2026-05-15,Authorized,Verified,2024-06-03
+VISA001028,DUD101028,Instructor,2026-03-22,2029-03-21,Authorized,Verified,2026-04-07
+VISA001029,DUD101029,Spouse of Japanese National,2023-12-09,,Authorized,Verified,2023-12-12
+VISA001030,DUD101030,Permanent Resident,2023-01-23,,Authorized,Verified,2023-02-22
+VISA001031,DUD101031,Engineer/Specialist in Humanities/International Services,2023-07-15,2026-07-14,Authorized,Verified,2023-08-14
+VISA001032,DUD101032,Permanent Resident,2024-12-16,,Authorized,Pending Review,2025-01-02
+VISA001033,DUD101033,Instructor,2021-09-27,2025-09-26,Authorized,Verified,2021-10-11
+VISA001034,DUD101034,Student,2023-05-15,2027-05-14,Authorized,Verified,2023-06-03
+VISA001035,DUD101035,Working Holiday,2021-11-27,2023-11-27,Authorized,Verified,2021-12-21
+VISA001036,DUD101036,Engineer/Specialist in Humanities/International Services,2025-07-12,2027-07-12,Authorized,Verified,2025-08-07
+VISA001037,DUD101037,Long Term Resident,2021-01-07,,Authorized,Verified,2021-01-16
+VISA001038,DUD101038,Engineer/Specialist in Humanities/International Services,2024-04-04,2026-04-04,Authorized,Pending Review,2024-05-02
+VISA001039,DUD101039,Engineer/Specialist in Humanities/International Services,2025-09-11,2029-09-10,Authorized,Verified,2025-09-25
+VISA001040,DUD101040,Spouse of Japanese National,2022-10-23,,Authorized,Pending Review,2022-11-14
+VISA001041,DUD101041,Long Term Resident,2022-04-28,,Authorized,Verified,2022-05-13
+VISA001042,DUD101042,Engineer/Specialist in Humanities/International Services,2024-05-23,2027-05-23,Authorized,Verified,2024-05-24
+VISA001043,DUD101043,Long Term Resident,2026-07-12,,Authorized,Verified,2026-07-17
+VISA001044,DUD101044,Engineer/Specialist in Humanities/International Services,2022-03-28,2025-03-27,Authorized,Verified,2022-04-21
+VISA001045,DUD101045,Student,2024-12-01,2028-11-30,Authorized,Pending Review,2024-12-13
+VISA001046,DUD101046,Instructor,2024-07-04,2027-07-04,Authorized,Pending Review,2024-07-13
+VISA001047,DUD101047,Spouse of Japanese National,2026-04-20,,Authorized,Pending Review,2026-04-30
+VISA001048,DUD101048,Spouse of Japanese National,2022-07-19,,Authorized,Pending Review,2022-07-26
+VISA001049,DUD101049,Engineer/Specialist in Humanities/International Services,2021-07-24,2024-07-23,Authorized,Verified,2021-07-26
+VISA001050,DUD101050,Permanent Resident,2024-07-06,,Authorized,Pending Review,2024-07-30
+VISA001051,DUD101051,Student,2026-07-04,2028-07-03,Authorized,Verified,2026-07-10
+VISA001052,DUD101052,Engineer/Specialist in Humanities/International Services,2024-02-08,2025-02-07,Authorized,Verified,2024-03-03
+VISA001053,DUD101053,Long Term Resident,2022-10-24,,Authorized,Verified,2022-11-05
+VISA001054,DUD101054,Instructor,2022-04-26,2024-04-25,Authorized,Verified,2022-05-10
+VISA001055,DUD101055,Permanent Resident,2021-05-28,,Authorized,Verified,2021-06-05
+VISA001056,DUD101056,Engineer/Specialist in Humanities/International Services,2025-09-15,2026-09-15,Authorized,Verified,2025-10-14
+VISA001057,DUD101057,Permanent Resident,2021-05-25,,Authorized,Verified,2021-06-12
+VISA001058,DUD101058,Instructor,2025-03-25,2026-03-25,Authorized,Verified,2025-04-11
+VISA001059,DUD101059,Permanent Resident,2023-07-05,,Authorized,Verified,2023-07-18
+VISA001060,DUD101060,Instructor,2025-08-03,2029-08-02,Authorized,Verified,2025-09-02
+VISA001061,DUD101061,Long Term Resident,2022-02-22,,Authorized,Verified,2022-03-13
+VISA001062,DUD101062,Instructor,2025-07-29,2027-07-29,Authorized,Pending Review,2025-08-20
+VISA001063,DUD101063,Engineer/Specialist in Humanities/International Services,2024-07-01,2028-06-30,Authorized,Pending Review,2024-07-11
+VISA001064,DUD101064,Student,2024-01-11,2027-01-10,Authorized,Verified,2024-01-21
+VISA001065,DUD101065,Permanent Resident,2023-09-09,,Authorized,Verified,2023-10-09
+VISA001066,DUD101066,Permanent Resident,2026-02-10,,Authorized,Verified,2026-02-20
+VISA001067,DUD101067,Student,2021-02-21,2025-02-20,Authorized,Pending Review,2021-02-26
+VISA001068,DUD101068,Instructor,2022-08-25,2026-08-24,Authorized,Verified,2022-09-24
+VISA001069,DUD101069,Engineer/Specialist in Humanities/International Services,2023-02-12,2026-02-11,Authorized,Verified,2023-02-25
+VISA001070,DUD101070,Engineer/Specialist in Humanities/International Services,2021-11-01,2022-11-01,Authorized,Pending Review,2021-11-17
+VISA001071,DUD101071,Working Holiday,2023-09-19,2024-09-18,Authorized,Verified,2023-09-26
+VISA001072,DUD101072,Engineer/Specialist in Humanities/International Services,2024-01-16,2025-01-15,Authorized,Pending Review,2024-01-20
+VISA001073,DUD101073,Engineer/Specialist in Humanities/International Services,2024-01-02,2027-01-01,Authorized,Verified,2024-01-25
+VISA001074,DUD101074,Instructor,2026-06-12,2027-06-12,Authorized,Pending Review,2026-06-26
+VISA001075,DUD101075,Instructor,2025-05-07,2029-05-06,Authorized,Verified,2025-05-21
+VISA001076,DUD101076,Student,2025-03-27,2026-03-27,Authorized,Verified,2025-04-09
+VISA001077,DUD101077,Long Term Resident,2024-10-04,,Authorized,Verified,2024-10-11
+VISA001078,DUD101078,Engineer/Specialist in Humanities/International Services,2022-04-05,2023-04-05,Authorized,Verified,2022-04-28
+VISA001079,DUD101079,Instructor,2023-11-22,2027-11-21,Authorized,Verified,2023-12-07
+VISA001080,DUD101080,Student,2021-03-27,2022-03-27,Authorized,Pending Review,2021-04-20
+VISA001081,DUD101081,Permanent Resident,2024-01-14,,Authorized,Verified,2024-01-17
+VISA001082,DUD101082,Engineer/Specialist in Humanities/International Services,2025-10-30,2026-10-30,Authorized,Pending Review,2025-11-17
+VISA001083,DUD101083,Permanent Resident,2025-06-13,,Authorized,Pending Review,2025-07-10
+VISA001084,DUD101084,Permanent Resident,2024-12-03,,Authorized,Verified,2024-12-12
+VISA001085,DUD101085,Permanent Resident,2026-03-13,,Authorized,Verified,2026-03-17
+VISA001086,DUD101086,Engineer/Specialist in Humanities/International Services,2022-03-29,2023-03-29,Authorized,Verified,2022-04-11
+VISA001087,DUD101087,Engineer/Specialist in Humanities/International Services,2023-07-20,2024-07-19,Authorized,Pending Review,2023-08-01
+VISA001088,DUD101088,Instructor,2024-02-06,2028-02-05,Authorized,Verified,2024-02-29
+VISA001089,DUD101089,Engineer/Specialist in Humanities/International Services,2022-10-22,2026-10-21,Authorized,Verified,2022-10-23
+VISA001090,DUD101090,Long Term Resident,2022-02-12,,Authorized,Verified,2022-03-07
+VISA001091,DUD101091,Student,2023-04-04,2026-04-03,Authorized,Verified,2023-04-29
+VISA001092,DUD101092,Engineer/Specialist in Humanities/International Services,2021-02-10,2024-02-10,Authorized,Verified,2021-03-12
+VISA001093,DUD101093,Instructor,2024-05-16,2026-05-16,Authorized,Verified,2024-05-28
+VISA001094,DUD101094,Instructor,2024-09-24,2028-09-23,Authorized,Verified,2024-10-16
+VISA001095,DUD101095,Permanent Resident,2023-02-17,,Authorized,Verified,2023-03-13
+VISA001096,DUD101096,Long Term Resident,2025-10-25,,Authorized,Verified,2025-11-21
+VISA001097,DUD101097,Working Holiday,2024-06-11,2025-06-11,Authorized,Verified,2024-07-09
+VISA001098,DUD101098,Spouse of Japanese National,2023-06-22,,Authorized,Verified,2023-07-22
+VISA001099,DUD101099,Long Term Resident,2022-09-27,,Authorized,Verified,2022-10-11
+VISA001100,DUD101100,Instructor,2021-09-09,2025-09-08,Authorized,Verified,2021-10-06
+VISA001101,DUD101101,Spouse of Japanese National,2021-05-07,,Authorized,Verified,2021-05-27
+VISA001102,DUD101102,Instructor,2022-05-15,2023-05-15,Authorized,Verified,2022-05-26
+VISA001103,DUD101103,Instructor,2023-01-21,2026-01-20,Authorized,Verified,2023-02-02
+VISA001104,DUD101104,Engineer/Specialist in Humanities/International Services,2021-03-11,2023-03-11,Authorized,Verified,2021-03-25
+VISA001105,DUD101105,Instructor,2024-06-01,2026-06-01,Authorized,Verified,2024-06-30
+VISA001106,DUD101106,Instructor,2021-11-08,2025-11-07,Authorized,Verified,2021-11-15
+VISA001107,DUD101107,Long Term Resident,2022-09-13,,Authorized,Pending Review,2022-09-22
+VISA001108,DUD101108,Engineer/Specialist in Humanities/International Services,2022-02-21,2026-02-20,Authorized,Verified,2022-02-28
+VISA001109,DUD101109,Engineer/Specialist in Humanities/International Services,2021-11-28,2025-11-27,Authorized,Verified,2021-12-09
+VISA001110,DUD101110,Engineer/Specialist in Humanities/International Services,2026-07-26,2029-07-25,Authorized,Verified,2026-08-23
+VISA001111,DUD101111,Permanent Resident,2023-04-18,,Authorized,Verified,2023-04-22
+VISA001112,DUD101112,Instructor,2023-11-21,2024-11-20,Authorized,Verified,2023-12-19
+VISA001113,DUD101113,Engineer/Specialist in Humanities/International Services,2022-10-24,2024-10-23,Authorized,Verified,2022-11-12
+VISA001114,DUD101114,Permanent Resident,2026-03-19,,Authorized,Verified,2026-04-05
+VISA001115,DUD101115,Permanent Resident,2022-03-22,,Authorized,Pending Review,2022-04-11
+VISA001116,DUD101116,Engineer/Specialist in Humanities/International Services,2024-05-16,2025-05-16,Authorized,Verified,2024-06-05
+VISA001117,DUD101117,Working Holiday,2025-05-24,2026-05-24,Authorized,Verified,2025-06-01
+VISA001118,DUD101118,Engineer/Specialist in Humanities/International Services,2026-01-31,2029-01-30,Authorized,Pending Review,2026-02-05
+VISA001119,DUD101119,Permanent Resident,2022-08-27,,Authorized,Pending Review,2022-09-15
+VISA001120,DUD101120,Working Holiday,2025-04-08,2029-04-07,Authorized,Verified,2025-04-10
+VISA001121,DUD101121,Permanent Resident,2023-06-02,,Authorized,Verified,2023-06-14
+VISA001122,DUD101122,Permanent Resident,2024-01-10,,Authorized,Pending Review,2024-01-18
+VISA001123,DUD101123,Spouse of Japanese National,2021-04-25,,Authorized,Verified,2021-05-14
+VISA001124,DUD101124,Engineer/Specialist in Humanities/International Services,2022-01-13,2023-01-13,Authorized,Pending Review,2022-01-21
+VISA001125,DUD101125,Student,2023-07-24,2025-07-23,Authorized,Pending Review,2023-07-26
+VISA001126,DUD101126,Engineer/Specialist in Humanities/International Services,2024-11-07,2025-11-07,Authorized,Pending Review,2024-11-28
+VISA001127,DUD101127,Long Term Resident,2025-05-31,,Authorized,Verified,2025-06-25
+VISA001128,DUD101128,Engineer/Specialist in Humanities/International Services,2022-04-24,2025-04-23,Authorized,Verified,2022-04-30
+VISA001129,DUD101129,Engineer/Specialist in Humanities/International Services,2026-08-12,2030-08-11,Authorized,Pending Review,2026-08-24
+VISA001130,DUD101130,Working Holiday,2025-10-03,2028-10-02,Authorized,Verified,2025-10-08
+VISA001131,DUD101131,Instructor,2023-06-24,2025-06-23,Authorized,Verified,2023-07-21
+VISA001132,DUD101132,Long Term Resident,2024-09-30,,Authorized,Verified,2024-10-11
+VISA001133,DUD101133,Spouse of Japanese National,2021-11-09,,Authorized,Verified,2021-11-17
+VISA001134,DUD101134,Engineer/Specialist in Humanities/International Services,2024-12-03,2027-12-03,Authorized,Pending Review,2024-12-23
+VISA001135,DUD101135,Engineer/Specialist in Humanities/International Services,2021-01-07,2023-01-07,Authorized,Pending Review,2021-02-02
+VISA001136,DUD101136,Instructor,2023-08-24,2024-08-23,Authorized,Verified,2023-09-10
+VISA001137,DUD101137,Working Holiday,2022-05-03,2023-05-03,Authorized,Verified,2022-05-11
+VISA001138,DUD101138,Long Term Resident,2025-03-05,,Authorized,Verified,2025-04-01
+VISA001139,DUD101139,Engineer/Specialist in Humanities/International Services,2024-10-27,2027-10-27,Authorized,Verified,2024-11-15
+VISA001140,DUD101140,Instructor,2024-02-13,2025-02-12,Authorized,Pending Review,2024-03-13
+VISA001141,DUD101141,Instructor,2022-06-29,2023-06-29,Authorized,Verified,2022-07-06
+VISA001142,DUD101142,Permanent Resident,2026-05-06,,Authorized,Verified,2026-05-18
+VISA001143,DUD101143,Engineer/Specialist in Humanities/International Services,2021-11-28,2022-11-28,Authorized,Verified,2021-12-25
+VISA001144,DUD101144,Engineer/Specialist in Humanities/International Services,2022-08-19,2023-08-19,Authorized,Pending Review,2022-09-12
+VISA001145,DUD101145,Permanent Resident,2023-09-18,,Authorized,Verified,2023-10-11
+VISA001146,DUD101146,Engineer/Specialist in Humanities/International Services,2023-07-03,2024-07-02,Authorized,Pending Review,2023-07-22
+VISA001147,DUD101147,Student,2025-08-27,2029-08-26,Authorized,Pending Review,2025-09-26
+VISA001148,DUD101148,Engineer/Specialist in Humanities/International Services,2025-01-06,2029-01-05,Authorized,Verified,2025-01-28
+VISA001149,DUD101149,Engineer/Specialist in Humanities/International Services,2022-04-08,2024-04-07,Authorized,Verified,2022-04-24
+VISA001150,DUD101150,Permanent Resident,2024-04-23,,Authorized,Pending Review,2024-04-25
+VISA001151,DUD101151,Long Term Resident,2022-04-06,,Authorized,Verified,2022-04-15
+VISA001152,DUD101152,Long Term Resident,2022-11-30,,Authorized,Verified,2022-12-17
+VISA001153,DUD101153,Spouse of Japanese National,2024-03-17,,Authorized,Verified,2024-03-29
+VISA001154,DUD101154,Engineer/Specialist in Humanities/International Services,2021-03-18,2023-03-18,Authorized,Verified,2021-04-02
+VISA001155,DUD101155,Engineer/Specialist in Humanities/International Services,2024-08-04,2025-08-04,Authorized,Verified,2024-08-06
+VISA001156,DUD101156,Engineer/Specialist in Humanities/International Services,2022-03-08,2026-03-07,Authorized,Verified,2022-04-06
+VISA001157,DUD101157,Student,2022-10-19,2026-10-18,Authorized,Verified,2022-11-10
+VISA001158,DUD101158,Instructor,2022-05-28,2025-05-27,Authorized,Verified,2022-05-30
+VISA001159,DUD101159,Instructor,2025-03-02,2028-03-01,Authorized,Verified,2025-03-08
+VISA001160,DUD101160,Instructor,2026-01-09,2027-01-09,Authorized,Verified,2026-02-02
+VISA001161,DUD101161,Instructor,2023-01-26,2025-01-25,Authorized,Verified,2023-02-06
+VISA001162,DUD101162,Long Term Resident,2023-02-09,,Authorized,Pending Review,2023-02-22
+VISA001163,DUD101163,Permanent Resident,2022-11-14,,Authorized,Pending Review,2022-12-09
+VISA001164,DUD101164,Instructor,2022-02-13,2024-02-13,Authorized,Verified,2022-03-06
+VISA001165,DUD101165,Instructor,2023-06-16,2027-06-15,Authorized,Pending Review,2023-07-07
+VISA001166,DUD101166,Engineer/Specialist in Humanities/International Services,2022-07-10,2024-07-09,Authorized,Verified,2022-07-23
+VISA001167,DUD101167,Permanent Resident,2025-08-17,,Authorized,Verified,2025-09-05
+VISA001168,DUD101168,Long Term Resident,2025-05-29,,Authorized,Verified,2025-06-27
+VISA001169,DUD101169,Engineer/Specialist in Humanities/International Services,2023-05-03,2026-05-02,Authorized,Verified,2023-05-08
+VISA001170,DUD101170,Long Term Resident,2025-07-08,,Authorized,Verified,2025-07-21
+VISA001171,DUD101171,Instructor,2022-12-03,2025-12-02,Authorized,Verified,2022-12-23
+VISA001172,DUD101172,Engineer/Specialist in Humanities/International Services,2025-03-02,2028-03-01,Authorized,Pending Review,2025-03-13
+VISA001173,DUD101173,Instructor,2023-12-06,2024-12-05,Authorized,Verified,2023-12-28
+VISA001174,DUD101174,Spouse of Japanese National,2023-10-28,,Authorized,Verified,2023-11-19
+VISA001175,DUD101175,Instructor,2022-11-08,2023-11-08,Authorized,Verified,2022-11-30
+VISA001176,DUD101176,Engineer/Specialist in Humanities/International Services,2021-06-27,2023-06-27,Authorized,Verified,2021-07-14
+VISA001177,DUD101177,Permanent Resident,2022-11-27,,Authorized,Verified,2022-12-17
+VISA001178,DUD101178,Engineer/Specialist in Humanities/International Services,2023-12-17,2027-12-16,Authorized,Verified,2023-12-28
+VISA001179,DUD101179,Permanent Resident,2022-05-20,,Authorized,Verified,2022-06-03
+VISA001180,DUD101180,Engineer/Specialist in Humanities/International Services,2025-01-13,2027-01-13,Authorized,Verified,2025-01-14
+VISA001181,DUD101181,Engineer/Specialist in Humanities/International Services,2021-02-27,2022-02-27,Authorized,Verified,2021-03-15
+VISA001182,DUD101182,Instructor,2022-07-28,2026-07-27,Authorized,Pending Review,2022-07-31
+VISA001183,DUD101183,Engineer/Specialist in Humanities/International Services,2022-11-02,2025-11-01,Authorized,Pending Review,2022-11-10
+VISA001184,DUD101184,Spouse of Japanese National,2024-01-19,,Authorized,Verified,2024-02-07
+VISA001185,DUD101185,Engineer/Specialist in Humanities/International Services,2021-01-01,2023-01-01,Authorized,Verified,2021-01-03
+VISA001186,DUD101186,Instructor,2025-12-10,2029-12-09,Authorized,Verified,2025-12-12
+VISA001187,DUD101187,Long Term Resident,2021-10-08,,Authorized,Pending Review,2021-11-04
+VISA001188,DUD101188,Spouse of Japanese National,2021-11-20,,Authorized,Pending Review,2021-11-21
+VISA001189,DUD101189,Engineer/Specialist in Humanities/International Services,2023-07-27,2026-07-26,Authorized,Pending Review,2023-07-29
+VISA001190,DUD101190,Engineer/Specialist in Humanities/International Services,2024-05-02,2026-05-02,Authorized,Verified,2024-05-31
+VISA001191,DUD101191,Student,2026-03-14,2027-03-14,Authorized,Verified,2026-04-05
+VISA001192,DUD101192,Permanent Resident,2026-03-16,,Authorized,Pending Review,2026-04-07
+VISA001193,DUD101193,Instructor,2025-01-11,2026-01-11,Authorized,Verified,2025-01-13
+VISA001194,DUD101194,Engineer/Specialist in Humanities/International Services,2023-11-05,2024-11-04,Authorized,Pending Review,2023-11-27
+VISA001195,DUD101195,Permanent Resident,2021-12-03,,Authorized,Verified,2022-01-02
+VISA001196,DUD101196,Engineer/Specialist in Humanities/International Services,2022-08-12,2024-08-11,Authorized,Verified,2022-08-17
+VISA001197,DUD101197,Permanent Resident,2025-04-12,,Authorized,Verified,2025-04-25
+VISA001198,DUD101198,Engineer/Specialist in Humanities/International Services,2021-03-28,2022-03-28,Authorized,Verified,2021-04-15
+VISA001199,DUD101199,Spouse of Japanese National,2021-05-08,,Authorized,Pending Review,2021-05-16
+VISA001200,DUD101200,Spouse of Japanese National,2024-05-02,,Authorized,Verified,2024-05-21
+VISA001201,DUD101201,Instructor,2022-01-18,2025-01-17,Authorized,Pending Review,2022-02-17
+VISA001202,DUD101202,Engineer/Specialist in Humanities/International Services,2023-02-08,2027-02-07,Authorized,Verified,2023-03-01
+VISA001203,DUD101203,Permanent Resident,2021-11-04,,Authorized,Pending Review,2021-11-15
+VISA001204,DUD101204,Spouse of Japanese National,2021-12-04,,Authorized,Verified,2021-12-31
+VISA001205,DUD101205,Spouse of Japanese National,2024-05-03,,Authorized,Verified,2024-05-13
+VISA001206,DUD101206,Instructor,2025-05-12,2029-05-11,Authorized,Verified,2025-05-25
+VISA001207,DUD101207,Long Term Resident,2022-02-24,,Authorized,Verified,2022-03-17
+VISA001208,DUD101208,Engineer/Specialist in Humanities/International Services,2026-03-07,2029-03-06,Authorized,Verified,2026-04-05
+VISA001209,DUD101209,Long Term Resident,2026-07-24,,Authorized,Verified,2026-08-07
+VISA001210,DUD101210,Permanent Resident,2025-06-30,,Authorized,Verified,2025-07-19
+VISA001211,DUD101211,Engineer/Specialist in Humanities/International Services,2023-07-10,2025-07-09,Authorized,Pending Review,2023-08-03
+VISA001212,DUD101212,Engineer/Specialist in Humanities/International Services,2021-11-27,2023-11-27,Authorized,Verified,2021-12-04
+VISA001213,DUD101213,Engineer/Specialist in Humanities/International Services,2025-07-27,2026-07-27,Authorized,Verified,2025-08-20
+VISA001214,DUD101214,Instructor,2024-07-10,2026-07-10,Authorized,Verified,2024-08-07
+VISA001215,DUD101215,Long Term Resident,2022-07-27,,Authorized,Verified,2022-08-13
+VISA001216,DUD101216,Instructor,2021-11-08,2022-11-08,Authorized,Verified,2021-11-10
+VISA001217,DUD101217,Permanent Resident,2022-08-17,,Authorized,Verified,2022-08-21
+VISA001218,DUD101218,Permanent Resident,2021-03-29,,Authorized,Verified,2021-04-05
+VISA001219,DUD101219,Spouse of Japanese National,2022-07-13,,Authorized,Verified,2022-07-16
+VISA001220,DUD101220,Permanent Resident,2023-04-01,,Authorized,Verified,2023-04-20
+VISA001221,DUD101221,Spouse of Japanese National,2026-03-09,,Authorized,Verified,2026-03-26
+VISA001222,DUD101222,Instructor,2025-09-23,2027-09-23,Authorized,Verified,2025-10-18
+VISA001223,DUD101223,Student,2025-03-13,2027-03-13,Authorized,Verified,2025-03-17
+VISA001224,DUD101224,Long Term Resident,2024-11-05,,Authorized,Pending Review,2024-11-27
+VISA001225,DUD101225,Engineer/Specialist in Humanities/International Services,2025-12-06,2029-12-05,Authorized,Verified,2025-12-13
+VISA001226,DUD101226,Instructor,2022-01-29,2024-01-29,Authorized,Pending Review,2022-02-13
+VISA001227,DUD101227,Permanent Resident,2022-12-08,,Authorized,Verified,2023-01-02
+VISA001228,DUD101228,Engineer/Specialist in Humanities/International Services,2025-05-27,2029-05-26,Authorized,Verified,2025-06-22
+VISA001229,DUD101229,Instructor,2024-04-19,2028-04-18,Authorized,Verified,2024-05-05
+VISA001230,DUD101230,Spouse of Japanese National,2023-04-17,,Authorized,Verified,2023-04-23
+VISA001231,DUD101231,Engineer/Specialist in Humanities/International Services,2024-08-08,2025-08-08,Authorized,Verified,2024-09-02
+VISA001232,DUD101232,Permanent Resident,2023-04-07,,Authorized,Verified,2023-05-06
+VISA001233,DUD101233,Permanent Resident,2025-09-22,,Authorized,Verified,2025-10-20
+VISA001234,DUD101234,Engineer/Specialist in Humanities/International Services,2024-06-23,2027-06-23,Authorized,Verified,2024-07-10
+VISA001235,DUD101235,Spouse of Japanese National,2024-04-03,,Authorized,Verified,2024-04-05
+VISA001236,DUD101236,Engineer/Specialist in Humanities/International Services,2024-05-12,2028-05-11,Authorized,Pending Review,2024-06-09
+VISA001237,DUD101237,Spouse of Japanese National,2026-07-02,,Authorized,Verified,2026-07-04
+VISA001238,DUD101238,Engineer/Specialist in Humanities/International Services,2022-04-13,2025-04-12,Authorized,Verified,2022-04-25
+VISA001239,DUD101239,Engineer/Specialist in Humanities/International Services,2025-06-19,2029-06-18,Authorized,Verified,2025-07-08
+VISA001240,DUD101240,Engineer/Specialist in Humanities/International Services,2021-08-21,2025-08-20,Authorized,Pending Review,2021-09-07
+VISA001241,DUD101241,Working Holiday,2026-06-22,2030-06-21,Authorized,Pending Review,2026-07-03
+VISA001242,DUD101242,Student,2022-05-01,2025-04-30,Authorized,Verified,2022-05-18
+VISA001243,DUD101243,Engineer/Specialist in Humanities/International Services,2024-04-23,2028-04-22,Authorized,Verified,2024-05-18
+VISA001244,DUD101244,Permanent Resident,2021-02-05,,Authorized,Pending Review,2021-02-19
+VISA001245,DUD101245,Engineer/Specialist in Humanities/International Services,2025-10-10,2026-10-10,Authorized,Verified,2025-11-05
+VISA001246,DUD101246,Engineer/Specialist in Humanities/International Services,2023-08-23,2027-08-22,Authorized,Verified,2023-09-14
+VISA001247,DUD101247,Permanent Resident,2025-10-19,,Authorized,Pending Review,2025-11-02
+VISA001248,DUD101248,Engineer/Specialist in Humanities/International Services,2024-12-25,2025-12-25,Authorized,Verified,2025-01-12
+VISA001249,DUD101249,Long Term Resident,2025-02-09,,Authorized,Pending Review,2025-03-09
+VISA001250,DUD101250,Spouse of Japanese National,2025-09-16,,Authorized,Verified,2025-10-04
+VISA001251,DUD101251,Engineer/Specialist in Humanities/International Services,2022-08-25,2023-08-25,Authorized,Verified,2022-09-14
+VISA001252,DUD101252,Instructor,2023-10-17,2026-10-16,Authorized,Pending Review,2023-11-07
+VISA001253,DUD101253,Permanent Resident,2021-07-16,,Authorized,Pending Review,2021-07-26
+VISA001254,DUD101254,Permanent Resident,2026-05-03,,Authorized,Verified,2026-05-15
+VISA001255,DUD101255,Permanent Resident,2022-05-21,,Authorized,Verified,2022-06-15
+VISA001256,DUD101256,Instructor,2025-06-27,2029-06-26,Authorized,Verified,2025-07-17
+VISA001257,DUD101257,Engineer/Specialist in Humanities/International Services,2025-07-17,2026-07-17,Authorized,Pending Review,2025-08-05
+VISA001258,DUD101258,Engineer/Specialist in Humanities/International Services,2021-09-15,2025-09-14,Authorized,Verified,2021-09-23
+VISA001259,DUD101259,Long Term Resident,2022-09-23,,Authorized,Verified,2022-10-18
+VISA001260,DUD101260,Engineer/Specialist in Humanities/International Services,2021-08-02,2022-08-02,Authorized,Verified,2021-08-09
+VISA001261,DUD101261,Permanent Resident,2026-05-21,,Authorized,Verified,2026-06-04
+VISA001262,DUD101262,Permanent Resident,2025-07-20,,Authorized,Verified,2025-07-30
+VISA001263,DUD101263,Engineer/Specialist in Humanities/International Services,2026-07-04,2030-07-03,Authorized,Verified,2026-07-12
+VISA001264,DUD101264,Engineer/Specialist in Humanities/International Services,2022-10-06,2025-10-05,Authorized,Verified,2022-10-11
+VISA001265,DUD101265,Permanent Resident,2023-08-22,,Authorized,Pending Review,2023-08-31
+VISA001266,DUD101266,Permanent Resident,2024-07-14,,Authorized,Pending Review,2024-07-26
+VISA001267,DUD101267,Instructor,2022-07-03,2026-07-02,Authorized,Pending Review,2022-07-25
+VISA001268,DUD101268,Engineer/Specialist in Humanities/International Services,2021-03-17,2022-03-17,Authorized,Verified,2021-04-02
+VISA001269,DUD101269,Engineer/Specialist in Humanities/International Services,2024-01-28,2025-01-27,Authorized,Verified,2024-01-31
+VISA001270,DUD101270,Engineer/Specialist in Humanities/International Services,2024-09-07,2025-09-07,Authorized,Verified,2024-10-02
+VISA001271,DUD101271,Instructor,2023-07-21,2026-07-20,Authorized,Verified,2023-08-09
+VISA001272,DUD101272,Instructor,2021-06-03,2023-06-03,Authorized,Verified,2021-06-23
+VISA001273,DUD101273,Engineer/Specialist in Humanities/International Services,2022-09-18,2024-09-17,Authorized,Verified,2022-10-11
+VISA001274,DUD101274,Instructor,2023-08-15,2025-08-14,Authorized,Verified,2023-08-29
+VISA001275,DUD101275,Spouse of Japanese National,2023-04-13,,Authorized,Verified,2023-05-07
+VISA001276,DUD101276,Instructor,2022-10-17,2023-10-17,Authorized,Verified,2022-11-04
+VISA001277,DUD101277,Long Term Resident,2022-02-04,,Authorized,Verified,2022-02-08
+VISA001278,DUD101278,Permanent Resident,2023-02-11,,Authorized,Verified,2023-02-28
+VISA001279,DUD101279,Engineer/Specialist in Humanities/International Services,2023-02-28,2026-02-27,Authorized,Verified,2023-03-01
+VISA001280,DUD101280,Instructor,2021-08-04,2024-08-03,Authorized,Verified,2021-08-30
+VISA001281,DUD101281,Engineer/Specialist in Humanities/International Services,2025-07-14,2027-07-14,Authorized,Pending Review,2025-08-06
+VISA001282,DUD101282,Engineer/Specialist in Humanities/International Services,2026-02-22,2030-02-21,Authorized,Verified,2026-03-17
+VISA001283,DUD101283,Student,2026-02-21,2028-02-21,Authorized,Verified,2026-02-25
+VISA001284,DUD101284,Engineer/Specialist in Humanities/International Services,2023-09-27,2024-09-26,Authorized,Verified,2023-10-19
+VISA001285,DUD101285,Instructor,2022-04-21,2024-04-20,Authorized,Verified,2022-04-28
+VISA001286,DUD101286,Instructor,2022-11-02,2026-11-01,Authorized,Verified,2022-11-27
+VISA001287,DUD101287,Long Term Resident,2021-10-02,,Authorized,Verified,2021-11-01
+VISA001288,DUD101288,Engineer/Specialist in Humanities/International Services,2024-03-14,2025-03-14,Authorized,Pending Review,2024-03-28
+VISA001289,DUD101289,Instructor,2021-04-22,2025-04-21,Authorized,Verified,2021-05-19
+VISA001290,DUD101290,Permanent Resident,2023-02-13,,Authorized,Verified,2023-03-04
+VISA001291,DUD101291,Engineer/Specialist in Humanities/International Services,2022-05-09,2023-05-09,Authorized,Verified,2022-06-04
+VISA001292,DUD101292,Engineer/Specialist in Humanities/International Services,2026-05-01,2029-04-30,Authorized,Verified,2026-05-12
+VISA001293,DUD101293,Instructor,2023-09-05,2025-09-04,Authorized,Verified,2023-09-27
+VISA001294,DUD101294,Engineer/Specialist in Humanities/International Services,2024-07-23,2026-07-23,Authorized,Verified,2024-07-30
+VISA001295,DUD101295,Engineer/Specialist in Humanities/International Services,2025-10-15,2027-10-15,Authorized,Pending Review,2025-11-06
+VISA001296,DUD101296,Instructor,2024-08-13,2028-08-12,Authorized,Verified,2024-08-30
+VISA001297,DUD101297,Engineer/Specialist in Humanities/International Services,2021-10-16,2025-10-15,Authorized,Verified,2021-11-05
+VISA001298,DUD101298,Permanent Resident,2021-01-16,,Authorized,Verified,2021-01-26
+VISA001299,DUD101299,Permanent Resident,2022-09-12,,Authorized,Verified,2022-10-04
+VISA001300,DUD101300,Engineer/Specialist in Humanities/International Services,2023-09-01,2025-08-31,Authorized,Verified,2023-09-15
+VISA001301,DUD101301,Instructor,2026-04-08,2030-04-07,Authorized,Verified,2026-04-17
+VISA001302,DUD101302,Engineer/Specialist in Humanities/International Services,2025-07-09,2029-07-08,Authorized,Verified,2025-07-18
+VISA001303,DUD101303,Engineer/Specialist in Humanities/International Services,2024-04-22,2027-04-22,Authorized,Verified,2024-05-03
+VISA001304,DUD101304,Instructor,2024-08-14,2026-08-14,Authorized,Pending Review,2024-08-16
+VISA001305,DUD101305,Engineer/Specialist in Humanities/International Services,2024-12-03,2026-12-03,Authorized,Verified,2024-12-12
+VISA001306,DUD101306,Spouse of Japanese National,2023-10-10,,Authorized,Verified,2023-10-21
+VISA001307,DUD101307,Engineer/Specialist in Humanities/International Services,2026-01-18,2030-01-17,Authorized,Verified,2026-02-11
+VISA001308,DUD101308,Long Term Resident,2022-10-26,,Authorized,Verified,2022-11-12
+VISA001309,DUD101309,Engineer/Specialist in Humanities/International Services,2021-06-10,2022-06-10,Authorized,Verified,2021-07-05
+VISA001310,DUD101310,Instructor,2024-07-02,2026-07-02,Authorized,Pending Review,2024-07-19
+VISA001311,DUD101311,Engineer/Specialist in Humanities/International Services,2024-11-28,2027-11-28,Authorized,Verified,2024-12-13
+VISA001312,DUD101312,Engineer/Specialist in Humanities/International Services,2024-07-29,2026-07-29,Authorized,Verified,2024-08-25
+VISA001313,DUD101313,Instructor,2025-11-22,2029-11-21,Authorized,Verified,2025-12-11
+VISA001314,DUD101314,Instructor,2023-04-12,2025-04-11,Authorized,Pending Review,2023-04-17
+VISA001315,DUD101315,Engineer/Specialist in Humanities/International Services,2022-12-26,2026-12-25,Authorized,Pending Review,2022-12-31
+VISA001316,DUD101316,Instructor,2021-09-19,2024-09-18,Authorized,Verified,2021-09-30
+VISA001317,DUD101317,Working Holiday,2021-11-01,2022-11-01,Authorized,Verified,2021-11-02
+VISA001318,DUD101318,Engineer/Specialist in Humanities/International Services,2025-01-16,2026-01-16,Authorized,Verified,2025-01-18
+VISA001319,DUD101319,Long Term Resident,2025-08-07,,Authorized,Verified,2025-08-21
+VISA001320,DUD101320,Instructor,2022-03-01,2026-02-28,Authorized,Verified,2022-03-17
+VISA001321,DUD101321,Engineer/Specialist in Humanities/International Services,2022-02-07,2026-02-06,Authorized,Verified,2022-02-08
+VISA001322,DUD101322,Spouse of Japanese National,2024-06-28,,Authorized,Verified,2024-07-26
+VISA001323,DUD101323,Permanent Resident,2022-08-10,,Authorized,Verified,2022-09-05
+VISA001324,DUD101324,Permanent Resident,2025-12-29,,Authorized,Pending Review,2026-01-09
+VISA001325,DUD101325,Spouse of Japanese National,2021-09-25,,Authorized,Verified,2021-10-02
+VISA001326,DUD101326,Instructor,2023-12-17,2026-12-16,Authorized,Pending Review,2023-12-22
+VISA001327,DUD101327,Engineer/Specialist in Humanities/International Services,2025-12-28,2028-12-27,Authorized,Pending Review,2026-01-23
+VISA001328,DUD101328,Engineer/Specialist in Humanities/International Services,2021-06-02,2022-06-02,Authorized,Verified,2021-06-06
+VISA001329,DUD101329,Engineer/Specialist in Humanities/International Services,2023-05-15,2027-05-14,Authorized,Verified,2023-05-22
+VISA001330,DUD101330,Working Holiday,2022-09-05,2023-09-05,Authorized,Verified,2022-09-28
+VISA001331,DUD101331,Spouse of Japanese National,2025-01-17,,Authorized,Verified,2025-01-27
+VISA001332,DUD101332,Long Term Resident,2025-06-28,,Authorized,Verified,2025-07-16
+VISA001333,DUD101333,Engineer/Specialist in Humanities/International Services,2021-04-14,2022-04-14,Authorized,Pending Review,2021-04-18
+VISA001334,DUD101334,Instructor,2023-12-10,2025-12-09,Authorized,Pending Review,2023-12-17
+VISA001335,DUD101335,Long Term Resident,2021-01-05,,Authorized,Pending Review,2021-01-25
+VISA001336,DUD101336,Student,2021-02-25,2022-02-25,Authorized,Verified,2021-03-02
+VISA001337,DUD101337,Instructor,2024-05-23,2026-05-23,Authorized,Pending Review,2024-06-19
+VISA001338,DUD101338,Engineer/Specialist in Humanities/International Services,2021-12-16,2024-12-15,Authorized,Pending Review,2022-01-14
+VISA001339,DUD101339,Permanent Resident,2021-07-24,,Authorized,Verified,2021-08-17
+VISA001340,DUD101340,Working Holiday,2025-06-02,2027-06-02,Authorized,Verified,2025-06-06
+VISA001341,DUD101341,Engineer/Specialist in Humanities/International Services,2022-03-02,2026-03-01,Authorized,Pending Review,2022-03-24
+VISA001342,DUD101342,Instructor,2023-02-27,2024-02-27,Authorized,Verified,2023-03-10
+VISA001343,DUD101343,Instructor,2022-01-11,2024-01-11,Authorized,Pending Review,2022-01-30
+VISA001344,DUD101344,Permanent Resident,2022-12-11,,Authorized,Verified,2023-01-10
+VISA001345,DUD101345,Engineer/Specialist in Humanities/International Services,2023-12-10,2027-12-09,Authorized,Verified,2023-12-20
+VISA001346,DUD101346,Engineer/Specialist in Humanities/International Services,2025-06-28,2027-06-28,Authorized,Pending Review,2025-07-19
+VISA001347,DUD101347,Working Holiday,2025-02-16,2027-02-16,Authorized,Pending Review,2025-03-04
+VISA001348,DUD101348,Engineer/Specialist in Humanities/International Services,2022-03-31,2025-03-30,Authorized,Verified,2022-04-05
+VISA001349,DUD101349,Engineer/Specialist in Humanities/International Services,2021-03-15,2025-03-14,Authorized,Verified,2021-03-19
+VISA001350,DUD101350,Student,2024-02-08,2025-02-07,Authorized,Verified,2024-02-26
+VISA001351,DUD101351,Permanent Resident,2025-01-29,,Authorized,Verified,2025-02-09
+VISA001352,DUD101352,Permanent Resident,2025-05-15,,Authorized,Verified,2025-06-08
+VISA001353,DUD101353,Spouse of Japanese National,2024-01-17,,Authorized,Verified,2024-02-01
+VISA001354,DUD101354,Instructor,2025-04-17,2026-04-17,Authorized,Pending Review,2025-05-05
+VISA001355,DUD101355,Student,2023-01-03,2026-01-02,Authorized,Verified,2023-01-11
+VISA001356,DUD101356,Permanent Resident,2023-05-02,,Authorized,Verified,2023-05-15
+VISA001357,DUD101357,Permanent Resident,2021-12-13,,Authorized,Pending Review,2022-01-01
+VISA001358,DUD101358,Spouse of Japanese National,2022-02-26,,Authorized,Verified,2022-03-08
+VISA001359,DUD101359,Engineer/Specialist in Humanities/International Services,2021-03-23,2024-03-22,Authorized,Verified,2021-04-16
+VISA001360,DUD101360,Engineer/Specialist in Humanities/International Services,2026-06-30,2030-06-29,Authorized,Pending Review,2026-07-22
+VISA001361,DUD101361,Student,2025-11-12,2026-11-12,Authorized,Verified,2025-12-11
+VISA001362,DUD101362,Working Holiday,2021-04-20,2025-04-19,Authorized,Verified,2021-05-07
+VISA001363,DUD101363,Instructor,2025-09-05,2029-09-04,Authorized,Verified,2025-09-13
+VISA001364,DUD101364,Permanent Resident,2022-09-09,,Authorized,Pending Review,2022-09-28
+VISA001365,DUD101365,Engineer/Specialist in Humanities/International Services,2021-02-22,2023-02-22,Authorized,Verified,2021-03-13
+VISA001366,DUD101366,Student,2024-04-05,2025-04-05,Authorized,Pending Review,2024-05-03
+VISA001367,DUD101367,Engineer/Specialist in Humanities/International Services,2022-09-12,2024-09-11,Authorized,Verified,2022-10-01
+VISA001368,DUD101368,Working Holiday,2021-09-07,2024-09-06,Authorized,Verified,2021-09-21
+VISA001369,DUD101369,Instructor,2022-03-07,2026-03-06,Authorized,Verified,2022-03-19
+VISA001370,DUD101370,Instructor,2021-05-19,2022-05-19,Authorized,Verified,2021-06-03
+VISA001371,DUD101371,Spouse of Japanese National,2024-09-24,,Authorized,Verified,2024-10-06
+VISA001372,DUD101372,Instructor,2023-09-14,2024-09-13,Authorized,Pending Review,2023-09-29
+VISA001373,DUD101373,Engineer/Specialist in Humanities/International Services,2025-01-17,2026-01-17,Authorized,Verified,2025-02-02
+VISA001374,DUD101374,Spouse of Japanese National,2026-07-12,,Authorized,Verified,2026-08-11
+VISA001375,DUD101375,Instructor,2022-11-20,2023-11-20,Authorized,Verified,2022-12-01
+VISA001376,DUD101376,Long Term Resident,2024-07-02,,Authorized,Pending Review,2024-07-22
+VISA001377,DUD101377,Engineer/Specialist in Humanities/International Services,2026-02-16,2029-02-15,Authorized,Verified,2026-02-23
+VISA001378,DUD101378,Engineer/Specialist in Humanities/International Services,2023-01-07,2027-01-06,Authorized,Verified,2023-02-05
+VISA001379,DUD101379,Spouse of Japanese National,2024-10-09,,Authorized,Verified,2024-11-07
+VISA001380,DUD101380,Instructor,2025-01-19,2028-01-19,Authorized,Verified,2025-02-07
+VISA001381,DUD101381,Long Term Resident,2023-07-18,,Authorized,Pending Review,2023-07-31
+VISA001382,DUD101382,Spouse of Japanese National,2023-03-19,,Authorized,Verified,2023-04-02
+VISA001383,DUD101383,Engineer/Specialist in Humanities/International Services,2024-09-08,2026-09-08,Authorized,Verified,2024-10-02
+VISA001384,DUD101384,Engineer/Specialist in Humanities/International Services,2022-03-27,2024-03-26,Authorized,Pending Review,2022-04-11
+VISA001385,DUD101385,Engineer/Specialist in Humanities/International Services,2026-05-18,2027-05-18,Authorized,Verified,2026-05-25
+VISA001386,DUD101386,Student,2025-03-24,2028-03-23,Authorized,Verified,2025-04-14
+VISA001387,DUD101387,Instructor,2026-01-04,2029-01-03,Authorized,Pending Review,2026-01-05
+VISA001388,DUD101388,Engineer/Specialist in Humanities/International Services,2025-03-18,2026-03-18,Authorized,Verified,2025-04-10
+VISA001389,DUD101389,Long Term Resident,2025-05-01,,Authorized,Verified,2025-05-10
+VISA001390,DUD101390,Long Term Resident,2025-08-04,,Authorized,Verified,2025-08-30
+VISA001391,DUD101391,Engineer/Specialist in Humanities/International Services,2026-04-28,2027-04-28,Authorized,Verified,2026-05-04
+VISA001392,DUD101392,Engineer/Specialist in Humanities/International Services,2021-03-14,2025-03-13,Authorized,Pending Review,2021-04-04
+VISA001393,DUD101393,Engineer/Specialist in Humanities/International Services,2024-02-20,2025-02-19,Authorized,Verified,2024-03-10
+VISA001394,DUD101394,Engineer/Specialist in Humanities/International Services,2025-09-15,2026-09-15,Authorized,Verified,2025-10-06
+VISA001395,DUD101395,Permanent Resident,2025-11-23,,Authorized,Pending Review,2025-12-01
+VISA001396,DUD101396,Engineer/Specialist in Humanities/International Services,2023-08-31,2025-08-30,Authorized,Verified,2023-09-28
+VISA001397,DUD101397,Engineer/Specialist in Humanities/International Services,2021-01-20,2024-01-20,Authorized,Verified,2021-01-27
+VISA001398,DUD101398,Working Holiday,2024-12-27,2025-12-27,Authorized,Verified,2025-01-26
+VISA001399,DUD101399,Engineer/Specialist in Humanities/International Services,2023-10-14,2024-10-13,Authorized,Verified,2023-11-11
+VISA001400,DUD101400,Engineer/Specialist in Humanities/International Services,2024-02-16,2025-02-15,Authorized,Verified,2024-02-19
+VISA001401,DUD101401,Working Holiday,2023-06-24,2027-06-23,Authorized,Pending Review,2023-07-12
+VISA001402,DUD101402,Long Term Resident,2021-08-24,,Authorized,Verified,2021-08-25
+VISA001403,DUD101403,Spouse of Japanese National,2024-05-12,,Authorized,Verified,2024-05-17
+VISA001404,DUD101404,Student,2025-09-18,2029-09-17,Authorized,Pending Review,2025-09-27
+VISA001405,DUD101405,Engineer/Specialist in Humanities/International Services,2021-12-13,2023-12-13,Authorized,Pending Review,2021-12-17
+VISA001406,DUD101406,Spouse of Japanese National,2025-12-06,,Authorized,Verified,2025-12-29
+VISA001407,DUD101407,Spouse of Japanese National,2021-01-03,,Authorized,Verified,2021-01-16
+VISA001408,DUD101408,Engineer/Specialist in Humanities/International Services,2025-02-17,2027-02-17,Authorized,Pending Review,2025-03-07
+VISA001409,DUD101409,Instructor,2025-03-19,2026-03-19,Authorized,Pending Review,2025-04-12
+VISA001410,DUD101410,Engineer/Specialist in Humanities/International Services,2023-08-13,2026-08-12,Authorized,Verified,2023-08-30
+VISA001411,DUD101411,Engineer/Specialist in Humanities/International Services,2021-05-19,2024-05-18,Authorized,Verified,2021-05-21
+VISA001412,DUD101412,Engineer/Specialist in Humanities/International Services,2026-05-08,2030-05-07,Authorized,Pending Review,2026-05-25
+VISA001413,DUD101413,Engineer/Specialist in Humanities/International Services,2024-04-21,2027-04-21,Authorized,Verified,2024-05-15
+VISA001414,DUD101414,Long Term Resident,2021-03-28,,Authorized,Pending Review,2021-04-15
+VISA001415,DUD101415,Engineer/Specialist in Humanities/International Services,2021-08-29,2023-08-29,Authorized,Verified,2021-09-26
+VISA001416,DUD101416,Spouse of Japanese National,2021-11-15,,Authorized,Verified,2021-11-24
+VISA001417,DUD101417,Working Holiday,2024-12-17,2025-12-17,Authorized,Verified,2024-12-31
+VISA001418,DUD101418,Working Holiday,2023-03-02,2025-03-01,Authorized,Verified,2023-03-09
+VISA001419,DUD101419,Engineer/Specialist in Humanities/International Services,2023-03-29,2025-03-28,Authorized,Pending Review,2023-04-21
+VISA001420,DUD101420,Instructor,2024-07-06,2027-07-06,Authorized,Verified,2024-07-22
+VISA001421,DUD101421,Engineer/Specialist in Humanities/International Services,2021-10-09,2022-10-09,Authorized,Verified,2021-10-20
+VISA001422,DUD101422,Engineer/Specialist in Humanities/International Services,2021-03-29,2024-03-28,Authorized,Verified,2021-04-04
+VISA001423,DUD101423,Engineer/Specialist in Humanities/International Services,2021-09-04,2025-09-03,Authorized,Verified,2021-09-14
+VISA001424,DUD101424,Engineer/Specialist in Humanities/International Services,2022-08-31,2025-08-30,Authorized,Pending Review,2022-09-08
+VISA001425,DUD101425,Instructor,2026-04-17,2028-04-16,Authorized,Verified,2026-04-28
+VISA001426,DUD101426,Instructor,2022-05-12,2023-05-12,Authorized,Verified,2022-05-16
+VISA001427,DUD101427,Spouse of Japanese National,2026-07-28,,Authorized,Pending Review,2026-08-03
+VISA001428,DUD101428,Instructor,2024-10-06,2026-10-06,Authorized,Verified,2024-10-29
+VISA001429,DUD101429,Permanent Resident,2022-06-06,,Authorized,Verified,2022-06-19
+VISA001430,DUD101430,Engineer/Specialist in Humanities/International Services,2023-03-17,2024-03-16,Authorized,Verified,2023-03-27
+VISA001431,DUD101431,Instructor,2021-05-18,2024-05-17,Authorized,Verified,2021-05-27
+VISA001432,DUD101432,Engineer/Specialist in Humanities/International Services,2024-08-13,2026-08-13,Authorized,Verified,2024-09-08
+VISA001433,DUD101433,Permanent Resident,2024-11-10,,Authorized,Verified,2024-12-07
+VISA001434,DUD101434,Engineer/Specialist in Humanities/International Services,2024-08-07,2028-08-06,Authorized,Pending Review,2024-08-23
+VISA001435,DUD101435,Spouse of Japanese National,2024-06-28,,Authorized,Verified,2024-07-25
+VISA001436,DUD101436,Student,2021-07-04,2023-07-04,Authorized,Verified,2021-07-13
+VISA001437,DUD101437,Instructor,2022-01-24,2023-01-24,Authorized,Verified,2022-02-18
+VISA001438,DUD101438,Engineer/Specialist in Humanities/International Services,2025-08-09,2029-08-08,Authorized,Verified,2025-09-05
+VISA001439,DUD101439,Long Term Resident,2025-06-22,,Authorized,Pending Review,2025-06-23
+VISA001440,DUD101440,Spouse of Japanese National,2025-10-28,,Authorized,Verified,2025-11-13
+VISA001441,DUD101441,Instructor,2023-12-04,2024-12-03,Authorized,Verified,2023-12-26
+VISA001442,DUD101442,Long Term Resident,2023-10-24,,Authorized,Verified,2023-10-25
+VISA001443,DUD101443,Permanent Resident,2022-11-07,,Authorized,Pending Review,2022-11-24
+VISA001444,DUD101444,Student,2025-04-10,2028-04-09,Authorized,Verified,2025-05-07
+VISA001445,DUD101445,Engineer/Specialist in Humanities/International Services,2026-03-02,2029-03-01,Authorized,Verified,2026-03-18
+VISA001446,DUD101446,Long Term Resident,2022-06-02,,Authorized,Pending Review,2022-06-17
+VISA001447,DUD101447,Instructor,2021-08-11,2023-08-11,Authorized,Verified,2021-09-04
+VISA001448,DUD101448,Engineer/Specialist in Humanities/International Services,2025-12-19,2026-12-19,Authorized,Verified,2025-12-26
+VISA001449,DUD101449,Engineer/Specialist in Humanities/International Services,2023-03-11,2026-03-10,Authorized,Verified,2023-04-06
+VISA001450,DUD101450,Student,2024-05-09,2025-05-09,Authorized,Pending Review,2024-05-27
+VISA001451,DUD101451,Engineer/Specialist in Humanities/International Services,2026-06-15,2029-06-14,Authorized,Verified,2026-06-29
+VISA001452,DUD101452,Spouse of Japanese National,2024-07-31,,Authorized,Verified,2024-08-28
+VISA001453,DUD101453,Spouse of Japanese National,2026-03-25,,Authorized,Verified,2026-04-18
+VISA001454,DUD101454,Long Term Resident,2021-07-16,,Authorized,Verified,2021-08-12
+VISA001455,DUD101455,Spouse of Japanese National,2024-03-29,,Authorized,Pending Review,2024-04-21
+VISA001456,DUD101456,Working Holiday,2021-04-08,2022-04-08,Authorized,Verified,2021-04-09
+VISA001457,DUD101457,Permanent Resident,2025-04-26,,Authorized,Verified,2025-05-04
+VISA001458,DUD101458,Working Holiday,2024-04-06,2025-04-06,Authorized,Pending Review,2024-04-14
+VISA001459,DUD101459,Instructor,2023-05-11,2025-05-10,Authorized,Verified,2023-06-03
+VISA001460,DUD101460,Engineer/Specialist in Humanities/International Services,2023-02-13,2024-02-13,Authorized,Verified,2023-02-28
+VISA001461,DUD101461,Instructor,2021-04-12,2025-04-11,Authorized,Verified,2021-04-16
+VISA001462,DUD101462,Instructor,2025-07-27,2026-07-27,Authorized,Verified,2025-08-11
+VISA001463,DUD101463,Engineer/Specialist in Humanities/International Services,2021-08-16,2023-08-16,Authorized,Pending Review,2021-09-12
+VISA001464,DUD101464,Permanent Resident,2021-05-20,,Authorized,Verified,2021-06-18
+VISA001465,DUD101465,Engineer/Specialist in Humanities/International Services,2026-02-20,2030-02-19,Authorized,Verified,2026-03-14
+VISA001466,DUD101466,Engineer/Specialist in Humanities/International Services,2022-10-14,2025-10-13,Authorized,Pending Review,2022-11-05
+VISA001467,DUD101467,Permanent Resident,2026-03-07,,Authorized,Verified,2026-03-11
+VISA001468,DUD101468,Instructor,2021-08-21,2024-08-20,Authorized,Verified,2021-09-07
+VISA001469,DUD101469,Permanent Resident,2024-09-21,,Authorized,Verified,2024-09-30
+VISA001470,DUD101470,Instructor,2024-06-15,2027-06-15,Authorized,Verified,2024-07-06
+VISA001471,DUD101471,Engineer/Specialist in Humanities/International Services,2021-06-15,2022-06-15,Authorized,Verified,2021-06-23
+VISA001472,DUD101472,Engineer/Specialist in Humanities/International Services,2024-02-03,2025-02-02,Authorized,Pending Review,2024-02-19
+VISA001473,DUD101473,Spouse of Japanese National,2026-03-09,,Authorized,Verified,2026-03-30
+VISA001474,DUD101474,Instructor,2025-01-14,2029-01-13,Authorized,Verified,2025-01-23
+VISA001475,DUD101475,Permanent Resident,2025-03-27,,Authorized,Verified,2025-04-23
+VISA001476,DUD101476,Instructor,2024-12-15,2026-12-15,Authorized,Verified,2024-12-24
+VISA001477,DUD101477,Spouse of Japanese National,2021-12-23,,Authorized,Verified,2022-01-19
+VISA001478,DUD101478,Instructor,2021-05-14,2024-05-13,Authorized,Verified,2021-05-17
+VISA001479,DUD101479,Instructor,2022-10-05,2024-10-04,Authorized,Pending Review,2022-10-15
+VISA001480,DUD101480,Engineer/Specialist in Humanities/International Services,2024-06-27,2027-06-27,Authorized,Verified,2024-07-05
+VISA001481,DUD101481,Engineer/Specialist in Humanities/International Services,2023-01-15,2025-01-14,Authorized,Verified,2023-02-10
+VISA001482,DUD101482,Engineer/Specialist in Humanities/International Services,2022-11-08,2026-11-07,Authorized,Verified,2022-11-13
+VISA001483,DUD101483,Engineer/Specialist in Humanities/International Services,2026-05-25,2027-05-25,Authorized,Verified,2026-06-13
+VISA001484,DUD101484,Engineer/Specialist in Humanities/International Services,2025-12-29,2028-12-28,Authorized,Verified,2026-01-19
+VISA001485,DUD101485,Engineer/Specialist in Humanities/International Services,2021-12-11,2025-12-10,Authorized,Verified,2021-12-18
+VISA001486,DUD101486,Instructor,2022-10-20,2023-10-20,Authorized,Verified,2022-11-02
+VISA001487,DUD101487,Engineer/Specialist in Humanities/International Services,2021-11-22,2022-11-22,Authorized,Pending Review,2021-12-05
+VISA001488,DUD101488,Instructor,2025-05-27,2028-05-26,Authorized,Verified,2025-06-01
+VISA001489,DUD101489,Permanent Resident,2024-02-05,,Authorized,Verified,2024-02-27
+VISA001490,DUD101490,Permanent Resident,2026-06-21,,Authorized,Verified,2026-07-19
+VISA001491,DUD101491,Engineer/Specialist in Humanities/International Services,2023-12-25,2025-12-24,Authorized,Pending Review,2024-01-06
+VISA001492,DUD101492,Long Term Resident,2026-01-08,,Authorized,Verified,2026-01-17
+VISA001493,DUD101493,Long Term Resident,2022-11-19,,Authorized,Verified,2022-11-22
+VISA001494,DUD101494,Permanent Resident,2024-04-29,,Authorized,Verified,2024-05-28
+VISA001495,DUD101495,Instructor,2025-01-11,2027-01-11,Authorized,Pending Review,2025-02-02
+VISA001496,DUD101496,Engineer/Specialist in Humanities/International Services,2025-06-26,2028-06-25,Authorized,Verified,2025-07-03
+VISA001497,DUD101497,Engineer/Specialist in Humanities/International Services,2026-01-16,2027-01-16,Authorized,Pending Review,2026-02-03
+VISA001498,DUD101498,Long Term Resident,2024-04-10,,Authorized,Verified,2024-04-25
+VISA001499,DUD101499,Instructor,2024-04-19,2027-04-19,Authorized,Pending Review,2024-05-10
+VISA001500,DUD101500,Engineer/Specialist in Humanities/International Services,2025-08-29,2029-08-28,Authorized,Verified,2025-09-10

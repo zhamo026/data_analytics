@@ -1,0 +1,1905 @@
+qualification_id,employee_id,qualification_name,qualification_type,issuing_organization,issue_date,expiry_date,qualification_status
+QUAL000001,DUD100001,BA Education,Degree,University,2018-10-19,,Active
+QUAL000002,DUD100001,TESOL,Teaching Certification,TESOL International Association,2020-10-18,,Active
+QUAL000003,DUD100002,TEFL,Teaching Certification,International TEFL Academy,2023-11-27,2025-11-27,Expired
+QUAL000004,DUD100003,CELTA,Teaching Certification,Cambridge English,2023-12-25,2027-11-16,Active
+QUAL000005,DUD100004,TESOL,Teaching Certification,TESOL International Association,2025-08-27,2029-09-01,Active
+QUAL000006,DUD100005,MA Education,Degree,University,2019-07-08,,Active
+QUAL000007,DUD100006,BA Education,Degree,University,2022-03-04,,Active
+QUAL000008,DUD100007,TEFL,Teaching Certification,International TEFL Academy,2023-08-28,,Active
+QUAL000009,DUD100008,CELTA,Teaching Certification,Cambridge English,2021-02-19,,Active
+QUAL000010,DUD100009,BA English,Degree,University,2023-02-25,,Active
+QUAL000011,DUD100010,TEFL,Teaching Certification,International TEFL Academy,2023-09-06,,Active
+QUAL000012,DUD100011,MA Education,Degree,University,2020-12-18,,Active
+QUAL000013,DUD100011,TESOL,Teaching Certification,TESOL International Association,2019-07-04,,Active
+QUAL000014,DUD100012,MA Education,Degree,University,2018-11-23,,Active
+QUAL000015,DUD100013,BA Linguistics,Degree,University,2022-07-19,,Active
+QUAL000016,DUD100013,BA English,Degree,University,2018-09-21,,Active
+QUAL000017,DUD100014,TESOL,Teaching Certification,TESOL International Association,2021-06-03,2024-07-28,Expired
+QUAL000018,DUD100014,BA Linguistics,Degree,University,2020-03-25,,Active
+QUAL000019,DUD100015,BA Linguistics,Degree,University,2022-12-22,,Active
+QUAL000020,DUD100016,BA English,Degree,University,2020-07-22,,Active
+QUAL000021,DUD100017,TESOL,Teaching Certification,TESOL International Association,2024-01-04,2026-04-06,Expired
+QUAL000022,DUD100018,CELTA,Teaching Certification,Cambridge English,2022-11-20,,Active
+QUAL000023,DUD100019,CELTA,Teaching Certification,Cambridge English,2018-07-08,,Active
+QUAL000024,DUD100019,MA Education,Degree,University,2022-05-18,,Active
+QUAL000025,DUD100020,TEFL,Teaching Certification,International TEFL Academy,2023-11-13,,Active
+QUAL000026,DUD100021,BA English,Degree,University,2025-01-23,,Active
+QUAL000027,DUD100022,CELTA,Teaching Certification,Cambridge English,2024-09-01,,Active
+QUAL000028,DUD100022,TEFL,Teaching Certification,International TEFL Academy,2020-11-26,,Active
+QUAL000029,DUD100023,TEFL,Teaching Certification,International TEFL Academy,2023-05-06,,Active
+QUAL000030,DUD100024,MA Education,Degree,University,2024-02-20,,Active
+QUAL000031,DUD100025,MA Education,Degree,University,2019-10-12,,Active
+QUAL000032,DUD100026,TEFL,Teaching Certification,International TEFL Academy,2024-11-05,,Active
+QUAL000033,DUD100026,BA Education,Degree,University,2020-12-16,,Active
+QUAL000034,DUD100027,BA Education,Degree,University,2020-05-04,,Active
+QUAL000035,DUD100027,TESOL,Teaching Certification,TESOL International Association,2023-04-10,,Active
+QUAL000036,DUD100028,CELTA,Teaching Certification,Cambridge English,2019-08-20,,Active
+QUAL000037,DUD100029,TESOL,Teaching Certification,TESOL International Association,2024-08-26,,Active
+QUAL000038,DUD100030,MA Education,Degree,University,2024-03-28,,Active
+QUAL000039,DUD100030,BA Linguistics,Degree,University,2019-04-14,,Active
+QUAL000040,DUD100031,BA Linguistics,Degree,University,2019-07-02,,Active
+QUAL000041,DUD100032,MA Education,Degree,University,2019-04-20,,Active
+QUAL000042,DUD100033,BA Linguistics,Degree,University,2018-03-26,,Active
+QUAL000043,DUD100034,CELTA,Teaching Certification,Cambridge English,2023-08-10,,Active
+QUAL000044,DUD100035,BA Education,Degree,University,2020-04-11,,Active
+QUAL000045,DUD100035,CELTA,Teaching Certification,Cambridge English,2024-06-11,,Active
+QUAL000046,DUD100036,CELTA,Teaching Certification,Cambridge English,2018-04-22,,Active
+QUAL000047,DUD100037,BA Education,Degree,University,2018-03-11,,Active
+QUAL000048,DUD100037,TEFL,Teaching Certification,International TEFL Academy,2020-05-03,,Active
+QUAL000049,DUD100038,TESOL,Teaching Certification,TESOL International Association,2021-03-06,,Active
+QUAL000050,DUD100039,BA Linguistics,Degree,University,2023-02-01,,Active
+QUAL000051,DUD100039,TESOL,Teaching Certification,TESOL International Association,2023-08-09,,Active
+QUAL000052,DUD100040,BA Education,Degree,University,2022-07-19,,Active
+QUAL000053,DUD100040,CELTA,Teaching Certification,Cambridge English,2023-02-28,,Active
+QUAL000054,DUD100041,TESOL,Teaching Certification,TESOL International Association,2024-03-04,2028-06-27,Active
+QUAL000055,DUD100042,TESOL,Teaching Certification,TESOL International Association,2018-11-10,,Active
+QUAL000056,DUD100043,BA English,Degree,University,2022-02-02,,Active
+QUAL000057,DUD100044,CELTA,Teaching Certification,Cambridge English,2022-07-01,2026-05-13,Expired
+QUAL000058,DUD100044,MA Education,Degree,University,2021-05-17,,Active
+QUAL000059,DUD100045,BA English,Degree,University,2024-09-17,,Active
+QUAL000060,DUD100046,CELTA,Teaching Certification,Cambridge English,2025-10-10,,Active
+QUAL000061,DUD100046,TEFL,Teaching Certification,International TEFL Academy,2024-05-02,2026-09-02,Active
+QUAL000062,DUD100047,BA Linguistics,Degree,University,2018-03-10,,Active
+QUAL000063,DUD100048,MA Education,Degree,University,2018-06-14,,Active
+QUAL000064,DUD100049,BA English,Degree,University,2018-06-22,,Active
+QUAL000065,DUD100050,MA Education,Degree,University,2020-11-22,,Active
+QUAL000066,DUD100051,CELTA,Teaching Certification,Cambridge English,2024-03-19,,Active
+QUAL000067,DUD100052,MA Education,Degree,University,2020-11-08,,Active
+QUAL000068,DUD100052,BA Linguistics,Degree,University,2019-06-26,,Active
+QUAL000069,DUD100053,BA English,Degree,University,2020-06-23,,Active
+QUAL000070,DUD100054,BA Education,Degree,University,2020-03-11,,Active
+QUAL000071,DUD100055,BA Linguistics,Degree,University,2023-06-26,,Active
+QUAL000072,DUD100055,MA Education,Degree,University,2025-09-14,,Active
+QUAL000073,DUD100056,MA Education,Degree,University,2020-04-19,,Active
+QUAL000074,DUD100057,BA Education,Degree,University,2025-10-12,,Active
+QUAL000075,DUD100058,MA Education,Degree,University,2022-02-26,,Active
+QUAL000076,DUD100058,CELTA,Teaching Certification,Cambridge English,2025-02-19,,Active
+QUAL000077,DUD100059,BA Education,Degree,University,2019-10-14,,Active
+QUAL000078,DUD100060,TEFL,Teaching Certification,International TEFL Academy,2020-04-22,,Active
+QUAL000079,DUD100060,MA Education,Degree,University,2024-01-08,,Active
+QUAL000080,DUD100061,BA Education,Degree,University,2020-04-06,,Active
+QUAL000081,DUD100062,TESOL,Teaching Certification,TESOL International Association,2024-04-25,,Active
+QUAL000082,DUD100063,TEFL,Teaching Certification,International TEFL Academy,2025-12-11,,Active
+QUAL000083,DUD100064,BA Education,Degree,University,2022-04-23,,Active
+QUAL000084,DUD100065,CELTA,Teaching Certification,Cambridge English,2023-12-04,,Active
+QUAL000085,DUD100066,MA Education,Degree,University,2021-03-25,,Active
+QUAL000086,DUD100066,TESOL,Teaching Certification,TESOL International Association,2025-08-07,,Active
+QUAL000087,DUD100067,MA Education,Degree,University,2025-06-01,,Active
+QUAL000088,DUD100067,BA Linguistics,Degree,University,2024-06-01,,Active
+QUAL000089,DUD100068,TESOL,Teaching Certification,TESOL International Association,2018-03-26,,Active
+QUAL000090,DUD100069,TESOL,Teaching Certification,TESOL International Association,2025-08-19,2029-11-27,Active
+QUAL000091,DUD100069,CELTA,Teaching Certification,Cambridge English,2025-07-10,2028-04-13,Active
+QUAL000092,DUD100070,TESOL,Teaching Certification,TESOL International Association,2018-07-04,,Active
+QUAL000093,DUD100071,CELTA,Teaching Certification,Cambridge English,2022-02-27,,Active
+QUAL000094,DUD100072,BA English,Degree,University,2023-12-10,,Active
+QUAL000095,DUD100072,CELTA,Teaching Certification,Cambridge English,2022-07-02,,Active
+QUAL000096,DUD100073,BA Education,Degree,University,2020-04-16,,Active
+QUAL000097,DUD100074,TESOL,Teaching Certification,TESOL International Association,2024-12-20,,Active
+QUAL000098,DUD100074,BA Education,Degree,University,2018-11-27,,Active
+QUAL000099,DUD100075,TEFL,Teaching Certification,International TEFL Academy,2022-03-08,,Active
+QUAL000100,DUD100075,BA Linguistics,Degree,University,2022-02-04,,Active
+QUAL000101,DUD100076,TEFL,Teaching Certification,International TEFL Academy,2020-01-20,,Active
+QUAL000102,DUD100077,MA Education,Degree,University,2019-10-15,,Active
+QUAL000103,DUD100078,BA Education,Degree,University,2021-12-23,,Active
+QUAL000104,DUD100079,MA Education,Degree,University,2023-04-13,,Active
+QUAL000105,DUD100079,TESOL,Teaching Certification,TESOL International Association,2019-02-16,,Active
+QUAL000106,DUD100080,BA Linguistics,Degree,University,2018-02-03,,Active
+QUAL000107,DUD100081,BA Education,Degree,University,2025-04-12,,Active
+QUAL000108,DUD100082,BA English,Degree,University,2023-04-01,,Active
+QUAL000109,DUD100083,BA Linguistics,Degree,University,2024-03-27,,Active
+QUAL000110,DUD100083,TEFL,Teaching Certification,International TEFL Academy,2018-05-23,2020-09-28,Expired
+QUAL000111,DUD100084,BA English,Degree,University,2020-07-17,,Active
+QUAL000112,DUD100085,CELTA,Teaching Certification,Cambridge English,2024-12-06,,Active
+QUAL000113,DUD100086,BA Education,Degree,University,2024-06-23,,Active
+QUAL000114,DUD100087,BA English,Degree,University,2022-11-07,,Active
+QUAL000115,DUD100088,TEFL,Teaching Certification,International TEFL Academy,2024-03-05,,Active
+QUAL000116,DUD100088,MA Education,Degree,University,2022-03-28,,Active
+QUAL000117,DUD100089,CELTA,Teaching Certification,Cambridge English,2024-06-18,,Active
+QUAL000118,DUD100090,BA English,Degree,University,2018-04-04,,Active
+QUAL000119,DUD100090,BA Linguistics,Degree,University,2024-06-22,,Active
+QUAL000120,DUD100091,BA Linguistics,Degree,University,2021-04-09,,Active
+QUAL000121,DUD100092,TEFL,Teaching Certification,International TEFL Academy,2023-12-02,,Active
+QUAL000122,DUD100093,CELTA,Teaching Certification,Cambridge English,2022-01-23,,Active
+QUAL000123,DUD100094,CELTA,Teaching Certification,Cambridge English,2025-06-01,,Active
+QUAL000124,DUD100094,MA Education,Degree,University,2023-12-04,,Active
+QUAL000125,DUD100095,TESOL,Teaching Certification,TESOL International Association,2023-08-08,,Active
+QUAL000126,DUD100096,BA English,Degree,University,2020-11-20,,Active
+QUAL000127,DUD100097,CELTA,Teaching Certification,Cambridge English,2025-02-02,,Active
+QUAL000128,DUD100097,BA Linguistics,Degree,University,2022-01-20,,Active
+QUAL000129,DUD100098,BA Linguistics,Degree,University,2019-10-05,,Active
+QUAL000130,DUD100099,CELTA,Teaching Certification,Cambridge English,2024-06-05,,Active
+QUAL000131,DUD100100,MA Education,Degree,University,2023-04-27,,Active
+QUAL000132,DUD100100,CELTA,Teaching Certification,Cambridge English,2020-10-12,,Active
+QUAL000133,DUD100101,MA Education,Degree,University,2024-04-11,,Active
+QUAL000134,DUD100101,TESOL,Teaching Certification,TESOL International Association,2020-05-02,,Active
+QUAL000135,DUD100102,MA Education,Degree,University,2018-04-08,,Active
+QUAL000136,DUD100103,TESOL,Teaching Certification,TESOL International Association,2024-05-02,,Active
+QUAL000137,DUD100104,BA Education,Degree,University,2019-07-28,,Active
+QUAL000138,DUD100105,CELTA,Teaching Certification,Cambridge English,2019-02-10,,Active
+QUAL000139,DUD100106,BA Education,Degree,University,2020-11-26,,Active
+QUAL000140,DUD100106,TESOL,Teaching Certification,TESOL International Association,2025-03-07,,Active
+QUAL000141,DUD100107,CELTA,Teaching Certification,Cambridge English,2024-10-23,,Active
+QUAL000142,DUD100108,CELTA,Teaching Certification,Cambridge English,2020-02-15,,Active
+QUAL000143,DUD100109,TESOL,Teaching Certification,TESOL International Association,2021-07-17,,Active
+QUAL000144,DUD100110,TEFL,Teaching Certification,International TEFL Academy,2019-07-01,,Active
+QUAL000145,DUD100111,BA Linguistics,Degree,University,2024-08-27,,Active
+QUAL000146,DUD100112,CELTA,Teaching Certification,Cambridge English,2025-03-23,2027-05-23,Active
+QUAL000147,DUD100113,BA English,Degree,University,2021-07-08,,Active
+QUAL000148,DUD100114,BA Linguistics,Degree,University,2020-01-11,,Active
+QUAL000149,DUD100115,MA Education,Degree,University,2025-06-21,,Active
+QUAL000150,DUD100115,TEFL,Teaching Certification,International TEFL Academy,2019-03-01,2021-08-18,Expired
+QUAL000151,DUD100116,BA Education,Degree,University,2023-12-22,,Active
+QUAL000152,DUD100117,BA Education,Degree,University,2018-05-28,,Active
+QUAL000153,DUD100117,BA English,Degree,University,2023-01-22,,Active
+QUAL000154,DUD100118,MA Education,Degree,University,2018-12-22,,Active
+QUAL000155,DUD100119,CELTA,Teaching Certification,Cambridge English,2024-07-16,,Active
+QUAL000156,DUD100120,BA English,Degree,University,2025-03-09,,Active
+QUAL000157,DUD100120,BA Education,Degree,University,2018-01-13,,Active
+QUAL000158,DUD100121,BA English,Degree,University,2025-08-13,,Active
+QUAL000159,DUD100122,BA Linguistics,Degree,University,2024-07-24,,Active
+QUAL000160,DUD100123,MA Education,Degree,University,2025-05-26,,Active
+QUAL000161,DUD100124,CELTA,Teaching Certification,Cambridge English,2023-07-02,,Active
+QUAL000162,DUD100124,BA English,Degree,University,2023-08-16,,Active
+QUAL000163,DUD100125,BA Linguistics,Degree,University,2024-03-23,,Active
+QUAL000164,DUD100126,BA Education,Degree,University,2021-04-05,,Active
+QUAL000165,DUD100127,TESOL,Teaching Certification,TESOL International Association,2024-03-09,2026-10-04,Active
+QUAL000166,DUD100127,BA Linguistics,Degree,University,2019-05-12,,Active
+QUAL000167,DUD100128,MA Education,Degree,University,2025-07-21,,Active
+QUAL000168,DUD100129,MA Education,Degree,University,2025-11-14,,Active
+QUAL000169,DUD100129,TESOL,Teaching Certification,TESOL International Association,2021-02-28,,Active
+QUAL000170,DUD100130,CELTA,Teaching Certification,Cambridge English,2020-02-12,,Active
+QUAL000171,DUD100131,TESOL,Teaching Certification,TESOL International Association,2019-06-14,,Active
+QUAL000172,DUD100132,TESOL,Teaching Certification,TESOL International Association,2025-06-04,,Active
+QUAL000173,DUD100132,CELTA,Teaching Certification,Cambridge English,2022-05-21,,Active
+QUAL000174,DUD100133,TEFL,Teaching Certification,International TEFL Academy,2018-06-20,,Active
+QUAL000175,DUD100133,BA English,Degree,University,2025-07-23,,Active
+QUAL000176,DUD100134,BA English,Degree,University,2025-03-21,,Active
+QUAL000177,DUD100134,BA Education,Degree,University,2020-03-17,,Active
+QUAL000178,DUD100135,CELTA,Teaching Certification,Cambridge English,2020-04-27,,Active
+QUAL000179,DUD100136,BA Education,Degree,University,2025-06-25,,Active
+QUAL000180,DUD100137,TESOL,Teaching Certification,TESOL International Association,2024-04-23,,Active
+QUAL000181,DUD100137,TEFL,Teaching Certification,International TEFL Academy,2018-10-20,,Active
+QUAL000182,DUD100138,TESOL,Teaching Certification,TESOL International Association,2020-01-02,,Active
+QUAL000183,DUD100139,BA English,Degree,University,2020-05-04,,Active
+QUAL000184,DUD100140,CELTA,Teaching Certification,Cambridge English,2021-12-05,,Active
+QUAL000185,DUD100141,TESOL,Teaching Certification,TESOL International Association,2022-12-25,,Active
+QUAL000186,DUD100142,BA Education,Degree,University,2024-07-23,,Active
+QUAL000187,DUD100143,TEFL,Teaching Certification,International TEFL Academy,2018-03-08,,Active
+QUAL000188,DUD100144,BA Education,Degree,University,2023-04-15,,Active
+QUAL000189,DUD100145,TESOL,Teaching Certification,TESOL International Association,2022-08-16,,Active
+QUAL000190,DUD100145,MA Education,Degree,University,2022-03-07,,Active
+QUAL000191,DUD100146,BA English,Degree,University,2023-12-22,,Active
+QUAL000192,DUD100146,BA Linguistics,Degree,University,2020-12-27,,Active
+QUAL000193,DUD100147,MA Education,Degree,University,2019-04-08,,Active
+QUAL000194,DUD100148,MA Education,Degree,University,2019-08-16,,Active
+QUAL000195,DUD100149,TESOL,Teaching Certification,TESOL International Association,2019-04-27,,Active
+QUAL000196,DUD100150,CELTA,Teaching Certification,Cambridge English,2021-02-11,,Active
+QUAL000197,DUD100151,TESOL,Teaching Certification,TESOL International Association,2023-11-21,,Active
+QUAL000198,DUD100152,MA Education,Degree,University,2025-05-22,,Active
+QUAL000199,DUD100153,TESOL,Teaching Certification,TESOL International Association,2022-08-21,,Active
+QUAL000200,DUD100154,BA Education,Degree,University,2018-05-11,,Active
+QUAL000201,DUD100155,CELTA,Teaching Certification,Cambridge English,2022-03-05,,Active
+QUAL000202,DUD100156,BA English,Degree,University,2023-01-17,,Active
+QUAL000203,DUD100157,BA English,Degree,University,2021-03-28,,Active
+QUAL000204,DUD100158,BA Education,Degree,University,2018-01-26,,Active
+QUAL000205,DUD100158,MA Education,Degree,University,2021-05-14,,Active
+QUAL000206,DUD100159,TEFL,Teaching Certification,International TEFL Academy,2020-03-19,,Active
+QUAL000207,DUD100160,BA Education,Degree,University,2023-09-20,,Active
+QUAL000208,DUD100161,BA Linguistics,Degree,University,2019-09-27,,Active
+QUAL000209,DUD100161,BA English,Degree,University,2019-09-09,,Active
+QUAL000210,DUD100162,BA English,Degree,University,2023-04-18,,Active
+QUAL000211,DUD100163,TESOL,Teaching Certification,TESOL International Association,2022-06-23,,Active
+QUAL000212,DUD100163,BA Linguistics,Degree,University,2020-04-15,,Active
+QUAL000213,DUD100164,TESOL,Teaching Certification,TESOL International Association,2023-12-26,2026-07-06,Expired
+QUAL000214,DUD100164,BA Linguistics,Degree,University,2020-11-06,,Active
+QUAL000215,DUD100165,BA Education,Degree,University,2024-07-20,,Active
+QUAL000216,DUD100166,TESOL,Teaching Certification,TESOL International Association,2021-04-25,,Active
+QUAL000217,DUD100166,BA English,Degree,University,2018-07-10,,Active
+QUAL000218,DUD100167,BA English,Degree,University,2021-02-02,,Active
+QUAL000219,DUD100167,TEFL,Teaching Certification,International TEFL Academy,2018-01-03,,Active
+QUAL000220,DUD100168,BA Linguistics,Degree,University,2018-11-13,,Active
+QUAL000221,DUD100169,CELTA,Teaching Certification,Cambridge English,2023-07-05,,Active
+QUAL000222,DUD100170,TESOL,Teaching Certification,TESOL International Association,2020-05-12,,Active
+QUAL000223,DUD100171,TESOL,Teaching Certification,TESOL International Association,2022-07-27,,Active
+QUAL000224,DUD100172,TESOL,Teaching Certification,TESOL International Association,2021-11-10,,Active
+QUAL000225,DUD100173,TESOL,Teaching Certification,TESOL International Association,2025-05-22,,Active
+QUAL000226,DUD100174,MA Education,Degree,University,2021-11-28,,Active
+QUAL000227,DUD100175,BA Education,Degree,University,2023-07-04,,Active
+QUAL000228,DUD100175,BA English,Degree,University,2019-05-19,,Active
+QUAL000229,DUD100176,MA Education,Degree,University,2022-12-25,,Active
+QUAL000230,DUD100176,BA English,Degree,University,2020-03-13,,Active
+QUAL000231,DUD100177,BA Education,Degree,University,2020-12-16,,Active
+QUAL000232,DUD100178,BA English,Degree,University,2020-12-07,,Active
+QUAL000233,DUD100179,TEFL,Teaching Certification,International TEFL Academy,2025-03-22,,Active
+QUAL000234,DUD100180,BA Education,Degree,University,2023-11-25,,Active
+QUAL000235,DUD100180,TESOL,Teaching Certification,TESOL International Association,2023-02-08,,Active
+QUAL000236,DUD100181,TESOL,Teaching Certification,TESOL International Association,2022-04-18,,Active
+QUAL000237,DUD100182,BA Education,Degree,University,2021-05-01,,Active
+QUAL000238,DUD100183,BA Linguistics,Degree,University,2025-09-10,,Active
+QUAL000239,DUD100184,BA Linguistics,Degree,University,2022-07-05,,Active
+QUAL000240,DUD100185,CELTA,Teaching Certification,Cambridge English,2025-04-06,,Active
+QUAL000241,DUD100186,BA Education,Degree,University,2023-11-01,,Active
+QUAL000242,DUD100187,MA Education,Degree,University,2019-01-26,,Active
+QUAL000243,DUD100187,TESOL,Teaching Certification,TESOL International Association,2018-07-14,,Active
+QUAL000244,DUD100188,BA English,Degree,University,2024-05-17,,Active
+QUAL000245,DUD100188,TESOL,Teaching Certification,TESOL International Association,2022-01-11,,Active
+QUAL000246,DUD100189,BA English,Degree,University,2025-10-23,,Active
+QUAL000247,DUD100190,BA English,Degree,University,2024-03-20,,Active
+QUAL000248,DUD100191,MA Education,Degree,University,2019-10-27,,Active
+QUAL000249,DUD100191,BA Linguistics,Degree,University,2021-07-11,,Active
+QUAL000250,DUD100192,BA Education,Degree,University,2022-01-14,,Active
+QUAL000251,DUD100193,BA Linguistics,Degree,University,2025-02-09,,Active
+QUAL000252,DUD100194,TESOL,Teaching Certification,TESOL International Association,2021-07-02,,Active
+QUAL000253,DUD100195,BA English,Degree,University,2021-10-24,,Active
+QUAL000254,DUD100195,MA Education,Degree,University,2020-09-27,,Active
+QUAL000255,DUD100196,BA Linguistics,Degree,University,2018-02-02,,Active
+QUAL000256,DUD100197,BA English,Degree,University,2021-08-17,,Active
+QUAL000257,DUD100198,MA Education,Degree,University,2025-01-19,,Active
+QUAL000258,DUD100199,BA Linguistics,Degree,University,2024-07-21,,Active
+QUAL000259,DUD100200,BA Linguistics,Degree,University,2023-07-04,,Active
+QUAL000260,DUD100201,BA English,Degree,University,2023-05-03,,Active
+QUAL000261,DUD100202,MA Education,Degree,University,2022-12-23,,Active
+QUAL000262,DUD100203,MA Education,Degree,University,2018-11-12,,Active
+QUAL000263,DUD100203,BA Education,Degree,University,2019-02-10,,Active
+QUAL000264,DUD100204,TESOL,Teaching Certification,TESOL International Association,2021-06-05,,Active
+QUAL000265,DUD100205,TEFL,Teaching Certification,International TEFL Academy,2018-07-05,,Active
+QUAL000266,DUD100206,CELTA,Teaching Certification,Cambridge English,2023-11-22,,Active
+QUAL000267,DUD100207,TESOL,Teaching Certification,TESOL International Association,2023-06-21,,Active
+QUAL000268,DUD100208,BA Education,Degree,University,2019-01-08,,Active
+QUAL000269,DUD100209,BA Linguistics,Degree,University,2024-04-14,,Active
+QUAL000270,DUD100209,BA Education,Degree,University,2020-03-12,,Active
+QUAL000271,DUD100210,MA Education,Degree,University,2021-08-28,,Active
+QUAL000272,DUD100211,TEFL,Teaching Certification,International TEFL Academy,2020-08-14,,Active
+QUAL000273,DUD100211,BA English,Degree,University,2019-12-27,,Active
+QUAL000274,DUD100212,BA Linguistics,Degree,University,2023-04-26,,Active
+QUAL000275,DUD100213,TEFL,Teaching Certification,International TEFL Academy,2019-04-05,,Active
+QUAL000276,DUD100214,CELTA,Teaching Certification,Cambridge English,2022-05-22,,Active
+QUAL000277,DUD100215,BA English,Degree,University,2023-01-01,,Active
+QUAL000278,DUD100215,BA Linguistics,Degree,University,2023-09-24,,Active
+QUAL000279,DUD100216,BA English,Degree,University,2024-06-11,,Active
+QUAL000280,DUD100217,BA Education,Degree,University,2020-02-26,,Active
+QUAL000281,DUD100218,CELTA,Teaching Certification,Cambridge English,2021-05-21,,Active
+QUAL000282,DUD100218,TESOL,Teaching Certification,TESOL International Association,2022-10-21,,Active
+QUAL000283,DUD100219,TEFL,Teaching Certification,International TEFL Academy,2018-11-13,2020-11-06,Expired
+QUAL000284,DUD100219,TESOL,Teaching Certification,TESOL International Association,2019-08-13,,Active
+QUAL000285,DUD100220,MA Education,Degree,University,2025-04-01,,Active
+QUAL000286,DUD100221,TESOL,Teaching Certification,TESOL International Association,2018-06-26,,Active
+QUAL000287,DUD100221,MA Education,Degree,University,2020-04-12,,Active
+QUAL000288,DUD100222,TEFL,Teaching Certification,International TEFL Academy,2018-01-13,,Active
+QUAL000289,DUD100223,TEFL,Teaching Certification,International TEFL Academy,2022-08-09,,Active
+QUAL000290,DUD100224,TESOL,Teaching Certification,TESOL International Association,2025-08-09,,Active
+QUAL000291,DUD100225,MA Education,Degree,University,2021-08-13,,Active
+QUAL000292,DUD100225,BA Linguistics,Degree,University,2024-06-01,,Active
+QUAL000293,DUD100226,MA Education,Degree,University,2021-10-11,,Active
+QUAL000294,DUD100226,TEFL,Teaching Certification,International TEFL Academy,2021-01-03,,Active
+QUAL000295,DUD100227,TESOL,Teaching Certification,TESOL International Association,2024-12-12,,Active
+QUAL000296,DUD100227,BA Linguistics,Degree,University,2023-09-10,,Active
+QUAL000297,DUD100228,BA Education,Degree,University,2022-08-15,,Active
+QUAL000298,DUD100229,MA Education,Degree,University,2023-05-26,,Active
+QUAL000299,DUD100230,BA Linguistics,Degree,University,2018-12-03,,Active
+QUAL000300,DUD100231,BA Education,Degree,University,2024-04-18,,Active
+QUAL000301,DUD100232,BA English,Degree,University,2020-03-25,,Active
+QUAL000302,DUD100233,CELTA,Teaching Certification,Cambridge English,2019-11-25,,Active
+QUAL000303,DUD100234,BA Linguistics,Degree,University,2019-02-19,,Active
+QUAL000304,DUD100235,BA Linguistics,Degree,University,2024-01-11,,Active
+QUAL000305,DUD100235,BA Education,Degree,University,2020-09-25,,Active
+QUAL000306,DUD100236,BA Linguistics,Degree,University,2021-01-10,,Active
+QUAL000307,DUD100236,MA Education,Degree,University,2024-09-04,,Active
+QUAL000308,DUD100237,CELTA,Teaching Certification,Cambridge English,2025-12-06,,Active
+QUAL000309,DUD100238,TEFL,Teaching Certification,International TEFL Academy,2022-10-04,2024-10-07,Expired
+QUAL000310,DUD100239,BA Linguistics,Degree,University,2025-11-09,,Active
+QUAL000311,DUD100239,BA Education,Degree,University,2020-01-05,,Active
+QUAL000312,DUD100240,BA English,Degree,University,2025-05-21,,Active
+QUAL000313,DUD100240,BA Linguistics,Degree,University,2025-02-22,,Active
+QUAL000314,DUD100241,BA Education,Degree,University,2022-02-10,,Active
+QUAL000315,DUD100241,TEFL,Teaching Certification,International TEFL Academy,2022-04-26,2025-12-06,Expired
+QUAL000316,DUD100242,TEFL,Teaching Certification,International TEFL Academy,2022-09-08,,Active
+QUAL000317,DUD100243,BA English,Degree,University,2022-10-12,,Active
+QUAL000318,DUD100244,BA Education,Degree,University,2021-08-10,,Active
+QUAL000319,DUD100245,BA Linguistics,Degree,University,2020-08-17,,Active
+QUAL000320,DUD100246,BA English,Degree,University,2020-06-03,,Active
+QUAL000321,DUD100247,BA English,Degree,University,2024-06-27,,Active
+QUAL000322,DUD100248,BA English,Degree,University,2021-12-26,,Active
+QUAL000323,DUD100249,TEFL,Teaching Certification,International TEFL Academy,2023-07-02,,Active
+QUAL000324,DUD100249,BA Linguistics,Degree,University,2023-03-07,,Active
+QUAL000325,DUD100250,MA Education,Degree,University,2020-11-14,,Active
+QUAL000326,DUD100250,BA English,Degree,University,2019-02-18,,Active
+QUAL000327,DUD100251,BA Education,Degree,University,2023-01-12,,Active
+QUAL000328,DUD100252,BA Linguistics,Degree,University,2019-04-22,,Active
+QUAL000329,DUD100252,CELTA,Teaching Certification,Cambridge English,2023-06-20,2026-08-04,Expired
+QUAL000330,DUD100253,CELTA,Teaching Certification,Cambridge English,2020-01-03,,Active
+QUAL000331,DUD100253,BA English,Degree,University,2022-11-09,,Active
+QUAL000332,DUD100254,TESOL,Teaching Certification,TESOL International Association,2018-03-14,,Active
+QUAL000333,DUD100254,BA English,Degree,University,2019-02-23,,Active
+QUAL000334,DUD100255,BA Education,Degree,University,2019-01-13,,Active
+QUAL000335,DUD100256,TESOL,Teaching Certification,TESOL International Association,2021-04-14,,Active
+QUAL000336,DUD100257,BA English,Degree,University,2023-09-02,,Active
+QUAL000337,DUD100258,CELTA,Teaching Certification,Cambridge English,2023-01-21,,Active
+QUAL000338,DUD100259,BA Education,Degree,University,2022-12-16,,Active
+QUAL000339,DUD100260,BA Education,Degree,University,2020-02-28,,Active
+QUAL000340,DUD100261,CELTA,Teaching Certification,Cambridge English,2022-01-01,,Active
+QUAL000341,DUD100261,TESOL,Teaching Certification,TESOL International Association,2024-09-08,,Active
+QUAL000342,DUD100262,CELTA,Teaching Certification,Cambridge English,2021-12-06,,Active
+QUAL000343,DUD100263,TEFL,Teaching Certification,International TEFL Academy,2021-08-03,2023-12-06,Expired
+QUAL000344,DUD100263,BA Linguistics,Degree,University,2018-11-16,,Active
+QUAL000345,DUD100264,BA English,Degree,University,2020-11-01,,Active
+QUAL000346,DUD100265,TESOL,Teaching Certification,TESOL International Association,2019-05-11,,Active
+QUAL000347,DUD100265,TEFL,Teaching Certification,International TEFL Academy,2022-04-01,2025-01-09,Expired
+QUAL000348,DUD100266,TEFL,Teaching Certification,International TEFL Academy,2018-02-03,,Active
+QUAL000349,DUD100267,BA Education,Degree,University,2023-12-28,,Active
+QUAL000350,DUD100267,TEFL,Teaching Certification,International TEFL Academy,2022-07-26,,Active
+QUAL000351,DUD100268,BA English,Degree,University,2023-01-22,,Active
+QUAL000352,DUD100269,CELTA,Teaching Certification,Cambridge English,2019-01-19,,Active
+QUAL000353,DUD100270,MA Education,Degree,University,2020-02-19,,Active
+QUAL000354,DUD100271,CELTA,Teaching Certification,Cambridge English,2022-11-11,,Active
+QUAL000355,DUD100271,BA Linguistics,Degree,University,2019-07-24,,Active
+QUAL000356,DUD100272,CELTA,Teaching Certification,Cambridge English,2023-05-26,2027-05-26,Active
+QUAL000357,DUD100273,TEFL,Teaching Certification,International TEFL Academy,2019-06-18,,Active
+QUAL000358,DUD100274,MA Education,Degree,University,2020-01-15,,Active
+QUAL000359,DUD100275,CELTA,Teaching Certification,Cambridge English,2020-09-19,,Active
+QUAL000360,DUD100276,MA Education,Degree,University,2020-04-20,,Active
+QUAL000361,DUD100276,BA English,Degree,University,2025-03-27,,Active
+QUAL000362,DUD100277,BA English,Degree,University,2021-10-17,,Active
+QUAL000363,DUD100278,MA Education,Degree,University,2023-07-17,,Active
+QUAL000364,DUD100279,CELTA,Teaching Certification,Cambridge English,2019-07-04,,Active
+QUAL000365,DUD100279,BA Education,Degree,University,2018-01-14,,Active
+QUAL000366,DUD100280,TEFL,Teaching Certification,International TEFL Academy,2025-01-18,,Active
+QUAL000367,DUD100280,BA English,Degree,University,2022-07-28,,Active
+QUAL000368,DUD100281,BA Education,Degree,University,2018-03-16,,Active
+QUAL000369,DUD100282,TESOL,Teaching Certification,TESOL International Association,2020-08-05,,Active
+QUAL000370,DUD100282,MA Education,Degree,University,2024-12-25,,Active
+QUAL000371,DUD100283,MA Education,Degree,University,2025-12-24,,Active
+QUAL000372,DUD100283,TESOL,Teaching Certification,TESOL International Association,2023-07-28,2027-11-06,Active
+QUAL000373,DUD100284,CELTA,Teaching Certification,Cambridge English,2022-09-15,,Active
+QUAL000374,DUD100285,MA Education,Degree,University,2022-01-14,,Active
+QUAL000375,DUD100285,TESOL,Teaching Certification,TESOL International Association,2022-11-02,,Active
+QUAL000376,DUD100286,CELTA,Teaching Certification,Cambridge English,2018-07-12,,Active
+QUAL000377,DUD100287,TESOL,Teaching Certification,TESOL International Association,2024-12-14,,Active
+QUAL000378,DUD100288,BA Education,Degree,University,2023-01-05,,Active
+QUAL000379,DUD100288,CELTA,Teaching Certification,Cambridge English,2021-01-01,,Active
+QUAL000380,DUD100289,BA Linguistics,Degree,University,2018-02-12,,Active
+QUAL000381,DUD100290,CELTA,Teaching Certification,Cambridge English,2022-03-12,,Active
+QUAL000382,DUD100290,BA English,Degree,University,2020-07-01,,Active
+QUAL000383,DUD100291,MA Education,Degree,University,2023-06-17,,Active
+QUAL000384,DUD100291,CELTA,Teaching Certification,Cambridge English,2018-03-11,2021-04-07,Expired
+QUAL000385,DUD100292,BA Linguistics,Degree,University,2019-02-10,,Active
+QUAL000386,DUD100293,CELTA,Teaching Certification,Cambridge English,2024-02-11,,Active
+QUAL000387,DUD100294,MA Education,Degree,University,2024-02-13,,Active
+QUAL000388,DUD100295,BA English,Degree,University,2025-03-23,,Active
+QUAL000389,DUD100295,TESOL,Teaching Certification,TESOL International Association,2021-02-08,,Active
+QUAL000390,DUD100296,TEFL,Teaching Certification,International TEFL Academy,2018-10-06,2022-10-14,Expired
+QUAL000391,DUD100296,BA English,Degree,University,2019-12-10,,Active
+QUAL000392,DUD100297,BA English,Degree,University,2021-03-07,,Active
+QUAL000393,DUD100297,TEFL,Teaching Certification,International TEFL Academy,2024-12-03,,Active
+QUAL000394,DUD100298,TEFL,Teaching Certification,International TEFL Academy,2023-08-22,,Active
+QUAL000395,DUD100299,CELTA,Teaching Certification,Cambridge English,2019-08-19,,Active
+QUAL000396,DUD100300,TESOL,Teaching Certification,TESOL International Association,2021-08-11,,Active
+QUAL000397,DUD100301,BA English,Degree,University,2020-02-11,,Active
+QUAL000398,DUD100302,CELTA,Teaching Certification,Cambridge English,2020-09-21,,Active
+QUAL000399,DUD100302,TESOL,Teaching Certification,TESOL International Association,2020-05-08,,Active
+QUAL000400,DUD100303,CELTA,Teaching Certification,Cambridge English,2022-08-11,,Active
+QUAL000401,DUD100304,BA Linguistics,Degree,University,2019-09-07,,Active
+QUAL000402,DUD100304,MA Education,Degree,University,2024-04-05,,Active
+QUAL000403,DUD100305,BA Linguistics,Degree,University,2021-01-10,,Active
+QUAL000404,DUD100305,BA English,Degree,University,2020-08-05,,Active
+QUAL000405,DUD100306,MA Education,Degree,University,2023-04-07,,Active
+QUAL000406,DUD100307,BA Education,Degree,University,2018-10-24,,Active
+QUAL000407,DUD100307,BA Linguistics,Degree,University,2024-08-27,,Active
+QUAL000408,DUD100308,TESOL,Teaching Certification,TESOL International Association,2018-12-21,,Active
+QUAL000409,DUD100309,BA English,Degree,University,2023-08-25,,Active
+QUAL000410,DUD100309,BA Education,Degree,University,2024-03-04,,Active
+QUAL000411,DUD100310,BA Education,Degree,University,2025-02-27,,Active
+QUAL000412,DUD100310,CELTA,Teaching Certification,Cambridge English,2019-01-08,,Active
+QUAL000413,DUD100311,CELTA,Teaching Certification,Cambridge English,2021-07-16,,Active
+QUAL000414,DUD100312,CELTA,Teaching Certification,Cambridge English,2018-02-23,,Active
+QUAL000415,DUD100313,BA English,Degree,University,2018-06-21,,Active
+QUAL000416,DUD100313,MA Education,Degree,University,2023-01-06,,Active
+QUAL000417,DUD100314,BA English,Degree,University,2020-03-09,,Active
+QUAL000418,DUD100314,TESOL,Teaching Certification,TESOL International Association,2024-04-06,,Active
+QUAL000419,DUD100315,BA Education,Degree,University,2021-03-13,,Active
+QUAL000420,DUD100316,TEFL,Teaching Certification,International TEFL Academy,2018-04-09,,Active
+QUAL000421,DUD100317,BA Education,Degree,University,2022-09-08,,Active
+QUAL000422,DUD100318,CELTA,Teaching Certification,Cambridge English,2024-05-25,,Active
+QUAL000423,DUD100319,TEFL,Teaching Certification,International TEFL Academy,2024-04-07,2027-09-20,Active
+QUAL000424,DUD100320,BA Education,Degree,University,2018-02-06,,Active
+QUAL000425,DUD100321,BA Linguistics,Degree,University,2019-12-21,,Active
+QUAL000426,DUD100322,BA English,Degree,University,2021-02-14,,Active
+QUAL000427,DUD100323,MA Education,Degree,University,2019-08-28,,Active
+QUAL000428,DUD100323,BA Linguistics,Degree,University,2024-02-09,,Active
+QUAL000429,DUD100324,TESOL,Teaching Certification,TESOL International Association,2018-08-19,,Active
+QUAL000430,DUD100325,TEFL,Teaching Certification,International TEFL Academy,2020-01-26,,Active
+QUAL000431,DUD100326,TEFL,Teaching Certification,International TEFL Academy,2025-09-05,,Active
+QUAL000432,DUD100327,CELTA,Teaching Certification,Cambridge English,2019-05-10,2023-09-03,Expired
+QUAL000433,DUD100327,MA Education,Degree,University,2024-11-13,,Active
+QUAL000434,DUD100328,BA Linguistics,Degree,University,2019-03-20,,Active
+QUAL000435,DUD100328,CELTA,Teaching Certification,Cambridge English,2018-09-24,,Active
+QUAL000436,DUD100329,BA Education,Degree,University,2022-10-04,,Active
+QUAL000437,DUD100330,TESOL,Teaching Certification,TESOL International Association,2022-11-12,2026-05-17,Expired
+QUAL000438,DUD100331,BA Linguistics,Degree,University,2019-05-19,,Active
+QUAL000439,DUD100332,MA Education,Degree,University,2018-03-07,,Active
+QUAL000440,DUD100333,TESOL,Teaching Certification,TESOL International Association,2020-12-10,,Active
+QUAL000441,DUD100334,BA English,Degree,University,2024-10-02,,Active
+QUAL000442,DUD100335,TESOL,Teaching Certification,TESOL International Association,2025-12-05,,Active
+QUAL000443,DUD100336,MA Education,Degree,University,2018-01-14,,Active
+QUAL000444,DUD100336,BA English,Degree,University,2019-05-18,,Active
+QUAL000445,DUD100337,BA English,Degree,University,2020-02-25,,Active
+QUAL000446,DUD100338,BA Education,Degree,University,2020-01-17,,Active
+QUAL000447,DUD100338,BA Linguistics,Degree,University,2024-01-06,,Active
+QUAL000448,DUD100339,BA Education,Degree,University,2019-09-17,,Active
+QUAL000449,DUD100339,TESOL,Teaching Certification,TESOL International Association,2024-05-11,,Active
+QUAL000450,DUD100340,BA Education,Degree,University,2024-10-17,,Active
+QUAL000451,DUD100341,CELTA,Teaching Certification,Cambridge English,2025-05-19,,Active
+QUAL000452,DUD100342,BA Linguistics,Degree,University,2022-03-05,,Active
+QUAL000453,DUD100343,TESOL,Teaching Certification,TESOL International Association,2020-09-22,,Active
+QUAL000454,DUD100343,TEFL,Teaching Certification,International TEFL Academy,2024-11-10,,Active
+QUAL000455,DUD100344,TEFL,Teaching Certification,International TEFL Academy,2020-02-26,,Active
+QUAL000456,DUD100345,TEFL,Teaching Certification,International TEFL Academy,2019-09-04,,Active
+QUAL000457,DUD100346,BA Linguistics,Degree,University,2025-06-25,,Active
+QUAL000458,DUD100346,BA Education,Degree,University,2021-10-13,,Active
+QUAL000459,DUD100347,MA Education,Degree,University,2023-08-08,,Active
+QUAL000460,DUD100347,BA English,Degree,University,2019-03-05,,Active
+QUAL000461,DUD100348,TESOL,Teaching Certification,TESOL International Association,2025-08-14,,Active
+QUAL000462,DUD100348,BA Education,Degree,University,2020-07-16,,Active
+QUAL000463,DUD100349,TEFL,Teaching Certification,International TEFL Academy,2019-10-14,,Active
+QUAL000464,DUD100349,TESOL,Teaching Certification,TESOL International Association,2018-05-14,,Active
+QUAL000465,DUD100350,TESOL,Teaching Certification,TESOL International Association,2021-04-19,,Active
+QUAL000466,DUD100351,TEFL,Teaching Certification,International TEFL Academy,2023-05-21,,Active
+QUAL000467,DUD100351,BA Education,Degree,University,2019-01-13,,Active
+QUAL000468,DUD100352,TEFL,Teaching Certification,International TEFL Academy,2021-02-21,,Active
+QUAL000469,DUD100353,CELTA,Teaching Certification,Cambridge English,2021-08-03,,Active
+QUAL000470,DUD100354,BA English,Degree,University,2020-02-21,,Active
+QUAL000471,DUD100355,MA Education,Degree,University,2020-05-17,,Active
+QUAL000472,DUD100356,MA Education,Degree,University,2020-08-19,,Active
+QUAL000473,DUD100356,TEFL,Teaching Certification,International TEFL Academy,2020-04-17,,Active
+QUAL000474,DUD100357,TEFL,Teaching Certification,International TEFL Academy,2019-06-19,,Active
+QUAL000475,DUD100358,MA Education,Degree,University,2025-06-14,,Active
+QUAL000476,DUD100359,BA Education,Degree,University,2019-08-11,,Active
+QUAL000477,DUD100360,CELTA,Teaching Certification,Cambridge English,2024-02-14,,Active
+QUAL000478,DUD100361,BA Education,Degree,University,2021-10-21,,Active
+QUAL000479,DUD100362,CELTA,Teaching Certification,Cambridge English,2023-10-18,,Active
+QUAL000480,DUD100363,CELTA,Teaching Certification,Cambridge English,2019-02-23,,Active
+QUAL000481,DUD100364,MA Education,Degree,University,2018-11-02,,Active
+QUAL000482,DUD100365,CELTA,Teaching Certification,Cambridge English,2022-04-17,,Active
+QUAL000483,DUD100366,MA Education,Degree,University,2022-08-10,,Active
+QUAL000484,DUD100367,BA Linguistics,Degree,University,2022-02-18,,Active
+QUAL000485,DUD100368,TESOL,Teaching Certification,TESOL International Association,2022-05-24,,Active
+QUAL000486,DUD100369,TEFL,Teaching Certification,International TEFL Academy,2023-09-06,,Active
+QUAL000487,DUD100370,BA English,Degree,University,2019-06-17,,Active
+QUAL000488,DUD100370,CELTA,Teaching Certification,Cambridge English,2019-01-19,,Active
+QUAL000489,DUD100371,TEFL,Teaching Certification,International TEFL Academy,2021-01-13,2024-02-25,Expired
+QUAL000490,DUD100372,TESOL,Teaching Certification,TESOL International Association,2022-12-28,,Active
+QUAL000491,DUD100373,TESOL,Teaching Certification,TESOL International Association,2023-03-09,,Active
+QUAL000492,DUD100374,TESOL,Teaching Certification,TESOL International Association,2025-05-22,,Active
+QUAL000493,DUD100374,TEFL,Teaching Certification,International TEFL Academy,2025-04-26,,Active
+QUAL000494,DUD100375,MA Education,Degree,University,2021-06-16,,Active
+QUAL000495,DUD100376,MA Education,Degree,University,2018-02-27,,Active
+QUAL000496,DUD100377,TESOL,Teaching Certification,TESOL International Association,2024-05-26,,Active
+QUAL000497,DUD100378,CELTA,Teaching Certification,Cambridge English,2020-06-07,,Active
+QUAL000498,DUD100379,TEFL,Teaching Certification,International TEFL Academy,2019-07-22,,Active
+QUAL000499,DUD100380,CELTA,Teaching Certification,Cambridge English,2022-12-09,,Active
+QUAL000500,DUD100381,MA Education,Degree,University,2021-08-10,,Active
+QUAL000501,DUD100382,TESOL,Teaching Certification,TESOL International Association,2019-07-17,,Active
+QUAL000502,DUD100382,BA English,Degree,University,2024-11-05,,Active
+QUAL000503,DUD100383,CELTA,Teaching Certification,Cambridge English,2019-06-04,,Active
+QUAL000504,DUD100384,MA Education,Degree,University,2021-05-07,,Active
+QUAL000505,DUD100385,CELTA,Teaching Certification,Cambridge English,2025-10-18,,Active
+QUAL000506,DUD100385,BA Linguistics,Degree,University,2022-01-10,,Active
+QUAL000507,DUD100386,MA Education,Degree,University,2019-04-07,,Active
+QUAL000508,DUD100387,BA Education,Degree,University,2018-12-14,,Active
+QUAL000509,DUD100388,BA Linguistics,Degree,University,2021-05-08,,Active
+QUAL000510,DUD100389,BA English,Degree,University,2018-04-01,,Active
+QUAL000511,DUD100389,BA Education,Degree,University,2023-10-13,,Active
+QUAL000512,DUD100390,MA Education,Degree,University,2020-11-03,,Active
+QUAL000513,DUD100391,BA English,Degree,University,2018-01-11,,Active
+QUAL000514,DUD100392,TEFL,Teaching Certification,International TEFL Academy,2024-05-08,,Active
+QUAL000515,DUD100392,BA Education,Degree,University,2019-12-03,,Active
+QUAL000516,DUD100393,TESOL,Teaching Certification,TESOL International Association,2021-01-20,,Active
+QUAL000517,DUD100394,CELTA,Teaching Certification,Cambridge English,2018-11-01,,Active
+QUAL000518,DUD100395,BA English,Degree,University,2022-05-23,,Active
+QUAL000519,DUD100396,MA Education,Degree,University,2019-09-20,,Active
+QUAL000520,DUD100397,BA English,Degree,University,2020-03-13,,Active
+QUAL000521,DUD100398,TEFL,Teaching Certification,International TEFL Academy,2018-03-03,,Active
+QUAL000522,DUD100398,TESOL,Teaching Certification,TESOL International Association,2021-10-19,,Active
+QUAL000523,DUD100399,MA Education,Degree,University,2023-04-27,,Active
+QUAL000524,DUD100400,BA English,Degree,University,2023-05-05,,Active
+QUAL000525,DUD100401,BA English,Degree,University,2019-01-01,,Active
+QUAL000526,DUD100402,CELTA,Teaching Certification,Cambridge English,2019-03-14,2022-12-19,Expired
+QUAL000527,DUD100402,BA Education,Degree,University,2018-03-09,,Active
+QUAL000528,DUD100403,TESOL,Teaching Certification,TESOL International Association,2023-04-10,,Active
+QUAL000529,DUD100404,CELTA,Teaching Certification,Cambridge English,2025-12-07,,Active
+QUAL000530,DUD100404,BA English,Degree,University,2025-09-22,,Active
+QUAL000531,DUD100405,BA Education,Degree,University,2018-12-20,,Active
+QUAL000532,DUD100405,TESOL,Teaching Certification,TESOL International Association,2019-01-22,,Active
+QUAL000533,DUD100406,MA Education,Degree,University,2019-09-16,,Active
+QUAL000534,DUD100406,TEFL,Teaching Certification,International TEFL Academy,2025-09-24,,Active
+QUAL000535,DUD100407,BA English,Degree,University,2024-08-27,,Active
+QUAL000536,DUD100408,MA Education,Degree,University,2025-08-14,,Active
+QUAL000537,DUD100409,BA Education,Degree,University,2022-03-23,,Active
+QUAL000538,DUD100409,MA Education,Degree,University,2019-07-27,,Active
+QUAL000539,DUD100410,TESOL,Teaching Certification,TESOL International Association,2019-12-20,2024-01-20,Expired
+QUAL000540,DUD100411,TESOL,Teaching Certification,TESOL International Association,2025-09-03,,Active
+QUAL000541,DUD100412,MA Education,Degree,University,2025-07-08,,Active
+QUAL000542,DUD100413,BA Education,Degree,University,2024-10-19,,Active
+QUAL000543,DUD100414,BA English,Degree,University,2023-02-19,,Active
+QUAL000544,DUD100415,MA Education,Degree,University,2022-05-15,,Active
+QUAL000545,DUD100416,BA Education,Degree,University,2024-09-01,,Active
+QUAL000546,DUD100416,CELTA,Teaching Certification,Cambridge English,2018-07-16,,Active
+QUAL000547,DUD100417,CELTA,Teaching Certification,Cambridge English,2018-10-07,,Active
+QUAL000548,DUD100418,TESOL,Teaching Certification,TESOL International Association,2018-10-01,,Active
+QUAL000549,DUD100419,TESOL,Teaching Certification,TESOL International Association,2024-03-06,,Active
+QUAL000550,DUD100420,MA Education,Degree,University,2025-04-22,,Active
+QUAL000551,DUD100421,CELTA,Teaching Certification,Cambridge English,2023-12-13,,Active
+QUAL000552,DUD100422,BA Linguistics,Degree,University,2022-02-02,,Active
+QUAL000553,DUD100423,BA English,Degree,University,2020-11-26,,Active
+QUAL000554,DUD100424,MA Education,Degree,University,2021-10-28,,Active
+QUAL000555,DUD100425,BA Linguistics,Degree,University,2018-03-09,,Active
+QUAL000556,DUD100426,CELTA,Teaching Certification,Cambridge English,2019-05-15,2023-07-26,Expired
+QUAL000557,DUD100427,CELTA,Teaching Certification,Cambridge English,2024-12-08,,Active
+QUAL000558,DUD100427,TESOL,Teaching Certification,TESOL International Association,2019-12-08,,Active
+QUAL000559,DUD100428,TESOL,Teaching Certification,TESOL International Association,2021-07-24,,Active
+QUAL000560,DUD100429,BA English,Degree,University,2025-12-25,,Active
+QUAL000561,DUD100429,CELTA,Teaching Certification,Cambridge English,2020-07-05,,Active
+QUAL000562,DUD100430,BA Education,Degree,University,2020-09-28,,Active
+QUAL000563,DUD100431,TESOL,Teaching Certification,TESOL International Association,2018-01-25,,Active
+QUAL000564,DUD100432,MA Education,Degree,University,2023-07-19,,Active
+QUAL000565,DUD100433,CELTA,Teaching Certification,Cambridge English,2025-01-18,2028-11-23,Active
+QUAL000566,DUD100434,TEFL,Teaching Certification,International TEFL Academy,2024-05-09,,Active
+QUAL000567,DUD100435,BA Education,Degree,University,2023-03-20,,Active
+QUAL000568,DUD100436,BA English,Degree,University,2018-07-24,,Active
+QUAL000569,DUD100437,CELTA,Teaching Certification,Cambridge English,2023-12-03,,Active
+QUAL000570,DUD100438,MA Education,Degree,University,2024-03-27,,Active
+QUAL000571,DUD100439,BA English,Degree,University,2018-04-05,,Active
+QUAL000572,DUD100440,TESOL,Teaching Certification,TESOL International Association,2020-02-10,,Active
+QUAL000573,DUD100441,TESOL,Teaching Certification,TESOL International Association,2022-02-24,,Active
+QUAL000574,DUD100442,BA English,Degree,University,2024-10-01,,Active
+QUAL000575,DUD100443,BA English,Degree,University,2019-03-28,,Active
+QUAL000576,DUD100444,CELTA,Teaching Certification,Cambridge English,2021-09-08,2026-01-15,Expired
+QUAL000577,DUD100445,BA Education,Degree,University,2022-02-16,,Active
+QUAL000578,DUD100445,MA Education,Degree,University,2023-04-15,,Active
+QUAL000579,DUD100446,BA Linguistics,Degree,University,2025-12-22,,Active
+QUAL000580,DUD100447,CELTA,Teaching Certification,Cambridge English,2021-01-06,,Active
+QUAL000581,DUD100448,CELTA,Teaching Certification,Cambridge English,2022-12-20,,Active
+QUAL000582,DUD100449,BA English,Degree,University,2020-07-18,,Active
+QUAL000583,DUD100450,BA Education,Degree,University,2021-03-28,,Active
+QUAL000584,DUD100450,TEFL,Teaching Certification,International TEFL Academy,2018-05-07,,Active
+QUAL000585,DUD100451,BA English,Degree,University,2023-01-24,,Active
+QUAL000586,DUD100452,TESOL,Teaching Certification,TESOL International Association,2018-06-05,2020-10-30,Expired
+QUAL000587,DUD100452,BA Linguistics,Degree,University,2022-06-20,,Active
+QUAL000588,DUD100453,BA Linguistics,Degree,University,2020-01-26,,Active
+QUAL000589,DUD100454,CELTA,Teaching Certification,Cambridge English,2018-02-26,,Active
+QUAL000590,DUD100455,MA Education,Degree,University,2021-01-04,,Active
+QUAL000591,DUD100456,BA Education,Degree,University,2022-03-24,,Active
+QUAL000592,DUD100457,MA Education,Degree,University,2025-12-20,,Active
+QUAL000593,DUD100458,BA English,Degree,University,2019-05-03,,Active
+QUAL000594,DUD100458,TEFL,Teaching Certification,International TEFL Academy,2020-01-22,,Active
+QUAL000595,DUD100459,MA Education,Degree,University,2019-07-20,,Active
+QUAL000596,DUD100459,BA Education,Degree,University,2024-07-28,,Active
+QUAL000597,DUD100460,TESOL,Teaching Certification,TESOL International Association,2020-12-15,2023-05-09,Expired
+QUAL000598,DUD100461,MA Education,Degree,University,2019-10-12,,Active
+QUAL000599,DUD100461,BA Education,Degree,University,2024-06-25,,Active
+QUAL000600,DUD100462,BA English,Degree,University,2025-02-23,,Active
+QUAL000601,DUD100463,TEFL,Teaching Certification,International TEFL Academy,2022-09-26,2026-04-08,Expired
+QUAL000602,DUD100464,BA English,Degree,University,2020-01-04,,Active
+QUAL000603,DUD100465,TESOL,Teaching Certification,TESOL International Association,2025-03-18,,Active
+QUAL000604,DUD100465,CELTA,Teaching Certification,Cambridge English,2021-10-25,,Active
+QUAL000605,DUD100466,BA English,Degree,University,2021-06-05,,Active
+QUAL000606,DUD100467,BA Linguistics,Degree,University,2021-03-18,,Active
+QUAL000607,DUD100468,BA Linguistics,Degree,University,2018-06-21,,Active
+QUAL000608,DUD100468,TESOL,Teaching Certification,TESOL International Association,2021-12-17,,Active
+QUAL000609,DUD100469,BA Education,Degree,University,2023-07-11,,Active
+QUAL000610,DUD100470,TESOL,Teaching Certification,TESOL International Association,2021-12-18,,Active
+QUAL000611,DUD100471,BA Linguistics,Degree,University,2019-11-14,,Active
+QUAL000612,DUD100471,MA Education,Degree,University,2024-10-25,,Active
+QUAL000613,DUD100472,BA English,Degree,University,2019-12-16,,Active
+QUAL000614,DUD100472,TESOL,Teaching Certification,TESOL International Association,2023-09-17,,Active
+QUAL000615,DUD100473,CELTA,Teaching Certification,Cambridge English,2025-06-11,,Active
+QUAL000616,DUD100473,BA English,Degree,University,2024-08-23,,Active
+QUAL000617,DUD100474,TEFL,Teaching Certification,International TEFL Academy,2023-07-02,,Active
+QUAL000618,DUD100475,TEFL,Teaching Certification,International TEFL Academy,2022-03-05,,Active
+QUAL000619,DUD100476,BA Education,Degree,University,2021-03-27,,Active
+QUAL000620,DUD100477,TESOL,Teaching Certification,TESOL International Association,2020-11-27,2023-01-31,Expired
+QUAL000621,DUD100477,BA Education,Degree,University,2023-01-03,,Active
+QUAL000622,DUD100478,BA Linguistics,Degree,University,2023-03-24,,Active
+QUAL000623,DUD100479,BA English,Degree,University,2025-07-03,,Active
+QUAL000624,DUD100480,BA English,Degree,University,2019-03-18,,Active
+QUAL000625,DUD100480,TESOL,Teaching Certification,TESOL International Association,2018-04-01,,Active
+QUAL000626,DUD100481,BA Education,Degree,University,2019-05-12,,Active
+QUAL000627,DUD100482,TEFL,Teaching Certification,International TEFL Academy,2019-03-12,,Active
+QUAL000628,DUD100483,CELTA,Teaching Certification,Cambridge English,2024-09-21,,Active
+QUAL000629,DUD100483,TESOL,Teaching Certification,TESOL International Association,2019-07-05,,Active
+QUAL000630,DUD100484,MA Education,Degree,University,2025-09-04,,Active
+QUAL000631,DUD100485,MA Education,Degree,University,2019-01-02,,Active
+QUAL000632,DUD100486,BA English,Degree,University,2022-09-12,,Active
+QUAL000633,DUD100487,BA Linguistics,Degree,University,2019-09-02,,Active
+QUAL000634,DUD100488,BA English,Degree,University,2023-01-01,,Active
+QUAL000635,DUD100488,BA Linguistics,Degree,University,2018-05-12,,Active
+QUAL000636,DUD100489,BA Linguistics,Degree,University,2022-07-22,,Active
+QUAL000637,DUD100490,MA Education,Degree,University,2024-12-27,,Active
+QUAL000638,DUD100490,BA Education,Degree,University,2019-05-14,,Active
+QUAL000639,DUD100491,BA English,Degree,University,2018-08-09,,Active
+QUAL000640,DUD100492,BA Linguistics,Degree,University,2020-01-13,,Active
+QUAL000641,DUD100493,MA Education,Degree,University,2022-06-24,,Active
+QUAL000642,DUD100494,TEFL,Teaching Certification,International TEFL Academy,2025-11-07,,Active
+QUAL000643,DUD100495,BA Linguistics,Degree,University,2023-08-22,,Active
+QUAL000644,DUD100496,BA Linguistics,Degree,University,2021-05-10,,Active
+QUAL000645,DUD100497,BA Linguistics,Degree,University,2018-02-03,,Active
+QUAL000646,DUD100498,BA English,Degree,University,2019-05-25,,Active
+QUAL000647,DUD100499,BA English,Degree,University,2020-06-10,,Active
+QUAL000648,DUD100499,CELTA,Teaching Certification,Cambridge English,2025-10-23,,Active
+QUAL000649,DUD100500,BA English,Degree,University,2020-07-26,,Active
+QUAL000650,DUD100501,BA Education,Degree,University,2020-05-12,,Active
+QUAL000651,DUD100502,BA Linguistics,Degree,University,2024-08-25,,Active
+QUAL000652,DUD100502,CELTA,Teaching Certification,Cambridge English,2019-11-03,,Active
+QUAL000653,DUD100503,CELTA,Teaching Certification,Cambridge English,2025-10-26,2029-12-02,Active
+QUAL000654,DUD100504,MA Education,Degree,University,2021-06-04,,Active
+QUAL000655,DUD100505,TESOL,Teaching Certification,TESOL International Association,2019-01-13,,Active
+QUAL000656,DUD100506,TEFL,Teaching Certification,International TEFL Academy,2021-06-21,,Active
+QUAL000657,DUD100507,MA Education,Degree,University,2024-08-03,,Active
+QUAL000658,DUD100508,CELTA,Teaching Certification,Cambridge English,2022-03-06,,Active
+QUAL000659,DUD100509,TESOL,Teaching Certification,TESOL International Association,2019-10-03,,Active
+QUAL000660,DUD100510,BA Education,Degree,University,2025-07-02,,Active
+QUAL000661,DUD100511,TEFL,Teaching Certification,International TEFL Academy,2020-12-24,,Active
+QUAL000662,DUD100511,CELTA,Teaching Certification,Cambridge English,2025-09-28,,Active
+QUAL000663,DUD100512,TEFL,Teaching Certification,International TEFL Academy,2018-07-04,,Active
+QUAL000664,DUD100513,BA Education,Degree,University,2020-11-14,,Active
+QUAL000665,DUD100513,MA Education,Degree,University,2025-08-21,,Active
+QUAL000666,DUD100514,BA Education,Degree,University,2019-10-16,,Active
+QUAL000667,DUD100515,BA Linguistics,Degree,University,2022-10-18,,Active
+QUAL000668,DUD100515,BA Education,Degree,University,2024-03-02,,Active
+QUAL000669,DUD100516,MA Education,Degree,University,2025-01-04,,Active
+QUAL000670,DUD100517,TESOL,Teaching Certification,TESOL International Association,2022-07-19,,Active
+QUAL000671,DUD100518,CELTA,Teaching Certification,Cambridge English,2022-08-22,,Active
+QUAL000672,DUD100519,TESOL,Teaching Certification,TESOL International Association,2023-08-06,,Active
+QUAL000673,DUD100520,TEFL,Teaching Certification,International TEFL Academy,2022-02-25,,Active
+QUAL000674,DUD100521,BA Linguistics,Degree,University,2019-10-27,,Active
+QUAL000675,DUD100522,CELTA,Teaching Certification,Cambridge English,2019-04-08,,Active
+QUAL000676,DUD100523,BA English,Degree,University,2025-08-20,,Active
+QUAL000677,DUD100524,TEFL,Teaching Certification,International TEFL Academy,2025-09-17,,Active
+QUAL000678,DUD100524,TESOL,Teaching Certification,TESOL International Association,2020-07-15,,Active
+QUAL000679,DUD100525,BA Linguistics,Degree,University,2020-10-28,,Active
+QUAL000680,DUD100526,BA Linguistics,Degree,University,2024-02-14,,Active
+QUAL000681,DUD100527,BA Linguistics,Degree,University,2023-01-17,,Active
+QUAL000682,DUD100527,TESOL,Teaching Certification,TESOL International Association,2019-07-24,,Active
+QUAL000683,DUD100528,TEFL,Teaching Certification,International TEFL Academy,2022-12-09,2025-10-10,Expired
+QUAL000684,DUD100529,TESOL,Teaching Certification,TESOL International Association,2020-09-05,2023-12-28,Expired
+QUAL000685,DUD100530,MA Education,Degree,University,2024-08-01,,Active
+QUAL000686,DUD100530,CELTA,Teaching Certification,Cambridge English,2025-06-07,,Active
+QUAL000687,DUD100531,CELTA,Teaching Certification,Cambridge English,2022-03-06,,Active
+QUAL000688,DUD100531,TEFL,Teaching Certification,International TEFL Academy,2019-07-28,,Active
+QUAL000689,DUD100532,BA Linguistics,Degree,University,2025-05-05,,Active
+QUAL000690,DUD100533,TEFL,Teaching Certification,International TEFL Academy,2019-12-26,,Active
+QUAL000691,DUD100534,TESOL,Teaching Certification,TESOL International Association,2019-11-12,,Active
+QUAL000692,DUD100535,MA Education,Degree,University,2021-01-02,,Active
+QUAL000693,DUD100536,BA English,Degree,University,2023-02-09,,Active
+QUAL000694,DUD100537,TEFL,Teaching Certification,International TEFL Academy,2023-04-18,,Active
+QUAL000695,DUD100538,TESOL,Teaching Certification,TESOL International Association,2020-01-09,,Active
+QUAL000696,DUD100539,MA Education,Degree,University,2021-08-25,,Active
+QUAL000697,DUD100539,BA Linguistics,Degree,University,2021-12-19,,Active
+QUAL000698,DUD100540,TEFL,Teaching Certification,International TEFL Academy,2023-07-11,,Active
+QUAL000699,DUD100541,BA English,Degree,University,2019-11-16,,Active
+QUAL000700,DUD100542,MA Education,Degree,University,2023-05-04,,Active
+QUAL000701,DUD100543,TESOL,Teaching Certification,TESOL International Association,2021-04-24,2024-12-28,Expired
+QUAL000702,DUD100544,BA Linguistics,Degree,University,2019-06-02,,Active
+QUAL000703,DUD100545,BA Linguistics,Degree,University,2021-05-13,,Active
+QUAL000704,DUD100546,CELTA,Teaching Certification,Cambridge English,2018-11-08,,Active
+QUAL000705,DUD100547,BA Linguistics,Degree,University,2025-10-09,,Active
+QUAL000706,DUD100547,TEFL,Teaching Certification,International TEFL Academy,2018-10-13,,Active
+QUAL000707,DUD100548,CELTA,Teaching Certification,Cambridge English,2025-04-16,,Active
+QUAL000708,DUD100548,BA Linguistics,Degree,University,2024-03-21,,Active
+QUAL000709,DUD100549,TEFL,Teaching Certification,International TEFL Academy,2020-07-26,,Active
+QUAL000710,DUD100550,CELTA,Teaching Certification,Cambridge English,2018-09-10,,Active
+QUAL000711,DUD100551,BA Linguistics,Degree,University,2021-07-14,,Active
+QUAL000712,DUD100551,MA Education,Degree,University,2022-12-04,,Active
+QUAL000713,DUD100552,MA Education,Degree,University,2019-05-11,,Active
+QUAL000714,DUD100553,CELTA,Teaching Certification,Cambridge English,2019-03-23,,Active
+QUAL000715,DUD100553,TEFL,Teaching Certification,International TEFL Academy,2022-01-09,,Active
+QUAL000716,DUD100554,BA Education,Degree,University,2019-05-12,,Active
+QUAL000717,DUD100555,BA Education,Degree,University,2019-07-08,,Active
+QUAL000718,DUD100556,MA Education,Degree,University,2025-02-05,,Active
+QUAL000719,DUD100557,BA Linguistics,Degree,University,2021-04-08,,Active
+QUAL000720,DUD100558,BA English,Degree,University,2018-02-03,,Active
+QUAL000721,DUD100559,TEFL,Teaching Certification,International TEFL Academy,2021-02-19,,Active
+QUAL000722,DUD100560,TESOL,Teaching Certification,TESOL International Association,2020-08-21,,Active
+QUAL000723,DUD100560,BA Education,Degree,University,2021-06-17,,Active
+QUAL000724,DUD100561,BA English,Degree,University,2022-01-17,,Active
+QUAL000725,DUD100562,CELTA,Teaching Certification,Cambridge English,2020-09-05,,Active
+QUAL000726,DUD100563,TEFL,Teaching Certification,International TEFL Academy,2025-01-14,,Active
+QUAL000727,DUD100563,BA Education,Degree,University,2021-02-14,,Active
+QUAL000728,DUD100564,CELTA,Teaching Certification,Cambridge English,2023-09-22,,Active
+QUAL000729,DUD100565,TEFL,Teaching Certification,International TEFL Academy,2020-01-28,,Active
+QUAL000730,DUD100566,CELTA,Teaching Certification,Cambridge English,2022-08-18,,Active
+QUAL000731,DUD100567,MA Education,Degree,University,2025-05-23,,Active
+QUAL000732,DUD100568,TESOL,Teaching Certification,TESOL International Association,2025-10-10,,Active
+QUAL000733,DUD100569,TEFL,Teaching Certification,International TEFL Academy,2019-04-12,2022-09-11,Expired
+QUAL000734,DUD100570,BA Education,Degree,University,2021-04-12,,Active
+QUAL000735,DUD100571,TEFL,Teaching Certification,International TEFL Academy,2020-02-21,,Active
+QUAL000736,DUD100571,BA Education,Degree,University,2018-03-17,,Active
+QUAL000737,DUD100572,BA Linguistics,Degree,University,2022-07-07,,Active
+QUAL000738,DUD100572,TEFL,Teaching Certification,International TEFL Academy,2020-06-21,,Active
+QUAL000739,DUD100573,MA Education,Degree,University,2018-12-03,,Active
+QUAL000740,DUD100574,BA Education,Degree,University,2025-06-07,,Active
+QUAL000741,DUD100575,CELTA,Teaching Certification,Cambridge English,2021-07-12,,Active
+QUAL000742,DUD100576,BA English,Degree,University,2023-12-15,,Active
+QUAL000743,DUD100577,BA English,Degree,University,2020-04-26,,Active
+QUAL000744,DUD100578,BA Education,Degree,University,2023-05-12,,Active
+QUAL000745,DUD100578,TEFL,Teaching Certification,International TEFL Academy,2019-01-11,,Active
+QUAL000746,DUD100579,TESOL,Teaching Certification,TESOL International Association,2020-12-15,,Active
+QUAL000747,DUD100580,BA English,Degree,University,2020-02-06,,Active
+QUAL000748,DUD100581,MA Education,Degree,University,2023-09-18,,Active
+QUAL000749,DUD100582,BA Linguistics,Degree,University,2019-07-05,,Active
+QUAL000750,DUD100583,BA Linguistics,Degree,University,2018-12-15,,Active
+QUAL000751,DUD100584,CELTA,Teaching Certification,Cambridge English,2021-01-17,,Active
+QUAL000752,DUD100585,BA English,Degree,University,2021-10-24,,Active
+QUAL000753,DUD100586,TEFL,Teaching Certification,International TEFL Academy,2022-04-08,2024-04-25,Expired
+QUAL000754,DUD100586,TESOL,Teaching Certification,TESOL International Association,2018-09-04,2020-08-20,Expired
+QUAL000755,DUD100587,CELTA,Teaching Certification,Cambridge English,2019-04-04,,Active
+QUAL000756,DUD100588,TESOL,Teaching Certification,TESOL International Association,2024-12-19,,Active
+QUAL000757,DUD100589,BA English,Degree,University,2018-04-26,,Active
+QUAL000758,DUD100589,CELTA,Teaching Certification,Cambridge English,2022-09-05,,Active
+QUAL000759,DUD100590,TESOL,Teaching Certification,TESOL International Association,2019-10-18,,Active
+QUAL000760,DUD100591,TESOL,Teaching Certification,TESOL International Association,2019-09-19,,Active
+QUAL000761,DUD100592,TEFL,Teaching Certification,International TEFL Academy,2019-10-24,,Active
+QUAL000762,DUD100593,BA English,Degree,University,2024-07-22,,Active
+QUAL000763,DUD100594,BA English,Degree,University,2021-11-26,,Active
+QUAL000764,DUD100595,BA Education,Degree,University,2025-08-10,,Active
+QUAL000765,DUD100596,CELTA,Teaching Certification,Cambridge English,2025-01-22,,Active
+QUAL000766,DUD100597,BA English,Degree,University,2020-06-22,,Active
+QUAL000767,DUD100598,MA Education,Degree,University,2019-07-25,,Active
+QUAL000768,DUD100599,BA Education,Degree,University,2023-02-06,,Active
+QUAL000769,DUD100600,TESOL,Teaching Certification,TESOL International Association,2024-10-04,,Active
+QUAL000770,DUD100600,BA Education,Degree,University,2018-09-20,,Active
+QUAL000771,DUD100601,CELTA,Teaching Certification,Cambridge English,2022-06-11,,Active
+QUAL000772,DUD100601,BA Linguistics,Degree,University,2021-06-15,,Active
+QUAL000773,DUD100602,TEFL,Teaching Certification,International TEFL Academy,2025-06-25,,Active
+QUAL000774,DUD100603,BA English,Degree,University,2021-11-02,,Active
+QUAL000775,DUD100603,CELTA,Teaching Certification,Cambridge English,2023-03-20,,Active
+QUAL000776,DUD100604,BA Education,Degree,University,2020-10-02,,Active
+QUAL000777,DUD100605,CELTA,Teaching Certification,Cambridge English,2020-07-04,,Active
+QUAL000778,DUD100606,TEFL,Teaching Certification,International TEFL Academy,2023-02-06,,Active
+QUAL000779,DUD100606,CELTA,Teaching Certification,Cambridge English,2018-05-01,,Active
+QUAL000780,DUD100607,BA Linguistics,Degree,University,2021-06-25,,Active
+QUAL000781,DUD100608,BA Education,Degree,University,2024-06-19,,Active
+QUAL000782,DUD100608,MA Education,Degree,University,2019-09-18,,Active
+QUAL000783,DUD100609,BA Linguistics,Degree,University,2022-03-21,,Active
+QUAL000784,DUD100610,TESOL,Teaching Certification,TESOL International Association,2018-12-04,,Active
+QUAL000785,DUD100611,BA Linguistics,Degree,University,2019-03-28,,Active
+QUAL000786,DUD100612,BA Education,Degree,University,2025-02-20,,Active
+QUAL000787,DUD100612,CELTA,Teaching Certification,Cambridge English,2019-11-28,,Active
+QUAL000788,DUD100613,CELTA,Teaching Certification,Cambridge English,2025-03-06,,Active
+QUAL000789,DUD100614,TESOL,Teaching Certification,TESOL International Association,2022-05-19,2025-10-02,Expired
+QUAL000790,DUD100615,TESOL,Teaching Certification,TESOL International Association,2023-06-02,,Active
+QUAL000791,DUD100616,MA Education,Degree,University,2020-10-15,,Active
+QUAL000792,DUD100617,MA Education,Degree,University,2024-08-03,,Active
+QUAL000793,DUD100618,BA Linguistics,Degree,University,2024-10-13,,Active
+QUAL000794,DUD100619,BA English,Degree,University,2021-08-03,,Active
+QUAL000795,DUD100620,TEFL,Teaching Certification,International TEFL Academy,2022-06-08,2025-08-05,Expired
+QUAL000796,DUD100621,TESOL,Teaching Certification,TESOL International Association,2025-06-08,2027-11-18,Active
+QUAL000797,DUD100621,TEFL,Teaching Certification,International TEFL Academy,2019-06-27,2023-09-13,Expired
+QUAL000798,DUD100622,TEFL,Teaching Certification,International TEFL Academy,2019-11-05,,Active
+QUAL000799,DUD100622,TESOL,Teaching Certification,TESOL International Association,2018-08-25,,Active
+QUAL000800,DUD100623,TESOL,Teaching Certification,TESOL International Association,2025-08-04,,Active
+QUAL000801,DUD100623,MA Education,Degree,University,2025-05-24,,Active
+QUAL000802,DUD100624,BA Education,Degree,University,2018-04-19,,Active
+QUAL000803,DUD100625,BA Linguistics,Degree,University,2022-01-10,,Active
+QUAL000804,DUD100625,TEFL,Teaching Certification,International TEFL Academy,2025-05-19,2028-04-22,Active
+QUAL000805,DUD100626,TESOL,Teaching Certification,TESOL International Association,2025-11-21,,Active
+QUAL000806,DUD100626,BA Linguistics,Degree,University,2020-04-11,,Active
+QUAL000807,DUD100627,TEFL,Teaching Certification,International TEFL Academy,2022-04-10,,Active
+QUAL000808,DUD100628,BA English,Degree,University,2021-10-26,,Active
+QUAL000809,DUD100629,CELTA,Teaching Certification,Cambridge English,2025-09-16,,Active
+QUAL000810,DUD100630,BA Education,Degree,University,2024-05-15,,Active
+QUAL000811,DUD100631,BA Linguistics,Degree,University,2021-09-03,,Active
+QUAL000812,DUD100632,BA Linguistics,Degree,University,2024-09-24,,Active
+QUAL000813,DUD100633,BA Education,Degree,University,2018-07-19,,Active
+QUAL000814,DUD100634,BA English,Degree,University,2023-11-19,,Active
+QUAL000815,DUD100634,BA Education,Degree,University,2020-11-06,,Active
+QUAL000816,DUD100635,MA Education,Degree,University,2020-10-26,,Active
+QUAL000817,DUD100636,TESOL,Teaching Certification,TESOL International Association,2020-09-01,,Active
+QUAL000818,DUD100637,TESOL,Teaching Certification,TESOL International Association,2024-05-13,,Active
+QUAL000819,DUD100638,BA Linguistics,Degree,University,2020-07-16,,Active
+QUAL000820,DUD100638,BA Education,Degree,University,2024-07-15,,Active
+QUAL000821,DUD100639,BA Education,Degree,University,2020-06-27,,Active
+QUAL000822,DUD100640,TESOL,Teaching Certification,TESOL International Association,2019-06-28,,Active
+QUAL000823,DUD100641,BA Linguistics,Degree,University,2023-06-10,,Active
+QUAL000824,DUD100641,BA English,Degree,University,2023-10-09,,Active
+QUAL000825,DUD100642,CELTA,Teaching Certification,Cambridge English,2020-10-28,,Active
+QUAL000826,DUD100643,BA Linguistics,Degree,University,2021-01-20,,Active
+QUAL000827,DUD100644,TESOL,Teaching Certification,TESOL International Association,2018-01-17,,Active
+QUAL000828,DUD100645,BA English,Degree,University,2018-09-16,,Active
+QUAL000829,DUD100646,TEFL,Teaching Certification,International TEFL Academy,2019-03-28,,Active
+QUAL000830,DUD100647,BA English,Degree,University,2021-07-08,,Active
+QUAL000831,DUD100648,BA English,Degree,University,2020-08-20,,Active
+QUAL000832,DUD100649,BA Linguistics,Degree,University,2024-11-10,,Active
+QUAL000833,DUD100650,TESOL,Teaching Certification,TESOL International Association,2024-09-05,,Active
+QUAL000834,DUD100650,BA Linguistics,Degree,University,2025-04-09,,Active
+QUAL000835,DUD100651,MA Education,Degree,University,2024-03-03,,Active
+QUAL000836,DUD100651,TEFL,Teaching Certification,International TEFL Academy,2021-07-20,,Active
+QUAL000837,DUD100652,TEFL,Teaching Certification,International TEFL Academy,2018-12-26,2022-11-03,Expired
+QUAL000838,DUD100653,TESOL,Teaching Certification,TESOL International Association,2020-12-04,,Active
+QUAL000839,DUD100654,BA Education,Degree,University,2021-11-18,,Active
+QUAL000840,DUD100655,TEFL,Teaching Certification,International TEFL Academy,2023-01-02,,Active
+QUAL000841,DUD100656,CELTA,Teaching Certification,Cambridge English,2021-11-03,,Active
+QUAL000842,DUD100657,TEFL,Teaching Certification,International TEFL Academy,2018-07-07,,Active
+QUAL000843,DUD100658,BA English,Degree,University,2023-10-09,,Active
+QUAL000844,DUD100658,TEFL,Teaching Certification,International TEFL Academy,2018-09-06,,Active
+QUAL000845,DUD100659,BA English,Degree,University,2025-12-16,,Active
+QUAL000846,DUD100660,BA Education,Degree,University,2020-05-18,,Active
+QUAL000847,DUD100661,CELTA,Teaching Certification,Cambridge English,2018-02-05,,Active
+QUAL000848,DUD100661,MA Education,Degree,University,2025-02-26,,Active
+QUAL000849,DUD100662,BA Linguistics,Degree,University,2023-01-26,,Active
+QUAL000850,DUD100663,CELTA,Teaching Certification,Cambridge English,2022-02-07,,Active
+QUAL000851,DUD100663,BA Linguistics,Degree,University,2018-10-22,,Active
+QUAL000852,DUD100664,BA English,Degree,University,2022-06-20,,Active
+QUAL000853,DUD100665,BA Education,Degree,University,2019-05-17,,Active
+QUAL000854,DUD100665,BA English,Degree,University,2019-05-19,,Active
+QUAL000855,DUD100666,TEFL,Teaching Certification,International TEFL Academy,2020-11-27,,Active
+QUAL000856,DUD100666,TESOL,Teaching Certification,TESOL International Association,2018-12-06,,Active
+QUAL000857,DUD100667,BA English,Degree,University,2023-02-28,,Active
+QUAL000858,DUD100668,BA Education,Degree,University,2021-11-06,,Active
+QUAL000859,DUD100669,BA English,Degree,University,2024-03-21,,Active
+QUAL000860,DUD100670,CELTA,Teaching Certification,Cambridge English,2020-02-13,,Active
+QUAL000861,DUD100670,BA Education,Degree,University,2018-12-03,,Active
+QUAL000862,DUD100671,BA Education,Degree,University,2022-03-19,,Active
+QUAL000863,DUD100672,BA Linguistics,Degree,University,2022-02-28,,Active
+QUAL000864,DUD100672,BA Education,Degree,University,2018-09-10,,Active
+QUAL000865,DUD100673,BA Education,Degree,University,2021-10-08,,Active
+QUAL000866,DUD100674,TEFL,Teaching Certification,International TEFL Academy,2024-05-12,,Active
+QUAL000867,DUD100675,BA Education,Degree,University,2021-08-07,,Active
+QUAL000868,DUD100676,TEFL,Teaching Certification,International TEFL Academy,2020-05-15,,Active
+QUAL000869,DUD100676,BA Education,Degree,University,2020-12-11,,Active
+QUAL000870,DUD100677,CELTA,Teaching Certification,Cambridge English,2021-02-12,,Active
+QUAL000871,DUD100677,BA Education,Degree,University,2024-12-11,,Active
+QUAL000872,DUD100678,BA Education,Degree,University,2024-08-20,,Active
+QUAL000873,DUD100679,CELTA,Teaching Certification,Cambridge English,2023-04-24,,Active
+QUAL000874,DUD100680,BA English,Degree,University,2024-01-03,,Active
+QUAL000875,DUD100681,TESOL,Teaching Certification,TESOL International Association,2024-12-24,,Active
+QUAL000876,DUD100682,MA Education,Degree,University,2018-02-09,,Active
+QUAL000877,DUD100683,BA Linguistics,Degree,University,2024-08-24,,Active
+QUAL000878,DUD100684,MA Education,Degree,University,2025-01-22,,Active
+QUAL000879,DUD100685,TEFL,Teaching Certification,International TEFL Academy,2018-08-01,2022-04-09,Expired
+QUAL000880,DUD100686,MA Education,Degree,University,2024-11-07,,Active
+QUAL000881,DUD100687,BA Linguistics,Degree,University,2021-12-06,,Active
+QUAL000882,DUD100687,BA English,Degree,University,2022-04-20,,Active
+QUAL000883,DUD100688,BA Education,Degree,University,2023-04-23,,Active
+QUAL000884,DUD100689,CELTA,Teaching Certification,Cambridge English,2024-04-08,,Active
+QUAL000885,DUD100690,TESOL,Teaching Certification,TESOL International Association,2022-10-26,,Active
+QUAL000886,DUD100690,CELTA,Teaching Certification,Cambridge English,2023-07-11,,Active
+QUAL000887,DUD100691,TESOL,Teaching Certification,TESOL International Association,2019-06-25,,Active
+QUAL000888,DUD100692,TEFL,Teaching Certification,International TEFL Academy,2021-06-24,,Active
+QUAL000889,DUD100692,MA Education,Degree,University,2023-04-02,,Active
+QUAL000890,DUD100693,MA Education,Degree,University,2024-08-21,,Active
+QUAL000891,DUD100694,TEFL,Teaching Certification,International TEFL Academy,2019-07-15,2022-04-01,Expired
+QUAL000892,DUD100695,BA English,Degree,University,2024-07-26,,Active
+QUAL000893,DUD100696,BA Linguistics,Degree,University,2025-04-05,,Active
+QUAL000894,DUD100697,CELTA,Teaching Certification,Cambridge English,2019-10-21,,Active
+QUAL000895,DUD100698,BA English,Degree,University,2024-12-07,,Active
+QUAL000896,DUD100698,MA Education,Degree,University,2018-01-24,,Active
+QUAL000897,DUD100699,BA English,Degree,University,2023-04-17,,Active
+QUAL000898,DUD100700,MA Education,Degree,University,2020-02-02,,Active
+QUAL000899,DUD100701,TEFL,Teaching Certification,International TEFL Academy,2022-05-21,2025-11-13,Expired
+QUAL000900,DUD100702,BA Education,Degree,University,2025-10-15,,Active
+QUAL000901,DUD100703,BA Education,Degree,University,2023-11-17,,Active
+QUAL000902,DUD100704,MA Education,Degree,University,2019-11-11,,Active
+QUAL000903,DUD100705,BA Education,Degree,University,2024-01-10,,Active
+QUAL000904,DUD100706,MA Education,Degree,University,2020-05-12,,Active
+QUAL000905,DUD100706,BA English,Degree,University,2019-04-26,,Active
+QUAL000906,DUD100707,BA Education,Degree,University,2023-08-12,,Active
+QUAL000907,DUD100708,BA English,Degree,University,2025-04-01,,Active
+QUAL000908,DUD100709,BA Linguistics,Degree,University,2024-08-05,,Active
+QUAL000909,DUD100709,TEFL,Teaching Certification,International TEFL Academy,2021-04-23,,Active
+QUAL000910,DUD100710,BA Education,Degree,University,2025-11-01,,Active
+QUAL000911,DUD100711,TEFL,Teaching Certification,International TEFL Academy,2022-02-11,,Active
+QUAL000912,DUD100712,CELTA,Teaching Certification,Cambridge English,2018-12-22,2023-04-10,Expired
+QUAL000913,DUD100712,TEFL,Teaching Certification,International TEFL Academy,2025-02-25,2027-10-05,Active
+QUAL000914,DUD100713,TEFL,Teaching Certification,International TEFL Academy,2023-08-15,,Active
+QUAL000915,DUD100713,BA Linguistics,Degree,University,2020-07-12,,Active
+QUAL000916,DUD100714,BA Education,Degree,University,2022-04-23,,Active
+QUAL000917,DUD100714,MA Education,Degree,University,2018-07-26,,Active
+QUAL000918,DUD100715,BA Linguistics,Degree,University,2018-11-04,,Active
+QUAL000919,DUD100716,BA Linguistics,Degree,University,2020-10-14,,Active
+QUAL000920,DUD100716,BA English,Degree,University,2019-09-19,,Active
+QUAL000921,DUD100717,BA English,Degree,University,2020-11-13,,Active
+QUAL000922,DUD100717,BA Education,Degree,University,2020-11-11,,Active
+QUAL000923,DUD100718,TEFL,Teaching Certification,International TEFL Academy,2023-08-04,,Active
+QUAL000924,DUD100719,BA Education,Degree,University,2022-12-17,,Active
+QUAL000925,DUD100720,CELTA,Teaching Certification,Cambridge English,2020-07-01,2022-10-01,Expired
+QUAL000926,DUD100721,MA Education,Degree,University,2025-09-18,,Active
+QUAL000927,DUD100722,TEFL,Teaching Certification,International TEFL Academy,2025-03-11,2027-09-30,Active
+QUAL000928,DUD100722,TESOL,Teaching Certification,TESOL International Association,2023-02-27,,Active
+QUAL000929,DUD100723,MA Education,Degree,University,2020-02-03,,Active
+QUAL000930,DUD100724,TEFL,Teaching Certification,International TEFL Academy,2020-04-28,,Active
+QUAL000931,DUD100724,BA Education,Degree,University,2024-06-21,,Active
+QUAL000932,DUD100725,MA Education,Degree,University,2024-02-17,,Active
+QUAL000933,DUD100726,BA Linguistics,Degree,University,2021-04-05,,Active
+QUAL000934,DUD100727,BA English,Degree,University,2024-08-22,,Active
+QUAL000935,DUD100728,BA English,Degree,University,2024-10-01,,Active
+QUAL000936,DUD100728,BA Education,Degree,University,2020-07-17,,Active
+QUAL000937,DUD100729,CELTA,Teaching Certification,Cambridge English,2023-03-04,,Active
+QUAL000938,DUD100730,MA Education,Degree,University,2022-08-21,,Active
+QUAL000939,DUD100731,BA Education,Degree,University,2022-08-18,,Active
+QUAL000940,DUD100732,BA Linguistics,Degree,University,2023-09-09,,Active
+QUAL000941,DUD100732,TEFL,Teaching Certification,International TEFL Academy,2020-11-17,,Active
+QUAL000942,DUD100733,BA English,Degree,University,2025-05-18,,Active
+QUAL000943,DUD100734,BA English,Degree,University,2019-05-15,,Active
+QUAL000944,DUD100734,CELTA,Teaching Certification,Cambridge English,2022-04-09,,Active
+QUAL000945,DUD100735,BA Linguistics,Degree,University,2021-02-13,,Active
+QUAL000946,DUD100736,MA Education,Degree,University,2023-05-28,,Active
+QUAL000947,DUD100736,BA English,Degree,University,2022-07-10,,Active
+QUAL000948,DUD100737,BA English,Degree,University,2018-11-07,,Active
+QUAL000949,DUD100737,TESOL,Teaching Certification,TESOL International Association,2018-07-09,,Active
+QUAL000950,DUD100738,MA Education,Degree,University,2018-08-22,,Active
+QUAL000951,DUD100739,TESOL,Teaching Certification,TESOL International Association,2021-10-12,,Active
+QUAL000952,DUD100740,BA Linguistics,Degree,University,2025-02-02,,Active
+QUAL000953,DUD100740,BA Education,Degree,University,2024-01-07,,Active
+QUAL000954,DUD100741,CELTA,Teaching Certification,Cambridge English,2022-07-06,2026-06-01,Expired
+QUAL000955,DUD100742,CELTA,Teaching Certification,Cambridge English,2018-01-15,,Active
+QUAL000956,DUD100743,MA Education,Degree,University,2023-03-24,,Active
+QUAL000957,DUD100744,BA Education,Degree,University,2023-01-13,,Active
+QUAL000958,DUD100745,BA English,Degree,University,2019-10-11,,Active
+QUAL000959,DUD100746,BA Education,Degree,University,2019-07-12,,Active
+QUAL000960,DUD100746,TESOL,Teaching Certification,TESOL International Association,2018-01-04,,Active
+QUAL000961,DUD100747,CELTA,Teaching Certification,Cambridge English,2020-11-06,,Active
+QUAL000962,DUD100747,BA Education,Degree,University,2019-12-10,,Active
+QUAL000963,DUD100748,TEFL,Teaching Certification,International TEFL Academy,2022-02-28,,Active
+QUAL000964,DUD100749,MA Education,Degree,University,2021-06-04,,Active
+QUAL000965,DUD100750,BA Education,Degree,University,2024-12-23,,Active
+QUAL000966,DUD100751,TEFL,Teaching Certification,International TEFL Academy,2018-05-25,2022-06-09,Expired
+QUAL000967,DUD100752,BA Linguistics,Degree,University,2022-11-07,,Active
+QUAL000968,DUD100753,CELTA,Teaching Certification,Cambridge English,2025-02-16,,Active
+QUAL000969,DUD100753,BA Linguistics,Degree,University,2021-07-03,,Active
+QUAL000970,DUD100754,CELTA,Teaching Certification,Cambridge English,2020-03-17,,Active
+QUAL000971,DUD100755,CELTA,Teaching Certification,Cambridge English,2019-11-18,,Active
+QUAL000972,DUD100756,BA English,Degree,University,2024-12-07,,Active
+QUAL000973,DUD100757,BA Linguistics,Degree,University,2020-09-21,,Active
+QUAL000974,DUD100758,BA Education,Degree,University,2023-07-01,,Active
+QUAL000975,DUD100758,MA Education,Degree,University,2020-11-05,,Active
+QUAL000976,DUD100759,BA Education,Degree,University,2022-07-12,,Active
+QUAL000977,DUD100759,MA Education,Degree,University,2019-05-22,,Active
+QUAL000978,DUD100760,CELTA,Teaching Certification,Cambridge English,2018-08-10,,Active
+QUAL000979,DUD100761,BA Linguistics,Degree,University,2024-10-28,,Active
+QUAL000980,DUD100762,MA Education,Degree,University,2020-08-08,,Active
+QUAL000981,DUD100762,TEFL,Teaching Certification,International TEFL Academy,2025-05-06,,Active
+QUAL000982,DUD100763,TEFL,Teaching Certification,International TEFL Academy,2024-06-25,,Active
+QUAL000983,DUD100763,TESOL,Teaching Certification,TESOL International Association,2024-01-17,,Active
+QUAL000984,DUD100764,CELTA,Teaching Certification,Cambridge English,2018-03-01,,Active
+QUAL000985,DUD100765,CELTA,Teaching Certification,Cambridge English,2025-03-16,,Active
+QUAL000986,DUD100765,BA Linguistics,Degree,University,2024-05-03,,Active
+QUAL000987,DUD100766,CELTA,Teaching Certification,Cambridge English,2021-02-11,,Active
+QUAL000988,DUD100766,BA English,Degree,University,2020-01-24,,Active
+QUAL000989,DUD100767,BA Education,Degree,University,2021-05-22,,Active
+QUAL000990,DUD100768,BA Education,Degree,University,2020-10-28,,Active
+QUAL000991,DUD100769,BA Linguistics,Degree,University,2019-11-05,,Active
+QUAL000992,DUD100770,TEFL,Teaching Certification,International TEFL Academy,2018-01-03,,Active
+QUAL000993,DUD100771,CELTA,Teaching Certification,Cambridge English,2022-04-15,,Active
+QUAL000994,DUD100772,TEFL,Teaching Certification,International TEFL Academy,2021-09-24,2025-05-11,Expired
+QUAL000995,DUD100773,BA English,Degree,University,2021-09-25,,Active
+QUAL000996,DUD100773,TEFL,Teaching Certification,International TEFL Academy,2019-05-07,,Active
+QUAL000997,DUD100774,TEFL,Teaching Certification,International TEFL Academy,2023-09-26,,Active
+QUAL000998,DUD100775,MA Education,Degree,University,2019-10-14,,Active
+QUAL000999,DUD100775,CELTA,Teaching Certification,Cambridge English,2018-01-19,,Active
+QUAL001000,DUD100776,BA English,Degree,University,2022-04-25,,Active
+QUAL001001,DUD100777,TEFL,Teaching Certification,International TEFL Academy,2022-09-04,,Active
+QUAL001002,DUD100778,BA Education,Degree,University,2023-12-02,,Active
+QUAL001003,DUD100778,TEFL,Teaching Certification,International TEFL Academy,2020-09-13,,Active
+QUAL001004,DUD100779,TEFL,Teaching Certification,International TEFL Academy,2023-08-19,,Active
+QUAL001005,DUD100780,CELTA,Teaching Certification,Cambridge English,2022-02-07,,Active
+QUAL001006,DUD100780,BA Linguistics,Degree,University,2019-10-12,,Active
+QUAL001007,DUD100781,TEFL,Teaching Certification,International TEFL Academy,2018-10-12,,Active
+QUAL001008,DUD100782,BA Education,Degree,University,2021-03-18,,Active
+QUAL001009,DUD100783,TEFL,Teaching Certification,International TEFL Academy,2023-03-10,,Active
+QUAL001010,DUD100784,TESOL,Teaching Certification,TESOL International Association,2018-05-04,,Active
+QUAL001011,DUD100785,TESOL,Teaching Certification,TESOL International Association,2023-01-08,,Active
+QUAL001012,DUD100786,MA Education,Degree,University,2020-12-17,,Active
+QUAL001013,DUD100787,BA Education,Degree,University,2024-12-02,,Active
+QUAL001014,DUD100788,TESOL,Teaching Certification,TESOL International Association,2019-01-03,,Active
+QUAL001015,DUD100789,CELTA,Teaching Certification,Cambridge English,2019-04-05,,Active
+QUAL001016,DUD100789,TEFL,Teaching Certification,International TEFL Academy,2022-02-15,,Active
+QUAL001017,DUD100790,TESOL,Teaching Certification,TESOL International Association,2023-11-03,,Active
+QUAL001018,DUD100791,TEFL,Teaching Certification,International TEFL Academy,2024-08-23,2028-06-07,Active
+QUAL001019,DUD100792,BA Linguistics,Degree,University,2022-02-09,,Active
+QUAL001020,DUD100793,BA Linguistics,Degree,University,2018-01-16,,Active
+QUAL001021,DUD100794,BA Education,Degree,University,2023-06-05,,Active
+QUAL001022,DUD100795,BA Linguistics,Degree,University,2021-11-13,,Active
+QUAL001023,DUD100795,TESOL,Teaching Certification,TESOL International Association,2023-05-05,2025-08-28,Expired
+QUAL001024,DUD100796,MA Education,Degree,University,2024-01-16,,Active
+QUAL001025,DUD100796,BA Linguistics,Degree,University,2024-02-20,,Active
+QUAL001026,DUD100797,TESOL,Teaching Certification,TESOL International Association,2024-08-23,,Active
+QUAL001027,DUD100798,MA Education,Degree,University,2025-07-20,,Active
+QUAL001028,DUD100799,CELTA,Teaching Certification,Cambridge English,2019-02-09,,Active
+QUAL001029,DUD100800,CELTA,Teaching Certification,Cambridge English,2020-10-19,2023-12-11,Expired
+QUAL001030,DUD100801,BA Linguistics,Degree,University,2025-07-07,,Active
+QUAL001031,DUD100802,CELTA,Teaching Certification,Cambridge English,2024-08-13,,Active
+QUAL001032,DUD100803,TEFL,Teaching Certification,International TEFL Academy,2022-10-24,,Active
+QUAL001033,DUD100804,TESOL,Teaching Certification,TESOL International Association,2020-04-06,,Active
+QUAL001034,DUD100804,CELTA,Teaching Certification,Cambridge English,2020-03-21,,Active
+QUAL001035,DUD100805,BA Education,Degree,University,2021-08-10,,Active
+QUAL001036,DUD100806,CELTA,Teaching Certification,Cambridge English,2024-06-24,,Active
+QUAL001037,DUD100806,BA English,Degree,University,2024-11-22,,Active
+QUAL001038,DUD100807,BA Linguistics,Degree,University,2024-02-13,,Active
+QUAL001039,DUD100808,MA Education,Degree,University,2024-08-11,,Active
+QUAL001040,DUD100809,TESOL,Teaching Certification,TESOL International Association,2023-03-14,,Active
+QUAL001041,DUD100809,BA Education,Degree,University,2023-06-14,,Active
+QUAL001042,DUD100810,CELTA,Teaching Certification,Cambridge English,2023-06-04,,Active
+QUAL001043,DUD100810,BA Education,Degree,University,2020-10-03,,Active
+QUAL001044,DUD100811,CELTA,Teaching Certification,Cambridge English,2024-05-20,,Active
+QUAL001045,DUD100812,BA Linguistics,Degree,University,2023-06-19,,Active
+QUAL001046,DUD100813,BA Linguistics,Degree,University,2019-09-12,,Active
+QUAL001047,DUD100814,BA Linguistics,Degree,University,2018-07-16,,Active
+QUAL001048,DUD100815,TEFL,Teaching Certification,International TEFL Academy,2018-06-06,,Active
+QUAL001049,DUD100816,BA Education,Degree,University,2020-03-19,,Active
+QUAL001050,DUD100817,MA Education,Degree,University,2020-01-02,,Active
+QUAL001051,DUD100817,CELTA,Teaching Certification,Cambridge English,2018-10-12,,Active
+QUAL001052,DUD100818,BA Linguistics,Degree,University,2018-04-21,,Active
+QUAL001053,DUD100819,CELTA,Teaching Certification,Cambridge English,2023-07-27,,Active
+QUAL001054,DUD100820,BA English,Degree,University,2020-05-16,,Active
+QUAL001055,DUD100821,BA Education,Degree,University,2022-09-28,,Active
+QUAL001056,DUD100821,CELTA,Teaching Certification,Cambridge English,2023-09-01,2027-11-02,Active
+QUAL001057,DUD100822,TEFL,Teaching Certification,International TEFL Academy,2021-10-02,,Active
+QUAL001058,DUD100823,BA Linguistics,Degree,University,2020-01-03,,Active
+QUAL001059,DUD100824,BA Linguistics,Degree,University,2024-06-13,,Active
+QUAL001060,DUD100825,CELTA,Teaching Certification,Cambridge English,2023-03-19,,Active
+QUAL001061,DUD100826,BA Linguistics,Degree,University,2024-10-09,,Active
+QUAL001062,DUD100827,MA Education,Degree,University,2020-11-06,,Active
+QUAL001063,DUD100828,TESOL,Teaching Certification,TESOL International Association,2020-04-22,2022-08-22,Expired
+QUAL001064,DUD100829,MA Education,Degree,University,2024-03-21,,Active
+QUAL001065,DUD100830,TEFL,Teaching Certification,International TEFL Academy,2019-04-16,,Active
+QUAL001066,DUD100831,CELTA,Teaching Certification,Cambridge English,2023-09-02,2027-04-01,Active
+QUAL001067,DUD100832,BA Education,Degree,University,2025-07-12,,Active
+QUAL001068,DUD100832,BA English,Degree,University,2018-08-08,,Active
+QUAL001069,DUD100833,BA English,Degree,University,2025-08-17,,Active
+QUAL001070,DUD100834,TESOL,Teaching Certification,TESOL International Association,2021-06-11,,Active
+QUAL001071,DUD100835,BA Education,Degree,University,2025-12-25,,Active
+QUAL001072,DUD100836,BA Education,Degree,University,2018-02-26,,Active
+QUAL001073,DUD100837,BA Education,Degree,University,2021-09-19,,Active
+QUAL001074,DUD100837,TESOL,Teaching Certification,TESOL International Association,2025-09-05,,Active
+QUAL001075,DUD100838,CELTA,Teaching Certification,Cambridge English,2022-01-04,,Active
+QUAL001076,DUD100839,TEFL,Teaching Certification,International TEFL Academy,2022-06-04,,Active
+QUAL001077,DUD100839,MA Education,Degree,University,2018-05-10,,Active
+QUAL001078,DUD100840,BA English,Degree,University,2019-04-23,,Active
+QUAL001079,DUD100841,MA Education,Degree,University,2024-08-28,,Active
+QUAL001080,DUD100841,CELTA,Teaching Certification,Cambridge English,2019-09-18,,Active
+QUAL001081,DUD100842,BA English,Degree,University,2022-08-18,,Active
+QUAL001082,DUD100843,BA Education,Degree,University,2024-05-20,,Active
+QUAL001083,DUD100843,CELTA,Teaching Certification,Cambridge English,2025-06-19,,Active
+QUAL001084,DUD100844,BA Education,Degree,University,2020-12-26,,Active
+QUAL001085,DUD100845,BA English,Degree,University,2019-07-07,,Active
+QUAL001086,DUD100846,BA English,Degree,University,2025-08-26,,Active
+QUAL001087,DUD100847,BA Linguistics,Degree,University,2018-04-19,,Active
+QUAL001088,DUD100848,CELTA,Teaching Certification,Cambridge English,2020-10-28,2023-02-11,Expired
+QUAL001089,DUD100848,TESOL,Teaching Certification,TESOL International Association,2019-11-26,,Active
+QUAL001090,DUD100849,BA Education,Degree,University,2019-05-19,,Active
+QUAL001091,DUD100850,BA Education,Degree,University,2025-06-10,,Active
+QUAL001092,DUD100851,TEFL,Teaching Certification,International TEFL Academy,2022-12-26,,Active
+QUAL001093,DUD100852,BA Education,Degree,University,2022-02-05,,Active
+QUAL001094,DUD100852,MA Education,Degree,University,2018-04-28,,Active
+QUAL001095,DUD100853,CELTA,Teaching Certification,Cambridge English,2021-12-02,2025-09-01,Expired
+QUAL001096,DUD100854,TESOL,Teaching Certification,TESOL International Association,2020-09-24,,Active
+QUAL001097,DUD100854,CELTA,Teaching Certification,Cambridge English,2020-01-26,,Active
+QUAL001098,DUD100855,CELTA,Teaching Certification,Cambridge English,2021-02-05,,Active
+QUAL001099,DUD100856,BA Linguistics,Degree,University,2018-04-10,,Active
+QUAL001100,DUD100857,TESOL,Teaching Certification,TESOL International Association,2023-11-07,,Active
+QUAL001101,DUD100857,BA Education,Degree,University,2018-09-02,,Active
+QUAL001102,DUD100858,TEFL,Teaching Certification,International TEFL Academy,2019-02-12,,Active
+QUAL001103,DUD100858,MA Education,Degree,University,2024-09-23,,Active
+QUAL001104,DUD100859,TESOL,Teaching Certification,TESOL International Association,2018-09-22,,Active
+QUAL001105,DUD100860,TESOL,Teaching Certification,TESOL International Association,2022-04-07,2025-03-09,Expired
+QUAL001106,DUD100861,BA English,Degree,University,2025-03-22,,Active
+QUAL001107,DUD100862,TESOL,Teaching Certification,TESOL International Association,2025-03-08,,Active
+QUAL001108,DUD100863,CELTA,Teaching Certification,Cambridge English,2018-07-09,,Active
+QUAL001109,DUD100864,BA English,Degree,University,2019-08-24,,Active
+QUAL001110,DUD100865,BA Education,Degree,University,2023-03-19,,Active
+QUAL001111,DUD100866,BA Linguistics,Degree,University,2021-10-03,,Active
+QUAL001112,DUD100867,BA English,Degree,University,2025-02-03,,Active
+QUAL001113,DUD100868,BA Linguistics,Degree,University,2018-02-26,,Active
+QUAL001114,DUD100868,TESOL,Teaching Certification,TESOL International Association,2025-12-12,,Active
+QUAL001115,DUD100869,TESOL,Teaching Certification,TESOL International Association,2019-01-22,,Active
+QUAL001116,DUD100870,MA Education,Degree,University,2022-11-21,,Active
+QUAL001117,DUD100870,BA Education,Degree,University,2019-03-25,,Active
+QUAL001118,DUD100871,BA English,Degree,University,2020-07-26,,Active
+QUAL001119,DUD100872,BA Education,Degree,University,2025-07-14,,Active
+QUAL001120,DUD100872,TEFL,Teaching Certification,International TEFL Academy,2024-02-03,,Active
+QUAL001121,DUD100873,BA Education,Degree,University,2020-11-23,,Active
+QUAL001122,DUD100874,BA Education,Degree,University,2019-07-08,,Active
+QUAL001123,DUD100875,CELTA,Teaching Certification,Cambridge English,2024-06-28,,Active
+QUAL001124,DUD100876,BA English,Degree,University,2024-01-22,,Active
+QUAL001125,DUD100876,MA Education,Degree,University,2021-05-20,,Active
+QUAL001126,DUD100877,BA English,Degree,University,2020-10-02,,Active
+QUAL001127,DUD100878,TEFL,Teaching Certification,International TEFL Academy,2018-02-08,,Active
+QUAL001128,DUD100879,TESOL,Teaching Certification,TESOL International Association,2018-12-23,,Active
+QUAL001129,DUD100879,MA Education,Degree,University,2021-09-28,,Active
+QUAL001130,DUD100880,BA Linguistics,Degree,University,2018-01-27,,Active
+QUAL001131,DUD100881,BA English,Degree,University,2020-01-15,,Active
+QUAL001132,DUD100882,TEFL,Teaching Certification,International TEFL Academy,2019-05-26,2023-08-02,Expired
+QUAL001133,DUD100883,TESOL,Teaching Certification,TESOL International Association,2019-11-26,,Active
+QUAL001134,DUD100884,CELTA,Teaching Certification,Cambridge English,2025-08-27,,Active
+QUAL001135,DUD100885,TESOL,Teaching Certification,TESOL International Association,2023-11-24,,Active
+QUAL001136,DUD100885,BA Education,Degree,University,2020-02-25,,Active
+QUAL001137,DUD100886,TEFL,Teaching Certification,International TEFL Academy,2022-11-14,,Active
+QUAL001138,DUD100887,TEFL,Teaching Certification,International TEFL Academy,2025-12-05,2027-12-15,Active
+QUAL001139,DUD100888,MA Education,Degree,University,2021-07-22,,Active
+QUAL001140,DUD100889,CELTA,Teaching Certification,Cambridge English,2018-12-17,,Active
+QUAL001141,DUD100890,BA English,Degree,University,2018-05-11,,Active
+QUAL001142,DUD100891,CELTA,Teaching Certification,Cambridge English,2022-03-04,,Active
+QUAL001143,DUD100892,BA English,Degree,University,2025-08-24,,Active
+QUAL001144,DUD100893,BA English,Degree,University,2021-03-03,,Active
+QUAL001145,DUD100894,TEFL,Teaching Certification,International TEFL Academy,2023-02-18,,Active
+QUAL001146,DUD100895,BA Education,Degree,University,2021-11-26,,Active
+QUAL001147,DUD100896,TESOL,Teaching Certification,TESOL International Association,2022-01-10,2023-12-22,Expired
+QUAL001148,DUD100896,BA Education,Degree,University,2022-03-09,,Active
+QUAL001149,DUD100897,BA English,Degree,University,2025-03-12,,Active
+QUAL001150,DUD100898,MA Education,Degree,University,2021-10-03,,Active
+QUAL001151,DUD100899,BA Education,Degree,University,2018-03-03,,Active
+QUAL001152,DUD100900,BA Education,Degree,University,2024-04-20,,Active
+QUAL001153,DUD100901,MA Education,Degree,University,2025-07-17,,Active
+QUAL001154,DUD100902,BA Linguistics,Degree,University,2025-12-25,,Active
+QUAL001155,DUD100903,TEFL,Teaching Certification,International TEFL Academy,2020-05-02,,Active
+QUAL001156,DUD100903,BA Education,Degree,University,2020-05-24,,Active
+QUAL001157,DUD100904,BA English,Degree,University,2018-06-28,,Active
+QUAL001158,DUD100905,CELTA,Teaching Certification,Cambridge English,2021-04-08,,Active
+QUAL001159,DUD100906,TEFL,Teaching Certification,International TEFL Academy,2020-01-21,,Active
+QUAL001160,DUD100907,BA Linguistics,Degree,University,2019-04-07,,Active
+QUAL001161,DUD100908,CELTA,Teaching Certification,Cambridge English,2020-08-20,,Active
+QUAL001162,DUD100909,BA Education,Degree,University,2023-01-09,,Active
+QUAL001163,DUD100910,CELTA,Teaching Certification,Cambridge English,2024-12-22,,Active
+QUAL001164,DUD100911,MA Education,Degree,University,2022-11-28,,Active
+QUAL001165,DUD100912,BA Education,Degree,University,2022-02-20,,Active
+QUAL001166,DUD100912,CELTA,Teaching Certification,Cambridge English,2020-04-08,,Active
+QUAL001167,DUD100913,BA Education,Degree,University,2023-11-08,,Active
+QUAL001168,DUD100914,BA English,Degree,University,2018-11-04,,Active
+QUAL001169,DUD100915,MA Education,Degree,University,2020-04-20,,Active
+QUAL001170,DUD100916,TEFL,Teaching Certification,International TEFL Academy,2022-03-17,,Active
+QUAL001171,DUD100916,MA Education,Degree,University,2025-07-05,,Active
+QUAL001172,DUD100917,BA Education,Degree,University,2024-10-26,,Active
+QUAL001173,DUD100918,BA Linguistics,Degree,University,2021-12-16,,Active
+QUAL001174,DUD100919,MA Education,Degree,University,2024-11-07,,Active
+QUAL001175,DUD100920,CELTA,Teaching Certification,Cambridge English,2024-09-04,,Active
+QUAL001176,DUD100920,MA Education,Degree,University,2020-12-23,,Active
+QUAL001177,DUD100921,CELTA,Teaching Certification,Cambridge English,2019-05-13,,Active
+QUAL001178,DUD100922,MA Education,Degree,University,2019-11-27,,Active
+QUAL001179,DUD100922,BA Linguistics,Degree,University,2021-07-01,,Active
+QUAL001180,DUD100923,BA Linguistics,Degree,University,2018-08-24,,Active
+QUAL001181,DUD100923,TESOL,Teaching Certification,TESOL International Association,2022-01-19,,Active
+QUAL001182,DUD100924,MA Education,Degree,University,2023-06-03,,Active
+QUAL001183,DUD100925,TEFL,Teaching Certification,International TEFL Academy,2020-06-13,2024-07-23,Expired
+QUAL001184,DUD100926,BA Linguistics,Degree,University,2018-11-22,,Active
+QUAL001185,DUD100927,TEFL,Teaching Certification,International TEFL Academy,2018-02-19,,Active
+QUAL001186,DUD100928,TESOL,Teaching Certification,TESOL International Association,2019-09-21,,Active
+QUAL001187,DUD100929,CELTA,Teaching Certification,Cambridge English,2020-03-13,2022-06-15,Expired
+QUAL001188,DUD100930,CELTA,Teaching Certification,Cambridge English,2019-10-26,2021-11-13,Expired
+QUAL001189,DUD100931,BA English,Degree,University,2023-02-16,,Active
+QUAL001190,DUD100931,TESOL,Teaching Certification,TESOL International Association,2025-01-02,,Active
+QUAL001191,DUD100932,MA Education,Degree,University,2021-12-24,,Active
+QUAL001192,DUD100933,MA Education,Degree,University,2019-12-13,,Active
+QUAL001193,DUD100934,BA English,Degree,University,2019-11-10,,Active
+QUAL001194,DUD100935,TEFL,Teaching Certification,International TEFL Academy,2025-06-17,,Active
+QUAL001195,DUD100936,BA Linguistics,Degree,University,2021-11-05,,Active
+QUAL001196,DUD100937,BA Linguistics,Degree,University,2020-11-21,,Active
+QUAL001197,DUD100938,BA English,Degree,University,2021-07-23,,Active
+QUAL001198,DUD100939,BA Education,Degree,University,2018-06-01,,Active
+QUAL001199,DUD100940,BA Education,Degree,University,2021-09-27,,Active
+QUAL001200,DUD100941,BA English,Degree,University,2019-10-12,,Active
+QUAL001201,DUD100941,CELTA,Teaching Certification,Cambridge English,2021-05-04,,Active
+QUAL001202,DUD100942,CELTA,Teaching Certification,Cambridge English,2020-10-19,2024-10-29,Expired
+QUAL001203,DUD100942,TESOL,Teaching Certification,TESOL International Association,2020-05-15,,Active
+QUAL001204,DUD100943,MA Education,Degree,University,2024-01-26,,Active
+QUAL001205,DUD100944,BA English,Degree,University,2020-10-23,,Active
+QUAL001206,DUD100945,BA Education,Degree,University,2024-06-02,,Active
+QUAL001207,DUD100946,CELTA,Teaching Certification,Cambridge English,2021-09-03,,Active
+QUAL001208,DUD100947,BA Education,Degree,University,2021-09-20,,Active
+QUAL001209,DUD100948,BA Education,Degree,University,2022-10-22,,Active
+QUAL001210,DUD100949,BA Education,Degree,University,2025-07-18,,Active
+QUAL001211,DUD100950,TEFL,Teaching Certification,International TEFL Academy,2025-01-03,,Active
+QUAL001212,DUD100951,BA Education,Degree,University,2018-05-22,,Active
+QUAL001213,DUD100952,BA English,Degree,University,2021-02-09,,Active
+QUAL001214,DUD100953,BA Education,Degree,University,2021-08-02,,Active
+QUAL001215,DUD100954,BA English,Degree,University,2024-01-06,,Active
+QUAL001216,DUD100955,TEFL,Teaching Certification,International TEFL Academy,2018-03-10,,Active
+QUAL001217,DUD100955,BA English,Degree,University,2020-12-15,,Active
+QUAL001218,DUD100956,CELTA,Teaching Certification,Cambridge English,2020-11-14,,Active
+QUAL001219,DUD100957,BA Education,Degree,University,2025-12-22,,Active
+QUAL001220,DUD100958,TEFL,Teaching Certification,International TEFL Academy,2019-09-22,,Active
+QUAL001221,DUD100959,TEFL,Teaching Certification,International TEFL Academy,2019-01-13,,Active
+QUAL001222,DUD100960,BA Linguistics,Degree,University,2020-02-06,,Active
+QUAL001223,DUD100960,BA Education,Degree,University,2022-03-19,,Active
+QUAL001224,DUD100961,BA Linguistics,Degree,University,2023-06-15,,Active
+QUAL001225,DUD100961,TESOL,Teaching Certification,TESOL International Association,2019-03-12,,Active
+QUAL001226,DUD100962,CELTA,Teaching Certification,Cambridge English,2025-12-22,,Active
+QUAL001227,DUD100963,TESOL,Teaching Certification,TESOL International Association,2022-01-25,,Active
+QUAL001228,DUD100964,CELTA,Teaching Certification,Cambridge English,2019-03-22,,Active
+QUAL001229,DUD100965,CELTA,Teaching Certification,Cambridge English,2020-12-25,,Active
+QUAL001230,DUD100966,BA Education,Degree,University,2023-05-24,,Active
+QUAL001231,DUD100966,MA Education,Degree,University,2025-10-24,,Active
+QUAL001232,DUD100967,TEFL,Teaching Certification,International TEFL Academy,2022-08-13,,Active
+QUAL001233,DUD100968,BA English,Degree,University,2024-03-20,,Active
+QUAL001234,DUD100969,BA Linguistics,Degree,University,2021-08-05,,Active
+QUAL001235,DUD100970,BA English,Degree,University,2022-06-05,,Active
+QUAL001236,DUD100971,CELTA,Teaching Certification,Cambridge English,2020-10-02,,Active
+QUAL001237,DUD100972,CELTA,Teaching Certification,Cambridge English,2025-11-28,,Active
+QUAL001238,DUD100973,CELTA,Teaching Certification,Cambridge English,2019-05-16,,Active
+QUAL001239,DUD100973,TEFL,Teaching Certification,International TEFL Academy,2020-01-09,,Active
+QUAL001240,DUD100974,BA Linguistics,Degree,University,2021-03-19,,Active
+QUAL001241,DUD100974,MA Education,Degree,University,2021-01-10,,Active
+QUAL001242,DUD100975,BA Education,Degree,University,2024-12-06,,Active
+QUAL001243,DUD100976,MA Education,Degree,University,2021-03-28,,Active
+QUAL001244,DUD100977,TEFL,Teaching Certification,International TEFL Academy,2023-11-27,,Active
+QUAL001245,DUD100978,CELTA,Teaching Certification,Cambridge English,2018-01-05,2020-04-11,Expired
+QUAL001246,DUD100979,CELTA,Teaching Certification,Cambridge English,2025-04-10,,Active
+QUAL001247,DUD100980,TESOL,Teaching Certification,TESOL International Association,2023-06-14,,Active
+QUAL001248,DUD100980,TEFL,Teaching Certification,International TEFL Academy,2022-11-15,,Active
+QUAL001249,DUD100981,TESOL,Teaching Certification,TESOL International Association,2023-09-26,,Active
+QUAL001250,DUD100981,BA English,Degree,University,2018-03-13,,Active
+QUAL001251,DUD100982,BA Education,Degree,University,2023-11-07,,Active
+QUAL001252,DUD100983,TEFL,Teaching Certification,International TEFL Academy,2019-11-02,,Active
+QUAL001253,DUD100983,BA Linguistics,Degree,University,2022-09-04,,Active
+QUAL001254,DUD100984,BA English,Degree,University,2023-04-10,,Active
+QUAL001255,DUD100985,TEFL,Teaching Certification,International TEFL Academy,2025-01-06,,Active
+QUAL001256,DUD100986,TESOL,Teaching Certification,TESOL International Association,2022-07-05,,Active
+QUAL001257,DUD100987,BA Linguistics,Degree,University,2023-10-10,,Active
+QUAL001258,DUD100988,BA English,Degree,University,2020-02-02,,Active
+QUAL001259,DUD100988,TESOL,Teaching Certification,TESOL International Association,2020-11-13,,Active
+QUAL001260,DUD100989,TESOL,Teaching Certification,TESOL International Association,2020-07-01,,Active
+QUAL001261,DUD100990,BA Education,Degree,University,2023-10-07,,Active
+QUAL001262,DUD100990,MA Education,Degree,University,2024-05-28,,Active
+QUAL001263,DUD100991,TEFL,Teaching Certification,International TEFL Academy,2019-10-16,,Active
+QUAL001264,DUD100991,BA Linguistics,Degree,University,2019-04-17,,Active
+QUAL001265,DUD100992,BA English,Degree,University,2024-12-10,,Active
+QUAL001266,DUD100993,BA English,Degree,University,2023-03-23,,Active
+QUAL001267,DUD100994,CELTA,Teaching Certification,Cambridge English,2019-02-24,2021-03-14,Expired
+QUAL001268,DUD100995,TESOL,Teaching Certification,TESOL International Association,2019-09-15,,Active
+QUAL001269,DUD100995,BA Education,Degree,University,2020-03-08,,Active
+QUAL001270,DUD100996,BA Education,Degree,University,2018-03-27,,Active
+QUAL001271,DUD100996,TESOL,Teaching Certification,TESOL International Association,2020-07-18,2023-04-08,Expired
+QUAL001272,DUD100997,CELTA,Teaching Certification,Cambridge English,2025-12-04,,Active
+QUAL001273,DUD100998,BA Education,Degree,University,2020-03-14,,Active
+QUAL001274,DUD100999,CELTA,Teaching Certification,Cambridge English,2022-03-14,,Active
+QUAL001275,DUD101000,MA Education,Degree,University,2022-08-09,,Active
+QUAL001276,DUD101001,TEFL,Teaching Certification,International TEFL Academy,2023-06-05,,Active
+QUAL001277,DUD101002,TESOL,Teaching Certification,TESOL International Association,2021-05-08,,Active
+QUAL001278,DUD101003,BA Linguistics,Degree,University,2018-03-24,,Active
+QUAL001279,DUD101003,CELTA,Teaching Certification,Cambridge English,2020-03-21,,Active
+QUAL001280,DUD101004,TESOL,Teaching Certification,TESOL International Association,2024-10-15,,Active
+QUAL001281,DUD101005,MA Education,Degree,University,2020-11-22,,Active
+QUAL001282,DUD101006,MA Education,Degree,University,2024-05-19,,Active
+QUAL001283,DUD101006,TEFL,Teaching Certification,International TEFL Academy,2023-02-15,,Active
+QUAL001284,DUD101007,TESOL,Teaching Certification,TESOL International Association,2020-10-06,,Active
+QUAL001285,DUD101008,TESOL,Teaching Certification,TESOL International Association,2020-02-02,,Active
+QUAL001286,DUD101009,CELTA,Teaching Certification,Cambridge English,2019-01-08,,Active
+QUAL001287,DUD101009,TESOL,Teaching Certification,TESOL International Association,2019-11-06,,Active
+QUAL001288,DUD101010,MA Education,Degree,University,2025-03-27,,Active
+QUAL001289,DUD101011,BA English,Degree,University,2021-01-21,,Active
+QUAL001290,DUD101011,CELTA,Teaching Certification,Cambridge English,2025-09-01,,Active
+QUAL001291,DUD101012,MA Education,Degree,University,2025-04-23,,Active
+QUAL001292,DUD101013,TEFL,Teaching Certification,International TEFL Academy,2023-01-06,,Active
+QUAL001293,DUD101014,BA Linguistics,Degree,University,2024-02-26,,Active
+QUAL001294,DUD101014,TEFL,Teaching Certification,International TEFL Academy,2022-06-14,,Active
+QUAL001295,DUD101015,TEFL,Teaching Certification,International TEFL Academy,2024-05-27,,Active
+QUAL001296,DUD101016,BA Linguistics,Degree,University,2022-04-17,,Active
+QUAL001297,DUD101017,BA English,Degree,University,2022-08-12,,Active
+QUAL001298,DUD101018,CELTA,Teaching Certification,Cambridge English,2023-10-27,2026-08-01,Expired
+QUAL001299,DUD101019,MA Education,Degree,University,2025-02-28,,Active
+QUAL001300,DUD101020,BA English,Degree,University,2024-10-12,,Active
+QUAL001301,DUD101021,TESOL,Teaching Certification,TESOL International Association,2025-04-27,,Active
+QUAL001302,DUD101022,TEFL,Teaching Certification,International TEFL Academy,2024-09-21,2028-01-16,Active
+QUAL001303,DUD101023,CELTA,Teaching Certification,Cambridge English,2024-03-17,,Active
+QUAL001304,DUD101024,TEFL,Teaching Certification,International TEFL Academy,2021-02-11,,Active
+QUAL001305,DUD101025,TESOL,Teaching Certification,TESOL International Association,2021-08-06,,Active
+QUAL001306,DUD101026,CELTA,Teaching Certification,Cambridge English,2019-03-23,,Active
+QUAL001307,DUD101026,TESOL,Teaching Certification,TESOL International Association,2020-09-24,,Active
+QUAL001308,DUD101027,CELTA,Teaching Certification,Cambridge English,2022-12-23,,Active
+QUAL001309,DUD101028,TESOL,Teaching Certification,TESOL International Association,2024-06-11,,Active
+QUAL001310,DUD101029,BA Education,Degree,University,2025-01-26,,Active
+QUAL001311,DUD101029,TESOL,Teaching Certification,TESOL International Association,2022-01-14,,Active
+QUAL001312,DUD101030,TESOL,Teaching Certification,TESOL International Association,2022-11-16,,Active
+QUAL001313,DUD101031,TESOL,Teaching Certification,TESOL International Association,2020-07-15,,Active
+QUAL001314,DUD101031,BA Linguistics,Degree,University,2020-03-23,,Active
+QUAL001315,DUD101032,BA English,Degree,University,2023-10-03,,Active
+QUAL001316,DUD101033,BA English,Degree,University,2023-04-17,,Active
+QUAL001317,DUD101034,TEFL,Teaching Certification,International TEFL Academy,2023-10-22,,Active
+QUAL001318,DUD101035,TEFL,Teaching Certification,International TEFL Academy,2021-11-01,,Active
+QUAL001319,DUD101035,BA English,Degree,University,2019-09-06,,Active
+QUAL001320,DUD101036,TESOL,Teaching Certification,TESOL International Association,2020-10-21,,Active
+QUAL001321,DUD101037,BA Education,Degree,University,2018-09-01,,Active
+QUAL001322,DUD101038,CELTA,Teaching Certification,Cambridge English,2025-02-03,,Active
+QUAL001323,DUD101039,TESOL,Teaching Certification,TESOL International Association,2019-06-06,2022-10-18,Expired
+QUAL001324,DUD101039,BA Education,Degree,University,2021-02-27,,Active
+QUAL001325,DUD101040,BA Linguistics,Degree,University,2021-12-23,,Active
+QUAL001326,DUD101040,CELTA,Teaching Certification,Cambridge English,2020-07-28,,Active
+QUAL001327,DUD101041,MA Education,Degree,University,2025-09-17,,Active
+QUAL001328,DUD101041,BA Education,Degree,University,2021-05-04,,Active
+QUAL001329,DUD101042,BA English,Degree,University,2018-11-09,,Active
+QUAL001330,DUD101043,BA Linguistics,Degree,University,2021-12-04,,Active
+QUAL001331,DUD101044,MA Education,Degree,University,2021-12-11,,Active
+QUAL001332,DUD101045,BA Education,Degree,University,2024-11-03,,Active
+QUAL001333,DUD101046,TESOL,Teaching Certification,TESOL International Association,2024-06-04,,Active
+QUAL001334,DUD101047,BA Education,Degree,University,2019-01-18,,Active
+QUAL001335,DUD101048,TEFL,Teaching Certification,International TEFL Academy,2024-04-04,,Active
+QUAL001336,DUD101049,MA Education,Degree,University,2024-07-15,,Active
+QUAL001337,DUD101050,MA Education,Degree,University,2021-04-17,,Active
+QUAL001338,DUD101051,BA Education,Degree,University,2019-02-12,,Active
+QUAL001339,DUD101051,BA English,Degree,University,2018-09-18,,Active
+QUAL001340,DUD101052,BA Linguistics,Degree,University,2025-05-08,,Active
+QUAL001341,DUD101053,MA Education,Degree,University,2019-05-09,,Active
+QUAL001342,DUD101054,TESOL,Teaching Certification,TESOL International Association,2025-02-25,,Active
+QUAL001343,DUD101055,MA Education,Degree,University,2020-07-09,,Active
+QUAL001344,DUD101055,BA English,Degree,University,2023-12-08,,Active
+QUAL001345,DUD101056,TEFL,Teaching Certification,International TEFL Academy,2022-10-10,2025-07-21,Expired
+QUAL001346,DUD101057,BA Education,Degree,University,2024-04-28,,Active
+QUAL001347,DUD101058,TESOL,Teaching Certification,TESOL International Association,2020-08-03,,Active
+QUAL001348,DUD101058,CELTA,Teaching Certification,Cambridge English,2022-06-06,,Active
+QUAL001349,DUD101059,BA Linguistics,Degree,University,2018-02-22,,Active
+QUAL001350,DUD101059,MA Education,Degree,University,2025-03-12,,Active
+QUAL001351,DUD101060,CELTA,Teaching Certification,Cambridge English,2023-11-02,,Active
+QUAL001352,DUD101061,TEFL,Teaching Certification,International TEFL Academy,2019-10-27,,Active
+QUAL001353,DUD101062,BA Linguistics,Degree,University,2020-03-18,,Active
+QUAL001354,DUD101063,BA English,Degree,University,2025-09-19,,Active
+QUAL001355,DUD101063,CELTA,Teaching Certification,Cambridge English,2023-07-18,,Active
+QUAL001356,DUD101064,TEFL,Teaching Certification,International TEFL Academy,2023-06-10,,Active
+QUAL001357,DUD101064,CELTA,Teaching Certification,Cambridge English,2020-06-23,,Active
+QUAL001358,DUD101065,TEFL,Teaching Certification,International TEFL Academy,2025-06-11,,Active
+QUAL001359,DUD101066,CELTA,Teaching Certification,Cambridge English,2020-09-01,,Active
+QUAL001360,DUD101067,BA English,Degree,University,2025-01-08,,Active
+QUAL001361,DUD101068,BA English,Degree,University,2025-11-01,,Active
+QUAL001362,DUD101069,CELTA,Teaching Certification,Cambridge English,2025-11-22,2029-11-11,Active
+QUAL001363,DUD101070,TEFL,Teaching Certification,International TEFL Academy,2025-04-24,2027-06-06,Active
+QUAL001364,DUD101071,TEFL,Teaching Certification,International TEFL Academy,2023-01-24,,Active
+QUAL001365,DUD101072,TESOL,Teaching Certification,TESOL International Association,2020-03-18,,Active
+QUAL001366,DUD101073,BA Linguistics,Degree,University,2024-07-21,,Active
+QUAL001367,DUD101074,CELTA,Teaching Certification,Cambridge English,2024-02-06,2026-10-27,Active
+QUAL001368,DUD101074,BA Education,Degree,University,2021-02-24,,Active
+QUAL001369,DUD101075,TEFL,Teaching Certification,International TEFL Academy,2018-12-06,,Active
+QUAL001370,DUD101075,BA English,Degree,University,2018-05-03,,Active
+QUAL001371,DUD101076,TEFL,Teaching Certification,International TEFL Academy,2022-09-28,,Active
+QUAL001372,DUD101076,TESOL,Teaching Certification,TESOL International Association,2022-11-22,,Active
+QUAL001373,DUD101077,CELTA,Teaching Certification,Cambridge English,2020-10-13,,Active
+QUAL001374,DUD101078,BA Linguistics,Degree,University,2021-10-13,,Active
+QUAL001375,DUD101079,BA English,Degree,University,2022-02-16,,Active
+QUAL001376,DUD101080,BA Linguistics,Degree,University,2022-11-17,,Active
+QUAL001377,DUD101081,BA English,Degree,University,2021-10-27,,Active
+QUAL001378,DUD101082,TESOL,Teaching Certification,TESOL International Association,2023-05-08,,Active
+QUAL001379,DUD101083,MA Education,Degree,University,2020-07-25,,Active
+QUAL001380,DUD101084,TESOL,Teaching Certification,TESOL International Association,2021-08-26,,Active
+QUAL001381,DUD101084,TEFL,Teaching Certification,International TEFL Academy,2023-08-05,,Active
+QUAL001382,DUD101085,TEFL,Teaching Certification,International TEFL Academy,2022-05-06,,Active
+QUAL001383,DUD101086,BA Education,Degree,University,2024-05-01,,Active
+QUAL001384,DUD101086,TESOL,Teaching Certification,TESOL International Association,2024-03-22,,Active
+QUAL001385,DUD101087,CELTA,Teaching Certification,Cambridge English,2021-08-21,,Active
+QUAL001386,DUD101087,MA Education,Degree,University,2018-01-11,,Active
+QUAL001387,DUD101088,BA Education,Degree,University,2019-08-19,,Active
+QUAL001388,DUD101089,BA Linguistics,Degree,University,2021-02-17,,Active
+QUAL001389,DUD101090,CELTA,Teaching Certification,Cambridge English,2023-09-16,,Active
+QUAL001390,DUD101091,TEFL,Teaching Certification,International TEFL Academy,2024-05-08,,Active
+QUAL001391,DUD101092,TESOL,Teaching Certification,TESOL International Association,2020-02-21,,Active
+QUAL001392,DUD101093,BA Education,Degree,University,2021-07-28,,Active
+QUAL001393,DUD101093,MA Education,Degree,University,2023-05-18,,Active
+QUAL001394,DUD101094,CELTA,Teaching Certification,Cambridge English,2021-09-13,2023-10-12,Expired
+QUAL001395,DUD101095,TEFL,Teaching Certification,International TEFL Academy,2019-11-05,,Active
+QUAL001396,DUD101096,MA Education,Degree,University,2025-11-05,,Active
+QUAL001397,DUD101097,TEFL,Teaching Certification,International TEFL Academy,2020-06-07,,Active
+QUAL001398,DUD101098,MA Education,Degree,University,2024-09-21,,Active
+QUAL001399,DUD101099,BA English,Degree,University,2025-09-04,,Active
+QUAL001400,DUD101100,MA Education,Degree,University,2021-06-08,,Active
+QUAL001401,DUD101101,MA Education,Degree,University,2023-07-15,,Active
+QUAL001402,DUD101102,BA English,Degree,University,2022-07-15,,Active
+QUAL001403,DUD101103,BA English,Degree,University,2025-09-09,,Active
+QUAL001404,DUD101104,BA Linguistics,Degree,University,2018-08-17,,Active
+QUAL001405,DUD101105,MA Education,Degree,University,2023-03-26,,Active
+QUAL001406,DUD101106,CELTA,Teaching Certification,Cambridge English,2023-10-23,,Active
+QUAL001407,DUD101107,BA English,Degree,University,2020-05-18,,Active
+QUAL001408,DUD101108,BA English,Degree,University,2020-10-14,,Active
+QUAL001409,DUD101109,BA Linguistics,Degree,University,2020-03-04,,Active
+QUAL001410,DUD101110,BA English,Degree,University,2020-11-15,,Active
+QUAL001411,DUD101111,BA Linguistics,Degree,University,2024-02-25,,Active
+QUAL001412,DUD101111,CELTA,Teaching Certification,Cambridge English,2019-04-11,,Active
+QUAL001413,DUD101112,CELTA,Teaching Certification,Cambridge English,2020-11-06,,Active
+QUAL001414,DUD101113,CELTA,Teaching Certification,Cambridge English,2021-04-23,,Active
+QUAL001415,DUD101114,BA English,Degree,University,2025-08-14,,Active
+QUAL001416,DUD101115,BA Education,Degree,University,2024-11-20,,Active
+QUAL001417,DUD101115,TEFL,Teaching Certification,International TEFL Academy,2025-10-28,2028-08-06,Active
+QUAL001418,DUD101116,MA Education,Degree,University,2021-03-04,,Active
+QUAL001419,DUD101117,TEFL,Teaching Certification,International TEFL Academy,2022-03-25,,Active
+QUAL001420,DUD101118,TEFL,Teaching Certification,International TEFL Academy,2022-06-12,,Active
+QUAL001421,DUD101118,CELTA,Teaching Certification,Cambridge English,2023-05-24,2026-07-16,Expired
+QUAL001422,DUD101119,BA Education,Degree,University,2023-11-14,,Active
+QUAL001423,DUD101120,TEFL,Teaching Certification,International TEFL Academy,2019-06-21,,Active
+QUAL001424,DUD101121,BA English,Degree,University,2024-05-24,,Active
+QUAL001425,DUD101122,MA Education,Degree,University,2019-04-22,,Active
+QUAL001426,DUD101123,CELTA,Teaching Certification,Cambridge English,2021-06-06,,Active
+QUAL001427,DUD101123,TEFL,Teaching Certification,International TEFL Academy,2018-07-18,,Active
+QUAL001428,DUD101124,MA Education,Degree,University,2018-11-22,,Active
+QUAL001429,DUD101125,MA Education,Degree,University,2025-02-09,,Active
+QUAL001430,DUD101126,TEFL,Teaching Certification,International TEFL Academy,2024-04-28,,Active
+QUAL001431,DUD101127,BA Linguistics,Degree,University,2018-01-15,,Active
+QUAL001432,DUD101127,BA Education,Degree,University,2025-03-08,,Active
+QUAL001433,DUD101128,BA English,Degree,University,2019-02-04,,Active
+QUAL001434,DUD101129,BA Linguistics,Degree,University,2021-09-08,,Active
+QUAL001435,DUD101130,BA Education,Degree,University,2024-10-28,,Active
+QUAL001436,DUD101131,BA English,Degree,University,2022-06-19,,Active
+QUAL001437,DUD101132,TEFL,Teaching Certification,International TEFL Academy,2020-04-24,,Active
+QUAL001438,DUD101133,TEFL,Teaching Certification,International TEFL Academy,2019-05-18,,Active
+QUAL001439,DUD101134,TEFL,Teaching Certification,International TEFL Academy,2020-05-10,,Active
+QUAL001440,DUD101134,BA English,Degree,University,2023-06-07,,Active
+QUAL001441,DUD101135,TEFL,Teaching Certification,International TEFL Academy,2025-05-24,2027-05-08,Active
+QUAL001442,DUD101136,BA Linguistics,Degree,University,2024-05-13,,Active
+QUAL001443,DUD101137,TESOL,Teaching Certification,TESOL International Association,2019-09-19,2022-10-16,Expired
+QUAL001444,DUD101137,CELTA,Teaching Certification,Cambridge English,2019-12-04,2023-08-15,Expired
+QUAL001445,DUD101138,BA Education,Degree,University,2025-10-17,,Active
+QUAL001446,DUD101139,MA Education,Degree,University,2025-04-20,,Active
+QUAL001447,DUD101139,BA Education,Degree,University,2019-10-12,,Active
+QUAL001448,DUD101140,CELTA,Teaching Certification,Cambridge English,2019-02-18,,Active
+QUAL001449,DUD101141,BA Education,Degree,University,2019-11-11,,Active
+QUAL001450,DUD101141,BA Linguistics,Degree,University,2023-06-14,,Active
+QUAL001451,DUD101142,BA Linguistics,Degree,University,2021-10-14,,Active
+QUAL001452,DUD101143,CELTA,Teaching Certification,Cambridge English,2023-06-19,,Active
+QUAL001453,DUD101144,MA Education,Degree,University,2023-06-04,,Active
+QUAL001454,DUD101144,TESOL,Teaching Certification,TESOL International Association,2020-10-12,,Active
+QUAL001455,DUD101145,MA Education,Degree,University,2023-07-27,,Active
+QUAL001456,DUD101146,BA Education,Degree,University,2019-01-17,,Active
+QUAL001457,DUD101147,BA English,Degree,University,2021-02-11,,Active
+QUAL001458,DUD101147,BA Education,Degree,University,2021-02-10,,Active
+QUAL001459,DUD101148,BA Education,Degree,University,2024-08-14,,Active
+QUAL001460,DUD101149,MA Education,Degree,University,2022-02-12,,Active
+QUAL001461,DUD101150,TEFL,Teaching Certification,International TEFL Academy,2023-09-20,,Active
+QUAL001462,DUD101150,CELTA,Teaching Certification,Cambridge English,2021-08-20,,Active
+QUAL001463,DUD101151,BA English,Degree,University,2023-07-04,,Active
+QUAL001464,DUD101152,BA English,Degree,University,2019-09-11,,Active
+QUAL001465,DUD101153,MA Education,Degree,University,2025-02-19,,Active
+QUAL001466,DUD101154,TESOL,Teaching Certification,TESOL International Association,2022-05-25,,Active
+QUAL001467,DUD101155,TEFL,Teaching Certification,International TEFL Academy,2020-01-15,,Active
+QUAL001468,DUD101155,MA Education,Degree,University,2019-04-24,,Active
+QUAL001469,DUD101156,TESOL,Teaching Certification,TESOL International Association,2018-09-09,2022-12-06,Expired
+QUAL001470,DUD101157,BA Education,Degree,University,2019-06-26,,Active
+QUAL001471,DUD101158,BA Linguistics,Degree,University,2019-07-10,,Active
+QUAL001472,DUD101159,TESOL,Teaching Certification,TESOL International Association,2024-07-01,,Active
+QUAL001473,DUD101160,TESOL,Teaching Certification,TESOL International Association,2018-05-27,,Active
+QUAL001474,DUD101161,BA Linguistics,Degree,University,2022-11-19,,Active
+QUAL001475,DUD101162,BA Education,Degree,University,2025-10-24,,Active
+QUAL001476,DUD101163,TEFL,Teaching Certification,International TEFL Academy,2023-01-25,,Active
+QUAL001477,DUD101164,TEFL,Teaching Certification,International TEFL Academy,2021-02-17,,Active
+QUAL001478,DUD101165,MA Education,Degree,University,2021-08-03,,Active
+QUAL001479,DUD101166,BA Linguistics,Degree,University,2024-09-01,,Active
+QUAL001480,DUD101166,TEFL,Teaching Certification,International TEFL Academy,2024-12-22,,Active
+QUAL001481,DUD101167,TESOL,Teaching Certification,TESOL International Association,2022-06-10,,Active
+QUAL001482,DUD101168,MA Education,Degree,University,2025-12-19,,Active
+QUAL001483,DUD101169,TEFL,Teaching Certification,International TEFL Academy,2025-02-24,,Active
+QUAL001484,DUD101169,BA English,Degree,University,2024-10-08,,Active
+QUAL001485,DUD101170,CELTA,Teaching Certification,Cambridge English,2025-02-04,2028-05-29,Active
+QUAL001486,DUD101171,CELTA,Teaching Certification,Cambridge English,2021-08-13,,Active
+QUAL001487,DUD101171,BA Education,Degree,University,2024-12-14,,Active
+QUAL001488,DUD101172,BA English,Degree,University,2025-04-07,,Active
+QUAL001489,DUD101172,TEFL,Teaching Certification,International TEFL Academy,2022-12-26,,Active
+QUAL001490,DUD101173,TEFL,Teaching Certification,International TEFL Academy,2024-02-12,,Active
+QUAL001491,DUD101173,MA Education,Degree,University,2021-05-24,,Active
+QUAL001492,DUD101174,MA Education,Degree,University,2018-03-12,,Active
+QUAL001493,DUD101175,TEFL,Teaching Certification,International TEFL Academy,2024-06-02,2027-12-25,Active
+QUAL001494,DUD101175,TESOL,Teaching Certification,TESOL International Association,2020-04-08,,Active
+QUAL001495,DUD101176,CELTA,Teaching Certification,Cambridge English,2018-12-16,,Active
+QUAL001496,DUD101176,BA English,Degree,University,2022-02-02,,Active
+QUAL001497,DUD101177,BA Education,Degree,University,2025-12-02,,Active
+QUAL001498,DUD101178,BA Linguistics,Degree,University,2020-10-11,,Active
+QUAL001499,DUD101178,MA Education,Degree,University,2023-07-13,,Active
+QUAL001500,DUD101179,BA Education,Degree,University,2025-10-08,,Active
+QUAL001501,DUD101180,TEFL,Teaching Certification,International TEFL Academy,2023-06-28,,Active
+QUAL001502,DUD101180,BA Education,Degree,University,2021-02-12,,Active
+QUAL001503,DUD101181,MA Education,Degree,University,2018-12-20,,Active
+QUAL001504,DUD101181,BA Linguistics,Degree,University,2018-06-18,,Active
+QUAL001505,DUD101182,TESOL,Teaching Certification,TESOL International Association,2025-06-15,2028-07-20,Active
+QUAL001506,DUD101183,CELTA,Teaching Certification,Cambridge English,2018-06-12,,Active
+QUAL001507,DUD101184,BA Linguistics,Degree,University,2019-04-04,,Active
+QUAL001508,DUD101185,BA Education,Degree,University,2020-05-18,,Active
+QUAL001509,DUD101186,TESOL,Teaching Certification,TESOL International Association,2018-02-25,,Active
+QUAL001510,DUD101187,BA English,Degree,University,2019-10-09,,Active
+QUAL001511,DUD101187,BA Education,Degree,University,2019-07-11,,Active
+QUAL001512,DUD101188,BA English,Degree,University,2023-03-22,,Active
+QUAL001513,DUD101189,BA English,Degree,University,2023-04-05,,Active
+QUAL001514,DUD101190,CELTA,Teaching Certification,Cambridge English,2022-09-24,,Active
+QUAL001515,DUD101191,CELTA,Teaching Certification,Cambridge English,2024-09-09,,Active
+QUAL001516,DUD101191,BA Linguistics,Degree,University,2024-02-04,,Active
+QUAL001517,DUD101192,BA Education,Degree,University,2018-03-17,,Active
+QUAL001518,DUD101193,TESOL,Teaching Certification,TESOL International Association,2019-04-06,,Active
+QUAL001519,DUD101194,BA English,Degree,University,2022-05-27,,Active
+QUAL001520,DUD101194,TESOL,Teaching Certification,TESOL International Association,2022-10-04,,Active
+QUAL001521,DUD101195,CELTA,Teaching Certification,Cambridge English,2023-07-18,,Active
+QUAL001522,DUD101195,BA Linguistics,Degree,University,2021-12-12,,Active
+QUAL001523,DUD101196,TESOL,Teaching Certification,TESOL International Association,2018-04-06,2021-12-04,Expired
+QUAL001524,DUD101197,CELTA,Teaching Certification,Cambridge English,2018-11-01,,Active
+QUAL001525,DUD101197,TESOL,Teaching Certification,TESOL International Association,2023-12-12,,Active
+QUAL001526,DUD101198,BA Education,Degree,University,2024-05-16,,Active
+QUAL001527,DUD101199,CELTA,Teaching Certification,Cambridge English,2019-08-25,2022-01-17,Expired
+QUAL001528,DUD101200,TEFL,Teaching Certification,International TEFL Academy,2024-12-16,,Active
+QUAL001529,DUD101200,BA English,Degree,University,2025-05-18,,Active
+QUAL001530,DUD101201,BA Linguistics,Degree,University,2021-09-12,,Active
+QUAL001531,DUD101201,BA Education,Degree,University,2024-11-14,,Active
+QUAL001532,DUD101202,TEFL,Teaching Certification,International TEFL Academy,2020-12-27,,Active
+QUAL001533,DUD101203,MA Education,Degree,University,2019-05-24,,Active
+QUAL001534,DUD101204,MA Education,Degree,University,2019-06-04,,Active
+QUAL001535,DUD101205,BA English,Degree,University,2023-09-03,,Active
+QUAL001536,DUD101206,MA Education,Degree,University,2021-11-03,,Active
+QUAL001537,DUD101207,BA English,Degree,University,2020-06-08,,Active
+QUAL001538,DUD101208,MA Education,Degree,University,2021-02-02,,Active
+QUAL001539,DUD101209,MA Education,Degree,University,2020-09-26,,Active
+QUAL001540,DUD101210,MA Education,Degree,University,2020-05-18,,Active
+QUAL001541,DUD101210,TEFL,Teaching Certification,International TEFL Academy,2020-10-14,2024-10-02,Expired
+QUAL001542,DUD101211,BA English,Degree,University,2024-06-02,,Active
+QUAL001543,DUD101212,MA Education,Degree,University,2021-08-16,,Active
+QUAL001544,DUD101213,TEFL,Teaching Certification,International TEFL Academy,2025-08-02,,Active
+QUAL001545,DUD101214,BA Linguistics,Degree,University,2019-03-02,,Active
+QUAL001546,DUD101214,TEFL,Teaching Certification,International TEFL Academy,2019-04-06,,Active
+QUAL001547,DUD101215,BA Linguistics,Degree,University,2021-07-02,,Active
+QUAL001548,DUD101215,TESOL,Teaching Certification,TESOL International Association,2018-09-16,2020-12-29,Expired
+QUAL001549,DUD101216,TEFL,Teaching Certification,International TEFL Academy,2024-02-01,,Active
+QUAL001550,DUD101217,CELTA,Teaching Certification,Cambridge English,2025-02-04,,Active
+QUAL001551,DUD101217,BA English,Degree,University,2024-10-17,,Active
+QUAL001552,DUD101218,TEFL,Teaching Certification,International TEFL Academy,2019-05-08,2022-11-26,Expired
+QUAL001553,DUD101218,BA English,Degree,University,2019-08-24,,Active
+QUAL001554,DUD101219,BA English,Degree,University,2020-02-12,,Active
+QUAL001555,DUD101220,TESOL,Teaching Certification,TESOL International Association,2023-12-12,,Active
+QUAL001556,DUD101221,BA Linguistics,Degree,University,2025-08-11,,Active
+QUAL001557,DUD101222,MA Education,Degree,University,2022-04-15,,Active
+QUAL001558,DUD101223,BA English,Degree,University,2021-06-02,,Active
+QUAL001559,DUD101224,BA Education,Degree,University,2021-01-15,,Active
+QUAL001560,DUD101225,TEFL,Teaching Certification,International TEFL Academy,2022-03-28,,Active
+QUAL001561,DUD101226,MA Education,Degree,University,2018-02-24,,Active
+QUAL001562,DUD101227,TEFL,Teaching Certification,International TEFL Academy,2023-06-01,,Active
+QUAL001563,DUD101228,TESOL,Teaching Certification,TESOL International Association,2023-07-14,,Active
+QUAL001564,DUD101229,BA Linguistics,Degree,University,2024-10-27,,Active
+QUAL001565,DUD101230,MA Education,Degree,University,2018-08-15,,Active
+QUAL001566,DUD101230,BA Education,Degree,University,2018-06-13,,Active
+QUAL001567,DUD101231,BA Education,Degree,University,2023-07-26,,Active
+QUAL001568,DUD101231,BA English,Degree,University,2018-06-05,,Active
+QUAL001569,DUD101232,BA English,Degree,University,2018-05-28,,Active
+QUAL001570,DUD101232,TESOL,Teaching Certification,TESOL International Association,2022-05-09,2026-08-23,Active
+QUAL001571,DUD101233,MA Education,Degree,University,2025-07-18,,Active
+QUAL001572,DUD101234,TEFL,Teaching Certification,International TEFL Academy,2021-04-27,,Active
+QUAL001573,DUD101234,CELTA,Teaching Certification,Cambridge English,2022-05-15,,Active
+QUAL001574,DUD101235,TESOL,Teaching Certification,TESOL International Association,2021-03-08,,Active
+QUAL001575,DUD101236,TESOL,Teaching Certification,TESOL International Association,2025-06-21,,Active
+QUAL001576,DUD101237,MA Education,Degree,University,2024-04-13,,Active
+QUAL001577,DUD101237,TEFL,Teaching Certification,International TEFL Academy,2021-08-23,,Active
+QUAL001578,DUD101238,BA Education,Degree,University,2021-03-21,,Active
+QUAL001579,DUD101239,MA Education,Degree,University,2024-04-16,,Active
+QUAL001580,DUD101240,MA Education,Degree,University,2018-08-16,,Active
+QUAL001581,DUD101241,BA English,Degree,University,2022-03-01,,Active
+QUAL001582,DUD101242,TESOL,Teaching Certification,TESOL International Association,2022-09-05,,Active
+QUAL001583,DUD101243,TESOL,Teaching Certification,TESOL International Association,2021-05-04,,Active
+QUAL001584,DUD101244,BA Education,Degree,University,2021-03-10,,Active
+QUAL001585,DUD101245,BA Education,Degree,University,2025-03-04,,Active
+QUAL001586,DUD101246,BA Education,Degree,University,2021-04-11,,Active
+QUAL001587,DUD101247,TEFL,Teaching Certification,International TEFL Academy,2025-11-25,,Active
+QUAL001588,DUD101248,BA Linguistics,Degree,University,2023-11-09,,Active
+QUAL001589,DUD101248,MA Education,Degree,University,2023-05-26,,Active
+QUAL001590,DUD101249,BA English,Degree,University,2024-10-19,,Active
+QUAL001591,DUD101250,MA Education,Degree,University,2018-01-28,,Active
+QUAL001592,DUD101251,BA Linguistics,Degree,University,2018-08-27,,Active
+QUAL001593,DUD101252,CELTA,Teaching Certification,Cambridge English,2019-04-24,,Active
+QUAL001594,DUD101253,TEFL,Teaching Certification,International TEFL Academy,2020-04-19,,Active
+QUAL001595,DUD101254,BA Linguistics,Degree,University,2023-06-02,,Active
+QUAL001596,DUD101255,BA Education,Degree,University,2019-12-16,,Active
+QUAL001597,DUD101256,MA Education,Degree,University,2021-11-01,,Active
+QUAL001598,DUD101257,BA Linguistics,Degree,University,2022-10-20,,Active
+QUAL001599,DUD101258,BA Education,Degree,University,2020-05-06,,Active
+QUAL001600,DUD101259,TEFL,Teaching Certification,International TEFL Academy,2019-07-27,,Active
+QUAL001601,DUD101260,BA English,Degree,University,2025-02-25,,Active
+QUAL001602,DUD101260,MA Education,Degree,University,2019-03-01,,Active
+QUAL001603,DUD101261,TESOL,Teaching Certification,TESOL International Association,2020-03-10,,Active
+QUAL001604,DUD101262,TEFL,Teaching Certification,International TEFL Academy,2022-04-27,,Active
+QUAL001605,DUD101263,MA Education,Degree,University,2022-09-02,,Active
+QUAL001606,DUD101263,CELTA,Teaching Certification,Cambridge English,2025-04-12,,Active
+QUAL001607,DUD101264,BA Linguistics,Degree,University,2019-09-20,,Active
+QUAL001608,DUD101265,BA Linguistics,Degree,University,2023-08-11,,Active
+QUAL001609,DUD101266,TESOL,Teaching Certification,TESOL International Association,2019-09-20,,Active
+QUAL001610,DUD101266,TEFL,Teaching Certification,International TEFL Academy,2024-12-13,,Active
+QUAL001611,DUD101267,BA Linguistics,Degree,University,2022-09-21,,Active
+QUAL001612,DUD101268,BA Education,Degree,University,2019-11-02,,Active
+QUAL001613,DUD101269,TESOL,Teaching Certification,TESOL International Association,2018-10-18,,Active
+QUAL001614,DUD101270,CELTA,Teaching Certification,Cambridge English,2024-09-02,,Active
+QUAL001615,DUD101271,TESOL,Teaching Certification,TESOL International Association,2021-03-09,,Active
+QUAL001616,DUD101272,TEFL,Teaching Certification,International TEFL Academy,2022-03-04,,Active
+QUAL001617,DUD101273,TESOL,Teaching Certification,TESOL International Association,2019-05-17,,Active
+QUAL001618,DUD101273,BA Linguistics,Degree,University,2021-12-22,,Active
+QUAL001619,DUD101274,BA Linguistics,Degree,University,2024-02-24,,Active
+QUAL001620,DUD101274,TEFL,Teaching Certification,International TEFL Academy,2022-10-09,,Active
+QUAL001621,DUD101275,BA Linguistics,Degree,University,2018-02-10,,Active
+QUAL001622,DUD101276,BA English,Degree,University,2021-04-04,,Active
+QUAL001623,DUD101277,BA Education,Degree,University,2025-04-09,,Active
+QUAL001624,DUD101277,BA English,Degree,University,2022-07-02,,Active
+QUAL001625,DUD101278,CELTA,Teaching Certification,Cambridge English,2022-03-19,,Active
+QUAL001626,DUD101279,TEFL,Teaching Certification,International TEFL Academy,2018-04-19,,Active
+QUAL001627,DUD101280,TESOL,Teaching Certification,TESOL International Association,2025-04-14,,Active
+QUAL001628,DUD101281,CELTA,Teaching Certification,Cambridge English,2018-02-14,,Active
+QUAL001629,DUD101282,MA Education,Degree,University,2018-07-21,,Active
+QUAL001630,DUD101282,BA Linguistics,Degree,University,2018-10-20,,Active
+QUAL001631,DUD101283,BA Linguistics,Degree,University,2019-12-24,,Active
+QUAL001632,DUD101283,TESOL,Teaching Certification,TESOL International Association,2019-12-08,,Active
+QUAL001633,DUD101284,CELTA,Teaching Certification,Cambridge English,2020-05-18,2022-11-08,Expired
+QUAL001634,DUD101284,BA English,Degree,University,2018-10-26,,Active
+QUAL001635,DUD101285,BA English,Degree,University,2021-08-23,,Active
+QUAL001636,DUD101285,BA Linguistics,Degree,University,2021-07-08,,Active
+QUAL001637,DUD101286,BA Education,Degree,University,2025-06-05,,Active
+QUAL001638,DUD101287,CELTA,Teaching Certification,Cambridge English,2019-06-03,,Active
+QUAL001639,DUD101288,BA Linguistics,Degree,University,2018-08-09,,Active
+QUAL001640,DUD101289,MA Education,Degree,University,2022-08-12,,Active
+QUAL001641,DUD101290,TEFL,Teaching Certification,International TEFL Academy,2021-08-17,,Active
+QUAL001642,DUD101291,BA Education,Degree,University,2018-06-06,,Active
+QUAL001643,DUD101292,BA English,Degree,University,2025-12-24,,Active
+QUAL001644,DUD101293,BA Education,Degree,University,2023-02-10,,Active
+QUAL001645,DUD101294,BA Linguistics,Degree,University,2024-09-05,,Active
+QUAL001646,DUD101295,BA English,Degree,University,2020-12-24,,Active
+QUAL001647,DUD101296,MA Education,Degree,University,2022-05-26,,Active
+QUAL001648,DUD101297,TEFL,Teaching Certification,International TEFL Academy,2025-05-19,,Active
+QUAL001649,DUD101297,BA Linguistics,Degree,University,2018-01-18,,Active
+QUAL001650,DUD101298,BA Linguistics,Degree,University,2023-06-23,,Active
+QUAL001651,DUD101299,MA Education,Degree,University,2024-08-03,,Active
+QUAL001652,DUD101300,CELTA,Teaching Certification,Cambridge English,2019-06-15,,Active
+QUAL001653,DUD101301,TESOL,Teaching Certification,TESOL International Association,2025-08-05,,Active
+QUAL001654,DUD101301,BA Education,Degree,University,2019-09-19,,Active
+QUAL001655,DUD101302,BA English,Degree,University,2019-02-02,,Active
+QUAL001656,DUD101303,TEFL,Teaching Certification,International TEFL Academy,2024-09-24,2027-07-12,Active
+QUAL001657,DUD101303,CELTA,Teaching Certification,Cambridge English,2025-09-01,,Active
+QUAL001658,DUD101304,BA Education,Degree,University,2020-05-07,,Active
+QUAL001659,DUD101305,BA English,Degree,University,2018-05-07,,Active
+QUAL001660,DUD101306,CELTA,Teaching Certification,Cambridge English,2019-08-01,,Active
+QUAL001661,DUD101306,BA Education,Degree,University,2025-05-03,,Active
+QUAL001662,DUD101307,BA Education,Degree,University,2023-10-07,,Active
+QUAL001663,DUD101308,TESOL,Teaching Certification,TESOL International Association,2021-10-09,,Active
+QUAL001664,DUD101309,BA Linguistics,Degree,University,2024-09-01,,Active
+QUAL001665,DUD101309,MA Education,Degree,University,2020-10-14,,Active
+QUAL001666,DUD101310,BA Education,Degree,University,2024-07-02,,Active
+QUAL001667,DUD101311,TESOL,Teaching Certification,TESOL International Association,2023-02-25,,Active
+QUAL001668,DUD101311,BA Education,Degree,University,2019-04-15,,Active
+QUAL001669,DUD101312,TESOL,Teaching Certification,TESOL International Association,2019-01-20,,Active
+QUAL001670,DUD101313,MA Education,Degree,University,2019-07-14,,Active
+QUAL001671,DUD101314,BA English,Degree,University,2020-08-09,,Active
+QUAL001672,DUD101314,BA Linguistics,Degree,University,2018-10-25,,Active
+QUAL001673,DUD101315,TESOL,Teaching Certification,TESOL International Association,2020-09-06,,Active
+QUAL001674,DUD101316,BA English,Degree,University,2025-05-11,,Active
+QUAL001675,DUD101317,MA Education,Degree,University,2025-11-22,,Active
+QUAL001676,DUD101318,BA Education,Degree,University,2019-06-02,,Active
+QUAL001677,DUD101319,TEFL,Teaching Certification,International TEFL Academy,2021-08-08,,Active
+QUAL001678,DUD101319,TESOL,Teaching Certification,TESOL International Association,2024-10-13,,Active
+QUAL001679,DUD101320,TESOL,Teaching Certification,TESOL International Association,2019-09-05,,Active
+QUAL001680,DUD101321,MA Education,Degree,University,2025-01-16,,Active
+QUAL001681,DUD101322,TESOL,Teaching Certification,TESOL International Association,2022-10-23,,Active
+QUAL001682,DUD101323,BA Education,Degree,University,2020-01-15,,Active
+QUAL001683,DUD101324,MA Education,Degree,University,2024-08-04,,Active
+QUAL001684,DUD101325,BA Education,Degree,University,2024-08-27,,Active
+QUAL001685,DUD101326,CELTA,Teaching Certification,Cambridge English,2025-07-02,2027-08-21,Active
+QUAL001686,DUD101327,BA English,Degree,University,2025-04-16,,Active
+QUAL001687,DUD101328,BA English,Degree,University,2024-11-07,,Active
+QUAL001688,DUD101328,BA Education,Degree,University,2025-08-02,,Active
+QUAL001689,DUD101329,MA Education,Degree,University,2024-12-15,,Active
+QUAL001690,DUD101330,CELTA,Teaching Certification,Cambridge English,2019-06-19,,Active
+QUAL001691,DUD101331,TEFL,Teaching Certification,International TEFL Academy,2018-10-01,,Active
+QUAL001692,DUD101332,BA Linguistics,Degree,University,2023-10-10,,Active
+QUAL001693,DUD101332,BA Education,Degree,University,2019-06-11,,Active
+QUAL001694,DUD101333,TEFL,Teaching Certification,International TEFL Academy,2020-07-14,,Active
+QUAL001695,DUD101333,BA Linguistics,Degree,University,2022-05-21,,Active
+QUAL001696,DUD101334,BA English,Degree,University,2018-02-28,,Active
+QUAL001697,DUD101335,BA English,Degree,University,2021-07-13,,Active
+QUAL001698,DUD101336,CELTA,Teaching Certification,Cambridge English,2020-04-14,,Active
+QUAL001699,DUD101337,TEFL,Teaching Certification,International TEFL Academy,2024-01-13,,Active
+QUAL001700,DUD101338,BA Education,Degree,University,2020-01-06,,Active
+QUAL001701,DUD101338,MA Education,Degree,University,2022-07-14,,Active
+QUAL001702,DUD101339,MA Education,Degree,University,2018-04-26,,Active
+QUAL001703,DUD101340,MA Education,Degree,University,2023-11-26,,Active
+QUAL001704,DUD101341,TESOL,Teaching Certification,TESOL International Association,2021-05-24,2025-05-15,Expired
+QUAL001705,DUD101342,BA English,Degree,University,2022-03-23,,Active
+QUAL001706,DUD101343,MA Education,Degree,University,2024-11-13,,Active
+QUAL001707,DUD101343,BA Linguistics,Degree,University,2025-07-07,,Active
+QUAL001708,DUD101344,TEFL,Teaching Certification,International TEFL Academy,2025-07-05,,Active
+QUAL001709,DUD101345,TEFL,Teaching Certification,International TEFL Academy,2024-01-18,,Active
+QUAL001710,DUD101346,TEFL,Teaching Certification,International TEFL Academy,2023-07-11,,Active
+QUAL001711,DUD101347,TEFL,Teaching Certification,International TEFL Academy,2024-10-23,,Active
+QUAL001712,DUD101348,BA English,Degree,University,2018-03-22,,Active
+QUAL001713,DUD101348,BA Education,Degree,University,2020-06-01,,Active
+QUAL001714,DUD101349,MA Education,Degree,University,2021-08-09,,Active
+QUAL001715,DUD101350,CELTA,Teaching Certification,Cambridge English,2023-10-06,,Active
+QUAL001716,DUD101350,BA Linguistics,Degree,University,2025-02-10,,Active
+QUAL001717,DUD101351,CELTA,Teaching Certification,Cambridge English,2022-08-01,,Active
+QUAL001718,DUD101351,BA English,Degree,University,2019-01-07,,Active
+QUAL001719,DUD101352,BA English,Degree,University,2018-08-12,,Active
+QUAL001720,DUD101353,BA Education,Degree,University,2025-04-13,,Active
+QUAL001721,DUD101354,BA Education,Degree,University,2021-04-27,,Active
+QUAL001722,DUD101355,BA Linguistics,Degree,University,2025-03-09,,Active
+QUAL001723,DUD101355,BA English,Degree,University,2023-07-17,,Active
+QUAL001724,DUD101356,CELTA,Teaching Certification,Cambridge English,2022-06-10,,Active
+QUAL001725,DUD101357,TESOL,Teaching Certification,TESOL International Association,2018-02-02,,Active
+QUAL001726,DUD101358,BA English,Degree,University,2020-01-15,,Active
+QUAL001727,DUD101359,BA English,Degree,University,2023-08-07,,Active
+QUAL001728,DUD101359,CELTA,Teaching Certification,Cambridge English,2023-05-02,,Active
+QUAL001729,DUD101360,BA Linguistics,Degree,University,2023-07-16,,Active
+QUAL001730,DUD101361,TEFL,Teaching Certification,International TEFL Academy,2019-02-23,,Active
+QUAL001731,DUD101362,TESOL,Teaching Certification,TESOL International Association,2022-08-10,2025-10-10,Expired
+QUAL001732,DUD101362,BA Linguistics,Degree,University,2025-02-15,,Active
+QUAL001733,DUD101363,BA English,Degree,University,2019-05-14,,Active
+QUAL001734,DUD101363,MA Education,Degree,University,2020-04-05,,Active
+QUAL001735,DUD101364,BA Linguistics,Degree,University,2023-02-24,,Active
+QUAL001736,DUD101365,BA English,Degree,University,2019-09-27,,Active
+QUAL001737,DUD101366,BA Education,Degree,University,2023-08-09,,Active
+QUAL001738,DUD101367,TESOL,Teaching Certification,TESOL International Association,2022-10-15,,Active
+QUAL001739,DUD101368,BA English,Degree,University,2021-02-22,,Active
+QUAL001740,DUD101369,BA Linguistics,Degree,University,2025-11-07,,Active
+QUAL001741,DUD101369,BA English,Degree,University,2024-05-03,,Active
+QUAL001742,DUD101370,TEFL,Teaching Certification,International TEFL Academy,2022-05-07,,Active
+QUAL001743,DUD101371,CELTA,Teaching Certification,Cambridge English,2018-03-07,,Active
+QUAL001744,DUD101372,TEFL,Teaching Certification,International TEFL Academy,2018-10-18,,Active
+QUAL001745,DUD101373,TESOL,Teaching Certification,TESOL International Association,2021-11-08,2025-11-17,Expired
+QUAL001746,DUD101373,BA Education,Degree,University,2023-09-01,,Active
+QUAL001747,DUD101374,TESOL,Teaching Certification,TESOL International Association,2020-05-07,2023-05-01,Expired
+QUAL001748,DUD101374,MA Education,Degree,University,2018-07-02,,Active
+QUAL001749,DUD101375,TESOL,Teaching Certification,TESOL International Association,2019-02-26,,Active
+QUAL001750,DUD101375,BA Linguistics,Degree,University,2024-07-27,,Active
+QUAL001751,DUD101376,TESOL,Teaching Certification,TESOL International Association,2020-05-17,,Active
+QUAL001752,DUD101376,CELTA,Teaching Certification,Cambridge English,2019-09-05,,Active
+QUAL001753,DUD101377,TEFL,Teaching Certification,International TEFL Academy,2023-05-28,,Active
+QUAL001754,DUD101378,TEFL,Teaching Certification,International TEFL Academy,2019-03-15,,Active
+QUAL001755,DUD101379,BA Linguistics,Degree,University,2018-10-23,,Active
+QUAL001756,DUD101380,BA Education,Degree,University,2019-01-26,,Active
+QUAL001757,DUD101381,MA Education,Degree,University,2023-01-19,,Active
+QUAL001758,DUD101382,TEFL,Teaching Certification,International TEFL Academy,2019-01-28,,Active
+QUAL001759,DUD101383,TEFL,Teaching Certification,International TEFL Academy,2018-04-07,2021-12-27,Expired
+QUAL001760,DUD101384,BA Education,Degree,University,2021-05-13,,Active
+QUAL001761,DUD101385,BA English,Degree,University,2021-01-02,,Active
+QUAL001762,DUD101386,BA Education,Degree,University,2020-01-18,,Active
+QUAL001763,DUD101387,BA Linguistics,Degree,University,2025-05-04,,Active
+QUAL001764,DUD101388,BA English,Degree,University,2020-02-20,,Active
+QUAL001765,DUD101389,BA Linguistics,Degree,University,2021-01-12,,Active
+QUAL001766,DUD101390,TEFL,Teaching Certification,International TEFL Academy,2021-01-18,,Active
+QUAL001767,DUD101390,BA Linguistics,Degree,University,2025-03-01,,Active
+QUAL001768,DUD101391,TESOL,Teaching Certification,TESOL International Association,2020-09-17,,Active
+QUAL001769,DUD101392,TEFL,Teaching Certification,International TEFL Academy,2018-11-14,,Active
+QUAL001770,DUD101392,BA Linguistics,Degree,University,2025-11-22,,Active
+QUAL001771,DUD101393,MA Education,Degree,University,2023-07-13,,Active
+QUAL001772,DUD101394,BA English,Degree,University,2020-02-15,,Active
+QUAL001773,DUD101395,BA Linguistics,Degree,University,2020-04-27,,Active
+QUAL001774,DUD101396,BA Linguistics,Degree,University,2023-09-10,,Active
+QUAL001775,DUD101397,TESOL,Teaching Certification,TESOL International Association,2018-01-16,,Active
+QUAL001776,DUD101398,BA English,Degree,University,2025-11-18,,Active
+QUAL001777,DUD101399,TEFL,Teaching Certification,International TEFL Academy,2024-10-13,,Active
+QUAL001778,DUD101400,MA Education,Degree,University,2018-05-25,,Active
+QUAL001779,DUD101401,BA Linguistics,Degree,University,2025-03-23,,Active
+QUAL001780,DUD101402,BA Linguistics,Degree,University,2018-07-01,,Active
+QUAL001781,DUD101403,BA Education,Degree,University,2018-09-16,,Active
+QUAL001782,DUD101404,TESOL,Teaching Certification,TESOL International Association,2018-01-02,,Active
+QUAL001783,DUD101405,CELTA,Teaching Certification,Cambridge English,2022-04-21,,Active
+QUAL001784,DUD101406,BA Education,Degree,University,2018-04-23,,Active
+QUAL001785,DUD101407,CELTA,Teaching Certification,Cambridge English,2022-10-18,,Active
+QUAL001786,DUD101408,TESOL,Teaching Certification,TESOL International Association,2022-04-10,,Active
+QUAL001787,DUD101408,MA Education,Degree,University,2021-07-17,,Active
+QUAL001788,DUD101409,BA Linguistics,Degree,University,2019-03-19,,Active
+QUAL001789,DUD101410,CELTA,Teaching Certification,Cambridge English,2024-10-09,,Active
+QUAL001790,DUD101411,BA Linguistics,Degree,University,2019-04-11,,Active
+QUAL001791,DUD101411,MA Education,Degree,University,2020-05-07,,Active
+QUAL001792,DUD101412,MA Education,Degree,University,2019-10-15,,Active
+QUAL001793,DUD101412,BA Education,Degree,University,2025-10-07,,Active
+QUAL001794,DUD101413,TEFL,Teaching Certification,International TEFL Academy,2025-10-21,2028-03-21,Active
+QUAL001795,DUD101414,BA English,Degree,University,2018-01-16,,Active
+QUAL001796,DUD101414,CELTA,Teaching Certification,Cambridge English,2025-01-26,2029-03-15,Active
+QUAL001797,DUD101415,BA English,Degree,University,2024-06-02,,Active
+QUAL001798,DUD101416,TEFL,Teaching Certification,International TEFL Academy,2024-01-14,,Active
+QUAL001799,DUD101417,BA Linguistics,Degree,University,2021-05-15,,Active
+QUAL001800,DUD101418,CELTA,Teaching Certification,Cambridge English,2022-10-17,,Active
+QUAL001801,DUD101419,MA Education,Degree,University,2025-04-09,,Active
+QUAL001802,DUD101419,BA Linguistics,Degree,University,2019-08-03,,Active
+QUAL001803,DUD101420,BA Education,Degree,University,2025-04-28,,Active
+QUAL001804,DUD101421,TEFL,Teaching Certification,International TEFL Academy,2021-08-15,,Active
+QUAL001805,DUD101421,BA English,Degree,University,2022-05-14,,Active
+QUAL001806,DUD101422,MA Education,Degree,University,2021-09-12,,Active
+QUAL001807,DUD101423,CELTA,Teaching Certification,Cambridge English,2025-04-11,,Active
+QUAL001808,DUD101424,BA Linguistics,Degree,University,2020-08-13,,Active
+QUAL001809,DUD101425,BA Education,Degree,University,2023-02-16,,Active
+QUAL001810,DUD101426,TEFL,Teaching Certification,International TEFL Academy,2023-05-05,,Active
+QUAL001811,DUD101426,CELTA,Teaching Certification,Cambridge English,2021-10-16,,Active
+QUAL001812,DUD101427,MA Education,Degree,University,2023-03-27,,Active
+QUAL001813,DUD101428,CELTA,Teaching Certification,Cambridge English,2021-06-21,,Active
+QUAL001814,DUD101429,BA Linguistics,Degree,University,2019-01-17,,Active
+QUAL001815,DUD101430,TESOL,Teaching Certification,TESOL International Association,2018-08-28,,Active
+QUAL001816,DUD101431,BA Linguistics,Degree,University,2022-06-12,,Active
+QUAL001817,DUD101431,TESOL,Teaching Certification,TESOL International Association,2023-05-28,,Active
+QUAL001818,DUD101432,TESOL,Teaching Certification,TESOL International Association,2024-08-25,,Active
+QUAL001819,DUD101433,CELTA,Teaching Certification,Cambridge English,2022-07-23,,Active
+QUAL001820,DUD101434,TEFL,Teaching Certification,International TEFL Academy,2019-09-07,2024-01-09,Expired
+QUAL001821,DUD101434,CELTA,Teaching Certification,Cambridge English,2025-08-07,,Active
+QUAL001822,DUD101435,TEFL,Teaching Certification,International TEFL Academy,2022-01-16,,Active
+QUAL001823,DUD101436,BA English,Degree,University,2022-12-04,,Active
+QUAL001824,DUD101437,TEFL,Teaching Certification,International TEFL Academy,2020-04-02,,Active
+QUAL001825,DUD101437,BA Education,Degree,University,2024-07-24,,Active
+QUAL001826,DUD101438,TEFL,Teaching Certification,International TEFL Academy,2018-09-12,,Active
+QUAL001827,DUD101439,BA English,Degree,University,2021-06-06,,Active
+QUAL001828,DUD101440,TESOL,Teaching Certification,TESOL International Association,2023-04-17,2025-10-12,Expired
+QUAL001829,DUD101441,TESOL,Teaching Certification,TESOL International Association,2022-12-06,2025-01-22,Expired
+QUAL001830,DUD101442,BA Linguistics,Degree,University,2019-08-28,,Active
+QUAL001831,DUD101443,TESOL,Teaching Certification,TESOL International Association,2021-10-02,,Active
+QUAL001832,DUD101443,CELTA,Teaching Certification,Cambridge English,2023-04-13,,Active
+QUAL001833,DUD101444,TESOL,Teaching Certification,TESOL International Association,2023-04-26,,Active
+QUAL001834,DUD101444,BA English,Degree,University,2019-10-04,,Active
+QUAL001835,DUD101445,BA Linguistics,Degree,University,2020-08-20,,Active
+QUAL001836,DUD101446,TESOL,Teaching Certification,TESOL International Association,2024-08-25,,Active
+QUAL001837,DUD101447,BA Linguistics,Degree,University,2022-05-12,,Active
+QUAL001838,DUD101448,MA Education,Degree,University,2020-02-11,,Active
+QUAL001839,DUD101449,BA Education,Degree,University,2021-07-27,,Active
+QUAL001840,DUD101450,TEFL,Teaching Certification,International TEFL Academy,2020-09-12,,Active
+QUAL001841,DUD101451,BA Education,Degree,University,2021-10-09,,Active
+QUAL001842,DUD101452,TESOL,Teaching Certification,TESOL International Association,2018-10-24,,Active
+QUAL001843,DUD101452,MA Education,Degree,University,2019-08-15,,Active
+QUAL001844,DUD101453,TEFL,Teaching Certification,International TEFL Academy,2024-01-24,,Active
+QUAL001845,DUD101454,CELTA,Teaching Certification,Cambridge English,2024-03-19,2028-01-13,Active
+QUAL001846,DUD101454,TESOL,Teaching Certification,TESOL International Association,2025-06-01,,Active
+QUAL001847,DUD101455,CELTA,Teaching Certification,Cambridge English,2020-06-26,,Active
+QUAL001848,DUD101456,BA English,Degree,University,2025-03-23,,Active
+QUAL001849,DUD101457,CELTA,Teaching Certification,Cambridge English,2024-07-06,,Active
+QUAL001850,DUD101457,MA Education,Degree,University,2024-01-05,,Active
+QUAL001851,DUD101458,MA Education,Degree,University,2023-05-27,,Active
+QUAL001852,DUD101459,BA Education,Degree,University,2021-08-23,,Active
+QUAL001853,DUD101460,BA English,Degree,University,2021-12-02,,Active
+QUAL001854,DUD101460,MA Education,Degree,University,2019-02-07,,Active
+QUAL001855,DUD101461,BA English,Degree,University,2018-12-12,,Active
+QUAL001856,DUD101462,TESOL,Teaching Certification,TESOL International Association,2019-05-07,,Active
+QUAL001857,DUD101463,BA English,Degree,University,2023-08-02,,Active
+QUAL001858,DUD101464,TESOL,Teaching Certification,TESOL International Association,2018-04-19,,Active
+QUAL001859,DUD101464,BA Linguistics,Degree,University,2018-07-06,,Active
+QUAL001860,DUD101465,MA Education,Degree,University,2023-09-07,,Active
+QUAL001861,DUD101465,BA Education,Degree,University,2019-02-20,,Active
+QUAL001862,DUD101466,MA Education,Degree,University,2019-07-19,,Active
+QUAL001863,DUD101467,TEFL,Teaching Certification,International TEFL Academy,2021-05-05,,Active
+QUAL001864,DUD101468,TESOL,Teaching Certification,TESOL International Association,2018-02-10,,Active
+QUAL001865,DUD101469,TESOL,Teaching Certification,TESOL International Association,2020-01-07,,Active
+QUAL001866,DUD101470,TESOL,Teaching Certification,TESOL International Association,2023-11-20,,Active
+QUAL001867,DUD101471,BA Education,Degree,University,2018-01-14,,Active
+QUAL001868,DUD101472,BA Linguistics,Degree,University,2025-09-23,,Active
+QUAL001869,DUD101473,MA Education,Degree,University,2022-05-22,,Active
+QUAL001870,DUD101473,CELTA,Teaching Certification,Cambridge English,2019-02-27,,Active
+QUAL001871,DUD101474,CELTA,Teaching Certification,Cambridge English,2018-11-02,,Active
+QUAL001872,DUD101474,MA Education,Degree,University,2020-06-17,,Active
+QUAL001873,DUD101475,TESOL,Teaching Certification,TESOL International Association,2020-08-20,,Active
+QUAL001874,DUD101476,BA Education,Degree,University,2024-03-24,,Active
+QUAL001875,DUD101477,TESOL,Teaching Certification,TESOL International Association,2018-04-22,,Active
+QUAL001876,DUD101477,BA Linguistics,Degree,University,2020-03-07,,Active
+QUAL001877,DUD101478,BA Education,Degree,University,2025-07-22,,Active
+QUAL001878,DUD101478,TEFL,Teaching Certification,International TEFL Academy,2018-01-22,,Active
+QUAL001879,DUD101479,MA Education,Degree,University,2022-09-02,,Active
+QUAL001880,DUD101480,BA Education,Degree,University,2021-04-15,,Active
+QUAL001881,DUD101481,BA Linguistics,Degree,University,2023-01-08,,Active
+QUAL001882,DUD101482,BA Education,Degree,University,2024-11-07,,Active
+QUAL001883,DUD101483,MA Education,Degree,University,2020-09-18,,Active
+QUAL001884,DUD101484,TESOL,Teaching Certification,TESOL International Association,2022-11-18,2027-03-14,Active
+QUAL001885,DUD101485,BA Linguistics,Degree,University,2025-07-12,,Active
+QUAL001886,DUD101485,CELTA,Teaching Certification,Cambridge English,2023-08-18,,Active
+QUAL001887,DUD101486,MA Education,Degree,University,2024-06-22,,Active
+QUAL001888,DUD101487,TEFL,Teaching Certification,International TEFL Academy,2025-04-26,,Active
+QUAL001889,DUD101488,BA Education,Degree,University,2023-08-19,,Active
+QUAL001890,DUD101489,BA Education,Degree,University,2024-04-24,,Active
+QUAL001891,DUD101490,CELTA,Teaching Certification,Cambridge English,2023-10-26,,Active
+QUAL001892,DUD101490,TEFL,Teaching Certification,International TEFL Academy,2021-02-01,2023-06-16,Expired
+QUAL001893,DUD101491,BA English,Degree,University,2021-12-25,,Active
+QUAL001894,DUD101492,MA Education,Degree,University,2024-02-07,,Active
+QUAL001895,DUD101492,CELTA,Teaching Certification,Cambridge English,2025-03-02,,Active
+QUAL001896,DUD101493,BA Education,Degree,University,2018-06-04,,Active
+QUAL001897,DUD101493,BA English,Degree,University,2024-06-26,,Active
+QUAL001898,DUD101494,TESOL,Teaching Certification,TESOL International Association,2023-09-13,,Active
+QUAL001899,DUD101495,BA English,Degree,University,2022-11-06,,Active
+QUAL001900,DUD101496,CELTA,Teaching Certification,Cambridge English,2020-09-24,,Active
+QUAL001901,DUD101497,MA Education,Degree,University,2018-09-11,,Active
+QUAL001902,DUD101498,CELTA,Teaching Certification,Cambridge English,2019-12-14,2024-02-27,Expired
+QUAL001903,DUD101499,BA Linguistics,Degree,University,2019-12-22,,Active
+QUAL001904,DUD101500,MA Education,Degree,University,2023-10-24,,Active
