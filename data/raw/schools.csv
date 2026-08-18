@@ -1,0 +1,487 @@
+school_id,client_id,school_name,school_type,prefecture,city,opening_date,school_status
+SCH00001,CLI0001,Tsubaki Kita Kindergarten,Kindergarten,Tokyo,Kita,1998-07-21,Inactive
+SCH00002,CLI0002,Hikari Kawasaki Education Center,Education Center,Kanagawa,Kawasaki,2018-06-13,Active
+SCH00003,CLI0002,Seiwa Kawasaki English School,English School,Kanagawa,Kawasaki,2014-05-27,Active
+SCH00004,CLI0003,Hikari Soka Public Junior High School,Public Junior High School,Saitama,Soka,1989-10-14,Active
+SCH00005,CLI0003,Tsubaki Soka Private School,Private School,Saitama,Soka,2012-04-08,Active
+SCH00006,CLI0004,Asahi Urayasu English School,English School,Chiba,Urayasu,1980-11-15,Active
+SCH00007,CLI0004,Sakura Kawasaki Private School,Private School,Kanagawa,Kawasaki,2008-09-25,Active
+SCH00008,CLI0004,Seiwa Koganei Kindergarten,Kindergarten,Tokyo,Koganei,1980-05-12,Active
+SCH00009,CLI0005,Hikari Matsudo Private School,Private School,Chiba,Matsudo,2022-11-14,Active
+SCH00010,CLI0006,Haruka Kawaguchi High School,High School,Saitama,Kawaguchi,2016-12-02,Active
+SCH00011,CLI0007,Asahi Nerima High School,High School,Tokyo,Nerima,2016-04-22,Active
+SCH00012,CLI0007,Hikari Hachioji Kindergarten,Kindergarten,Tokyo,Hachioji,1990-12-15,Active
+SCH00013,CLI0008,Hikari Kawaguchi Private School,Private School,Saitama,Kawaguchi,2004-03-20,Active
+SCH00014,CLI0008,Haruka Fujisawa Education Center,Education Center,Kanagawa,Fujisawa,2005-03-23,Active
+SCH00015,CLI0009,Sakura Kita Public Junior High School,Public Junior High School,Tokyo,Kita,2008-02-01,Active
+SCH00016,CLI0010,Asahi Chiba Kindergarten,Kindergarten,Chiba,Chiba,2000-08-13,Active
+SCH00017,CLI0010,Hikari Fujisawa Private School,Private School,Kanagawa,Fujisawa,2001-06-24,Active
+SCH00018,CLI0011,Mirai Fujisawa Public Elementary School,Public Elementary School,Kanagawa,Fujisawa,1987-07-03,Active
+SCH00019,CLI0012,Koyo Kawasaki Public Elementary School,Public Elementary School,Kanagawa,Kawasaki,1982-01-21,Active
+SCH00020,CLI0012,Hikari Adachi English School,English School,Tokyo,Adachi,2020-04-01,Active
+SCH00021,CLI0013,Asahi Ichikawa English School,English School,Chiba,Ichikawa,1981-09-02,Active
+SCH00022,CLI0014,Seiwa Warabi High School,High School,Saitama,Warabi,2013-08-27,Active
+SCH00023,CLI0015,Asahi Matsudo Private School,Private School,Chiba,Matsudo,2020-01-05,Active
+SCH00024,CLI0016,Midori Soka Education Center,Education Center,Saitama,Soka,1998-09-23,Inactive
+SCH00025,CLI0016,Mirai Sagamihara English School,English School,Kanagawa,Sagamihara,1991-02-12,Active
+SCH00026,CLI0017,Mirai Saitama Public Junior High School,Public Junior High School,Saitama,Saitama,1983-03-12,Active
+SCH00027,CLI0017,Tsubaki Ichikawa Public Junior High School,Public Junior High School,Chiba,Ichikawa,2020-09-10,Active
+SCH00028,CLI0018,Mirai Kawagoe High School,High School,Saitama,Kawagoe,2024-03-08,Active
+SCH00029,CLI0019,Seiwa Chiba Public Junior High School,Public Junior High School,Chiba,Chiba,2011-11-13,Active
+SCH00030,CLI0019,Sakura Sagamihara High School,High School,Kanagawa,Sagamihara,2004-05-22,Active
+SCH00031,CLI0020,Koyo Chiba Private School,Private School,Chiba,Chiba,2008-11-04,Active
+SCH00032,CLI0021,Koyo Funabashi Education Center,Education Center,Chiba,Funabashi,1984-05-11,Active
+SCH00033,CLI0022,Mirai Tachikawa Public Elementary School,Public Elementary School,Tokyo,Tachikawa,2006-12-05,Active
+SCH00034,CLI0023,Asahi Koshigaya English School,English School,Saitama,Koshigaya,2015-07-02,Active
+SCH00035,CLI0023,Hikari Hachioji High School,High School,Tokyo,Hachioji,1996-10-14,Active
+SCH00036,CLI0024,Midori Kashiwa Kindergarten,Kindergarten,Chiba,Kashiwa,1986-04-07,Active
+SCH00037,CLI0024,Haruka Yokohama Private School,Private School,Kanagawa,Yokohama,2013-11-24,Active
+SCH00038,CLI0025,Asahi Kawasaki Public Junior High School,Public Junior High School,Kanagawa,Kawasaki,1989-03-16,Active
+SCH00039,CLI0025,Hikari Soka High School,High School,Saitama,Soka,1990-06-12,Active
+SCH00040,CLI0026,Koyo Kawasaki English School,English School,Kanagawa,Kawasaki,2016-05-21,Active
+SCH00041,CLI0026,Haruka Funabashi Private School,Private School,Chiba,Funabashi,2014-05-01,Active
+SCH00042,CLI0027,Sakura Toda Public Elementary School,Public Elementary School,Saitama,Toda,2014-06-06,Active
+SCH00043,CLI0028,Koyo Funabashi Kindergarten,Kindergarten,Chiba,Funabashi,1986-07-18,Inactive
+SCH00044,CLI0028,Kizuna Itabashi Public Elementary School,Public Elementary School,Tokyo,Itabashi,2023-03-06,Active
+SCH00045,CLI0028,Hikari Toda Kindergarten,Kindergarten,Saitama,Toda,1991-02-23,Active
+SCH00046,CLI0029,Koyo Saitama Public Junior High School,Public Junior High School,Saitama,Saitama,2004-02-17,Active
+SCH00047,CLI0030,Midori Ichikawa High School,High School,Chiba,Ichikawa,2012-10-11,Active
+SCH00048,CLI0031,Tsubaki Yamato Private School,Private School,Kanagawa,Yamato,2018-03-18,Active
+SCH00049,CLI0032,Koyo Funabashi Public Junior High School,Public Junior High School,Chiba,Funabashi,1980-06-05,Active
+SCH00050,CLI0033,Midori Matsudo Education Center,Education Center,Chiba,Matsudo,2022-05-25,Active
+SCH00051,CLI0033,Tsubaki Sagamihara Education Center,Education Center,Kanagawa,Sagamihara,1983-02-08,Active
+SCH00052,CLI0034,Koyo Fujisawa High School,High School,Kanagawa,Fujisawa,2009-08-01,Active
+SCH00053,CLI0035,Tsubaki Edogawa Kindergarten,Kindergarten,Tokyo,Edogawa,2023-06-10,Active
+SCH00054,CLI0036,Hikari Fujisawa Private School,Private School,Kanagawa,Fujisawa,1980-09-09,Active
+SCH00055,CLI0037,Midori Koganei High School,High School,Tokyo,Koganei,2010-10-14,Active
+SCH00056,CLI0037,Mirai Kashiwa Private School,Private School,Chiba,Kashiwa,2019-06-20,Inactive
+SCH00057,CLI0038,Sakura Kita Kindergarten,Kindergarten,Tokyo,Kita,1988-04-26,Active
+SCH00058,CLI0039,Asahi Kita Education Center,Education Center,Tokyo,Kita,2021-07-08,Active
+SCH00059,CLI0039,Mirai Urayasu Private School,Private School,Chiba,Urayasu,1995-07-24,Active
+SCH00060,CLI0039,Midori Nerima Private School,Private School,Tokyo,Nerima,2011-02-03,Active
+SCH00061,CLI0040,Koyo Funabashi Public Elementary School,Public Elementary School,Chiba,Funabashi,2003-11-18,Active
+SCH00062,CLI0041,Tsubaki Yokohama Education Center,Education Center,Kanagawa,Yokohama,2016-08-01,Active
+SCH00063,CLI0041,Asahi Itabashi Private School,Private School,Tokyo,Itabashi,2018-03-19,Inactive
+SCH00064,CLI0042,Seiwa Kawasaki Kindergarten,Kindergarten,Kanagawa,Kawasaki,2013-05-11,Active
+SCH00065,CLI0043,Asahi Ichikawa Public Junior High School,Public Junior High School,Chiba,Ichikawa,2012-11-27,Active
+SCH00066,CLI0044,Midori Warabi Private School,Private School,Saitama,Warabi,2022-08-12,Active
+SCH00067,CLI0044,Haruka Yokohama High School,High School,Kanagawa,Yokohama,1984-10-18,Active
+SCH00068,CLI0045,Haruka Soka Private School,Private School,Saitama,Soka,2003-01-26,Active
+SCH00069,CLI0045,Midori Funabashi English School,English School,Chiba,Funabashi,1987-10-19,Active
+SCH00070,CLI0046,Tsubaki Ichikawa High School,High School,Chiba,Ichikawa,1996-04-18,Active
+SCH00071,CLI0046,Midori Saitama Private School,Private School,Saitama,Saitama,1986-07-25,Active
+SCH00072,CLI0046,Koyo Sagamihara Education Center,Education Center,Kanagawa,Sagamihara,1983-11-18,Active
+SCH00073,CLI0047,Tsubaki Warabi High School,High School,Saitama,Warabi,2017-05-07,Active
+SCH00074,CLI0047,Mirai Funabashi High School,High School,Chiba,Funabashi,1992-04-26,Inactive
+SCH00075,CLI0047,Midori Chiba Public Elementary School,Public Elementary School,Chiba,Chiba,2001-06-23,Inactive
+SCH00076,CLI0048,Seiwa Sagamihara Kindergarten,Kindergarten,Kanagawa,Sagamihara,1998-09-23,Active
+SCH00077,CLI0048,Tsubaki Yamato Education Center,Education Center,Kanagawa,Yamato,2018-04-28,Active
+SCH00078,CLI0049,Asahi Soka English School,English School,Saitama,Soka,1988-07-09,Active
+SCH00079,CLI0049,Midori Yokohama Education Center,Education Center,Kanagawa,Yokohama,1983-03-01,Active
+SCH00080,CLI0050,Seiwa Chiba High School,High School,Chiba,Chiba,1981-05-09,Active
+SCH00081,CLI0050,Hikari Kawaguchi Private School,Private School,Saitama,Kawaguchi,1996-02-11,Active
+SCH00082,CLI0050,Seiwa Toda Public Elementary School,Public Elementary School,Saitama,Toda,1984-04-10,Active
+SCH00083,CLI0051,Hikari Matsudo English School,English School,Chiba,Matsudo,1994-08-28,Active
+SCH00084,CLI0051,Seiwa Hachioji High School,High School,Tokyo,Hachioji,2008-07-13,Active
+SCH00085,CLI0052,Koyo Funabashi Public Elementary School,Public Elementary School,Chiba,Funabashi,1998-12-02,Active
+SCH00086,CLI0052,Kizuna Fujisawa High School,High School,Kanagawa,Fujisawa,2024-10-14,Active
+SCH00087,CLI0053,Sakura Kawasaki High School,High School,Kanagawa,Kawasaki,1988-11-05,Inactive
+SCH00088,CLI0054,Sakura Yokohama Education Center,Education Center,Kanagawa,Yokohama,2003-05-07,Active
+SCH00089,CLI0054,Haruka Ota English School,English School,Tokyo,Ota,2011-08-03,Active
+SCH00090,CLI0054,Haruka Koshigaya Private School,Private School,Saitama,Koshigaya,2011-09-03,Active
+SCH00091,CLI0055,Hikari Katsushika Public Elementary School,Public Elementary School,Tokyo,Katsushika,1997-11-11,Active
+SCH00092,CLI0055,Midori Matsudo Private School,Private School,Chiba,Matsudo,2012-08-13,Active
+SCH00093,CLI0056,Sakura Toda Education Center,Education Center,Saitama,Toda,1997-10-23,Active
+SCH00094,CLI0056,Tsubaki Kashiwa Education Center,Education Center,Chiba,Kashiwa,2013-05-09,Active
+SCH00095,CLI0057,Koyo Toda High School,High School,Saitama,Toda,2013-03-07,Active
+SCH00096,CLI0058,Mirai Fujisawa Public Elementary School,Public Elementary School,Kanagawa,Fujisawa,2021-12-15,Active
+SCH00097,CLI0058,Mirai Chiba High School,High School,Chiba,Chiba,1997-03-28,Active
+SCH00098,CLI0058,Hikari Koshigaya Public Elementary School,Public Elementary School,Saitama,Koshigaya,1980-08-12,Active
+SCH00099,CLI0059,Koyo Koshigaya Kindergarten,Kindergarten,Saitama,Koshigaya,1985-06-15,Active
+SCH00100,CLI0059,Tsubaki Chiba Public Junior High School,Public Junior High School,Chiba,Chiba,2024-03-24,Inactive
+SCH00101,CLI0060,Mirai Itabashi Public Elementary School,Public Elementary School,Tokyo,Itabashi,1996-03-11,Active
+SCH00102,CLI0060,Asahi Kawasaki Kindergarten,Kindergarten,Kanagawa,Kawasaki,2000-07-04,Active
+SCH00103,CLI0061,Seiwa Soka Private School,Private School,Saitama,Soka,1986-02-18,Active
+SCH00104,CLI0062,Seiwa Koganei High School,High School,Tokyo,Koganei,2015-04-27,Active
+SCH00105,CLI0063,Kizuna Funabashi Kindergarten,Kindergarten,Chiba,Funabashi,2002-02-19,Active
+SCH00106,CLI0064,Hikari Yamato Public Junior High School,Public Junior High School,Kanagawa,Yamato,2023-04-17,Active
+SCH00107,CLI0064,Koyo Saitama High School,High School,Saitama,Saitama,2018-01-19,Active
+SCH00108,CLI0065,Mirai Tachikawa High School,High School,Tokyo,Tachikawa,2020-06-22,Active
+SCH00109,CLI0065,Hikari Yamato English School,English School,Kanagawa,Yamato,2018-02-20,Active
+SCH00110,CLI0066,Mirai Hachioji Public Junior High School,Public Junior High School,Tokyo,Hachioji,2008-02-05,Active
+SCH00111,CLI0067,Kizuna Warabi Kindergarten,Kindergarten,Saitama,Warabi,2019-10-12,Active
+SCH00112,CLI0067,Sakura Koshigaya High School,High School,Saitama,Koshigaya,2003-12-09,Active
+SCH00113,CLI0068,Midori Katsushika Private School,Private School,Tokyo,Katsushika,1990-11-08,Inactive
+SCH00114,CLI0068,Hikari Yokohama Kindergarten,Kindergarten,Kanagawa,Yokohama,2012-04-20,Active
+SCH00115,CLI0069,Tsubaki Tachikawa High School,High School,Tokyo,Tachikawa,1986-07-22,Active
+SCH00116,CLI0070,Mirai Kawasaki Kindergarten,Kindergarten,Kanagawa,Kawasaki,2014-07-19,Active
+SCH00117,CLI0071,Koyo Itabashi Kindergarten,Kindergarten,Tokyo,Itabashi,1984-07-02,Active
+SCH00118,CLI0071,Koyo Matsudo English School,English School,Chiba,Matsudo,2013-12-27,Active
+SCH00119,CLI0072,Asahi Toda High School,High School,Saitama,Toda,1985-03-05,Active
+SCH00120,CLI0073,Haruka Koshigaya Kindergarten,Kindergarten,Saitama,Koshigaya,1998-10-16,Active
+SCH00121,CLI0073,Kizuna Kawasaki Public Elementary School,Public Elementary School,Kanagawa,Kawasaki,2016-01-23,Active
+SCH00122,CLI0074,Midori Warabi Private School,Private School,Saitama,Warabi,2019-07-04,Active
+SCH00123,CLI0075,Mirai Koshigaya High School,High School,Saitama,Koshigaya,1993-03-10,Active
+SCH00124,CLI0076,Tsubaki Kawasaki Public Junior High School,Public Junior High School,Kanagawa,Kawasaki,1996-02-10,Active
+SCH00125,CLI0076,Haruka Adachi Kindergarten,Kindergarten,Tokyo,Adachi,1983-09-17,Active
+SCH00126,CLI0076,Tsubaki Funabashi Public Elementary School,Public Elementary School,Chiba,Funabashi,1988-10-10,Active
+SCH00127,CLI0077,Sakura Kita Private School,Private School,Tokyo,Kita,2012-03-21,Active
+SCH00128,CLI0077,Tsubaki Fujisawa High School,High School,Kanagawa,Fujisawa,2005-04-01,Active
+SCH00129,CLI0078,Hikari Kawaguchi Public Elementary School,Public Elementary School,Saitama,Kawaguchi,1995-06-07,Inactive
+SCH00130,CLI0079,Asahi Sagamihara Public Elementary School,Public Elementary School,Kanagawa,Sagamihara,2021-03-28,Inactive
+SCH00131,CLI0080,Kizuna Adachi Public Elementary School,Public Elementary School,Tokyo,Adachi,1992-03-10,Active
+SCH00132,CLI0080,Seiwa Sagamihara Private School,Private School,Kanagawa,Sagamihara,1989-02-01,Active
+SCH00133,CLI0081,Seiwa Funabashi English School,English School,Chiba,Funabashi,1981-02-11,Inactive
+SCH00134,CLI0082,Haruka Nerima Public Junior High School,Public Junior High School,Tokyo,Nerima,1997-05-21,Active
+SCH00135,CLI0082,Mirai Ichikawa High School,High School,Chiba,Ichikawa,2012-06-11,Active
+SCH00136,CLI0083,Asahi Kawagoe Private School,Private School,Saitama,Kawagoe,2011-11-19,Active
+SCH00137,CLI0084,Haruka Edogawa Education Center,Education Center,Tokyo,Edogawa,2004-12-09,Active
+SCH00138,CLI0085,Seiwa Saitama Education Center,Education Center,Saitama,Saitama,1991-05-12,Inactive
+SCH00139,CLI0085,Hikari Yokohama English School,English School,Kanagawa,Yokohama,1990-10-22,Active
+SCH00140,CLI0086,Mirai Yamato Education Center,Education Center,Kanagawa,Yamato,2002-02-16,Active
+SCH00141,CLI0086,Midori Koshigaya Kindergarten,Kindergarten,Saitama,Koshigaya,2003-10-19,Active
+SCH00142,CLI0086,Hikari Warabi Kindergarten,Kindergarten,Saitama,Warabi,2017-07-09,Inactive
+SCH00143,CLI0087,Haruka Soka English School,English School,Saitama,Soka,1999-07-09,Active
+SCH00144,CLI0087,Koyo Koshigaya Education Center,Education Center,Saitama,Koshigaya,1985-01-23,Active
+SCH00145,CLI0088,Haruka Nerima English School,English School,Tokyo,Nerima,2022-09-12,Active
+SCH00146,CLI0088,Hikari Soka English School,English School,Saitama,Soka,2002-08-02,Active
+SCH00147,CLI0088,Seiwa Toda Public Junior High School,Public Junior High School,Saitama,Toda,2023-01-01,Active
+SCH00148,CLI0089,Seiwa Katsushika Education Center,Education Center,Tokyo,Katsushika,2006-11-03,Active
+SCH00149,CLI0090,Midori Ichikawa Kindergarten,Kindergarten,Chiba,Ichikawa,2012-03-24,Active
+SCH00150,CLI0090,Koyo Itabashi Education Center,Education Center,Tokyo,Itabashi,1981-06-28,Active
+SCH00151,CLI0091,Tsubaki Katsushika Kindergarten,Kindergarten,Tokyo,Katsushika,2007-11-18,Active
+SCH00152,CLI0092,Midori Kita English School,English School,Tokyo,Kita,1996-10-20,Active
+SCH00153,CLI0092,Koyo Kawasaki High School,High School,Kanagawa,Kawasaki,1982-12-28,Active
+SCH00154,CLI0093,Midori Koshigaya English School,English School,Saitama,Koshigaya,2006-05-25,Active
+SCH00155,CLI0094,Mirai Ichikawa Private School,Private School,Chiba,Ichikawa,2008-01-01,Active
+SCH00156,CLI0094,Kizuna Kawagoe High School,High School,Saitama,Kawagoe,1985-09-03,Active
+SCH00157,CLI0095,Midori Matsudo High School,High School,Chiba,Matsudo,1980-02-19,Active
+SCH00158,CLI0095,Sakura Soka English School,English School,Saitama,Soka,1985-10-10,Inactive
+SCH00159,CLI0095,Mirai Urayasu Public Elementary School,Public Elementary School,Chiba,Urayasu,2000-02-18,Active
+SCH00160,CLI0096,Tsubaki Fujisawa Public Elementary School,Public Elementary School,Kanagawa,Fujisawa,2019-02-16,Active
+SCH00161,CLI0097,Tsubaki Yamato Private School,Private School,Kanagawa,Yamato,2020-09-21,Active
+SCH00162,CLI0098,Koyo Saitama Private School,Private School,Saitama,Saitama,1987-02-05,Inactive
+SCH00163,CLI0098,Sakura Koshigaya English School,English School,Saitama,Koshigaya,1995-05-01,Active
+SCH00164,CLI0098,Hikari Koganei English School,English School,Tokyo,Koganei,2016-12-03,Active
+SCH00165,CLI0099,Koyo Kawaguchi Private School,Private School,Saitama,Kawaguchi,2021-11-23,Active
+SCH00166,CLI0100,Asahi Ichikawa Private School,Private School,Chiba,Ichikawa,1990-05-28,Active
+SCH00167,CLI0100,Seiwa Yokohama Education Center,Education Center,Kanagawa,Yokohama,1999-02-08,Active
+SCH00168,CLI0100,Mirai Kawasaki High School,High School,Kanagawa,Kawasaki,2023-12-08,Active
+SCH00169,CLI0101,Midori Sagamihara Public Junior High School,Public Junior High School,Kanagawa,Sagamihara,1992-04-12,Active
+SCH00170,CLI0101,Mirai Urayasu Public Elementary School,Public Elementary School,Chiba,Urayasu,2015-03-02,Active
+SCH00171,CLI0102,Tsubaki Soka Kindergarten,Kindergarten,Saitama,Soka,1984-08-05,Active
+SCH00172,CLI0102,Hikari Funabashi Public Elementary School,Public Elementary School,Chiba,Funabashi,1984-04-23,Active
+SCH00173,CLI0103,Asahi Kita Education Center,Education Center,Tokyo,Kita,1980-10-20,Inactive
+SCH00174,CLI0103,Tsubaki Kawasaki Kindergarten,Kindergarten,Kanagawa,Kawasaki,2017-02-01,Active
+SCH00175,CLI0103,Mirai Hachioji Public Elementary School,Public Elementary School,Tokyo,Hachioji,1983-04-08,Active
+SCH00176,CLI0104,Mirai Koganei English School,English School,Tokyo,Koganei,2007-08-16,Active
+SCH00177,CLI0105,Sakura Kawaguchi Public Junior High School,Public Junior High School,Saitama,Kawaguchi,1994-09-17,Active
+SCH00178,CLI0106,Sakura Tachikawa English School,English School,Tokyo,Tachikawa,2014-10-06,Active
+SCH00179,CLI0107,Mirai Matsudo High School,High School,Chiba,Matsudo,2015-12-02,Active
+SCH00180,CLI0107,Midori Hachioji Public Junior High School,Public Junior High School,Tokyo,Hachioji,2003-09-23,Active
+SCH00181,CLI0108,Haruka Kawaguchi High School,High School,Saitama,Kawaguchi,1991-05-21,Active
+SCH00182,CLI0108,Koyo Tachikawa Education Center,Education Center,Tokyo,Tachikawa,2018-05-27,Active
+SCH00183,CLI0109,Hikari Yokohama Education Center,Education Center,Kanagawa,Yokohama,1980-05-15,Inactive
+SCH00184,CLI0110,Seiwa Yokohama English School,English School,Kanagawa,Yokohama,2009-08-11,Active
+SCH00185,CLI0111,Kizuna Sagamihara English School,English School,Kanagawa,Sagamihara,2015-10-04,Active
+SCH00186,CLI0111,Kizuna Nerima Education Center,Education Center,Tokyo,Nerima,1986-06-16,Active
+SCH00187,CLI0111,Mirai Chiba Public Elementary School,Public Elementary School,Chiba,Chiba,1984-11-18,Active
+SCH00188,CLI0112,Sakura Koshigaya Public Elementary School,Public Elementary School,Saitama,Koshigaya,2023-11-25,Active
+SCH00189,CLI0112,Hikari Yokohama High School,High School,Kanagawa,Yokohama,2009-03-23,Active
+SCH00190,CLI0113,Haruka Itabashi Public Junior High School,Public Junior High School,Tokyo,Itabashi,1980-04-09,Active
+SCH00191,CLI0113,Hikari Ota Public Junior High School,Public Junior High School,Tokyo,Ota,2004-04-20,Active
+SCH00192,CLI0114,Asahi Sagamihara Education Center,Education Center,Kanagawa,Sagamihara,1993-02-18,Active
+SCH00193,CLI0115,Mirai Toda High School,High School,Saitama,Toda,1982-10-11,Active
+SCH00194,CLI0116,Sakura Kawasaki English School,English School,Kanagawa,Kawasaki,1985-04-04,Active
+SCH00195,CLI0116,Sakura Yokohama Private School,Private School,Kanagawa,Yokohama,2021-10-14,Active
+SCH00196,CLI0117,Midori Nerima Kindergarten,Kindergarten,Tokyo,Nerima,1982-09-24,Active
+SCH00197,CLI0118,Kizuna Chiba Kindergarten,Kindergarten,Chiba,Chiba,1990-03-07,Active
+SCH00198,CLI0118,Haruka Nerima Public Junior High School,Public Junior High School,Tokyo,Nerima,2004-11-21,Active
+SCH00199,CLI0118,Asahi Yamato Education Center,Education Center,Kanagawa,Yamato,1987-12-09,Active
+SCH00200,CLI0119,Hikari Koganei English School,English School,Tokyo,Koganei,1980-04-27,Active
+SCH00201,CLI0119,Tsubaki Yamato Public Junior High School,Public Junior High School,Kanagawa,Yamato,2001-10-22,Active
+SCH00202,CLI0120,Asahi Saitama Kindergarten,Kindergarten,Saitama,Saitama,2005-04-08,Active
+SCH00203,CLI0120,Seiwa Yokohama High School,High School,Kanagawa,Yokohama,2003-12-18,Active
+SCH00204,CLI0121,Seiwa Funabashi Public Junior High School,Public Junior High School,Chiba,Funabashi,1983-10-05,Active
+SCH00205,CLI0121,Mirai Nerima Private School,Private School,Tokyo,Nerima,1990-10-19,Active
+SCH00206,CLI0122,Kizuna Nerima Kindergarten,Kindergarten,Tokyo,Nerima,1983-05-11,Active
+SCH00207,CLI0123,Mirai Kawagoe Public Junior High School,Public Junior High School,Saitama,Kawagoe,1997-02-28,Active
+SCH00208,CLI0124,Asahi Matsudo Public Elementary School,Public Elementary School,Chiba,Matsudo,2010-08-08,Active
+SCH00209,CLI0125,Sakura Funabashi Kindergarten,Kindergarten,Chiba,Funabashi,2018-07-16,Active
+SCH00210,CLI0126,Midori Koganei Public Elementary School,Public Elementary School,Tokyo,Koganei,2020-01-11,Active
+SCH00211,CLI0127,Asahi Urayasu Education Center,Education Center,Chiba,Urayasu,2008-08-20,Inactive
+SCH00212,CLI0128,Tsubaki Urayasu High School,High School,Chiba,Urayasu,2018-04-22,Active
+SCH00213,CLI0129,Tsubaki Sagamihara High School,High School,Kanagawa,Sagamihara,1987-07-10,Active
+SCH00214,CLI0130,Kizuna Toda Education Center,Education Center,Saitama,Toda,1985-07-04,Active
+SCH00215,CLI0130,Tsubaki Kawagoe Education Center,Education Center,Saitama,Kawagoe,1985-11-11,Active
+SCH00216,CLI0131,Seiwa Warabi High School,High School,Saitama,Warabi,1990-02-11,Active
+SCH00217,CLI0132,Kizuna Kawasaki Kindergarten,Kindergarten,Kanagawa,Kawasaki,2011-11-10,Active
+SCH00218,CLI0132,Midori Adachi Public Elementary School,Public Elementary School,Tokyo,Adachi,1993-10-09,Active
+SCH00219,CLI0133,Mirai Sagamihara Private School,Private School,Kanagawa,Sagamihara,1982-10-10,Active
+SCH00220,CLI0134,Hikari Koshigaya Private School,Private School,Saitama,Koshigaya,1997-06-18,Active
+SCH00221,CLI0134,Midori Funabashi Public Junior High School,Public Junior High School,Chiba,Funabashi,2006-08-08,Active
+SCH00222,CLI0135,Koyo Itabashi Kindergarten,Kindergarten,Tokyo,Itabashi,1990-10-20,Active
+SCH00223,CLI0135,Mirai Fujisawa English School,English School,Kanagawa,Fujisawa,2017-05-08,Active
+SCH00224,CLI0136,Asahi Kawaguchi English School,English School,Saitama,Kawaguchi,2018-02-18,Active
+SCH00225,CLI0137,Midori Matsudo Public Junior High School,Public Junior High School,Chiba,Matsudo,1986-10-07,Active
+SCH00226,CLI0137,Hikari Ichikawa English School,English School,Chiba,Ichikawa,1998-01-27,Active
+SCH00227,CLI0138,Sakura Kita English School,English School,Tokyo,Kita,1980-09-20,Active
+SCH00228,CLI0139,Haruka Nerima Kindergarten,Kindergarten,Tokyo,Nerima,2011-04-26,Active
+SCH00229,CLI0139,Kizuna Warabi English School,English School,Saitama,Warabi,2002-12-28,Inactive
+SCH00230,CLI0140,Kizuna Sagamihara English School,English School,Kanagawa,Sagamihara,1980-06-27,Active
+SCH00231,CLI0141,Mirai Toda Private School,Private School,Saitama,Toda,2012-12-05,Active
+SCH00232,CLI0141,Asahi Edogawa Public Elementary School,Public Elementary School,Tokyo,Edogawa,2011-05-13,Active
+SCH00233,CLI0142,Sakura Soka Education Center,Education Center,Saitama,Soka,2003-04-15,Active
+SCH00234,CLI0142,Hikari Tachikawa High School,High School,Tokyo,Tachikawa,2018-05-08,Active
+SCH00235,CLI0142,Hikari Kawasaki Private School,Private School,Kanagawa,Kawasaki,2002-12-14,Active
+SCH00236,CLI0143,Koyo Sagamihara Public Elementary School,Public Elementary School,Kanagawa,Sagamihara,2014-10-06,Active
+SCH00237,CLI0144,Haruka Kawasaki English School,English School,Kanagawa,Kawasaki,1984-12-13,Active
+SCH00238,CLI0145,Asahi Warabi High School,High School,Saitama,Warabi,1983-09-25,Active
+SCH00239,CLI0145,Haruka Kashiwa English School,English School,Chiba,Kashiwa,1991-09-09,Active
+SCH00240,CLI0146,Haruka Koganei Public Elementary School,Public Elementary School,Tokyo,Koganei,1991-12-13,Active
+SCH00241,CLI0147,Asahi Soka Education Center,Education Center,Saitama,Soka,2019-04-22,Active
+SCH00242,CLI0147,Hikari Hachioji Public Junior High School,Public Junior High School,Tokyo,Hachioji,1997-08-24,Active
+SCH00243,CLI0148,Haruka Yamato Kindergarten,Kindergarten,Kanagawa,Yamato,1994-09-25,Active
+SCH00244,CLI0149,Sakura Yamato Kindergarten,Kindergarten,Kanagawa,Yamato,2005-01-22,Active
+SCH00245,CLI0150,Seiwa Nerima Kindergarten,Kindergarten,Tokyo,Nerima,1995-10-24,Active
+SCH00246,CLI0150,Asahi Sagamihara Kindergarten,Kindergarten,Kanagawa,Sagamihara,1980-05-14,Active
+SCH00247,CLI0151,Haruka Toda Kindergarten,Kindergarten,Saitama,Toda,2021-03-04,Active
+SCH00248,CLI0151,Sakura Fujisawa Education Center,Education Center,Kanagawa,Fujisawa,1990-01-02,Active
+SCH00249,CLI0152,Asahi Sagamihara English School,English School,Kanagawa,Sagamihara,1994-06-18,Active
+SCH00250,CLI0152,Mirai Kawasaki Kindergarten,Kindergarten,Kanagawa,Kawasaki,2015-06-22,Inactive
+SCH00251,CLI0153,Mirai Matsudo Public Junior High School,Public Junior High School,Chiba,Matsudo,2005-06-18,Active
+SCH00252,CLI0154,Koyo Katsushika Public Junior High School,Public Junior High School,Tokyo,Katsushika,1981-11-13,Active
+SCH00253,CLI0155,Seiwa Matsudo Kindergarten,Kindergarten,Chiba,Matsudo,2007-09-07,Active
+SCH00254,CLI0155,Midori Kawaguchi Private School,Private School,Saitama,Kawaguchi,2008-02-09,Inactive
+SCH00255,CLI0156,Mirai Urayasu English School,English School,Chiba,Urayasu,2014-05-28,Active
+SCH00256,CLI0156,Hikari Koganei High School,High School,Tokyo,Koganei,2021-03-01,Active
+SCH00257,CLI0157,Tsubaki Fujisawa English School,English School,Kanagawa,Fujisawa,1997-10-26,Active
+SCH00258,CLI0157,Koyo Koganei Public Junior High School,Public Junior High School,Tokyo,Koganei,2003-05-07,Active
+SCH00259,CLI0158,Koyo Fujisawa Public Elementary School,Public Elementary School,Kanagawa,Fujisawa,2005-06-28,Active
+SCH00260,CLI0158,Seiwa Saitama Public Junior High School,Public Junior High School,Saitama,Saitama,1988-11-26,Active
+SCH00261,CLI0158,Koyo Kawaguchi High School,High School,Saitama,Kawaguchi,2007-07-16,Active
+SCH00262,CLI0159,Seiwa Matsudo Public Elementary School,Public Elementary School,Chiba,Matsudo,2016-04-22,Active
+SCH00263,CLI0160,Asahi Matsudo High School,High School,Chiba,Matsudo,1985-01-16,Active
+SCH00264,CLI0161,Kizuna Koganei Private School,Private School,Tokyo,Koganei,1994-12-12,Active
+SCH00265,CLI0161,Mirai Edogawa Public Elementary School,Public Elementary School,Tokyo,Edogawa,2019-01-15,Active
+SCH00266,CLI0162,Haruka Kawasaki Education Center,Education Center,Kanagawa,Kawasaki,2007-12-20,Active
+SCH00267,CLI0162,Kizuna Urayasu English School,English School,Chiba,Urayasu,2000-05-06,Active
+SCH00268,CLI0162,Seiwa Ota Education Center,Education Center,Tokyo,Ota,2023-06-14,Active
+SCH00269,CLI0163,Mirai Yokohama Public Junior High School,Public Junior High School,Kanagawa,Yokohama,2007-03-12,Inactive
+SCH00270,CLI0164,Koyo Matsudo Private School,Private School,Chiba,Matsudo,2000-12-20,Active
+SCH00271,CLI0165,Asahi Chiba Kindergarten,Kindergarten,Chiba,Chiba,2014-11-10,Active
+SCH00272,CLI0165,Koyo Yokohama English School,English School,Kanagawa,Yokohama,1991-06-19,Active
+SCH00273,CLI0166,Midori Matsudo English School,English School,Chiba,Matsudo,1997-08-03,Active
+SCH00274,CLI0166,Mirai Yokohama English School,English School,Kanagawa,Yokohama,2017-05-28,Active
+SCH00275,CLI0167,Tsubaki Ota Public Elementary School,Public Elementary School,Tokyo,Ota,2003-03-09,Active
+SCH00276,CLI0167,Koyo Edogawa Public Elementary School,Public Elementary School,Tokyo,Edogawa,2006-09-19,Active
+SCH00277,CLI0168,Kizuna Kawasaki High School,High School,Kanagawa,Kawasaki,1987-10-20,Active
+SCH00278,CLI0169,Asahi Tachikawa Public Junior High School,Public Junior High School,Tokyo,Tachikawa,2022-07-06,Active
+SCH00279,CLI0170,Sakura Chiba English School,English School,Chiba,Chiba,2010-10-13,Inactive
+SCH00280,CLI0171,Haruka Kawasaki Education Center,Education Center,Kanagawa,Kawasaki,1999-05-10,Active
+SCH00281,CLI0172,Mirai Kashiwa Education Center,Education Center,Chiba,Kashiwa,1996-01-24,Active
+SCH00282,CLI0173,Sakura Ota Public Junior High School,Public Junior High School,Tokyo,Ota,2021-08-27,Active
+SCH00283,CLI0174,Kizuna Urayasu English School,English School,Chiba,Urayasu,2001-03-19,Active
+SCH00284,CLI0175,Midori Toda Education Center,Education Center,Saitama,Toda,1999-07-26,Active
+SCH00285,CLI0175,Asahi Ichikawa High School,High School,Chiba,Ichikawa,2016-01-08,Active
+SCH00286,CLI0176,Mirai Ota Public Junior High School,Public Junior High School,Tokyo,Ota,1991-09-12,Active
+SCH00287,CLI0176,Mirai Tachikawa Public Elementary School,Public Elementary School,Tokyo,Tachikawa,1981-11-27,Active
+SCH00288,CLI0177,Asahi Fujisawa English School,English School,Kanagawa,Fujisawa,2016-07-21,Active
+SCH00289,CLI0177,Seiwa Itabashi Kindergarten,Kindergarten,Tokyo,Itabashi,1991-09-26,Active
+SCH00290,CLI0178,Midori Hachioji High School,High School,Tokyo,Hachioji,1996-03-13,Active
+SCH00291,CLI0179,Kizuna Yokohama Private School,Private School,Kanagawa,Yokohama,1982-01-28,Active
+SCH00292,CLI0179,Sakura Sagamihara Public Elementary School,Public Elementary School,Kanagawa,Sagamihara,1999-02-01,Active
+SCH00293,CLI0179,Koyo Matsudo Public Junior High School,Public Junior High School,Chiba,Matsudo,2015-07-17,Active
+SCH00294,CLI0180,Haruka Soka High School,High School,Saitama,Soka,2009-10-18,Active
+SCH00295,CLI0180,Kizuna Yamato High School,High School,Kanagawa,Yamato,1996-01-12,Active
+SCH00296,CLI0180,Seiwa Adachi Education Center,Education Center,Tokyo,Adachi,2008-09-04,Active
+SCH00297,CLI0181,Mirai Warabi English School,English School,Saitama,Warabi,1991-01-20,Active
+SCH00298,CLI0181,Mirai Koshigaya Kindergarten,Kindergarten,Saitama,Koshigaya,2016-06-07,Active
+SCH00299,CLI0182,Haruka Fujisawa Public Junior High School,Public Junior High School,Kanagawa,Fujisawa,1987-10-09,Active
+SCH00300,CLI0183,Mirai Kita Public Elementary School,Public Elementary School,Tokyo,Kita,2022-01-16,Active
+SCH00301,CLI0183,Midori Toda High School,High School,Saitama,Toda,2016-03-15,Active
+SCH00302,CLI0184,Tsubaki Yokohama Kindergarten,Kindergarten,Kanagawa,Yokohama,2010-01-10,Active
+SCH00303,CLI0185,Midori Kawagoe Education Center,Education Center,Saitama,Kawagoe,2013-05-13,Active
+SCH00304,CLI0186,Midori Toda Public Junior High School,Public Junior High School,Saitama,Toda,2011-05-14,Active
+SCH00305,CLI0186,Seiwa Edogawa Kindergarten,Kindergarten,Tokyo,Edogawa,2004-11-02,Active
+SCH00306,CLI0187,Mirai Saitama English School,English School,Saitama,Saitama,1999-08-04,Active
+SCH00307,CLI0187,Seiwa Ota High School,High School,Tokyo,Ota,1997-11-23,Active
+SCH00308,CLI0188,Koyo Soka Public Elementary School,Public Elementary School,Saitama,Soka,1990-11-16,Active
+SCH00309,CLI0189,Mirai Warabi Kindergarten,Kindergarten,Saitama,Warabi,2005-08-11,Active
+SCH00310,CLI0189,Midori Toda High School,High School,Saitama,Toda,1984-03-04,Active
+SCH00311,CLI0190,Tsubaki Koganei Private School,Private School,Tokyo,Koganei,1980-08-03,Active
+SCH00312,CLI0190,Sakura Kawasaki English School,English School,Kanagawa,Kawasaki,2015-12-27,Active
+SCH00313,CLI0191,Asahi Koshigaya High School,High School,Saitama,Koshigaya,2021-12-11,Active
+SCH00314,CLI0191,Hikari Kita Kindergarten,Kindergarten,Tokyo,Kita,2004-12-22,Active
+SCH00315,CLI0192,Haruka Ichikawa English School,English School,Chiba,Ichikawa,1982-07-08,Active
+SCH00316,CLI0193,Midori Tachikawa Kindergarten,Kindergarten,Tokyo,Tachikawa,2018-01-28,Active
+SCH00317,CLI0193,Seiwa Yokohama Kindergarten,Kindergarten,Kanagawa,Yokohama,1999-07-07,Inactive
+SCH00318,CLI0194,Tsubaki Urayasu Education Center,Education Center,Chiba,Urayasu,1986-11-11,Active
+SCH00319,CLI0194,Tsubaki Nerima Education Center,Education Center,Tokyo,Nerima,1986-12-01,Active
+SCH00320,CLI0195,Hikari Fujisawa Kindergarten,Kindergarten,Kanagawa,Fujisawa,1996-09-13,Active
+SCH00321,CLI0196,Midori Kashiwa Kindergarten,Kindergarten,Chiba,Kashiwa,2020-02-12,Active
+SCH00322,CLI0196,Midori Soka Public Elementary School,Public Elementary School,Saitama,Soka,1999-11-21,Inactive
+SCH00323,CLI0197,Hikari Toda English School,English School,Saitama,Toda,1987-09-08,Active
+SCH00324,CLI0198,Koyo Ichikawa Public Elementary School,Public Elementary School,Chiba,Ichikawa,2018-12-26,Active
+SCH00325,CLI0199,Mirai Sagamihara English School,English School,Kanagawa,Sagamihara,1987-02-02,Active
+SCH00326,CLI0199,Asahi Yamato Kindergarten,Kindergarten,Kanagawa,Yamato,2013-10-26,Active
+SCH00327,CLI0200,Tsubaki Katsushika Public Junior High School,Public Junior High School,Tokyo,Katsushika,2011-10-18,Active
+SCH00328,CLI0201,Seiwa Yokohama Public Junior High School,Public Junior High School,Kanagawa,Yokohama,1985-05-11,Active
+SCH00329,CLI0201,Seiwa Ichikawa Private School,Private School,Chiba,Ichikawa,2017-07-18,Active
+SCH00330,CLI0202,Midori Fujisawa High School,High School,Kanagawa,Fujisawa,2007-01-14,Inactive
+SCH00331,CLI0202,Seiwa Katsushika Kindergarten,Kindergarten,Tokyo,Katsushika,1981-03-19,Active
+SCH00332,CLI0202,Mirai Ota Private School,Private School,Tokyo,Ota,2001-06-28,Active
+SCH00333,CLI0203,Hikari Tachikawa High School,High School,Tokyo,Tachikawa,2008-01-17,Active
+SCH00334,CLI0204,Seiwa Yamato Private School,Private School,Kanagawa,Yamato,1981-11-18,Active
+SCH00335,CLI0205,Midori Edogawa Private School,Private School,Tokyo,Edogawa,2023-03-06,Active
+SCH00336,CLI0206,Seiwa Saitama Private School,Private School,Saitama,Saitama,1989-10-08,Active
+SCH00337,CLI0206,Tsubaki Kashiwa English School,English School,Chiba,Kashiwa,2007-01-24,Active
+SCH00338,CLI0207,Mirai Adachi Education Center,Education Center,Tokyo,Adachi,2009-02-25,Active
+SCH00339,CLI0208,Hikari Matsudo Education Center,Education Center,Chiba,Matsudo,2008-07-05,Active
+SCH00340,CLI0209,Seiwa Yamato High School,High School,Kanagawa,Yamato,2008-04-12,Active
+SCH00341,CLI0210,Koyo Matsudo Public Elementary School,Public Elementary School,Chiba,Matsudo,2017-05-05,Active
+SCH00342,CLI0210,Asahi Saitama Public Elementary School,Public Elementary School,Saitama,Saitama,2021-12-14,Active
+SCH00343,CLI0211,Koyo Saitama Education Center,Education Center,Saitama,Saitama,1992-01-23,Active
+SCH00344,CLI0212,Asahi Kashiwa Kindergarten,Kindergarten,Chiba,Kashiwa,1985-07-04,Active
+SCH00345,CLI0212,Asahi Toda Public Elementary School,Public Elementary School,Saitama,Toda,1990-09-25,Active
+SCH00346,CLI0213,Kizuna Adachi Private School,Private School,Tokyo,Adachi,1989-09-10,Active
+SCH00347,CLI0214,Seiwa Fujisawa High School,High School,Kanagawa,Fujisawa,1997-02-04,Active
+SCH00348,CLI0214,Tsubaki Matsudo High School,High School,Chiba,Matsudo,1991-08-20,Active
+SCH00349,CLI0215,Asahi Saitama Kindergarten,Kindergarten,Saitama,Saitama,2022-04-16,Active
+SCH00350,CLI0216,Seiwa Fujisawa Public Elementary School,Public Elementary School,Kanagawa,Fujisawa,1980-02-28,Active
+SCH00351,CLI0216,Tsubaki Nerima English School,English School,Tokyo,Nerima,2002-12-10,Active
+SCH00352,CLI0217,Midori Kashiwa Public Junior High School,Public Junior High School,Chiba,Kashiwa,2018-09-28,Inactive
+SCH00353,CLI0217,Tsubaki Katsushika Public Elementary School,Public Elementary School,Tokyo,Katsushika,2016-11-16,Active
+SCH00354,CLI0218,Haruka Itabashi Education Center,Education Center,Tokyo,Itabashi,2017-02-27,Active
+SCH00355,CLI0218,Haruka Adachi Kindergarten,Kindergarten,Tokyo,Adachi,1996-06-21,Active
+SCH00356,CLI0219,Kizuna Yamato Public Elementary School,Public Elementary School,Kanagawa,Yamato,2013-08-11,Active
+SCH00357,CLI0219,Sakura Saitama Education Center,Education Center,Saitama,Saitama,2017-08-02,Active
+SCH00358,CLI0220,Haruka Fujisawa High School,High School,Kanagawa,Fujisawa,1995-07-03,Inactive
+SCH00359,CLI0221,Tsubaki Urayasu Education Center,Education Center,Chiba,Urayasu,2021-11-15,Active
+SCH00360,CLI0222,Tsubaki Toda Public Junior High School,Public Junior High School,Saitama,Toda,2001-09-28,Active
+SCH00361,CLI0223,Sakura Yamato English School,English School,Kanagawa,Yamato,2002-07-13,Active
+SCH00362,CLI0224,Tsubaki Kashiwa Private School,Private School,Chiba,Kashiwa,2009-04-18,Active
+SCH00363,CLI0224,Asahi Kawagoe English School,English School,Saitama,Kawagoe,2020-04-15,Active
+SCH00364,CLI0225,Mirai Funabashi High School,High School,Chiba,Funabashi,2011-01-21,Active
+SCH00365,CLI0225,Mirai Sagamihara Public Elementary School,Public Elementary School,Kanagawa,Sagamihara,2016-11-21,Active
+SCH00366,CLI0226,Asahi Adachi Public Elementary School,Public Elementary School,Tokyo,Adachi,2022-05-21,Active
+SCH00367,CLI0227,Tsubaki Soka Kindergarten,Kindergarten,Saitama,Soka,1994-09-19,Inactive
+SCH00368,CLI0227,Hikari Warabi Kindergarten,Kindergarten,Saitama,Warabi,2011-08-01,Active
+SCH00369,CLI0228,Asahi Warabi English School,English School,Saitama,Warabi,2000-10-28,Active
+SCH00370,CLI0228,Kizuna Yokohama High School,High School,Kanagawa,Yokohama,2001-07-09,Active
+SCH00371,CLI0229,Hikari Urayasu Education Center,Education Center,Chiba,Urayasu,1983-04-09,Active
+SCH00372,CLI0229,Sakura Toda Education Center,Education Center,Saitama,Toda,1995-07-13,Active
+SCH00373,CLI0230,Asahi Kashiwa Public Junior High School,Public Junior High School,Chiba,Kashiwa,2021-05-21,Active
+SCH00374,CLI0230,Sakura Urayasu Private School,Private School,Chiba,Urayasu,2004-04-18,Inactive
+SCH00375,CLI0231,Seiwa Yamato Public Elementary School,Public Elementary School,Kanagawa,Yamato,1991-02-17,Active
+SCH00376,CLI0231,Sakura Funabashi Kindergarten,Kindergarten,Chiba,Funabashi,2006-03-04,Active
+SCH00377,CLI0232,Seiwa Hachioji Education Center,Education Center,Tokyo,Hachioji,2019-11-26,Active
+SCH00378,CLI0232,Kizuna Soka Kindergarten,Kindergarten,Saitama,Soka,1982-07-11,Active
+SCH00379,CLI0232,Midori Toda Public Elementary School,Public Elementary School,Saitama,Toda,1998-02-20,Active
+SCH00380,CLI0233,Haruka Saitama Public Junior High School,Public Junior High School,Saitama,Saitama,1984-04-22,Active
+SCH00381,CLI0233,Asahi Toda High School,High School,Saitama,Toda,2024-04-07,Inactive
+SCH00382,CLI0234,Hikari Itabashi English School,English School,Tokyo,Itabashi,2016-04-20,Active
+SCH00383,CLI0235,Asahi Kawaguchi Public Elementary School,Public Elementary School,Saitama,Kawaguchi,1982-03-04,Active
+SCH00384,CLI0236,Seiwa Toda Education Center,Education Center,Saitama,Toda,1983-02-13,Active
+SCH00385,CLI0236,Seiwa Matsudo Education Center,Education Center,Chiba,Matsudo,1984-07-24,Active
+SCH00386,CLI0237,Midori Kawasaki Private School,Private School,Kanagawa,Kawasaki,2009-09-04,Active
+SCH00387,CLI0237,Mirai Itabashi Education Center,Education Center,Tokyo,Itabashi,2005-11-25,Active
+SCH00388,CLI0238,Hikari Fujisawa Kindergarten,Kindergarten,Kanagawa,Fujisawa,2016-12-11,Active
+SCH00389,CLI0239,Seiwa Hachioji High School,High School,Tokyo,Hachioji,2016-06-16,Active
+SCH00390,CLI0240,Tsubaki Koshigaya Private School,Private School,Saitama,Koshigaya,2000-11-21,Active
+SCH00391,CLI0241,Mirai Itabashi Private School,Private School,Tokyo,Itabashi,2018-08-07,Active
+SCH00392,CLI0242,Mirai Warabi Public Elementary School,Public Elementary School,Saitama,Warabi,2003-05-04,Inactive
+SCH00393,CLI0243,Sakura Sagamihara English School,English School,Kanagawa,Sagamihara,1986-01-04,Active
+SCH00394,CLI0243,Haruka Matsudo Private School,Private School,Chiba,Matsudo,2003-10-01,Active
+SCH00395,CLI0244,Koyo Edogawa Education Center,Education Center,Tokyo,Edogawa,2009-12-13,Inactive
+SCH00396,CLI0244,Tsubaki Nerima English School,English School,Tokyo,Nerima,1984-03-24,Active
+SCH00397,CLI0245,Kizuna Koshigaya Private School,Private School,Saitama,Koshigaya,2012-11-11,Active
+SCH00398,CLI0246,Kizuna Yokohama Private School,Private School,Kanagawa,Yokohama,2018-08-12,Active
+SCH00399,CLI0247,Asahi Kashiwa Education Center,Education Center,Chiba,Kashiwa,1990-08-26,Active
+SCH00400,CLI0247,Koyo Chiba Public Elementary School,Public Elementary School,Chiba,Chiba,1990-10-08,Active
+SCH00401,CLI0248,Mirai Toda English School,English School,Saitama,Toda,1994-08-06,Active
+SCH00402,CLI0248,Kizuna Nerima Private School,Private School,Tokyo,Nerima,2009-12-06,Active
+SCH00403,CLI0248,Mirai Koganei Private School,Private School,Tokyo,Koganei,2005-09-04,Active
+SCH00404,CLI0249,Mirai Urayasu English School,English School,Chiba,Urayasu,1990-09-12,Active
+SCH00405,CLI0250,Koyo Urayasu English School,English School,Chiba,Urayasu,1991-06-08,Active
+SCH00406,CLI0250,Asahi Soka Private School,Private School,Saitama,Soka,2018-10-26,Inactive
+SCH00407,CLI0251,Seiwa Ichikawa English School,English School,Chiba,Ichikawa,2008-03-06,Active
+SCH00408,CLI0251,Asahi Yokohama Public Junior High School,Public Junior High School,Kanagawa,Yokohama,2009-04-13,Active
+SCH00409,CLI0251,Tsubaki Yokohama Public Elementary School,Public Elementary School,Kanagawa,Yokohama,1982-10-18,Active
+SCH00410,CLI0252,Tsubaki Ota Public Elementary School,Public Elementary School,Tokyo,Ota,1981-09-13,Active
+SCH00411,CLI0252,Seiwa Fujisawa Public Elementary School,Public Elementary School,Kanagawa,Fujisawa,1988-05-12,Active
+SCH00412,CLI0253,Mirai Koganei Private School,Private School,Tokyo,Koganei,1998-09-26,Active
+SCH00413,CLI0254,Haruka Tachikawa Public Junior High School,Public Junior High School,Tokyo,Tachikawa,1985-08-02,Active
+SCH00414,CLI0254,Sakura Ichikawa Public Junior High School,Public Junior High School,Chiba,Ichikawa,2018-08-16,Active
+SCH00415,CLI0255,Tsubaki Warabi High School,High School,Saitama,Warabi,2019-02-16,Active
+SCH00416,CLI0256,Haruka Fujisawa Public Elementary School,Public Elementary School,Kanagawa,Fujisawa,2008-04-23,Active
+SCH00417,CLI0256,Sakura Yamato Private School,Private School,Kanagawa,Yamato,2002-08-06,Active
+SCH00418,CLI0257,Koyo Kawagoe Education Center,Education Center,Saitama,Kawagoe,1981-11-18,Active
+SCH00419,CLI0257,Tsubaki Funabashi Kindergarten,Kindergarten,Chiba,Funabashi,2002-09-24,Active
+SCH00420,CLI0258,Asahi Fujisawa Private School,Private School,Kanagawa,Fujisawa,2007-12-20,Inactive
+SCH00421,CLI0259,Koyo Kawasaki Kindergarten,Kindergarten,Kanagawa,Kawasaki,1985-02-20,Inactive
+SCH00422,CLI0260,Asahi Ota Kindergarten,Kindergarten,Tokyo,Ota,1992-05-21,Inactive
+SCH00423,CLI0261,Midori Sagamihara High School,High School,Kanagawa,Sagamihara,2009-04-28,Active
+SCH00424,CLI0261,Haruka Sagamihara High School,High School,Kanagawa,Sagamihara,2018-06-22,Active
+SCH00425,CLI0262,Seiwa Kawagoe English School,English School,Saitama,Kawagoe,1989-02-25,Active
+SCH00426,CLI0263,Seiwa Fujisawa Private School,Private School,Kanagawa,Fujisawa,2013-01-07,Active
+SCH00427,CLI0263,Kizuna Tachikawa High School,High School,Tokyo,Tachikawa,2017-02-22,Active
+SCH00428,CLI0264,Sakura Soka Public Elementary School,Public Elementary School,Saitama,Soka,2019-04-26,Active
+SCH00429,CLI0264,Koyo Warabi High School,High School,Saitama,Warabi,2005-03-03,Active
+SCH00430,CLI0265,Mirai Chiba High School,High School,Chiba,Chiba,1980-11-14,Active
+SCH00431,CLI0266,Haruka Yamato Public Junior High School,Public Junior High School,Kanagawa,Yamato,1995-10-24,Active
+SCH00432,CLI0266,Koyo Ota English School,English School,Tokyo,Ota,1990-08-15,Active
+SCH00433,CLI0267,Sakura Sagamihara Education Center,Education Center,Kanagawa,Sagamihara,2003-09-26,Active
+SCH00434,CLI0268,Sakura Sagamihara Private School,Private School,Kanagawa,Sagamihara,1987-12-13,Active
+SCH00435,CLI0269,Kizuna Funabashi Education Center,Education Center,Chiba,Funabashi,2015-07-04,Active
+SCH00436,CLI0269,Kizuna Kawasaki Public Junior High School,Public Junior High School,Kanagawa,Kawasaki,2003-08-13,Active
+SCH00437,CLI0270,Haruka Yokohama Public Elementary School,Public Elementary School,Kanagawa,Yokohama,2015-01-13,Active
+SCH00438,CLI0270,Mirai Toda English School,English School,Saitama,Toda,2021-08-03,Active
+SCH00439,CLI0270,Midori Toda Public Elementary School,Public Elementary School,Saitama,Toda,1999-02-21,Active
+SCH00440,CLI0271,Hikari Warabi English School,English School,Saitama,Warabi,1987-12-13,Active
+SCH00441,CLI0271,Seiwa Itabashi Private School,Private School,Tokyo,Itabashi,2009-03-26,Active
+SCH00442,CLI0272,Hikari Matsudo High School,High School,Chiba,Matsudo,2000-10-04,Inactive
+SCH00443,CLI0272,Sakura Funabashi Education Center,Education Center,Chiba,Funabashi,1990-11-21,Active
+SCH00444,CLI0273,Sakura Kawaguchi Education Center,Education Center,Saitama,Kawaguchi,2011-03-20,Active
+SCH00445,CLI0274,Haruka Urayasu Public Elementary School,Public Elementary School,Chiba,Urayasu,2009-10-18,Inactive
+SCH00446,CLI0275,Haruka Funabashi English School,English School,Chiba,Funabashi,1982-07-02,Active
+SCH00447,CLI0276,Hikari Matsudo Kindergarten,Kindergarten,Chiba,Matsudo,2001-09-16,Active
+SCH00448,CLI0277,Kizuna Itabashi Public Junior High School,Public Junior High School,Tokyo,Itabashi,2003-05-03,Inactive
+SCH00449,CLI0277,Mirai Ichikawa High School,High School,Chiba,Ichikawa,2020-03-28,Active
+SCH00450,CLI0278,Seiwa Yokohama Kindergarten,Kindergarten,Kanagawa,Yokohama,2017-05-28,Inactive
+SCH00451,CLI0278,Midori Nerima Education Center,Education Center,Tokyo,Nerima,2000-11-10,Inactive
+SCH00452,CLI0279,Asahi Soka Education Center,Education Center,Saitama,Soka,2002-09-25,Active
+SCH00453,CLI0279,Haruka Kashiwa Public Elementary School,Public Elementary School,Chiba,Kashiwa,1986-02-27,Active
+SCH00454,CLI0280,Asahi Koshigaya English School,English School,Saitama,Koshigaya,2014-12-21,Active
+SCH00455,CLI0281,Haruka Fujisawa Kindergarten,Kindergarten,Kanagawa,Fujisawa,2011-03-15,Active
+SCH00456,CLI0282,Kizuna Hachioji Kindergarten,Kindergarten,Tokyo,Hachioji,2018-09-27,Active
+SCH00457,CLI0283,Hikari Fujisawa Kindergarten,Kindergarten,Kanagawa,Fujisawa,2024-10-17,Active
+SCH00458,CLI0284,Mirai Chiba High School,High School,Chiba,Chiba,2004-05-11,Active
+SCH00459,CLI0285,Midori Edogawa Public Junior High School,Public Junior High School,Tokyo,Edogawa,2004-06-01,Active
+SCH00460,CLI0285,Haruka Warabi Public Junior High School,Public Junior High School,Saitama,Warabi,1987-11-08,Active
+SCH00461,CLI0286,Midori Warabi Education Center,Education Center,Saitama,Warabi,1989-08-24,Active
+SCH00462,CLI0287,Haruka Itabashi Private School,Private School,Tokyo,Itabashi,1981-08-15,Active
+SCH00463,CLI0287,Midori Kashiwa Kindergarten,Kindergarten,Chiba,Kashiwa,2020-04-22,Active
+SCH00464,CLI0288,Kizuna Matsudo Public Junior High School,Public Junior High School,Chiba,Matsudo,1994-12-16,Active
+SCH00465,CLI0289,Mirai Koganei Private School,Private School,Tokyo,Koganei,2012-06-02,Active
+SCH00466,CLI0289,Tsubaki Koshigaya English School,English School,Saitama,Koshigaya,2004-12-25,Active
+SCH00467,CLI0290,Hikari Sagamihara Education Center,Education Center,Kanagawa,Sagamihara,1995-02-21,Inactive
+SCH00468,CLI0290,Kizuna Funabashi Private School,Private School,Chiba,Funabashi,2019-04-25,Active
+SCH00469,CLI0291,Hikari Soka Public Junior High School,Public Junior High School,Saitama,Soka,2009-12-12,Active
+SCH00470,CLI0291,Midori Koshigaya Private School,Private School,Saitama,Koshigaya,2010-04-15,Active
+SCH00471,CLI0292,Haruka Soka Public Junior High School,Public Junior High School,Saitama,Soka,1985-12-01,Active
+SCH00472,CLI0292,Koyo Kashiwa Kindergarten,Kindergarten,Chiba,Kashiwa,2010-03-21,Active
+SCH00473,CLI0293,Seiwa Warabi English School,English School,Saitama,Warabi,2012-11-16,Active
+SCH00474,CLI0293,Asahi Toda English School,English School,Saitama,Toda,1981-06-01,Active
+SCH00475,CLI0293,Midori Adachi High School,High School,Tokyo,Adachi,2022-06-11,Active
+SCH00476,CLI0294,Haruka Katsushika High School,High School,Tokyo,Katsushika,1995-11-02,Active
+SCH00477,CLI0294,Mirai Matsudo Private School,Private School,Chiba,Matsudo,2005-12-06,Active
+SCH00478,CLI0295,Koyo Ota High School,High School,Tokyo,Ota,1986-11-18,Active
+SCH00479,CLI0296,Koyo Nerima Public Elementary School,Public Elementary School,Tokyo,Nerima,1980-05-03,Active
+SCH00480,CLI0296,Sakura Kawaguchi Education Center,Education Center,Saitama,Kawaguchi,1993-04-11,Active
+SCH00481,CLI0297,Midori Nerima Private School,Private School,Tokyo,Nerima,2011-10-27,Inactive
+SCH00482,CLI0298,Mirai Toda English School,English School,Saitama,Toda,2019-03-02,Active
+SCH00483,CLI0298,Sakura Ota Public Junior High School,Public Junior High School,Tokyo,Ota,1988-01-14,Active
+SCH00484,CLI0299,Koyo Ichikawa Public Junior High School,Public Junior High School,Chiba,Ichikawa,1980-06-16,Active
+SCH00485,CLI0299,Haruka Ota English School,English School,Tokyo,Ota,2001-02-08,Inactive
+SCH00486,CLI0300,Kizuna Saitama Private School,Private School,Saitama,Saitama,1988-12-10,Active
