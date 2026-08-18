@@ -1,3 +1,4 @@
+[![My Project](https://img.shields.io/badge/jay-project-blueviolet)](https://github.com/zhamo026/data_analytics)
 # Workforce Lifecycle & Retention Analytics
 
 ## Objective
