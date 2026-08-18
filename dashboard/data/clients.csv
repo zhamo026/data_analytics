@@ -1,0 +1,301 @@
+client_id,client_name,client_type,prefecture,city,client_relationship_start_date,client_relationship_end_date,client_status
+CLI0001,Takashima Elementary School,High School,Tokyo,Ota,2022-08-18,NULL,Active
+CLI0002,Mirai Junior High School,English School,Tokyo,Adachi,2024-02-06,NULL,Active
+CLI0003,Koganei High School,Public Elementary School,Saitama,Kawagoe,2025-06-06,NULL,Active
+CLI0004,Asahi Elementary School,Private School,Saitama,Koshigaya,2023-09-30,NULL,Active
+CLI0005,Shinmei Academy,Kindergarten,Chiba,Funabashi,2025-12-15,NULL,Active
+CLI0006,Hikari Academy,High School,Saitama,Koshigaya,2021-11-10,NULL,Active
+CLI0007,Kawaguchi Junior High School,Kindergarten,Chiba,Ichikawa,2022-08-29,NULL,Active
+CLI0008,Shinmei High School,Public Junior High School,Kanagawa,Yamato,2025-02-22,NULL,Active
+CLI0009,Hikari High School,English School,Tokyo,Kita,2019-09-15,NULL,Active
+CLI0010,Midori International School,Kindergarten,Chiba,Chiba,2022-09-04,NULL,Active
+CLI0011,Takashima High School,Kindergarten,Saitama,Kawagoe,2024-05-26,NULL,Active
+CLI0012,Akebono Education Center,Kindergarten,Chiba,Matsudo,2023-07-26,NULL,Active
+CLI0013,Hikari Education Center,Private School,Tokyo,Hachioji,2021-08-06,NULL,Active
+CLI0014,Meisei High School,English School,Tokyo,Itabashi,2020-02-25,NULL,Active
+CLI0015,Kita High School,Private School,Tokyo,Itabashi,2025-09-10,2026-08-22,Inactive
+CLI0016,Ota Education Center,Public Elementary School,Chiba,Chiba,2020-07-04,NULL,Active
+CLI0017,Asahi Education Center,Private School,Kanagawa,Fujisawa,2023-03-24,NULL,Active
+CLI0018,Koganei Academy,High School,Tokyo,Ota,2022-07-07,2026-08-23,Inactive
+CLI0019,Haruka Elementary School,Kindergarten,Saitama,Kawaguchi,2022-08-12,NULL,Active
+CLI0020,Sakura International School,Public Elementary School,Chiba,Kashiwa,2024-10-13,NULL,Active
+CLI0021,Sakura International School,Kindergarten,Kanagawa,Yokohama,2025-08-22,2027-08-07,Inactive
+CLI0022,Kita Junior High School,High School,Saitama,Warabi,2020-11-12,NULL,Active
+CLI0023,Tsubaki Elementary School,English School,Chiba,Funabashi,2020-04-17,NULL,Active
+CLI0024,Hikari Academy,English School,Tokyo,Edogawa,2023-10-24,2027-03-01,Inactive
+CLI0025,Tsubaki International School,Private School,Chiba,Funabashi,2023-12-05,NULL,Active
+CLI0026,Sakura High School,English School,Chiba,Chiba,2021-03-31,NULL,Active
+CLI0027,Akebono Elementary School,Private School,Chiba,Ichikawa,2020-02-03,NULL,Active
+CLI0028,Takashima Education Center,Private School,Tokyo,Hachioji,2021-08-21,2023-05-31,Inactive
+CLI0029,Asahi Education Center,Public Elementary School,Chiba,Matsudo,2022-10-13,NULL,Active
+CLI0030,Akebono Elementary School,Public Junior High School,Saitama,Kawaguchi,2024-04-09,NULL,Active
+CLI0031,Kawaguchi International School,Public Junior High School,Saitama,Warabi,2022-07-11,NULL,Active
+CLI0032,Midori Junior High School,Public Elementary School,Chiba,Kashiwa,2024-06-08,NULL,Active
+CLI0033,Haruka International School,English School,Tokyo,Koganei,2026-03-16,NULL,Active
+CLI0034,Midori Academy,English School,Saitama,Kawaguchi,2019-02-16,NULL,Active
+CLI0035,Akebono Academy,Public Junior High School,Saitama,Toda,2021-01-30,2023-06-07,Inactive
+CLI0036,Seiwa International School,Public Junior High School,Tokyo,Ota,2019-06-26,2021-06-29,Inactive
+CLI0037,Midori Junior High School,Public Elementary School,Kanagawa,Sagamihara,2025-11-05,NULL,Active
+CLI0038,Kizuna International School,High School,Kanagawa,Yokohama,2023-12-19,NULL,Active
+CLI0039,Shinmei International School,High School,Tokyo,Kita,2020-04-30,NULL,Active
+CLI0040,Sakura Academy,Private School,Saitama,Saitama,2019-05-15,NULL,Active
+CLI0041,Midori Junior High School,Kindergarten,Chiba,Kashiwa,2025-09-17,NULL,Active
+CLI0042,Hikari High School,Kindergarten,Tokyo,Koganei,2025-01-17,2028-04-22,Inactive
+CLI0043,Takashima International School,Private School,Tokyo,Koganei,2024-10-23,2027-04-11,Inactive
+CLI0044,Nerima Junior High School,Private School,Chiba,Ichikawa,2021-07-30,NULL,Active
+CLI0045,Haruka Elementary School,Public Elementary School,Kanagawa,Fujisawa,2024-09-29,NULL,Active
+CLI0046,Sakura Junior High School,English School,Chiba,Ichikawa,2019-02-08,NULL,Active
+CLI0047,Akebono High School,Kindergarten,Chiba,Ichikawa,2023-03-18,NULL,Active
+CLI0048,Ota Junior High School,Education Center,Kanagawa,Yokohama,2024-09-12,2026-06-19,Inactive
+CLI0049,Haruka Junior High School,High School,Chiba,Ichikawa,2025-01-19,NULL,Active
+CLI0050,Mirai High School,English School,Tokyo,Tachikawa,2020-02-13,NULL,Active
+CLI0051,Seiwa Junior High School,Private School,Saitama,Warabi,2023-01-03,NULL,Active
+CLI0052,Shinmei Academy,Education Center,Tokyo,Nerima,2022-01-09,NULL,Active
+CLI0053,Musashino Junior High School,Public Junior High School,Kanagawa,Yamato,2025-10-31,NULL,Active
+CLI0054,Seiwa International School,High School,Chiba,Chiba,2025-02-19,NULL,Active
+CLI0055,Kita Education Center,Kindergarten,Kanagawa,Sagamihara,2022-04-12,NULL,Active
+CLI0056,Takashima Elementary School,Public Elementary School,Chiba,Matsudo,2022-09-28,NULL,Active
+CLI0057,Kawaguchi Elementary School,Kindergarten,Saitama,Toda,2020-03-21,NULL,Active
+CLI0058,Mirai High School,High School,Chiba,Matsudo,2024-07-16,NULL,Active
+CLI0059,Mirai Education Center,High School,Chiba,Funabashi,2019-04-11,NULL,Active
+CLI0060,Kawaguchi Junior High School,Education Center,Chiba,Kashiwa,2023-08-25,2026-07-21,Inactive
+CLI0061,Takashima High School,Private School,Saitama,Toda,2020-09-12,NULL,Active
+CLI0062,Asahi Junior High School,Kindergarten,Tokyo,Edogawa,2022-05-25,NULL,Active
+CLI0063,Koganei Elementary School,Private School,Tokyo,Edogawa,2025-11-18,NULL,Active
+CLI0064,Seiwa High School,Education Center,Saitama,Kawagoe,2023-11-28,NULL,Active
+CLI0065,Kawaguchi Junior High School,High School,Chiba,Urayasu,2023-07-15,NULL,Active
+CLI0066,Nerima Education Center,Public Junior High School,Saitama,Koshigaya,2024-12-07,NULL,Active
+CLI0067,Kizuna High School,Public Elementary School,Saitama,Soka,2020-07-29,NULL,Active
+CLI0068,Asahi Academy,Private School,Tokyo,Tachikawa,2020-07-05,NULL,Active
+CLI0069,Ota International School,Public Junior High School,Tokyo,Adachi,2025-08-07,NULL,Active
+CLI0070,Sakura Elementary School,Public Junior High School,Saitama,Toda,2025-05-15,NULL,Active
+CLI0071,Kita International School,Private School,Saitama,Kawaguchi,2022-09-21,NULL,Active
+CLI0072,Midori Academy,English School,Chiba,Chiba,2020-07-19,NULL,Active
+CLI0073,Koganei Junior High School,Kindergarten,Kanagawa,Yamato,2024-02-27,NULL,Active
+CLI0074,Kita Elementary School,Public Junior High School,Tokyo,Nerima,2023-06-03,2027-07-20,Inactive
+CLI0075,Akebono Junior High School,High School,Tokyo,Koganei,2019-07-27,2021-10-07,Inactive
+CLI0076,Kizuna High School,Public Junior High School,Tokyo,Edogawa,2025-03-19,NULL,Active
+CLI0077,Hikari Elementary School,Kindergarten,Saitama,Kawaguchi,2019-09-03,2020-06-28,Inactive
+CLI0078,Haruka International School,Education Center,Chiba,Kashiwa,2023-10-31,NULL,Active
+CLI0079,Tsubaki Academy,High School,Chiba,Funabashi,2021-01-28,NULL,Active
+CLI0080,Musashino Education Center,High School,Saitama,Kawagoe,2023-11-15,NULL,Active
+CLI0081,Nerima International School,Public Elementary School,Tokyo,Kita,2023-07-23,NULL,Active
+CLI0082,Musashino High School,English School,Saitama,Koshigaya,2025-05-13,NULL,Active
+CLI0083,Koganei Junior High School,Private School,Kanagawa,Sagamihara,2022-06-28,2024-03-11,Inactive
+CLI0084,Tsubaki Elementary School,Public Junior High School,Kanagawa,Kawasaki,2023-03-31,NULL,Active
+CLI0085,Shinmei Education Center,Public Elementary School,Saitama,Kawagoe,2024-03-19,NULL,Active
+CLI0086,Nerima Elementary School,Kindergarten,Kanagawa,Fujisawa,2020-09-21,2022-06-24,Inactive
+CLI0087,Kizuna High School,Public Elementary School,Kanagawa,Yamato,2025-01-04,NULL,Active
+CLI0088,Asahi Education Center,Education Center,Kanagawa,Sagamihara,2024-10-19,NULL,Active
+CLI0089,Koganei Education Center,High School,Chiba,Matsudo,2024-06-15,NULL,Active
+CLI0090,Akebono International School,Public Elementary School,Saitama,Koshigaya,2021-11-15,NULL,Active
+CLI0091,Sakura Academy,Private School,Tokyo,Edogawa,2026-01-29,NULL,Active
+CLI0092,Kawaguchi Junior High School,Private School,Kanagawa,Yokohama,2025-10-25,NULL,Active
+CLI0093,Asahi Academy,Public Elementary School,Chiba,Matsudo,2023-07-08,NULL,Active
+CLI0094,Mirai Academy,Education Center,Tokyo,Kita,2026-05-07,NULL,Active
+CLI0095,Haruka International School,Private School,Saitama,Kawaguchi,2022-09-27,NULL,Active
+CLI0096,Haruka Academy,Private School,Tokyo,Tachikawa,2020-12-02,NULL,Active
+CLI0097,Sakura International School,High School,Chiba,Ichikawa,2025-02-08,NULL,Active
+CLI0098,Meisei Elementary School,Public Junior High School,Saitama,Toda,2024-03-26,NULL,Active
+CLI0099,Nerima International School,Education Center,Tokyo,Hachioji,2025-12-21,NULL,Active
+CLI0100,Shinmei Education Center,English School,Tokyo,Katsushika,2023-06-06,NULL,Active
+CLI0101,Shinmei International School,Kindergarten,Saitama,Soka,2024-03-31,NULL,Active
+CLI0102,Midori High School,Public Elementary School,Saitama,Warabi,2026-04-27,NULL,Active
+CLI0103,Meisei Academy,Education Center,Saitama,Koshigaya,2025-01-09,NULL,Active
+CLI0104,Nerima Education Center,High School,Tokyo,Tachikawa,2021-01-05,2023-02-06,Inactive
+CLI0105,Mirai International School,Kindergarten,Chiba,Ichikawa,2025-02-09,NULL,Active
+CLI0106,Hikari High School,High School,Kanagawa,Yamato,2025-10-19,NULL,Active
+CLI0107,Sakura High School,High School,Saitama,Soka,2024-03-26,NULL,Active
+CLI0108,Haruka Elementary School,Public Junior High School,Saitama,Saitama,2021-02-05,NULL,Active
+CLI0109,Sakura International School,Public Junior High School,Chiba,Kashiwa,2026-03-02,2027-01-17,Inactive
+CLI0110,Midori Junior High School,High School,Kanagawa,Yokohama,2021-07-06,NULL,Active
+CLI0111,Haruka Elementary School,English School,Kanagawa,Sagamihara,2020-05-17,NULL,Active
+CLI0112,Seiwa International School,High School,Saitama,Koshigaya,2020-08-13,NULL,Active
+CLI0113,Tsubaki International School,High School,Saitama,Warabi,2020-01-10,2023-02-16,Inactive
+CLI0114,Haruka International School,Private School,Saitama,Saitama,2024-07-18,NULL,Active
+CLI0115,Takashima High School,Public Elementary School,Saitama,Toda,2023-12-27,2026-04-11,Inactive
+CLI0116,Takashima Education Center,Public Junior High School,Kanagawa,Kawasaki,2024-10-21,NULL,Active
+CLI0117,Asahi Junior High School,Public Junior High School,Saitama,Warabi,2019-01-20,NULL,Active
+CLI0118,Asahi International School,English School,Kanagawa,Sagamihara,2019-11-07,NULL,Active
+CLI0119,Koyo Education Center,Kindergarten,Tokyo,Nerima,2023-07-31,NULL,Active
+CLI0120,Ota High School,Public Elementary School,Kanagawa,Yokohama,2024-03-23,NULL,Active
+CLI0121,Tsubaki Junior High School,High School,Chiba,Matsudo,2020-06-04,NULL,Active
+CLI0122,Mirai Education Center,Kindergarten,Saitama,Kawaguchi,2020-09-24,NULL,Active
+CLI0123,Musashino High School,English School,Saitama,Koshigaya,2021-02-09,2021-08-09,Inactive
+CLI0124,Koyo International School,Public Junior High School,Saitama,Soka,2024-06-11,NULL,Active
+CLI0125,Kizuna Junior High School,English School,Saitama,Toda,2019-10-07,NULL,Active
+CLI0126,Kawaguchi International School,Private School,Chiba,Chiba,2019-03-09,2022-06-08,Inactive
+CLI0127,Ota High School,English School,Kanagawa,Fujisawa,2026-01-09,NULL,Active
+CLI0128,Tsubaki Junior High School,Education Center,Chiba,Urayasu,2022-11-06,NULL,Active
+CLI0129,Kita Elementary School,Public Elementary School,Tokyo,Edogawa,2023-06-03,NULL,Active
+CLI0130,Koyo Education Center,Public Elementary School,Saitama,Kawagoe,2024-10-08,NULL,Active
+CLI0131,Asahi High School,Public Junior High School,Saitama,Kawagoe,2024-10-21,2027-04-26,Inactive
+CLI0132,Kawaguchi Elementary School,Kindergarten,Chiba,Kashiwa,2025-09-10,NULL,Active
+CLI0133,Hikari Academy,Public Elementary School,Kanagawa,Sagamihara,2020-12-19,NULL,Active
+CLI0134,Mirai Academy,Education Center,Kanagawa,Sagamihara,2025-05-12,NULL,Active
+CLI0135,Asahi Education Center,Public Elementary School,Saitama,Toda,2024-07-10,NULL,Active
+CLI0136,Sakura Elementary School,Kindergarten,Tokyo,Katsushika,2023-02-28,NULL,Active
+CLI0137,Nerima Academy,Private School,Chiba,Chiba,2022-10-01,2023-05-30,Inactive
+CLI0138,Kita Elementary School,Public Elementary School,Chiba,Ichikawa,2022-06-14,NULL,Active
+CLI0139,Kizuna Junior High School,Private School,Kanagawa,Kawasaki,2024-05-03,NULL,Active
+CLI0140,Kizuna Junior High School,Kindergarten,Kanagawa,Fujisawa,2020-11-14,NULL,Active
+CLI0141,Kawaguchi Elementary School,Education Center,Kanagawa,Kawasaki,2024-12-31,NULL,Active
+CLI0142,Midori Elementary School,English School,Chiba,Urayasu,2025-06-16,NULL,Active
+CLI0143,Kizuna International School,Education Center,Kanagawa,Kawasaki,2022-11-28,NULL,Active
+CLI0144,Tsubaki High School,Private School,Saitama,Warabi,2021-05-22,NULL,Active
+CLI0145,Musashino Elementary School,English School,Kanagawa,Yokohama,2024-08-24,NULL,Active
+CLI0146,Meisei High School,Private School,Chiba,Funabashi,2022-08-24,NULL,Active
+CLI0147,Asahi High School,Public Junior High School,Saitama,Saitama,2020-01-26,NULL,Active
+CLI0148,Nerima Elementary School,Education Center,Chiba,Matsudo,2020-08-17,2021-06-20,Inactive
+CLI0149,Haruka Junior High School,Private School,Tokyo,Tachikawa,2025-03-19,NULL,Active
+CLI0150,Takashima High School,English School,Tokyo,Hachioji,2025-10-12,NULL,Active
+CLI0151,Kawaguchi Academy,High School,Chiba,Ichikawa,2026-04-11,NULL,Active
+CLI0152,Meisei International School,English School,Tokyo,Tachikawa,2025-01-26,NULL,Active
+CLI0153,Meisei High School,High School,Saitama,Saitama,2023-05-27,2024-06-05,Inactive
+CLI0154,Asahi International School,Private School,Tokyo,Nerima,2021-02-20,NULL,Active
+CLI0155,Seiwa Education Center,Kindergarten,Saitama,Warabi,2025-03-15,NULL,Active
+CLI0156,Musashino Elementary School,Public Elementary School,Chiba,Matsudo,2026-03-30,NULL,Active
+CLI0157,Akebono High School,Public Elementary School,Saitama,Koshigaya,2024-04-23,2026-09-07,Inactive
+CLI0158,Meisei High School,Public Elementary School,Kanagawa,Kawasaki,2025-02-15,NULL,Active
+CLI0159,Akebono Academy,High School,Tokyo,Adachi,2026-04-23,NULL,Active
+CLI0160,Asahi High School,Public Junior High School,Chiba,Urayasu,2020-08-02,NULL,Active
+CLI0161,Nerima Elementary School,Education Center,Saitama,Warabi,2019-12-21,NULL,Active
+CLI0162,Kawaguchi High School,Public Elementary School,Kanagawa,Yamato,2025-09-27,NULL,Active
+CLI0163,Tsubaki Education Center,Private School,Saitama,Koshigaya,2019-08-22,NULL,Active
+CLI0164,Midori High School,Education Center,Chiba,Matsudo,2022-05-09,NULL,Active
+CLI0165,Nerima Elementary School,High School,Tokyo,Katsushika,2024-08-08,NULL,Active
+CLI0166,Nerima Junior High School,Private School,Kanagawa,Yokohama,2024-03-04,NULL,Active
+CLI0167,Midori Education Center,Public Junior High School,Saitama,Kawaguchi,2026-04-17,NULL,Active
+CLI0168,Meisei Education Center,Public Junior High School,Kanagawa,Fujisawa,2019-11-11,NULL,Active
+CLI0169,Meisei International School,Kindergarten,Saitama,Warabi,2023-05-15,NULL,Active
+CLI0170,Kita High School,Public Elementary School,Saitama,Saitama,2019-05-31,NULL,Active
+CLI0171,Midori High School,Kindergarten,Saitama,Koshigaya,2022-10-08,NULL,Active
+CLI0172,Haruka High School,Private School,Tokyo,Koganei,2025-12-30,NULL,Active
+CLI0173,Musashino International School,Private School,Chiba,Matsudo,2025-08-22,NULL,Active
+CLI0174,Ota Junior High School,Public Elementary School,Saitama,Koshigaya,2026-01-08,NULL,Active
+CLI0175,Seiwa Academy,High School,Saitama,Soka,2019-03-18,NULL,Active
+CLI0176,Kawaguchi International School,English School,Chiba,Ichikawa,2023-08-12,NULL,Active
+CLI0177,Musashino Elementary School,Private School,Tokyo,Nerima,2021-09-08,NULL,Active
+CLI0178,Sakura High School,Education Center,Tokyo,Nerima,2020-03-28,NULL,Active
+CLI0179,Seiwa Junior High School,Public Junior High School,Tokyo,Nerima,2025-03-03,NULL,Active
+CLI0180,Kawaguchi Junior High School,High School,Kanagawa,Fujisawa,2022-07-31,NULL,Active
+CLI0181,Koyo Junior High School,High School,Tokyo,Katsushika,2022-10-19,NULL,Active
+CLI0182,Kawaguchi International School,Public Elementary School,Kanagawa,Kawasaki,2023-01-22,2024-09-09,Inactive
+CLI0183,Tsubaki High School,Kindergarten,Saitama,Saitama,2026-03-25,NULL,Active
+CLI0184,Takashima Junior High School,English School,Tokyo,Edogawa,2022-06-14,NULL,Active
+CLI0185,Asahi High School,Private School,Kanagawa,Yokohama,2024-03-11,NULL,Active
+CLI0186,Asahi Education Center,Education Center,Kanagawa,Yamato,2026-01-09,NULL,Active
+CLI0187,Asahi Junior High School,Public Elementary School,Tokyo,Tachikawa,2020-09-01,NULL,Active
+CLI0188,Kizuna International School,Education Center,Chiba,Matsudo,2020-11-14,NULL,Active
+CLI0189,Tsubaki High School,Kindergarten,Chiba,Ichikawa,2024-03-18,NULL,Active
+CLI0190,Asahi International School,English School,Kanagawa,Sagamihara,2020-05-23,NULL,Active
+CLI0191,Seiwa High School,High School,Chiba,Matsudo,2019-07-18,NULL,Active
+CLI0192,Akebono Junior High School,English School,Saitama,Kawaguchi,2020-04-01,2020-12-03,Inactive
+CLI0193,Nerima International School,Public Junior High School,Saitama,Toda,2023-08-28,NULL,Active
+CLI0194,Midori Academy,Public Elementary School,Kanagawa,Sagamihara,2021-03-11,2023-10-09,Inactive
+CLI0195,Haruka Academy,English School,Kanagawa,Yamato,2020-09-13,NULL,Active
+CLI0196,Asahi Education Center,High School,Saitama,Koshigaya,2025-09-29,NULL,Active
+CLI0197,Ota High School,English School,Chiba,Urayasu,2022-12-06,NULL,Active
+CLI0198,Ota High School,Public Elementary School,Kanagawa,Yamato,2022-08-29,NULL,Active
+CLI0199,Asahi Academy,Public Junior High School,Kanagawa,Sagamihara,2019-11-05,NULL,Active
+CLI0200,Seiwa International School,Kindergarten,Chiba,Ichikawa,2025-10-18,NULL,Active
+CLI0201,Haruka Academy,High School,Tokyo,Koganei,2023-10-19,NULL,Active
+CLI0202,Tsubaki Elementary School,High School,Kanagawa,Kawasaki,2023-08-14,NULL,Active
+CLI0203,Midori Academy,Public Junior High School,Saitama,Kawaguchi,2023-05-29,NULL,Active
+CLI0204,Nerima International School,Public Elementary School,Saitama,Kawaguchi,2020-11-28,2024-02-01,Inactive
+CLI0205,Mirai High School,Private School,Saitama,Kawagoe,2024-08-28,NULL,Active
+CLI0206,Nerima Education Center,Education Center,Saitama,Kawagoe,2023-03-30,NULL,Active
+CLI0207,Nerima Elementary School,English School,Chiba,Kashiwa,2024-02-01,NULL,Active
+CLI0208,Kawaguchi International School,Kindergarten,Tokyo,Tachikawa,2023-03-10,NULL,Active
+CLI0209,Kawaguchi High School,Private School,Tokyo,Hachioji,2024-02-06,NULL,Active
+CLI0210,Haruka Education Center,High School,Tokyo,Kita,2022-12-04,NULL,Active
+CLI0211,Mirai Education Center,Education Center,Tokyo,Koganei,2019-05-25,NULL,Active
+CLI0212,Mirai Elementary School,Public Elementary School,Saitama,Saitama,2022-11-10,NULL,Active
+CLI0213,Meisei International School,Public Elementary School,Tokyo,Katsushika,2019-11-16,2021-07-11,Inactive
+CLI0214,Kita Academy,Kindergarten,Kanagawa,Fujisawa,2024-09-21,NULL,Active
+CLI0215,Ota High School,Private School,Chiba,Urayasu,2022-05-13,NULL,Active
+CLI0216,Nerima High School,Kindergarten,Kanagawa,Kawasaki,2022-12-29,NULL,Active
+CLI0217,Koganei Education Center,Private School,Kanagawa,Kawasaki,2024-01-12,NULL,Active
+CLI0218,Asahi Junior High School,English School,Kanagawa,Fujisawa,2021-08-11,NULL,Active
+CLI0219,Seiwa International School,Public Elementary School,Tokyo,Ota,2024-11-19,NULL,Active
+CLI0220,Haruka Elementary School,Private School,Kanagawa,Yamato,2020-11-21,NULL,Active
+CLI0221,Haruka Education Center,High School,Chiba,Ichikawa,2019-10-29,2021-07-29,Inactive
+CLI0222,Musashino Elementary School,High School,Kanagawa,Yamato,2022-11-26,NULL,Active
+CLI0223,Kita International School,Education Center,Tokyo,Itabashi,2021-11-11,NULL,Active
+CLI0224,Mirai Junior High School,Education Center,Tokyo,Koganei,2020-06-17,2021-07-31,Inactive
+CLI0225,Takashima High School,Public Elementary School,Saitama,Warabi,2023-11-02,NULL,Active
+CLI0226,Takashima Education Center,Kindergarten,Chiba,Urayasu,2025-11-09,2028-05-26,Inactive
+CLI0227,Asahi Academy,Education Center,Tokyo,Hachioji,2025-06-04,2027-04-21,Inactive
+CLI0228,Takashima Academy,Education Center,Kanagawa,Kawasaki,2025-12-24,NULL,Active
+CLI0229,Mirai International School,Public Elementary School,Kanagawa,Fujisawa,2024-02-20,NULL,Active
+CLI0230,Haruka Junior High School,Private School,Tokyo,Ota,2025-09-03,NULL,Active
+CLI0231,Koyo Elementary School,Public Elementary School,Chiba,Urayasu,2021-10-05,NULL,Active
+CLI0232,Kizuna Elementary School,Public Elementary School,Kanagawa,Fujisawa,2020-04-21,NULL,Active
+CLI0233,Midori International School,Public Elementary School,Saitama,Saitama,2019-07-27,NULL,Active
+CLI0234,Nerima High School,Public Junior High School,Saitama,Koshigaya,2024-12-23,NULL,Active
+CLI0235,Mirai Academy,English School,Chiba,Urayasu,2025-08-06,NULL,Active
+CLI0236,Meisei Elementary School,Private School,Tokyo,Edogawa,2021-05-21,2025-01-06,Inactive
+CLI0237,Midori International School,Public Junior High School,Chiba,Urayasu,2020-01-18,NULL,Active
+CLI0238,Kita Elementary School,Private School,Chiba,Matsudo,2021-04-13,NULL,Active
+CLI0239,Sakura Junior High School,English School,Tokyo,Itabashi,2022-04-12,NULL,Active
+CLI0240,Sakura Junior High School,Kindergarten,Saitama,Warabi,2022-01-20,NULL,Active
+CLI0241,Shinmei High School,Kindergarten,Chiba,Matsudo,2026-04-02,NULL,Active
+CLI0242,Tsubaki Elementary School,English School,Kanagawa,Fujisawa,2026-01-24,NULL,Active
+CLI0243,Hikari Junior High School,English School,Kanagawa,Fujisawa,2021-09-04,NULL,Active
+CLI0244,Nerima Junior High School,Education Center,Saitama,Soka,2020-12-17,NULL,Active
+CLI0245,Musashino Education Center,Kindergarten,Chiba,Chiba,2024-08-31,NULL,Active
+CLI0246,Hikari Junior High School,Private School,Tokyo,Koganei,2019-07-06,NULL,Active
+CLI0247,Akebono Education Center,Private School,Chiba,Chiba,2026-02-15,NULL,Active
+CLI0248,Asahi Academy,Public Elementary School,Chiba,Funabashi,2020-05-13,NULL,Active
+CLI0249,Haruka High School,Kindergarten,Chiba,Chiba,2019-05-15,NULL,Active
+CLI0250,Tsubaki High School,Education Center,Tokyo,Itabashi,2024-11-21,NULL,Active
+CLI0251,Ota Education Center,Public Junior High School,Saitama,Saitama,2020-09-07,2021-09-14,Inactive
+CLI0252,Musashino Academy,Education Center,Chiba,Kashiwa,2022-12-20,NULL,Active
+CLI0253,Kita Junior High School,English School,Saitama,Kawagoe,2020-11-17,NULL,Active
+CLI0254,Haruka Education Center,Private School,Tokyo,Koganei,2024-08-30,NULL,Active
+CLI0255,Haruka Academy,Education Center,Saitama,Kawaguchi,2020-03-22,NULL,Active
+CLI0256,Ota International School,Public Elementary School,Saitama,Koshigaya,2019-01-10,NULL,Active
+CLI0257,Koyo International School,Public Junior High School,Kanagawa,Yamato,2025-06-05,NULL,Active
+CLI0258,Akebono Junior High School,Education Center,Saitama,Koshigaya,2026-02-24,NULL,Active
+CLI0259,Ota Elementary School,Kindergarten,Tokyo,Katsushika,2019-11-07,NULL,Active
+CLI0260,Koyo Elementary School,Public Elementary School,Tokyo,Kita,2025-03-25,NULL,Active
+CLI0261,Shinmei Elementary School,Private School,Tokyo,Kita,2022-12-08,NULL,Active
+CLI0262,Takashima International School,High School,Saitama,Kawaguchi,2024-06-06,2027-01-18,Inactive
+CLI0263,Haruka International School,Public Junior High School,Chiba,Ichikawa,2023-11-15,NULL,Active
+CLI0264,Musashino Elementary School,Public Elementary School,Chiba,Ichikawa,2023-09-30,NULL,Active
+CLI0265,Sakura Junior High School,Public Elementary School,Saitama,Kawaguchi,2024-09-23,NULL,Active
+CLI0266,Haruka International School,Kindergarten,Tokyo,Katsushika,2025-11-22,NULL,Active
+CLI0267,Kawaguchi International School,English School,Kanagawa,Kawasaki,2022-07-11,NULL,Active
+CLI0268,Akebono International School,Public Junior High School,Saitama,Saitama,2024-07-16,NULL,Active
+CLI0269,Hikari Elementary School,High School,Saitama,Kawagoe,2025-12-11,NULL,Active
+CLI0270,Nerima Academy,High School,Chiba,Urayasu,2019-08-19,NULL,Active
+CLI0271,Nerima Elementary School,Kindergarten,Tokyo,Ota,2019-08-26,NULL,Active
+CLI0272,Sakura Junior High School,Education Center,Chiba,Matsudo,2023-11-25,NULL,Active
+CLI0273,Meisei International School,Public Junior High School,Kanagawa,Sagamihara,2026-05-05,NULL,Active
+CLI0274,Haruka High School,English School,Kanagawa,Sagamihara,2022-02-06,NULL,Active
+CLI0275,Akebono High School,Education Center,Chiba,Urayasu,2021-04-26,NULL,Active
+CLI0276,Kawaguchi Elementary School,Public Elementary School,Tokyo,Katsushika,2022-10-28,NULL,Active
+CLI0277,Asahi Elementary School,English School,Kanagawa,Fujisawa,2019-05-04,NULL,Active
+CLI0278,Hikari International School,Private School,Chiba,Ichikawa,2020-09-29,NULL,Active
+CLI0279,Shinmei Education Center,Education Center,Tokyo,Nerima,2019-07-15,NULL,Active
+CLI0280,Seiwa International School,English School,Saitama,Saitama,2019-10-30,2022-12-03,Inactive
+CLI0281,Kita Junior High School,English School,Chiba,Ichikawa,2023-10-27,NULL,Active
+CLI0282,Akebono Education Center,High School,Chiba,Urayasu,2025-09-24,NULL,Active
+CLI0283,Shinmei Academy,Education Center,Kanagawa,Kawasaki,2020-04-13,NULL,Active
+CLI0284,Shinmei International School,Public Junior High School,Chiba,Chiba,2021-11-18,NULL,Active
+CLI0285,Kizuna Education Center,Public Junior High School,Tokyo,Koganei,2023-09-30,NULL,Active
+CLI0286,Meisei Elementary School,Private School,Kanagawa,Fujisawa,2020-08-20,NULL,Active
+CLI0287,Shinmei Elementary School,English School,Kanagawa,Yokohama,2023-09-29,NULL,Active
+CLI0288,Haruka Junior High School,Kindergarten,Chiba,Matsudo,2021-10-26,NULL,Active
+CLI0289,Kita High School,Private School,Saitama,Warabi,2025-07-06,NULL,Active
+CLI0290,Koganei High School,English School,Chiba,Chiba,2019-03-31,NULL,Active
+CLI0291,Haruka Academy,English School,Chiba,Chiba,2019-11-11,NULL,Active
+CLI0292,Kizuna Education Center,Education Center,Tokyo,Edogawa,2023-12-25,NULL,Active
+CLI0293,Tsubaki Elementary School,Private School,Kanagawa,Fujisawa,2025-06-15,NULL,Active
+CLI0294,Shinmei Junior High School,Kindergarten,Saitama,Saitama,2020-12-10,NULL,Active
+CLI0295,Tsubaki Junior High School,Public Junior High School,Kanagawa,Fujisawa,2022-02-23,NULL,Active
+CLI0296,Haruka Education Center,Private School,Kanagawa,Kawasaki,2024-06-13,NULL,Active
+CLI0297,Shinmei Elementary School,Public Junior High School,Chiba,Kashiwa,2025-02-11,2028-09-20,Inactive
+CLI0298,Koyo Elementary School,English School,Chiba,Matsudo,2023-05-19,NULL,Active
+CLI0299,Akebono Junior High School,High School,Chiba,Funabashi,2025-11-23,NULL,Active
+CLI0300,Shinmei Academy,Public Junior High School,Chiba,Chiba,2024-05-25,NULL,Active
