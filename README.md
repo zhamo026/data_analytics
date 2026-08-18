@@ -8,6 +8,8 @@ The goal is not simply to produce charts or SQL queries, but to demonstrate the 
 
 **Understand a business problem → work with imperfect data → analyze the data → communicate findings → make evidence-based recommendations.**
 
+The project focuses on applying analytical methods to realistic business scenarios, with an emphasis on data quality, objective analysis, clear visualization, and turning data into actionable insights.
+
 ---
 
 ## Overview
