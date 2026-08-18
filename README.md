@@ -4,7 +4,7 @@
 
 This project demonstrates practical Data Analyst skills through a complete business analytics workflow.
 
-The goal is not simply to produce charts or SQL queries, but to demonstrate the ability to:
+The goal is not simply to produce unbiased charts or SQL queries, but to demonstrate the ability to:
 
 **Understand a business problem → work with imperfect data → analyze the data → communicate findings → make evidence-based recommendations.**
 
