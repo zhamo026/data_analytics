@@ -5,7 +5,7 @@
 - [1. Project Objective](#1-project-objective)
 - [2. Business Scenario](#2-business-scenario)
 - [3. The Two Dashboards](#3-the-two-dashboards)
-  - [3.1 Workforce Dashboard](#31-workforce-dashboard)
+  - [3.1 Workforce Dashboard On tableau](#31-workforce-dashboard-on-tableau)
   - [3.2 Employee Retention Dashboard](#32-employee-retention-dashboard)
   - [3.3 How the Dashboards Fit Together](#33-how-the-dashboards-fit-together)
 - [4. Quick Project Summary](#4-quick-project-summary)
@@ -92,7 +92,11 @@ This is an analytical relationship to investigate, **not a claim of causation**.
 
 The project has **two main dashboards**, each answering a different business problem.
 
-### 3.1 Workforce Dashboard
+### 3.1 Workforce Dashboard on Tableau
+[View the Workforce Dashboard on Tableau Public](https://public.tableau.com/app/profile/j.d1004/viz/WorkforceDashboard_17872800689950/Dashboard1)
+
+
+![Workforce Dashboard](images/workforce_dashboard.png)
 
 The **Workforce Dashboard** focuses on the operational side of teacher assignments and dispatch.
 
