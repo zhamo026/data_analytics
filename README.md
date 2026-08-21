@@ -6,7 +6,7 @@
 - [2. Business Scenario](#2-business-scenario)
 - [3. The Two Dashboards](#3-the-two-dashboards)
   - [3.1 Workforce Dashboard On tableau](#31-workforce-dashboard-on-tableau)
-  - [3.2 Employee Retention Dashboard](#32-employee-retention-dashboard)
+  - [3.2 Employee Retention Dashboard on Excel](#32-employee-retention-dashboard-on-excel)
   - [3.3 How the Dashboards Fit Together](#33-how-the-dashboards-fit-together)
 - [4. Quick Project Summary](#4-quick-project-summary)
 - [5. Business Questions](#5-business-questions)
@@ -149,8 +149,9 @@ Its intended grain is:
 
 ---
 
-### 3.2 Employee Retention Dashboard
+### 3.2 Employee Retention Dashboard on Excel
 
+![Workforce Dashboard](images/employee_retention_dashboard)
 The **Employee Retention Dashboard** focuses on the employee lifecycle and the question:
 
 > **Why do employees stay, and why do employees leave?**
