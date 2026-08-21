@@ -151,7 +151,8 @@ Its intended grain is:
 
 ### 3.2 Employee Retention Dashboard on Excel
 
-![Workforce Dashboard](images/employee_retention_dashboard)
+![Workforce Dashboard](images/employee_retention_dashboard.png)
+
 The **Employee Retention Dashboard** focuses on the employee lifecycle and the question:
 
 > **Why do employees stay, and why do employees leave?**
