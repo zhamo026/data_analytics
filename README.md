@@ -1,523 +1,416 @@
-# Workforce Lifecycle & Retention Analytics
-
-> End-to-end Data Analytics portfolio project analyzing recruitment, workforce management, employee experience, client satisfaction, assignments, retention, and turnover.
-
-## Quick Summary
-
-| Area | Summary |
-|---|---|
-| **Business** | Fictional Japan-based ALT / English-teacher dispatch company |
-| **Goal** | Understand workforce lifecycle, employee retention, turnover, and client satisfaction |
-| **Data** | Synthetic recruitment, workforce, assignment, attendance, performance, survey, feedback, and retention data |
-| **Analysis** | Data Quality → SQL → Python → Statistics → Visualization |
-| **Dashboard** | Power BI |
-| **Current Phase** | Phase 2 — Data Model & Dataset Design |
-| **Important** | All data is synthetic and created for educational and portfolio purposes |
-
----
+# Data Analytics Project
 
 ## Table of Contents
 
-- [Business Scenario](#business-scenario)
-- [Overview](#overview)
-- [Business Objective](#business-objective)
-- [Key Business Questions](#key-business-questions)
-- [Key Performance Indicators](#key-performance-indicators)
-- [Employee Feedback](#employee-feedback)
-- [Client Feedback](#client-feedback)
-- [Data](#data)
-- [Repository Structure](#repository-structure)
-- [Analytical Workflow](#analytical-workflow)
-- [Data Quality](#data-quality)
-- [SQL](#sql)
-- [Python](#python)
-- [Dashboard](#dashboard)
-- [Business Recommendations](#business-recommendations)
-- [Limitations](#limitations)
-- [Tools](#tools)
-- [Project Status](#project-status)
-- [Portfolio Objective](#portfolio-objective)
+- [1. Project Overview](#1-project-overview)
+- [2. Quick Summary](#2-quick-summary)
+- [3. Repository Structure](#3-repository-structure)
+- [4. Raw Data](#4-raw-data)
+- [5. SQL](#5-sql)
+- [6. Python](#6-python)
+- [7. Notebooks](#7-notebooks)
+- [8. Dashboard Data](#8-dashboard-data)
+- [9. Documentation](#9-documentation)
+- [10. Images and Reports](#10-images-and-reports)
+- [11. Project Workflow](#11-project-workflow)
+- [12. Git Workflow](#12-git-workflow)
 
 ---
 
-# Business Scenario
+## 1. Project Overview
 
-The fictional company provides ALT and English-teacher dispatch services to schools and educational organizations in the Tokyo metropolitan area.
+This repository contains the DaimonUpDown Education data analytics project.
 
-The company is responsible for:
+The project brings together raw workforce data, MariaDB database development, SQL validation and analysis, Python processing, Jupyter notebooks, and Tableau-ready dashboard datasets.
 
-- Recruiting teachers
-- Hiring teachers
-- Employee onboarding
-- Initial and continuing training
-- Assigning teachers to schools
-- Managing teacher assignments
-- Monitoring employee performance
-- Collecting employee feedback
-- Collecting school/client feedback
-- Managing employee retention
-- Managing turnover and offboarding
-- Supporting client relationships
-- Responding to client concerns
-- Supporting assignment renewals and longer-term relationships
+---
 
-Management wants to understand workforce performance, employee satisfaction, client satisfaction, operational efficiency, retention, turnover, assignment stability, and contract renewal.
+## 2. Quick Summary
 
-# Overview
+**Main analytical areas**
 
-> **Important:** All data used in this project is synthetic and created for educational and portfolio purposes. It does not represent real employees, schools, companies, or confidential business information.
-
-This project is an end-to-end **Data Analytics project** focused on workforce management, employee experience, client satisfaction, and employee retention within a fictional Japan-based **ALT / English-teacher dispatch company**.
-
-The company operates primarily in **Tokyo and the surrounding areas of Saitama, Chiba, and Kanagawa**.
-
-The project follows the teacher lifecycle:
-
-**Recruitment → Hiring → Onboarding → Training → Assignment/Dispatch → Employment → Satisfaction → Performance → Retention → Offboarding**
-
-At the same time, the project analyzes the experience of schools and educational organizations receiving dispatched teachers.
-
-# Business Objective
-
-The primary objective is to analyze the teacher lifecycle and determine how recruitment, onboarding, training, assignments, employee experience, performance, client experience, and other workforce factors relate to employee retention, turnover, and client satisfaction.
-
-**Client satisfaction is a major business priority.**
-
-The project will investigate whether effective training, teacher performance, communication, reliability, professionalism, and other factors are associated with higher client satisfaction and stronger assignment renewal.
-
-The analysis will **not assume that a particular factor causes employee turnover or client dissatisfaction**. Relationships and potential patterns will be investigated using the available data.
-
-# Key Business Questions
-
-## Recruitment & Hiring
-
-- How many candidates enter the recruitment process?
-- What percentage of candidates are hired?
-- Which recruitment sources produce the most hires?
-- How long does it take to hire teachers?
-- Where do candidates drop out?
-- Which recruitment sources produce teachers with better retention?
-- Do repeat applicants have different hiring outcomes?
-- How long does each recruitment stage take?
-
-## Onboarding
-
-- How long does onboarding take?
-- What percentage complete onboarding successfully?
-- Which locations or positions experience onboarding delays?
-- How satisfied are teachers with onboarding?
-- Is onboarding performance associated with early turnover?
-- Does onboarding performance relate to later employee or client satisfaction?
-
-## Training
-
-- What percentage complete required training?
-- Which programs have the lowest completion rates?
-- How long does training take?
-- How do training results differ by position?
-- How satisfied are teachers with training?
-- Is training completion associated with retention?
-- Is training performance associated with client satisfaction?
-- Does continuing training relate to teacher performance?
-
-## Assignment & Dispatch
-
-- How long do teachers wait before receiving an assignment?
-- Which locations have the greatest staffing demand?
-- Which schools receive the most assignments?
-- Which assignments have the highest employee satisfaction?
-- Which assignments have the highest turnover?
-- Does commute time relate to satisfaction or retention?
-- How frequently are teachers transferred?
-- Which assignments have the highest complaint rate?
-- Does assignment stability relate to retention?
-
-## Employee Satisfaction & Engagement
-
-- What is the overall employee satisfaction level?
-- Which factors contribute most to dissatisfaction?
-- How satisfied are teachers with management, compensation, training, work-life balance, career development, and assignments?
-- How does satisfaction change over time?
-- Are lower satisfaction scores associated with higher turnover?
-
-## Client / School Satisfaction
-
-- What is the overall client satisfaction level?
-- Which schools have the highest and lowest satisfaction?
-- Which assignments receive the most complaints?
-- How satisfied are schools with teacher performance, reliability, attendance, communication, lesson quality, and professionalism?
-- Is client satisfaction associated with assignment renewal?
-- What are common reasons for client dissatisfaction?
-- Which teachers consistently receive strong client feedback?
-- Does client satisfaction improve after additional teacher training?
-- Which factors are associated with clients requesting contract extensions?
-
-## Retention & Turnover
-
-- What is the overall employee turnover rate?
-- Which locations and positions have the highest turnover?
-- How many teachers leave within their first 30, 90, 180, and 365 days?
-- What are the most common reasons teachers leave?
-- Are satisfaction levels different between teachers who stay and those who leave?
-- Is turnover associated with commute time, assignment changes, training completion, satisfaction, client satisfaction, or career progression?
-
-## Offboarding
-
-- What are the most common reasons for leaving?
-- What percentage complete an exit interview?
-- What factors are reported during exit interviews?
-- Would former employees recommend the company?
-- Which employee groups have the highest voluntary turnover?
-- Are former employees eligible for rehire?
-- How frequently do former employees return?
-
-# Key Performance Indicators
-
-| KPI | Description |
-|---|---|
-| Headcount | Number of active teachers |
-| New Hires | Teachers hired during a selected period |
-| Hiring Rate | Percentage of candidates successfully hired |
-| Time to Hire | Average time from application to hiring |
-| Onboarding Completion Rate | Percentage completing onboarding |
-| Training Completion Rate | Percentage completing required training |
-| Assignment Rate | Percentage of teachers successfully assigned |
-| Average Time to Assignment | Average time between hiring and first assignment |
-| Employee Satisfaction | Average employee satisfaction score |
-| Employee Engagement | Employee engagement measurement |
-| Employee Performance | Employee performance measurement |
-| Client Satisfaction | Average school/client satisfaction score |
-| Client Complaint Rate | Rate of assignments or clients generating complaints |
-| Assignment Renewal Rate | Percentage of assignments/contracts renewed |
-| Turnover Rate | Percentage of employees leaving |
-| Retention Rate | Percentage of employees remaining |
-| Early Turnover | Employees leaving during early tenure |
-| Average Tenure | Average length of employment |
-| Average Commute Time | Average travel time to assignment |
-| Exit Interview Rate | Percentage of departing employees completing an exit interview |
-
-# Employee Feedback
-
-Employee feedback may be collected through:
-
-1. Monthly employee surveys
-2. Direct contact with DaimonUpDown
-
-Employees may report problems, concerns, requests, assignment issues, training issues, workplace issues, management concerns, compensation concerns, and career concerns.
-
-# Client Feedback
-
-Client feedback may include:
-
-- Overall satisfaction
-- Teacher performance
-- Reliability
+- Workforce assignments
 - Attendance
-- Communication
-- Lesson quality
-- Professionalism
-- Assignment satisfaction
-- Complaints
-- Contract renewal intention
+- Clients
+- Recruitment
+- Onboarding and offboarding
+- Employee retention
+- Data quality
 
-The project will investigate:
+**Main technologies**
 
-**Employee Experience → Teacher Performance → Client Experience → Assignment Renewal → Retention**
+- MariaDB / SQL
+- Python
+- Jupyter Notebook
+- Tableau
+- Git / GitHub
 
-This represents an analytical framework rather than a claim that these relationships are causal.
+**Main project flow**
 
-# Data
+`Raw CSV → Cleaning → MariaDB → SQL validation/analysis → Python processing → Dashboard data → Jupyter/Tableau`
 
-## Current Raw Datasets
+---
 
-- `candidates.csv`
-- `applications.csv`
-- `employees.csv`
-- `employment_history.csv`
-- `compensation_history.csv`
-- `qualifications.csv`
-- `visa_history.csv`
-- `training.csv`
-- `clients.csv`
-
-## Additional Datasets
-
-- `onboarding.csv`
-- `assignments.csv`
-- `employee_surveys.csv`
-- `client_feedback.csv`
-- `performance.csv`
-- `attendance.csv`
-- `offboarding.csv`
-
-# Repository Structure
+## 3. Repository Structure
 
 ```text
 data_analytics/
 ├── README.md
-├── data/
-│   ├── raw/
-│   └── cleaned/
-├── docs/
-│   └── company_definition.md
-├── sql/
-├── python/
-├── notebooks/
 ├── dashboard/
+│   └── data/
+├── data/
+│   └── raw/
+├── docs/
+├── images/
+├── notebooks/
+├── python/
 ├── reports/
-└── images/
+└── sql/
 ```
 
-# Analytical Workflow
+| Folder | Purpose |
+|---|---|
+| `dashboard/` | Dashboard-ready datasets |
+| `data/raw/` | Source CSV data |
+| `docs/` | Project and data-model documentation |
+| `images/` | Image assets |
+| `notebooks/` | Jupyter notebooks |
+| `python/` | Python processing utilities |
+| `reports/` | Reports/output area |
+| `sql/` | Database setup, validation, and analysis |
+
+---
+
+## 4. Raw Data
+
+Location:
 
 ```text
-Business Problem
-       ↓
-Business Questions
-       ↓
-Company & Business Definition
-       ↓
-Data Model
-       ↓
-Synthetic Data
-       ↓
-Data Quality Assessment
-       ↓
-Data Cleaning
-       ↓
-Exploratory Data Analysis
-       ↓
-SQL Analysis
-       ↓
-Statistical Analysis
-       ↓
-Visualization
-       ↓
-Dashboard
-       ↓
-Business Insights
-       ↓
-Recommendations
-       ↓
-Final Report
+data/raw/
 ```
 
-# Data Quality
+Tracked datasets:
 
-The project intentionally includes realistic data-quality scenarios:
+- `applications.csv`
+- `assignments.csv`
+- `attendance.csv`
+- `candidates.csv`
+- `client_feedback.csv`
+- `clients.csv`
+- `compensation_history.csv`
+- `departments.csv`
+- `employee_surveys.csv`
+- `employees.csv`
+- `employment_history.csv`
+- `locations.csv`
+- `offboarding.csv`
+- `onboarding.csv`
+- `performance.csv`
+- `positions.csv`
+- `qualifications.csv`
+- `schools.csv`
+- `training.csv`
+- `visa_history.csv`
 
-- Missing values
-- Duplicate records
-- Invalid dates
-- Inconsistent categories
-- Incorrect data types
-- Impossible values
-- Outliers
-- Referential-integrity problems
-- Inconsistent employee records
-- Inconsistent assignment records
+These are the source datasets used by the project.
 
-Raw data will be preserved. Cleaned data will be stored separately.
+---
 
-Data-quality checks validate:
+## 5. SQL
 
-- Row counts
-- Duplicate primary keys
-- Foreign-key relationships
-- Missing required values
-- Invalid dates
-- Invalid categorical values
-- Business-rule violations
-- Referential integrity
+Location:
 
-# SQL
+```text
+sql/
+```
 
-SQL will be used to answer business questions using:
+| File | Purpose |
+|---|---|
+| `01_create_database.sql` | Creates the project database |
+| `02_create_tables.sql` | Creates database tables and relationships |
+| `03_load_data.sql` | Loads source data |
+| `04_data_quality_checks.sql` | Row counts, duplicate IDs, foreign-key/orphan checks, status checks, and quality summaries |
+| `05_recruitment_analysis.sql` | Recruitment analysis |
+| `06_onboarding_offboarding.sql` | Onboarding and offboarding analysis |
+| `daimonupdown_dump.sql` | MariaDB database dump containing schema/data |
+| `.gitkeep` | Keeps the directory tracked |
 
-- `SELECT`
-- `WHERE`
-- `ORDER BY`
-- `GROUP BY`
-- `HAVING`
-- `CASE`
-- `JOIN`
-- CTEs
-- Subqueries
-- Window functions
-- Date calculations
-- Aggregations
+---
 
-SQL will also be used for data-quality validation and reusable database checks.
+## 6. Python
 
-# Python
+Location:
 
-Python will be used for:
+```text
+python/
+```
 
-- Data loading
-- Data inspection
-- Data-quality checks
-- Data cleaning
-- Data transformation
-- Exploratory analysis
-- Aggregation
-- Statistical analysis
-- Visualization
-- Dashboard dataset preparation
+| File | Purpose |
+|---|---|
+| `create_workforce_dashboard.py` | Creates the Tableau-ready workforce dataset |
+| `merge_excel_to_csv.py` | Merges Excel worksheets into CSV files |
+| `tsv_to_csv.py` | Converts TSV files to CSV |
+| `.gitkeep` | Keeps the directory tracked |
 
-The workforce dashboard generator uses Python's standard library for CSV generation and **does not require Pandas**.
+### Workforce dashboard generator
 
-# Dashboard
+`create_workforce_dashboard.py` intentionally does **not** use pandas.
 
-A Power BI dashboard will be developed after the data has been cleaned and analyzed.
+Its workflow is:
 
-## Executive Overview
+```text
+MariaDB
+   ↓
+SQL joins + attendance aggregation
+   ↓
+TSV result
+   ↓
+Python standard-library CSV conversion
+   ↓
+dashboard/data/workforce_dashboard.csv
+```
 
-- Headcount
-- New hires
-- Turnover
-- Retention
-- Employee satisfaction
-- Client satisfaction
-- Training completion
-- Average tenure
-- Assignment rate
+Expected grain:
 
-## Recruitment
+**One row per assignment.**
 
-- Candidate funnel
-- Hiring trends
-- Time to hire
-- Recruitment source performance
+The generator validates the returned row and column counts before writing the dashboard CSV.
 
-## Employee Experience
+---
 
-- Employee satisfaction
-- Employee engagement
-- Training satisfaction
-- Management satisfaction
-- Compensation satisfaction
-- Career development
-- Work-life balance
+## 7. Notebooks
 
-## Client Experience
+Location:
 
-- Client satisfaction
-- Teacher performance
-- Reliability
-- Communication
-- Lesson quality
-- Professionalism
-- Complaints
-- Assignment renewal
+```text
+notebooks/
+```
 
-## Retention
+| Notebook | Purpose |
+|---|---|
+| `01_project_cheat_sheet.ipynb` | Project reference/cheat sheet |
+| `02_data_cleaning.ipynb` | Data cleaning and preparation |
+| `03_workforce_dashboard.ipynb` | Workforce Dashboard development |
+| `04_employee_retention_dashboard.ipynb` | Employee Retention Dashboard development |
+| `.gitkeep` | Keeps the directory tracked |
 
-- Turnover trends
-- Early turnover
-- Turnover by location
-- Turnover by position
-- Turnover by assignment
-- Reasons for leaving
-- Satisfaction vs. retention
+### Workforce Dashboard
 
-# Business Recommendations
+The Workforce Dashboard focuses on:
 
-Recommendations will only be made after the data has been analyzed.
+```text
+Workforce representation
+        ↓
+Positions
+        ↓
+Assignment statuses
+        ↓
+Assignment outcomes over time
+```
 
-Each recommendation will identify:
+### Employee Retention Dashboard
 
-1. **Finding**
-2. **Supporting evidence**
-3. **Potential business impact**
-4. **Recommended action**
+Retention and turnover are handled separately from assignment operations because employee-level employment and offboarding data are required for retention analysis.
 
-The project will not present unsupported correlations as proven causes.
+---
 
-# Limitations
+## 8. Dashboard Data
 
-This is a portfolio project using synthetic data.
+Location:
 
-Therefore:
+```text
+dashboard/data/
+```
 
-- Data does not represent a real company.
-- Employees and clients are fictional.
-- Results are not real-world company findings.
-- Correlation does not automatically indicate causation.
-- Survey responses may contain subjective bias.
-- Some relevant business factors may not be represented.
-- Results should be interpreted within the scope of the available data.
+| File | Purpose |
+|---|---|
+| `assignments.csv` | Assignment data |
+| `attendance.csv` | Attendance data |
+| `clients.csv` | Client data |
+| `employee_retention.csv` | Employee retention dataset |
+| `employees.csv` | Employee data |
+| `workforce_dashboard.csv` | Tableau-ready workforce dataset |
 
-# Tools
+---
 
-- SQL
-- Python
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-- Power BI
-- Git
-- GitHub
+## 9. Documentation
 
-> **Note:** Individual Python scripts may use different libraries depending on the task. The workforce dashboard generator specifically uses Python's standard library and does not require Pandas.
+Location:
 
-# Project Status
+```text
+docs/
+```
 
-**Current Phase: Phase 2 — Data Model & Dataset Design**
+| File | Purpose |
+|---|---|
+| `company_definition.md` | Company/project definition |
+| `data_model.md` | Data model and relationships |
 
-## Phase 1 — Completed
+---
 
-Phase 1 established:
+## 10. Images and Reports
 
-- Company definition
-- Business model
-- Employee lifecycle
-- Client relationship
-- Recruitment model
-- Training structure
-- Career structure
-- Assignment process
-- Contract model
-- Employee satisfaction
-- Client satisfaction
-- Retention model
-- Offboarding model
-- Business questions
-- KPI framework
+### `images/`
 
-## Phase 2 — Current
+Currently contains:
 
-Phase 2 focuses on:
+```text
+images/.gitkeep
+```
 
-- Data model
-- Dataset relationships
-- Primary keys
-- Foreign keys
-- Required fields
-- Data types
-- Business rules
-- Data-quality scenarios
-- Synthetic raw data
-- Database validation
+Reserved for project image assets.
 
-No analytical findings will be created before the data has been generated, validated, cleaned, and analyzed.
+### `reports/`
 
-# Portfolio Objective
+Currently contains:
 
-This project demonstrates the complete Data Analyst workflow:
+```text
+reports/.gitkeep
+```
 
-**Understand → Collect → Validate → Clean → Analyze → Visualize → Communicate → Recommend**
+Reserved for reports and generated reporting outputs.
 
-The final portfolio will demonstrate practical ability in:
+---
 
-- Business analysis
-- Data modeling
-- Data cleaning
-- SQL
-- Python
-- Statistics
-- Visualization
-- Dashboard development
-- Data storytelling
-- Evidence-based recommendations
+## 11. Project Workflow
 
-The objective is to demonstrate not only technical ability, but also the ability to connect technical analysis to practical business questions and decisions.
+```text
+Raw CSV Data
+     ↓
+Data Cleaning / Preparation
+     ↓
+MariaDB Database
+     ↓
+SQL Data Quality Checks
+     ↓
+SQL Analysis
+     ↓
+Python Processing
+     ↓
+Dashboard-Ready CSV Data
+     ↓
+Jupyter Dashboard Development
+     ↓
+Tableau
+```
+
+The project keeps **workforce assignment analysis** and **employee retention analysis** as separate analytical areas.
+
+### Workforce assignment analysis
+
+Focuses on:
+
+- assignments
+- positions
+- clients
+- assignment status
+- assignment outcomes
+- attendance
+
+### Employee retention analysis
+
+Focuses on:
+
+- employees
+- employment history
+- offboarding
+- employee-level retention and turnover
+
+---
+
+## 12. Git Workflow
+
+Typical workflow:
+
+```bash
+git status
+git add <file>
+git commit -m "Descriptive commit message"
+git push
+git status
+```
+
+Before committing:
+
+```bash
+git diff --check
+```
+
+For Python syntax validation:
+
+```bash
+python -m py_compile python/<script>.py
+```
+
+A clean repository should end with:
+
+```text
+nothing to commit, working tree clean
+```
+
+---
+
+## Verified Tracked Files
+
+The README structure above is based on the repository listing supplied for this project.
+
+```text
+README.md
+
+dashboard/.gitkeep
+dashboard/data/assignments.csv
+dashboard/data/attendance.csv
+dashboard/data/clients.csv
+dashboard/data/employee_retention.csv
+dashboard/data/employees.csv
+dashboard/data/workforce_dashboard.csv
+
+data/raw/.gitkeep
+data/raw/applications.csv
+data/raw/assignments.csv
+data/raw/attendance.csv
+data/raw/candidates.csv
+data/raw/client_feedback.csv
+data/raw/clients.csv
+data/raw/compensation_history.csv
+data/raw/departments.csv
+data/raw/employee_surveys.csv
+data/raw/employees.csv
+data/raw/employment_history.csv
+data/raw/locations.csv
+data/raw/offboarding.csv
+data/raw/onboarding.csv
+data/raw/performance.csv
+data/raw/positions.csv
+data/raw/qualifications.csv
+data/raw/schools.csv
+data/raw/training.csv
+data/raw/visa_history.csv
+
+docs/company_definition.md
+docs/data_model.md
+
+images/.gitkeep
+
+notebooks/.gitkeep
+notebooks/01_project_cheat_sheet.ipynb
+notebooks/02_data_cleaning.ipynb
+notebooks/03_workforce_dashboard.ipynb
+notebooks/04_employee_retention_dashboard.ipynb
+
+python/.gitkeep
+python/create_workforce_dashboard.py
+python/merge_excel_to_csv.py
+python/tsv_to_csv.py
+
+reports/.gitkeep
+
+sql/.gitkeep
+sql/01_create_database.sql
+sql/02_create_tables.sql
+sql/03_load_data.sql
+sql/04_data_quality_checks.sql
+sql/05_recruitment_analysis.sql
+sql/06_onboarding_offboarding.sql
+sql/daimonupdown_dump.sql
+```
