@@ -1,5 +1,5 @@
 # Workforce Lifecycle & Retention Analytics
-### Technologies
+### Technologies for this Project
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -38,7 +38,8 @@
 
 ## 1. Project Objective
 
-This is an end-to-end Data Analytics portfolio project focused on **workforce management, employee experience, client satisfaction, and employee retention** within a fictional Japan-based ALT / English-teacher dispatch company.
+This is an end-to-end Data Analytics portfolio project focused on **workforce management, employee experience, client satisfaction, and employee retention** 
+within a fictional Japan-based ALT / English-teacher dispatch company.
 
 The goal is not simply to produce charts or SQL queries. The project demonstrates the ability to:
 
@@ -139,19 +140,15 @@ It should not be interpreted as a complete employee-retention analysis. Retentio
 The Workforce Dashboard uses assignment-level data and includes supporting information such as:
 
 - employee information
-- client information
 - assignment information
-- attendance measures
 - assignment status
 - assignment outcomes
 - position
-- commute information
-- contract information
 
 The Tableau-ready workforce dataset is:
 
 ```text
-dashboard/data/workforce_dashboard.csv
+[View Workforce Dashboard Data](dashboard/data/)
 ```
 
 Its intended grain is:
@@ -172,11 +169,9 @@ Its purpose is to examine employee-level retention and turnover patterns using i
 
 - employment history
 - offboarding
-- tenure
 - employee experience
 - satisfaction
 - assignments
-- commute
 - training
 - performance
 - employee feedback
@@ -191,7 +186,6 @@ Business questions include:
 - Which positions have the highest turnover?
 - How many employees leave during early tenure?
 - What are the common reasons employees leave?
-- Is turnover associated with commute time?
 - Is turnover associated with assignment changes?
 - Is turnover associated with training completion?
 - Is turnover associated with employee satisfaction?
