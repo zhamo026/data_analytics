@@ -8,7 +8,7 @@ import sys
 
 def convert_file(input_path: Path, output_path: Path) -> None:
     with input_path.open("r", newline="", encoding="utf-8-sig") as src:
-        reader = csv.reader(src, delimiter="\\t")
+        reader = csv.reader(src, delimiter="\t")
         with output_path.open("w", newline="", encoding="utf-8") as dst:
             csv.writer(dst).writerows(reader)
     print(f"Converted: {input_path} -> {output_path}")
