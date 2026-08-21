@@ -191,6 +191,11 @@ Business questions include:
 
 The retention dashboard is therefore about the **employee lifecycle**, rather than simply counting assignments.
 
+The Excel-ready employee_retention_dashboard dataset is:
+
+```text
+dashboard/data/Employee_Retention_Dashboard_Excel.xlsx
+```
 ---
 
 ### 3.3 How the Dashboards Fit Together
