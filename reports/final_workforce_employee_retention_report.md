@@ -50,8 +50,8 @@ The final analysis focuses on two dashboard perspectives:
 ### 3.1 Workforce Dashboard
 [View the Workforce Dashboard on Tableau Public](https://public.tableau.com/app/profile/j.d1004/viz/WorkforceDashboard_17872800689950/Dashboard1)
 
-
 ![Workforce Dashboard](images/workforce_dashboard.png)
+
 The Workforce Dashboard uses assignment-level information.
 
 It answers questions such as:
@@ -82,6 +82,7 @@ retention analysis is employee-level.
 
 ### 3.2 Employee Retention Dashboard
 ![Workforce Dashboard](images/employee_retention_dashboard.png)
+
 The Employee Retention Dashboard uses one row per employee in the
 verified dashboard dataset.
 
@@ -212,16 +213,14 @@ work-life, location, and compensation-related reasons.
 ## 6. Exit Experience
 
 ### Exit Satisfaction
-
 The Exit Satisfaction visualization contains 253 recorded responses:
-
-    Rating   Responses
-  -------- -----------
-         1          54
-         2          57
-         3          47
-         4          49
-         5          46
+| Rating | Responses |
+|---:|---:|
+| 1⭐ | 54 |
+| 2⭐ | 57 |
+| 3⭐ | 47 |
+| 4⭐ | 49 |
+| 5⭐ | 46 |
 
 The largest response category is **2**, with 57 responses.
 
@@ -323,53 +322,17 @@ former employees could create a future recruitment opportunity.
 
 # 8. Risk Assessment
 
-The following risk assessment is based only on patterns visible in the
-existing dashboards.
+The following risk assessment is based only on patterns visible in the existing dashboards.
 
-  --------------------------------------------------------------------------
-  Risk Area            Assessment        Evidence          Business Concern
-  -------------------- ----------------- ----------------- -----------------
-  Voluntary turnover   **High            259 of 320        A large share of
-                       attention**       departures were   departures may
-                                         voluntary         warrant deeper
-                                                           retention
-                                                           investigation
-
-  Concentration of     **Medium          Several leading   A single
-  leaving reasons      attention**       reasons are       retention
-                                         relatively close  solution is
-                                         rather than one   unlikely to
-                                         dominant cause    address all
-                                                           departures
-
-  Assignment-related   **Medium          Assignment Issues Assignment fit
-  risk                 attention**       is one of the     and workforce
-                                         leading recorded  deployment should
-                                         reasons           be investigated
-
-  Career-development   **Medium          Career Change and Career pathways
-  risk                 attention**       Career            may warrant
-                                         Development       further
-                                         appear among      investigation
-                                         recorded reasons  
-
-  Work-life/location   **Medium          Work-Life         Location and
-  risk                 attention**       Balance, Commute, work-life factors
-                                         and Relocation    may affect
-                                         are prominent     retention for
-                                         reasons           some employees
-
-  Exit-experience risk **Medium          Satisfaction      Departure
-                       attention**       responses include feedback should
-                                         substantial low   be reviewed
-                                         ratings           systematically
-
-  Former-employee      **Opportunity**   259 departed      Former employees
-  opportunity                            employees are     may represent a
-                                         rehire eligible;  potential future
-                                         164 respondents   talent pool
-                                         would return      
-  --------------------------------------------------------------------------
+| Risk Area | Assessment | Evidence | Business Concern |
+|---|---|---|---|
+| Voluntary turnover | 🔴 **High attention** | 259 of 320 departures were voluntary | A large share of departures may warrant deeper retention investigation |
+| Concentration of leaving reasons | 🟡 **Medium attention** | Several leading reasons are relatively close rather than one dominant cause | A single retention solution is unlikely to address all departures |
+| Assignment-related risk | 🟡 **Medium attention** | Assignment Issues is one of the leading recorded reasons | Assignment fit and workforce deployment should be investigated |
+| Career-development risk | 🟡 **Medium attention** | Career Change and Career Development appear among recorded reasons | Career pathways may warrant further investigation |
+| Work-life/location risk | 🟡 **Medium attention** | Work-Life Balance, Commute, and Relocation are prominent reasons | Location and work-life factors may affect retention for some employees |
+| Exit-experience risk | 🟡 **Medium attention** | Satisfaction responses include substantial low ratings | Departure feedback should be reviewed systematically |
+| Former-employee opportunity | 🟢 **Opportunity** | 259 departed employees are rehire eligible; 164 respondents would return | Former employees may represent a potential future talent pool |
 
 ### Risk interpretation
 
