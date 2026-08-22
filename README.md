@@ -213,23 +213,9 @@ The two dashboards are complementary rather than duplicates.
 
 Together they provide a broader business story:
 
-```text
-                   WORKFORCE OPERATIONS
-                           │
-                           ↓
-                 Assignments & Dispatch
-                           │
-             ┌─────────────┴─────────────┐
-             ↓                           ↓
-      Client Experience          Employee Experience
-             │                           │
-             ↓                           ↓
-    Assignment Renewal             Retention
-             │                           │
-             └─────────────┬─────────────┘
-                           ↓
-                  Business Performance
-```
+
+![Workforce Operations](images/workforce_operations_flow.png)
+
 
 The project does **not** assume that one variable causes another. The dashboards are used to identify patterns, differences, and relationships that can then be investigated further.
 
