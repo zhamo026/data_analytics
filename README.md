@@ -267,7 +267,9 @@ Build a complete analytics workflow and two focused dashboards:
 
 Recruitment 〡 Onboarding 〡 Training 〡 Assignments 〡 Attendance 〡 Employee Experience 〡 Performance 〡 Client Experience 〡 Retention 〡 Turnover 〡 Offboarding
 
-A few additional tools could extend and strengthen the analysis in a future iteration:
+### Future Additional Tools
+
+It could extend and strengthen the analysis in a future iteration:
 
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
