@@ -661,6 +661,7 @@ The project preserves raw source data and separates it from dashboard-ready data
 
 ## 15. Business Insights and Recommendations
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 The project is designed to move from descriptive analysis toward business decisions.
 
 Recommendations should be based on:
@@ -691,8 +692,7 @@ Potential business actions may relate to:
 ---
 
 ## 16. Limitations
-| ⚠️  |
-|---|
-| Data disclosure, this is a portfolio project using **100% synthetic data**. All records — employees, assignments, clients, schools, feedback, and survey responses — were generated for this project and were not taken from any real company, dataset, or third-party source.<br><br>Therefore:<br>• the data does not represent a real company<br>• employees and clients are fictional<br>• no information was sourced from any real organization, individual, or external dataset<br>• results are not real-world company findings<br>• correlation does not automatically indicate causation<br>• survey responses may contain subjective bias<br>• some relevant business factors may not be represented<br><br>**These limitations should be considered when interpreting dashboard results.** |
+
+See [Limitations](reports/limitations.md) for the full data-disclosure notice.
 
 ---
