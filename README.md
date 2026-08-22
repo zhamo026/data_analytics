@@ -213,8 +213,7 @@ The two dashboards are complementary rather than duplicates.
 
 Together they provide a broader business story:
 
-
-![Workforce Operations](images/workforce_operations_flow.png)
+<img src="/images/workforce_operations_flow.svg" alt="Workforce Operations" width="650">
 
 
 The project does **not** assume that one variable causes another. The dashboards are used to identify patterns, differences, and relationships that can then be investigated further.
