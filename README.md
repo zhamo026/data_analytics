@@ -8,18 +8,18 @@
   - [3.1 Workforce Dashboard on Tableau](#31-workforce-dashboard-on-tableau)
   - [3.2 Employee Retention Dashboard on Excel](#32-employee-retention-dashboard-on-excel)
   - [3.3 How the Dashboards Fit Together](#33-how-the-dashboards-fit-together)
-- [4. Quick Project Summary](#4-quick-project-summary)
-- [5. Business Questions](#5-business-questions)
-- [6. Data](#6-data)
-- [7. Repository Structure](#7-repository-structure)
-- [8. SQL](#8-sql)
-- [9. Python](#9-python)
-- [10. Jupyter Notebooks](#10-jupyter-notebooks)
-- [11. Dashboard Data](#11-dashboard-data)
-- [12. Documentation](#12-documentation)
-- [13. Analytical Workflow](#13-analytical-workflow)
-- [14. Data Quality](#14-data-quality)
-- [15. Business Insights and Recommendations](#15-business-insights-and-recommendations)
+- [4. Business Questions](#4-business-questions)
+- [5. Data](#5-data)
+- [6. Repository Structure](#6-repository-structure)
+- [7. SQL](#7-sql)
+- [8. Python](#8-python)
+- [9. Jupyter Notebooks](#9-jupyter-notebooks)
+- [10. Dashboard Data](#10-dashboard-data)
+- [11. Documentation](#11-documentation)
+- [12. Analytical Workflow](#12-analytical-workflow)
+- [13. Data Quality](#13-data-quality)
+- [14. Business Insights and Recommendations](#14-business-insights-and-recommendations)
+- [15. Quick Project Summary](#15-quick-project-summary)
 - [16. Limitations](/reports/limitations.md)
 - [17. Final Report](/reports/final_workforce_employee_retention_report.md)
 
@@ -235,68 +235,7 @@ The project does **not** assume that one variable causes another. The dashboards
 
 ---
 
-## 4. Quick Project Summary
-
-### The business problem
-
-A teacher-dispatch company needs to understand both:
-
-1. **How its workforce and assignments are operating**, and
-2. **How employee experience relates to retention and turnover.**
-
-### The solution
-
-Build a complete analytics workflow and two focused dashboards:
-
-**Dashboard 1 — Workforce Dashboard**
-
-> Understand assignment and workforce operations.
-
-**Dashboard 2 — Employee Retention Dashboard**
-
-> Understand employee retention, turnover, and potential factors associated with employees leaving.
-
-### Main technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/j.d1004/viz/WorkforceDashboard_17872800689950/Dashboard1)
-
-### Main analytical areas
-
-Recruitment 〡 Onboarding 〡 Training 〡 Assignments 〡 Attendance 〡 Employee Experience 〡 Performance 〡 Client Experience 〡 Retention 〡 Turnover 〡 Offboarding
-
-### Future Additional Tools
-
-It could extend and strengthen the analysis in a future iteration:
-
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AI-Assisted Analysis](https://img.shields.io/badge/AI--Assisted_Analysis-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-
--   **RStudio** — statistical modeling and hypothesis testing beyond what SQL/Excel easily support, for deeper analysis of retention and performance patterns
--   **PostgreSQL** — a more robust, production-style database for larger data volumes, stronger data-integrity constraints, and more advanced querying than the current setup
--   **AI-assisted analysis** — speeding up data cleaning, pattern discovery, and drafting of insights, while still requiring human review before conclusions are trusted
--   **PowerPoint** — translating dashboard findings into a stakeholder-facing narrative, since decision-makers need the "so what" and recommended actions rather than the underlying charts and queries
-
-Adopting these tools could improve the process across several stages:
-- **Data gathering** — more scalable and reliable database infrastructure
-- **Data cleaning** — faster identification of quality issues at larger scale
-- **Visualization** — additional statistical and exploratory visualization options
-- **Insights** — more rigorous, statistically grounded conclusions rather than descriptive patterns alone
-- **Communication** — clearer translation of findings into stakeholder-ready recommendations
-
-These are potential future directions and have not been implemented in the current version of the project.
-
----
-
-## 5. Business Questions
+## 4. Business Questions
 
 ### Recruitment & Hiring
 
@@ -376,8 +315,9 @@ These are potential future directions and have not been implemented in the curre
 
 ---
 
-## 6. Data
+## 5. Data
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](data/raw)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](data/raw)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](data/raw)
 
@@ -434,7 +374,7 @@ Raw data is preserved separately from processed dashboard data.
 
 ---
 
-## 7. Repository Structure
+## 6. Repository Structure
 
 ```text
 data_analytics/
@@ -466,7 +406,8 @@ data_analytics/
 
 ---
 
-## 8. SQL
+## 7. SQL
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](sql/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](sql/)
 
@@ -497,7 +438,8 @@ The data-quality SQL includes checks for:
 
 ---
 
-## 9. Python
+## 8. Python
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](python/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](python/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](python/)
@@ -541,7 +483,8 @@ The script validates the query result before writing the CSV.
 
 ---
 
-## 10. Jupyter Notebooks
+## 9. Jupyter Notebooks
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](notebooks/)
 
 Location:
@@ -562,7 +505,7 @@ The two dashboard notebooks document the dashboard-building process, worksheet l
 
 ---
 
-## 11. Dashboard Data
+## 10. Dashboard Data
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](dashboard/data)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](dashboard/data)
 
@@ -586,7 +529,7 @@ The Workforce Dashboard dataset is generated from MariaDB rather than using pand
 
 ---
 
-## 12. Documentation
+## 11. Documentation
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](docs/)
 
 Location:
@@ -604,7 +547,8 @@ The company definition documents the fictional business, employee types, employm
 
 ---
 
-## 13. Analytical Workflow
+## 12. Analytical Workflow
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 The project follows:
@@ -641,7 +585,8 @@ The dashboards are therefore the **communication layer** of the analysis, not th
 
 ---
 
-## 14. Data Quality
+## 13. Data Quality
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 Data quality is treated as part of the analytical process.
@@ -659,7 +604,8 @@ The project preserves raw source data and separates it from dashboard-ready data
 
 ---
 
-## 15. Business Insights and Recommendations
+## 14. Business Insights and Recommendations
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 The project is designed to move from descriptive analysis toward business decisions.
@@ -688,6 +634,67 @@ Potential business actions may relate to:
 - retention
 - turnover reduction
 - assignment renewal
+
+---
+
+## 15. Quick Project Summary
+
+### The business problem
+
+A teacher-dispatch company needs to understand both:
+
+1. **How its workforce and assignments are operating**, and
+2. **How employee experience relates to retention and turnover.**
+
+### The solution
+
+Build a complete analytics workflow and two focused dashboards:
+
+**Dashboard 1 — Workforce Dashboard**
+
+> Understand assignment and workforce operations.
+
+**Dashboard 2 — Employee Retention Dashboard**
+
+> Understand employee retention, turnover, and potential factors associated with employees leaving.
+
+### Main technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/j.d1004/viz/WorkforceDashboard_17872800689950/Dashboard1)
+
+### Main analytical areas
+
+Recruitment 〡 Onboarding 〡 Training 〡 Assignments 〡 Attendance 〡 Employee Experience 〡 Performance 〡 Client Experience 〡 Retention 〡 Turnover 〡 Offboarding
+
+### Future Additional Tools
+
+It could extend and strengthen the analysis in a future iteration:
+
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI-Assisted Analysis](https://img.shields.io/badge/AI--Assisted_Analysis-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+-   **RStudio** — statistical modeling and hypothesis testing beyond what SQL/Excel easily support, for deeper analysis of retention and performance patterns
+-   **PostgreSQL** — a more robust, production-style database for larger data volumes, stronger data-integrity constraints, and more advanced querying than the current setup
+-   **AI-assisted analysis** — speeding up data cleaning, pattern discovery, and drafting of insights, while still requiring human review before conclusions are trusted
+-   **PowerPoint** — translating dashboard findings into a stakeholder-facing narrative, since decision-makers need the "so what" and recommended actions rather than the underlying charts and queries
+
+Adopting these tools could improve the process across several stages:
+- **Data gathering** — more scalable and reliable database infrastructure
+- **Data cleaning** — faster identification of quality issues at larger scale
+- **Visualization** — additional statistical and exploratory visualization options
+- **Insights** — more rigorous, statistically grounded conclusions rather than descriptive patterns alone
+- **Communication** — clearer translation of findings into stakeholder-ready recommendations
+
+These are potential future directions and have not been implemented in the current version of the project.
 
 ---
 
