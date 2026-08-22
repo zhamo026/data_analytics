@@ -21,7 +21,7 @@
 - [14. Data Quality](#14-data-quality)
 - [15. Business Insights and Recommendations](#15-business-insights-and-recommendations)
 - [16. Limitations](#16-limitations)
-
+- [17. Final Report](reports/final_workforce_employee_retention_report.md)
 
 ---
 
