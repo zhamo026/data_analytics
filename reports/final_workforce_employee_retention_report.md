@@ -1,5 +1,22 @@
 # Workforce & Employee Retention Analytics --- Final Report
 
+## Table of Contents
+
+1. [Executive Summary](#1-executive-summary)
+2. [Project Objective](#2-project-objective)
+3. [The Two Dashboards](#3-the-two-dashboards)
+4. [Workforce Analysis](#4-workforce-analysis)
+5. [Employee Retention Analysis](#5-employee-retention-analysis)
+6. [Exit Experience](#6-exit-experience)
+7. [Key Business Insights](#7-key-business-insights)
+8. [Risk Assessment](#8-risk-assessment)
+9. [Recommendations](#9-recommendations)
+10. [Limitations](#10-limitations)
+11. [Data Quality and Validation](#11-data-quality-and-validation)
+12. [Final Conclusion](#12-final-conclusion)
+
+------------------------------------------------------------------------
+
 ## 1. Executive Summary
 
 This project combines two complementary workforce analytics views:
@@ -81,7 +98,7 @@ retention analysis is employee-level.
 ------------------------------------------------------------------------
 
 ### 3.2 Employee Retention Dashboard
-![Workforce Dashboard](images/employee_retention_dashboard.png)
+![Employee Retention Dashboard](images/employee_retention_dashboard.png)
 
 The Employee Retention Dashboard uses one row per employee in the
 verified dashboard dataset.
@@ -170,33 +187,33 @@ The employee-level dataset was validated at one row per employee, with
 
 Departures are predominantly voluntary:
 
-  Departure Type     Employees
-  ---------------- -----------
-  Voluntary                259
-  Involuntary               61
-  **Total**            **320**
+| Departure Type | Employees |
+|---|---:|
+| Voluntary | 259 |
+| Involuntary | 61 |
+| **Total** | **320** |
 
 Voluntary departures represent approximately **80.9%** of recorded
 departures.
 
 ### Why Employees Leave
 
-  Leaving Reason         Departures
-  -------------------- ------------
-  Relocation                     36
-  Personal Reasons               34
-  Career Change                  33
-  Assignment Issues              30
-  Work-Life Balance              29
-  Commute                        28
-  Compensation                   27
-  Returning Home                 22
-  Career Development             20
-  Contract End                   15
-  Policy Violation               14
-  Client Request                 13
-  Attendance                     11
-  Performance                     8
+| Leaving Reason | Departures |
+|---|---:|
+| Relocation | 36 |
+| Personal Reasons | 34 |
+| Career Change | 33 |
+| Assignment Issues | 30 |
+| Work-Life Balance | 29 |
+| Commute | 28 |
+| Compensation | 27 |
+| Returning Home | 22 |
+| Career Development | 20 |
+| Contract End | 15 |
+| Policy Violation | 14 |
+| Client Request | 13 |
+| Attendance | 11 |
+| Performance | 8 |
 
 **Relocation is the most frequently recorded individual reason, with 36
 departures.**
@@ -214,6 +231,7 @@ work-life, location, and compensation-related reasons.
 
 ### Exit Satisfaction
 The Exit Satisfaction visualization contains 253 recorded responses:
+
 | Rating | Responses |
 |---:|---:|
 | 1⭐ | 54 |
@@ -320,7 +338,7 @@ former employees could create a future recruitment opportunity.
 
 ------------------------------------------------------------------------
 
-# 8. Risk Assessment
+## 8. Risk Assessment
 
 The following risk assessment is based only on patterns visible in the existing dashboards.
 
@@ -344,9 +362,9 @@ establish probability of future turnover or causal relationships.
 
 ------------------------------------------------------------------------
 
-# 9. Recommendations
+## 9. Recommendations
 
-## Recommendation 1 --- Focus first on voluntary departures
+### Recommendation 1 --- Focus first on voluntary departures
 
 Because voluntary departures represent the majority of recorded
 departures, retention efforts should prioritize understanding voluntary
@@ -363,7 +381,7 @@ Use structured stay interviews and exit interviews to monitor:
 
 ------------------------------------------------------------------------
 
-## Recommendation 2 --- Strengthen career-development conversations
+### Recommendation 2 --- Strengthen career-development conversations
 
 Career Change and Career Development appear among the recorded departure
 reasons.
@@ -380,7 +398,7 @@ rather than assumed to reduce turnover.
 
 ------------------------------------------------------------------------
 
-## Recommendation 3 --- Review assignment fit
+### Recommendation 3 --- Review assignment fit
 
 Assignment Issues is one of the leading recorded reasons for departure.
 
@@ -395,7 +413,7 @@ turnover.
 
 ------------------------------------------------------------------------
 
-## Recommendation 4 --- Investigate location and work-life challenges
+### Recommendation 4 --- Investigate location and work-life challenges
 
 Relocation, Commute, and Work-Life Balance are all prominent recorded
 reasons.
@@ -410,7 +428,7 @@ Potential responses include reviewing:
 
 ------------------------------------------------------------------------
 
-## Recommendation 5 --- Use exit feedback as an early-warning signal
+### Recommendation 5 --- Use exit feedback as an early-warning signal
 
 Exit satisfaction and exit-sentiment information should be reviewed
 regularly.
@@ -420,7 +438,7 @@ before they appear repeatedly in future departures.
 
 ------------------------------------------------------------------------
 
-## Recommendation 6 --- Maintain a rehire-eligible talent pool
+### Recommendation 6 --- Maintain a rehire-eligible talent pool
 
 The dashboard identifies 259 departed employees as rehire eligible,
 while 164 respondents indicated that they would return.
@@ -432,7 +450,7 @@ This could reduce future recruitment effort for suitable roles.
 
 ------------------------------------------------------------------------
 
-# 10. Limitations
+## 10. Limitations
 
 The analysis has several important limitations:
 
@@ -454,7 +472,7 @@ The analysis has several important limitations:
 
 ------------------------------------------------------------------------
 
-# 11. Data Quality and Validation
+## 11. Data Quality and Validation
 
 The final Employee Retention dataset was validated at the employee
 level.
@@ -480,7 +498,7 @@ interpreted as negative responses or zero values.
 
 ------------------------------------------------------------------------
 
-# 12. Final Conclusion
+## 12. Final Conclusion
 
 The project demonstrates an end-to-end analytics workflow connecting
 operational workforce data with employee retention analysis.
