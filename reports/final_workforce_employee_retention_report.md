@@ -102,8 +102,6 @@ retention analysis is employee-level.
 
 ### 3.2 Employee Retention Dashboard
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](dashboard/data)
-![Employee Retention Dashboard](images/employee_retention_dashboard.png)
-
 
 ![Employee Retention Dashboard](../images/employee_retention_dashboard.png)
 
