@@ -265,17 +265,7 @@ Build a complete analytics workflow and two focused dashboards:
 
 ### Main analytical areas
 
-- recruitment
-- onboarding
-- training
-- assignments
-- attendance
-- employee experience
-- performance
-- client experience
-- retention
-- turnover
-- offboarding
+Recruitment 〡 Onboarding 〡 Training 〡 Assignments 〡 Attendance 〡 Employee Experience 〡 Performance 〡 Client Experience 〡 Retention 〡 Turnover 〡 Offboarding
 
 ---
 
