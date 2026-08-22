@@ -267,6 +267,25 @@ Build a complete analytics workflow and two focused dashboards:
 
 Recruitment 〡 Onboarding 〡 Training 〡 Assignments 〡 Attendance 〡 Employee Experience 〡 Performance 〡 Client Experience 〡 Retention 〡 Turnover 〡 Offboarding
 
+A few additional tools could extend and strengthen the analysis in a future iteration:
+
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI-Assisted Analysis](https://img.shields.io/badge/AI--Assisted_Analysis-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+-   **RStudio** — statistical modeling and hypothesis testing beyond what SQL/Excel easily support, for deeper analysis of retention and performance patterns
+-   **PostgreSQL** — a more robust, production-style database for larger data volumes, stronger data-integrity constraints, and more advanced querying than the current setup
+-   **AI-assisted analysis** — speeding up data cleaning, pattern discovery, and drafting of insights, while still requiring human review before conclusions are trusted
+
+Adopting these tools could improve the process across several stages:
+
+- **Data gathering** — more scalable and reliable database infrastructure
+- **Data cleaning** — faster identification of quality issues at larger scale
+- **Visualization** — additional statistical and exploratory visualization options
+- **Insights** — more rigorous, statistically grounded conclusions rather than descriptive patterns alone
+
+These are potential future directions and have not been implemented in the current version of the project.
+
 ---
 
 ## 5. Business Questions
