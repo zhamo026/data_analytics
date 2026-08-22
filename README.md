@@ -20,8 +20,8 @@
 - [13. Analytical Workflow](#13-analytical-workflow)
 - [14. Data Quality](#14-data-quality)
 - [15. Business Insights and Recommendations](#15-business-insights-and-recommendations)
-- [16. Limitations](#16-limitations)
-- [17. Final Report](reports/final_workforce_employee_retention_report.md)
+- [16. Limitations](/reports/limitations.md)
+- [17. Final Report](/reports/final_workforce_employee_retention_report.md)
 
 ---
 
@@ -694,5 +694,11 @@ Potential business actions may relate to:
 ## 16. Limitations
 
 See [Limitations](reports/limitations.md) for the full data-disclosure notice.
+
+---
+
+## 17. Final Report
+
+See [Final Report](reports/final_workforce_employee_retention_report.md) for the complete write-up of findings, insights, and recommendations.
 
 ---
