@@ -39,6 +39,7 @@ All data is synthetic and created for educational and portfolio purposes.
 ---
 
 ## 2. Business Scenario
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](docs/)
 
 The fictional company, DaimonUpDown Education, recruits, hires, trains, and dispatches ALT and English teachers to schools and educational organizations, primarily in Tokyo and surrounding areas such as Saitama, Chiba, and Kanagawa.
 
@@ -147,7 +148,7 @@ Its intended grain is:
 ---
 
 ### 3.2 Employee Retention Dashboard on Excel
-
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](dashboard/data)
 ![Employee Retention Dashboard](images/employee_retention_dashboard.png)
 
 The **Employee Retention Dashboard** focuses on the employee lifecycle and the question:
@@ -373,6 +374,10 @@ These are potential future directions and have not been implemented in the curre
 ---
 
 ## 6. Data
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](data/raw)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](data/raw)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](data/raw)
+
 
 The repository contains synthetic datasets representing different stages of the employee, assignment, and client lifecycle.
 
@@ -459,6 +464,8 @@ data_analytics/
 ---
 
 ## 8. SQL
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](sql/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](sql/)
 
 Location:
 [SQL](sql/)
@@ -488,6 +495,9 @@ The data-quality SQL includes checks for:
 ---
 
 ## 9. Python
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](python/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](python/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](python/)
 
 Location:
 [Python](python/)
@@ -529,6 +539,7 @@ The script validates the query result before writing the CSV.
 ---
 
 ## 10. Jupyter Notebooks
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](notebooks/)
 
 Location:
 [Notebooks](notebooks/)
@@ -549,9 +560,12 @@ The two dashboard notebooks document the dashboard-building process, worksheet l
 ---
 
 ## 11. Dashboard Data
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](dashboard/data)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](dashboard/data)
 
 Location:
 [Dashboard Data](dashboard/data/)
+
 ```text
 dashboard/data/
 ```
@@ -570,6 +584,7 @@ The Workforce Dashboard dataset is generated from MariaDB rather than using pand
 ---
 
 ## 12. Documentation
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](docs/)
 
 Location:
 [Documentation](docs/)
@@ -587,6 +602,7 @@ The company definition documents the fictional business, employee types, employm
 ---
 
 ## 13. Analytical Workflow
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 The project follows:
 
@@ -623,6 +639,7 @@ The dashboards are therefore the **communication layer** of the analysis, not th
 ---
 
 ## 14. Data Quality
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 Data quality is treated as part of the analytical process.
 
@@ -640,7 +657,7 @@ The project preserves raw source data and separates it from dashboard-ready data
 ---
 
 ## 15. Business Insights and Recommendations
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 The project is designed to move from descriptive analysis toward business decisions.
 
 Recommendations should be based on:
