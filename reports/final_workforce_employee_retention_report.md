@@ -67,7 +67,7 @@ The final analysis focuses on two dashboard perspectives:
 ### 3.1 Workforce Dashboard
 [View the Workforce Dashboard on Tableau Public](https://public.tableau.com/app/profile/j.d1004/viz/WorkforceDashboard_17872800689950/Dashboard1)
 
-![Workforce Dashboard](images/workforce_dashboard.png)
+![Workforce Dashboard](../images/workforce_dashboard.png)
 
 The Workforce Dashboard uses assignment-level information.
 
@@ -98,7 +98,7 @@ retention analysis is employee-level.
 ------------------------------------------------------------------------
 
 ### 3.2 Employee Retention Dashboard
-![Employee Retention Dashboard](images/employee_retention_dashboard.png)
+![Employee Retention Dashboard](../images/employee_retention_dashboard.png)
 
 The Employee Retention Dashboard uses one row per employee in the
 verified dashboard dataset.
