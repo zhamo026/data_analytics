@@ -272,17 +272,19 @@ A few additional tools could extend and strengthen the analysis in a future iter
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AI-Assisted Analysis](https://img.shields.io/badge/AI--Assisted_Analysis-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 -   **RStudio** — statistical modeling and hypothesis testing beyond what SQL/Excel easily support, for deeper analysis of retention and performance patterns
 -   **PostgreSQL** — a more robust, production-style database for larger data volumes, stronger data-integrity constraints, and more advanced querying than the current setup
 -   **AI-assisted analysis** — speeding up data cleaning, pattern discovery, and drafting of insights, while still requiring human review before conclusions are trusted
+-   **PowerPoint** — translating dashboard findings into a stakeholder-facing narrative, since decision-makers need the "so what" and recommended actions rather than the underlying charts and queries
 
 Adopting these tools could improve the process across several stages:
-
 - **Data gathering** — more scalable and reliable database infrastructure
 - **Data cleaning** — faster identification of quality issues at larger scale
 - **Visualization** — additional statistical and exploratory visualization options
 - **Insights** — more rigorous, statistically grounded conclusions rather than descriptive patterns alone
+- **Communication** — clearer translation of findings into stakeholder-ready recommendations
 
 These are potential future directions and have not been implemented in the current version of the project.
 
