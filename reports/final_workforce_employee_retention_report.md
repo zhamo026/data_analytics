@@ -67,6 +67,9 @@ The final analysis focuses on two dashboard perspectives:
 ### 3.1 Workforce Dashboard
 [View the Workforce Dashboard on Tableau Public](https://public.tableau.com/app/profile/j.d1004/viz/WorkforceDashboard_17872800689950/Dashboard1)
 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/j.d1004/viz/WorkforceDashboard_17872800689950/Dashboard1)
+
+
 ![Workforce Dashboard](../images/workforce_dashboard.png)
 
 The Workforce Dashboard uses assignment-level information.
