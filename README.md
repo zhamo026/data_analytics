@@ -1,15 +1,4 @@
 # Workforce Lifecycle & Retention Analytics
-### Technologies for this Project
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 
 ## Table of Contents
 
@@ -32,7 +21,7 @@
 - [14. Data Quality](#14-data-quality)
 - [15. Business Insights and Recommendations](#15-business-insights-and-recommendations)
 - [16. Limitations](#16-limitations)
-- [17. Git Workflow](#17-git-workflow)
+
 
 ---
 
@@ -146,9 +135,9 @@ The Workforce Dashboard uses assignment-level data and includes supporting infor
 - position
 
 The Tableau-ready workforce dataset is:
-
+[Dashboard Data](dashboard/data)
 ```text
-[View Workforce Dashboard Data](dashboard/data/)
+dashboard/data/workforce_dashboard.csv
 ```
 
 Its intended grain is:
@@ -197,7 +186,7 @@ Business questions include:
 The retention dashboard is therefore about the **employee lifecycle**, rather than simply counting assignments.
 
 The Excel-ready employee_retention_dashboard dataset is:
-
+[Dashboard Data](dashboard/data)
 ```text
 dashboard/data/Employee_Retention_Dashboard_Excel.xlsx
 ```
@@ -264,12 +253,15 @@ Build a complete analytics workflow and two focused dashboards:
 > Understand employee retention, turnover, and potential factors associated with employees leaving.
 
 ### Main technologies
-
-- SQL / MariaDB
-- Python
-- Jupyter Notebook
-- Tableau
-- Git / GitHub
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Main analytical areas
 
@@ -374,7 +366,7 @@ The repository contains synthetic datasets representing different stages of the 
 ### Raw datasets
 
 Located in:
-
+[ Raw datasets](data/raw)
 ```text
 data/raw/
 ```
@@ -456,7 +448,7 @@ data_analytics/
 ## 8. SQL
 
 Location:
-
+[SQL](sql/)
 ```text
 sql/
 ```
@@ -485,7 +477,7 @@ The data-quality SQL includes checks for:
 ## 9. Python
 
 Location:
-
+[Python](python/)
 ```text
 python/
 ```
@@ -526,7 +518,7 @@ The script validates the query result before writing the CSV.
 ## 10. Jupyter Notebooks
 
 Location:
-
+[Notebooks](notebooks/)
 ```text
 notebooks/
 ```
@@ -546,7 +538,7 @@ The two dashboard notebooks document the dashboard-building process, worksheet l
 ## 11. Dashboard Data
 
 Location:
-
+[Dashboard Data](dashboard/data/)
 ```text
 dashboard/data/
 ```
@@ -567,7 +559,7 @@ The Workforce Dashboard dataset is generated from MariaDB rather than using pand
 ## 12. Documentation
 
 Location:
-
+[Documentation](docs/)
 ```text
 docs/
 ```
@@ -681,100 +673,3 @@ Therefore:
 These limitations should be considered when interpreting dashboard results.
 
 ---
-
-## 17. Git Workflow
-
-Typical workflow:
-
-```bash
-git status
-git add <file>
-git commit -m "Descriptive commit message"
-git push
-git status
-```
-
-Before committing:
-
-```bash
-git diff --check
-```
-
-For Python syntax validation:
-
-```bash
-python -m py_compile python/<script>.py
-```
-
-A clean repository should end with:
-
-```text
-nothing to commit, working tree clean
-```
-
----
-
-## Current Tracked Repository Files
-
-The repository currently tracks:
-
-```text
-README.md
-
-dashboard/.gitkeep
-dashboard/data/assignments.csv
-dashboard/data/attendance.csv
-dashboard/data/clients.csv
-dashboard/data/employee_retention.csv
-dashboard/data/employees.csv
-dashboard/data/workforce_dashboard.csv
-
-data/raw/.gitkeep
-data/raw/applications.csv
-data/raw/assignments.csv
-data/raw/attendance.csv
-data/raw/candidates.csv
-data/raw/client_feedback.csv
-data/raw/clients.csv
-data/raw/compensation_history.csv
-data/raw/departments.csv
-data/raw/employee_surveys.csv
-data/raw/employees.csv
-data/raw/employment_history.csv
-data/raw/locations.csv
-data/raw/offboarding.csv
-data/raw/onboarding.csv
-data/raw/performance.csv
-data/raw/positions.csv
-data/raw/qualifications.csv
-data/raw/schools.csv
-data/raw/training.csv
-data/raw/visa_history.csv
-
-docs/company_definition.md
-docs/data_model.md
-
-images/.gitkeep
-
-notebooks/.gitkeep
-notebooks/01_project_cheat_sheet.ipynb
-notebooks/02_data_cleaning.ipynb
-notebooks/03_workforce_dashboard.ipynb
-notebooks/04_employee_retention_dashboard.ipynb
-
-python/.gitkeep
-python/create_workforce_dashboard.py
-python/merge_excel_to_csv.py
-python/tsv_to_csv.py
-
-reports/.gitkeep
-
-sql/.gitkeep
-sql/01_create_database.sql
-sql/02_create_tables.sql
-sql/03_load_data.sql
-sql/04_data_quality_checks.sql
-sql/05_recruitment_analysis.sql
-sql/06_onboarding_offboarding.sql
-sql/daimonupdown_dump.sql
-```
