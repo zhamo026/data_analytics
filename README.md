@@ -5,7 +5,7 @@
 - [1. Project Objective](#1-project-objective)
 - [2. Business Scenario](#2-business-scenario)
 - [3. The Two Dashboards](#3-the-two-dashboards)
-  - [3.1 Workforce Dashboard On tableau](#31-workforce-dashboard-on-tableau)
+  - [3.1 Workforce Dashboard on Tableau](#31-workforce-dashboard-on-tableau)
   - [3.2 Employee Retention Dashboard on Excel](#32-employee-retention-dashboard-on-excel)
   - [3.3 How the Dashboards Fit Together](#33-how-the-dashboards-fit-together)
 - [4. Quick Project Summary](#4-quick-project-summary)
@@ -148,7 +148,7 @@ Its intended grain is:
 
 ### 3.2 Employee Retention Dashboard on Excel
 
-![Workforce Dashboard](images/employee_retention_dashboard.png)
+![Employee Retention Dashboard](images/employee_retention_dashboard.png)
 
 The **Employee Retention Dashboard** focuses on the employee lifecycle and the question:
 
@@ -356,7 +356,7 @@ The repository contains synthetic datasets representing different stages of the 
 ### Raw datasets
 
 Located in:
-[ Raw datasets](data/raw)
+[Raw datasets](data/raw)
 ```text
 data/raw/
 ```
